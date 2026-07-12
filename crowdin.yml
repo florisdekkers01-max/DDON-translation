@@ -2,4 +2,4 @@ files:
   - source: /English/splits/*.csv
     translation: /English/splits/%original_file_name%
     multilingual: 1
-    scheme: 'source_phrase,en'
+    scheme: 'none,none,source_phrase,translation'
