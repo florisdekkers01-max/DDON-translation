@@ -1,1251 +1,1279 @@
-﻿"0","0","私も旅の途中でここに滞在していて
-この森の復興に協力しているの
-あなたとは同僚みたいなものね、よろしく","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","9","Nora","Quest Dialogue"
-"0","0","ところで――私の仲間を見なかった？
-確か、《<STG 844>》の辺りまでは
-一緒だったんだけど――
-もし良かったら、一緒に探してくれないかしら","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","10","Nora","Quest Dialogue"
-"0","0","仲間を見つけたら――できるだけ早く
-安全を確保してあげてほしいの
-無理して怪我でもされると困るし――
-成功したら、お礼はするから","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","11","Nora","Quest Dialogue"
-"0","0","私の仲間を一緒に探してくれないかしら
-《<STG 844>》の辺りで
-はぐれたと思うんだけど――
-もしかしたら、中で迷っているのかも","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","12","Nora","Quest Dialogue"
-"0","0","この森は入り組んでいて迷いやすいし
-魔物もかなり野性的な子が多いから――
-できるだけ、急いで見つけないと","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","13","Nora","Quest Dialogue"
-"0","0","私が魔法を紡げるうちに、片付けましょう","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","14","Ifa","Quest Dialogue"
-"0","0","ふう――ちょっと疲れて来たわ
-でもまだ大丈夫よ、戦える","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","15","Ifa","Quest Dialogue"
-"0","0","あぁっ！
-――ごめんなさい、もう無理かも","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","16","Ifa","Quest Dialogue"
-"0","0","助太刀、感謝します
-魔物に追いかけられ逃げていたけれど
-最早ここまでと、半ば諦めかけていたの","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","17","Ifa","Quest Dialogue"
-"0","0","ところで――あなたは？
-え、ノーラに言われて来てくれたの？
-なによ、自分で来てくれればいいのに――
-よその人、しかも覚者の手を煩わせるなんて","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","18","Ifa","Quest Dialogue"
-"0","0","本当にありがとう、もう一人で平気よ
-この恩は忘れないわ――","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","19","Ifa","Quest Dialogue"
-"0","0","うぅっ――
-助けてくれてありがとう――
-危うくここで魔物の餌になるところだったわ","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","20","Ifa","Quest Dialogue"
-"0","0","ところで――あなたは？
-えっ、ノーラに言われて？
-――私とはぐれてしばらく気付かなかったんだわ！
-いいえ、あなたを責めてるんじゃないのよ","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","21","Ifa","Quest Dialogue"
-"0","0","ごめんなさいね、一緒に戻りたいんだけど
-ちょっと無理しすぎたみたいで――動けないの
-少し休んだら戻るから、先に帰ってていいわ","","ui\00_message\quest\q21014014.gmd","\quest\q21014014.arc","q21014014.arc","22","Ifa","Quest Dialogue"
-"0","0","実は――この森には、ミューセルお姉様を
-慕って来てくれた他地域の戦士や腕自慢の旅人が
-いくらか滞在しているんだけど――
-彼らが、あなたへの扱いに不満を持っているの","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","0","Dirith","Quest Dialogue"
-"0","0","廃村の件も――なぜ自分に任せてくれないのか、とか
-わたしならまだしも、お姉様に文句を言うのよ！
-あなたの実力を見込んだ、って説明しても
-納得してくれないの","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","1","Dirith","Quest Dialogue"
-"0","0","だから、彼らを納得させるために
-あなたの実力を見せつけてほしい、っていう
-お願いなんだけど――聞いてくれる？","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","2","Dirith","Quest Dialogue"
-"0","0","《<STG 844>》にうってつけの魔物がいるわ
-こいつを、一度も倒れずに倒してきてくれない？
-他の人が敵わないような敵を、覚者様が
-圧倒的な力でねじ伏せる――っていう筋書きなの","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","3","Dirith","Quest Dialogue"
-"0","0","あなたの実力を見せつけて
-他の戦士たちを納得させるために
-《<STG 844>》の魔物を
-一度も倒れることなく討伐してきてほしいの","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","4","Dirith","Quest Dialogue"
-"0","0","村の復興は想像以上に面倒なことが多いのね
-覚者様も疲れてるでしょうけど――
-――これも仕事の内と思って、お願い！","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","5","Dirith","Quest Dialogue"
-"0","0","さすがだわ！　むしろ、易しすぎたかしら？
-それから――
-もうあなたの武勇は、広まったみたいよ","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","6","Dirith","Quest Dialogue"
-"0","0","あなたの強さに影響されて
-他の戦士たちも、討伐や鍛錬に
-今まで以上に熱を上げ始めたみたいなの","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","7","Dirith","Quest Dialogue"
-"0","0","これでお姉様の仕事も楽になるわ！
-本当にありがとう","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","8","Dirith","Quest Dialogue"
-"0","0","魔物は倒したみたいね、ありがとう
-だけど――武勇を示す、とまでは
-上手く行かなかったみたい","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","9","Dirith","Quest Dialogue"
-"0","0","えっと――今回の依頼の話は――
-外に出ないよう、闇に葬っておくから
-次挑戦するときこそは頑張ってね","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","10","Dirith","Quest Dialogue"
-"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","11","The White Dragon","Quest Dialogue"
-"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21014015.gmd","\quest\q21014015.arc","q21014015.arc","12","The White Dragon","Quest Dialogue"
-"0","0","傷ついた魔物の痕跡は、
-住処へと続いているようだ――","There are traces from the wounded monster
-It seems to lead towards its den.","ui\00_message\quest\q21014016.gmd","\quest\q21014016.arc","q21014016.arc","0","The White Dragon","Quest Dialogue"
-"0","0","覚者様――ついに門が解放されたわ
-これから、交易も人の出入りもどんどん増えて
-エラン水林は発展していくでしょうね","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","0","Dirith","Quest Dialogue"
-"0","0","覚者様が色々協力してくれたおかげで
-すごく助かったし――信頼してるの
-それで――聞いてほしい相談があって――","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","1","Dirith","Quest Dialogue"
-"0","0","実は、《<STG 818>》に新手の魔物が
-入り込んじゃって――
-しかも、数が増えて群れになってるみたい
-こうなったのは、わたしが気付けなかったせいなの","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","2","Dirith","Quest Dialogue"
-"0","0","エランに村が再興した時のために
-顔見知りの商人を増やしておこうと思って
-その対応に振り回されちゃったの――
-これじゃ本末転倒だわ","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","3","Dirith","Quest Dialogue"
-"0","0","覚者様に後始末をお願いしてごめんなさい
-お礼はきっちりするから――お願い！
-これ以上増える前に、魔物を討伐してきて！","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","4","Dirith","Quest Dialogue"
-"0","0","いつもなら、もっと早く察知できていたはず
-こうなったのは、わたしが他事にかまけたせい――
-お姉様を楽にさせるためにやったことで
-逆に困らせてしまうかもしれないなんて――","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","5","Dirith","Quest Dialogue"
-"0","0","覚者様、わたしの後処理をさせることに
-なってしまってごめんなさい
-だけど――ここまでわたしたちに
-付き合ってくれた、覚者様にしか頼めないの","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","6","Dirith","Quest Dialogue"
-"0","0","どうかお願い――
-《<STG 818>》の魔物たちを
-一刻も早く討伐してきて！","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","7","Dirith","Quest Dialogue"
-"0","0","あぁ、覚者様――よかった
-倒してきてくれたのね
-本当になんとお礼を言っていいか","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","8","Dirith","Quest Dialogue"
-"0","0","わたし、今回のことで頭を冷やしたの
-今一番に集中するべきことはお姉様のサポート！
-それ以外のことは、後で考えればいいのよね","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","9","Dirith","Quest Dialogue"
-"0","0","覚者様――本当にお世話になりました
-出会った頃は、ちょっと疑ってたけど――
-今はあなたのこと、お姉様の次に信頼しているわ","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","10","Dirith","Quest Dialogue"
-"0","0","これからも、お姉様と、この森のこと――
-どうか、よろしくお願いします","","ui\00_message\quest\q21014017.gmd","\quest\q21014017.arc","q21014017.arc","11","Dirith","Quest Dialogue"
-"0","0","傷ついた魔物の痕跡は、
-住処へと続いているようだ――","There are traces from the wounded monster
-It seems to lead towards its den.","ui\00_message\quest\q21014018.gmd","\quest\q21014018.arc","q21014018.arc","0","The White Dragon","Quest Dialogue"
-"0","0","傷ついた魔物の痕跡は、
-住処へと続いているようだ――","There are traces from the wounded monster
-It seems to lead towards its den.","ui\00_message\quest\q21014019.gmd","\quest\q21014019.arc","q21014019.arc","0","The White Dragon","Quest Dialogue"
-"0","0","あれ、お前どこかで会ったような
-――いや、気のせいか
-こんなところにいたら、危険だぞ","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","0","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","俺は――獲物を追っていたら、
-うっかり怪我をしてしまって休んでいたんだ
-もし良かったら、手を貸してくれないか？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","1","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","実は、血の匂いで魔物が集まってきたようでな
-俺一人じゃ、生きて帰れそうにない
-――一緒に戦ってほしいんだが、頼めるか？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","2","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","結構血を流してしまったからな――
-あまり長くは戦えないかもしれない
-だから、なるべく早く終わらせよう――いいな？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","3","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","無事なのね！？
-あぁ、本当に良かったぁ
-あ、いや、ど――同僚が死んだりしたら
-その分私の仕事が増えるでしょ！","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","4","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","コホン――とにかく
-この件のお礼は改めてちゃんとするわ
-本当に、アンタには感謝してるんだからね","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","5","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","あ、あいつはどうなったの？
-まさか間に合わなかったとか
-言わないでしょうね！？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","6","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","――命に別状は無さそうなのね
-本当に良かった――
-もっと早く助けてよと言いたいところだけど――
-アンタも精一杯やったんでしょ？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","7","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","なによ――
-心配するに決まってるでしょ！
-せっかく一緒の任務に就けたのに――
-こんなところで死んだら、一生恨んでやるから","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","8","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","あれ、アンタ――どこかで会った？
-気のせいか――ま、いいわ
-困っていることがあるんだけど、
-同じ覚者のよしみで聞いてくれない？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","9","Lightly-Equipped Female Soldier","Quest Dialogue"
-"0","0","私たち、エラン大門が開かれたって聞いて
-最近来たばかりなの
-だから、土地勘があんまり無くてね――","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","10","Lightly-Equipped Female Soldier","Quest Dialogue"
-"0","0","少し前に狩りに出かけた覚者仲間が
-しばらく帰って来ないのよ
-きっと、水林は入り組んでいるから
-変なところに迷い込んで帰れなくなっているのね","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","11","Lightly-Equipped Female Soldier","Quest Dialogue"
-"0","0","アンタ、こっち来て長いんでしょ？
-悪いんだけど――捜索を依頼したいの
-彼は《<STG 818>》の方へ向かったみたい","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","12","Lightly-Equipped Female Soldier","Quest Dialogue"
-"0","0","もし見つけたら、急いで助けてあげてよね
-何日も飲まず食わずだろうから――
-彼に倒れられると、こっちも困るし
-――絶対に、生きて帰してよ","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","13","Lightly-Equipped Female Soldier","Quest Dialogue"
-"0","0","少し前に出かけた覚者仲間が
-しばらく帰って来ないのよ
-きっと、迷い込んで帰れなくなっているのね","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","14","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","彼は《<STG 818>》へ向かったみたい
-もし見つけたら、急いで助け出してあげてね
-怪我でもされるとホラ、戦力も落ちちゃうし
-色々不便で――と、とにかくお願いね！","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","15","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","お前のおかげで、何とか帰れそうだ！
-痛みも収まって来たし――本当に感謝するよ
-ところで、こんな所で何してたんだ？","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","16","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","え、彼女が依頼したって？
-そうだったのか――いや、感謝しないとな
-素直じゃないからきっととぼけるだろうがね","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","17","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","お――終わったのか？
-そうか、よかった――協力ありがとう
-俺のせいで、危険な目に遭わせてすまない","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","18","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","少しふらつくが――何とか生きてるよ
-血も止まって来たし
-だが少し貧血気味で、立ち歩くのはまだ難しそうだ","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","19","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","手負いの人間を背負って行けるほど
-この森は甘くない――
-俺のことは、ここに置いていってくれ
-大丈夫――少し休んだら、必ず戻るよ","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","20","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","さぁ――レスタニアの覚者の力を見せてやろう！","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","21","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","くっ――動けなくなる前に
-早く倒さないと――","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","22","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","すまない――あとは任せた","","ui\00_message\quest\q21014020.gmd","\quest\q21014020.arc","q21014020.arc","23","Arisen Corps Regimental Soldier","Quest Dialogue"
-"0","0","ヒッ！　こ、来ないで
-あなた――何者ですか？
-他の大陸から来た、覚者？","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","0","Eluned","Quest Dialogue"
-"0","0","そんな人が私に声をかけるわけが――
-――わかりました
-あなたも、私を騙そうっていうつもりなんですね","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","1","Eluned","Quest Dialogue"
-"0","0","豊かだった私の村は、侵食にのまれて――
-逃げた先でも、欲深い人間や魔物に
-ひどい目に遭わされました
-私はもう騙されませんよ","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","2","Eluned","Quest Dialogue"
-"0","0","ずっと森の中で隠れ暮らしてきたからって
-何も知らないと思ってるんですね
-私を助けようなんて、考えるはずありませんし――","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","3","Eluned","Quest Dialogue"
-"0","0","そんなに言うのなら、私の家族を襲った
-《<STG 819>》のあの憎い魔物――
-あいつを消し去ってください！
-一度もやられずにです！","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","4","Eluned","Quest Dialogue"
-"0","0","《<STG 819>》のあの憎い仇――
-一度もやられずに叩きのめしてくれるなら
-少しだけ、信じてあげてもいいでしょう","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","5","Eluned","Quest Dialogue"
-"0","0","――怖気づいたのですか？
-綺麗事を言ってもやはり、本心が出ましたね
-私の信頼など、危険をおかすほどの
-価値はないという事でしょう","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","6","Eluned","Quest Dialogue"
-"0","0","ほ――本当に討伐してくれたのですか？
-一度も膝をつかずに？
-あいつを？","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","7","Eluned","Quest Dialogue"
-"0","0","あぁ――ありがとうございます
-本当に感謝します――
-胸を押しつぶしそうだった黒い憎しみが
-ほんの少し、解けていくような気がします","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","8","Eluned","Quest Dialogue"
-"0","0","失った物はもう戻ることはありませんが
-生きている私は――
-なんとかやっていくしかありませんものね
-ここで生きる術を考えていこうと思います","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","9","Eluned","Quest Dialogue"
-"0","0","一度でも膝をついて倒したということは
-それは生きるための狩りなどと
-なんら変わらないではありませんか――
-そんなの、到底私の恨みを晴らしきれるものでは――","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","10","Eluned","Quest Dialogue"
-"0","0","膝をついても討伐できれば御の字、などと
-今まで言われてきたのかもしれませんが――
-私にそんな期待、しないでください","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","11","Eluned","Quest Dialogue"
-"0","0","よく知りもしない人に
-優しく出来る余裕なんて
-今の私にはないんです――","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","12","Eluned","Quest Dialogue"
-"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","13","Archibald","Quest Dialogue"
-"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21014021.gmd","\quest\q21014021.arc","q21014021.arc","14","Archibald","Quest Dialogue"
-"0","0","異国の覚者様――あなたにはどんな感謝の言葉でも
-言い尽くせない程のご恩がありますわね
-フィンダーエントを下し
-あとは人の力による村の復興を待つのみ","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","0","Muirgel","Quest Dialogue"
-"0","0","――と言いたいところだったのですが
-実は、村が滅んだあの頃とは
-状況が異なる点が1つあります","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","1","Muirgel","Quest Dialogue"
-"0","0","聖域です――
-どうやら、芯なる樹が浄化されたことにより
-エランの魔物たちが縄張りの拡大を求めて
-聖域に集い、暴れているそうですの","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","2","Muirgel","Quest Dialogue"
-"0","0","おそらく、竜守りの方々だけでは
-手に負えないほど――
-このままでは精霊竜セシリー様の
-まどろみの妨げになりますわ","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","3","Muirgel","Quest Dialogue"
-"0","0","覚者様――どうか、精霊竜様の
-まどろみを妨げる魔物たちを
-討伐してきてくださいませんか？","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","4","Muirgel","Quest Dialogue"
-"0","0","エランの魔物たちが縄張りの拡大を求めて
-聖域に集い、暴れているそうです
-覚者様、どうか精霊竜様のまどろみを妨げる
-魔物を討伐してきてくださいませんか？","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","5","Muirgel","Quest Dialogue"
-"0","0","――いつかは、覚者様にこうやって
-何事かを依頼することも無くなるのかと
-思うと、なんだか寂しいものですわね","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","6","Muirgel","Quest Dialogue"
-"0","0","村の復興で繋がる縁もあれば
-失くなる縁もある――
-一喜一憂していたら、守り人など
-務まらないとは分かっているのですけれど","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","7","Muirgel","Quest Dialogue"
+﻿"0","0","あんなお願いしちゃった僕のせいかな――
+す、すみません
+あの、これ、少しですけど
+お詫びとして受け取ってください","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","9","Finbar","Quest Dialogue"
+"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","10","The White Dragon","Quest Dialogue"
+"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","11","The White Dragon","Quest Dialogue"
+"0","0","異国の覚者様――
+この度のご尽力、なんとお礼を申し上げていいか――
+侵食魔との戦いも、もう、そう長くはないはずです","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","0","Arthfael","Quest Dialogue"
+"0","0","森の生命力は戻りつつあるものの――
+動植物たちの姿は未だ見えません
+恐らく、聖域から漏れ出ている魔物のせいでしょう","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","1","Arthfael","Quest Dialogue"
 "0","0","覚者様――
-ついにやり遂げてくださったのですね
-さすがは、私たちの覚者様ですわ！","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","8","Muirgel","Quest Dialogue"
-"0","0","少し早いかもしれませんが――
-覚者様のご尽力無しには、
-エランの復興はあり得ませんでした
-改めて、皆を代表してお礼申し上げます","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","9","Muirgel","Quest Dialogue"
-"0","0","ふふふ、エランに村が復興した暁には――
-村の入り口に、覚者様の名を刻んだ
-記念碑でも建てましょうか
-もちろん覚者様がよろしければ、ですけれど","","ui\00_message\quest\q21014022.gmd","\quest\q21014022.arc","q21014022.arc","10","Muirgel","Quest Dialogue"
-"0","0","異国の――いえ、覚者様
-美しく澄んだ水が流れる川も
-このエランの特色の一つということは
-もうご存じかと思います","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","0","Muirgel","Quest Dialogue"
-"0","0","この美しい川の底で磨かれた
-《<ITEM 16002>》はエランの特産品です
-おそらく、覚者様の従者ならばお役に立つ形に
-造り変えることもできるかと――","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","1","Muirgel","Quest Dialogue"
-"0","0","もしご興味がありましたら
-明け方の＜4時から7時＞の間に、お仲間をこの
-庵内に集めて、再度お声掛けください
-詳細なご説明をいたしましょう","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","2","Muirgel","Quest Dialogue"
-"0","0","エランの美しい川の底で磨かれた
-《<ITEM 16002>》はエランの特産品です
-おそらく、覚者様の従者ならばお役に立つ形に
-造り変えることもできるかと――","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","3","Muirgel","Quest Dialogue"
-"0","0","もしご興味がおありなら、
-特にそれが多く見られる＜4時から7時＞の間に
-お仲間をこの庵内に集めて再度お声掛けください
-詳細なご説明を致しましょう","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","4","Muirgel","Quest Dialogue"
-"0","0","全員お揃いのようですね
-それでは、お話いたしましょう","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","5","Muirgel","Quest Dialogue"
-"0","0","《<ITEM 16002>》は主に川底で
-発生するものなのですが、川に入る獣や魔物に
-付着して運ばれたりといった経緯で
-エラン全域で発見されるのです","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","6","Muirgel","Quest Dialogue"
-"0","0","そして、どうやら夜間に川に入る
-獣たちが体から水や泥を落としながら
-巣に戻るのがちょうど明け方の様子――","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","7","Muirgel","Quest Dialogue"
-"0","0","つまり、明け方の＜4時から7時＞の間が
-最も多くの地点から採取できるようですの
-その時を過ぎれば乾き、採取数は減ってしまうはず
-時間にはどうぞ、お気を付け下さい","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","8","Muirgel","Quest Dialogue"
-"0","0","もし大量に採取することができたら、
-成分の研究に使用する分として
-＜5＞つほど分けていただければ幸いですわ
-それでは、いってらっしゃいませ","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","9","Muirgel","Quest Dialogue"
-"0","0","《<ITEM 16002>》は明け方の
-＜4時から7時＞の間に最も多くの地点から
-採取することができます","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","10","Muirgel","Quest Dialogue"
-"0","0","もし大量に採取することができましたら
-成分の研究に使用したいので――
-＜5＞つほど分けていただければ幸いですわ
-それでは、いってらっしゃいませ","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","11","Muirgel","Quest Dialogue"
-"0","0","まぁ――随分とたくさん採取されたのですね
-粒子がきめ細かな質の良い泥ですから
-きっと従者様が使いやすく加工して
-くださるはずですわ","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","12","Muirgel","Quest Dialogue"
-"0","0","エランで採れたものが覚者様のお役に立てば
-わたしもとっても嬉しく思います――","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","13","Muirgel","Quest Dialogue"
-"0","0","<AREA 14>フィールドの《<ITEM 16002>》を採取できる採取ポイントの数が増えました
-＜4時から7時＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","14","The White Dragon","Quest Dialogue"
-"0","0","＜4時から7時＞の時間が終了したため、<AREA 14>フィールドの《<ITEM 16002>》の採取ポイント数が通常に戻りました
-納品し、クエストを終了しましょう","","ui\00_message\quest\q21014023.gmd","\quest\q21014023.arc","q21014023.arc","15","The White Dragon","Quest Dialogue"
-"0","0","あぁ、あなた――墓守を倒した覚者ね
-ワイニは村でも信頼が厚い方なの
-そんな彼が討伐を任せたってことは――
-あなた、相当強いのね","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","0","Evey","Quest Dialogue"
-"0","0","そんな戦士と話せるなんて、光栄だわ
-しかも、困り事まで聞いてくれるって言うの？
-白竜の覚者っていうのは、腕だけじゃなくて
-性格まで良くないと選ばれないのね","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","1","Evey","Quest Dialogue"
-"0","0","実は最近、よろず屋で扱う商品の素材の仕入れが
-滞っていて、品薄に困ってるの――
-多分、《<STG 827>》の方から来る
-魔物のせいだと思うんだけど","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","2","Evey","Quest Dialogue"
-"0","0","あなたには歯ごたえの無い依頼かもしれないけど
-良かったら、邪魔している魔物の群れを
-根こそぎ追い払ってきてくれない？","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","3","Evey","Quest Dialogue"
-"0","0","最近、よろず屋で扱う商品の素材の仕入れが
-滞っていて、品薄に困ってるの――
-多分、《<STG 827>》の魔物のせいだと思うわ
-良ければ根こそぎ追い払って来てくれない？","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","4","Evey","Quest Dialogue"
-"0","0","――うふふ、ちゃんと依頼者っぽかったかしら？
-とりたてて緊急の問題ではないんだけど
-強い人に話を聞いてもらえるなんて
-良い機会だからお願いしてみちゃった――","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","5","Evey","Quest Dialogue"
-"0","0","やっぱり、あなたには簡単すぎたかもね
-だけど、これでいつもの営業に戻れるわ
-――だから強い人って好きなの！
-本当にありがとう","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","6","Evey","Quest Dialogue"
-"0","0","――さすがにあなたと一緒になる勇気は無いけど
-あなたみたいに強い人が、村の戦士たちを
-鍛えてくれればいいのに――
-ダナはいつでも強者の移住、大歓迎よ","","ui\00_message\quest\q21015000.gmd","\quest\q21015000.arc","q21015000.arc","7","Evey","Quest Dialogue"
-"0","0","な、なんだよ！
-タラスクに敗れた俺を笑いに来たのか？
-――冗談だよ、あんたの実力は村の誰もが認めてるぜ
-タラスクを倒すなんて、素直に憧れるよ","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","0","Fionn","Quest Dialogue"
-"0","0","実は俺もさ、もう一度タラスクに挑んでみたんだ
-でもダメだったよ、手も足も出なかった――
-なぁ、あんたに頼みたい事があるんだ","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","1","Fionn","Quest Dialogue"
-"0","0","もう一度、あいつと戦ってくれないか？
-あんたの戦う姿から学びたいんだ――
-ま、そうしろってワイニから言われたんだけどさ！
-とにかく、もう一度タラスクを倒してみてくれよ","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","2","Fionn","Quest Dialogue"
-"0","0","あぁもちろん、俺が真似できないようなこと――
-竜の力で復活するとか、そういうのは無しで頼む
-やってくれるよな？　期待してるぞ！","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","3","Fionn","Quest Dialogue"
-"0","0","あんたがタラスクをもう一度倒す姿を見て
-強いヤツの戦い、ってものを学びたいんだ――
-もちろん、俺が真似できないような
-竜の力で復活するとかのズルは無しで頼むぜ","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","4","Fionn","Quest Dialogue"
-"0","0","俺も本当の実力を発揮できれば結構良い感じだと
-思うんだけど――あんたには敵わないからな
-勉強させてくれよ！","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","5","Fionn","Quest Dialogue"
-"0","0","やっぱりあんた、すごいな
-すごすぎて、何を学んだらいいか分からなかった
-上には上がいるもんだな――","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","6","Fionn","Quest Dialogue"
-"0","0","俺、本気の実力ではマーホンやワイニにも
-負けないって思ってたけど――
-目が覚めたよ！　ありがとうな","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","7","Fionn","Quest Dialogue"
-"0","0","おい、ズルは無しって言っただろ？
-――でもまぁ、学ぶところはあった
-引き受けてくれて感謝するよ","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","8","Fionn","Quest Dialogue"
-"0","0","ま、数多の強者と戦ったあんたですら
-そんなザマなんだもんな！
-俺が勝てないのも無理ないと思わないか？
-おっと――今の、皆には内緒だぜ","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","9","Fionn","Quest Dialogue"
-"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","10","The White Dragon","Quest Dialogue"
-"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21015001.gmd","\quest\q21015001.arc","q21015001.arc","11","The White Dragon","Quest Dialogue"
-"0","0","――ちょっと相談にのってもらえるかい？
-実はさっきデューイから報告があったんだけど
-深刻な事態が起こってるみたいでね","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","0","Razanailt","Quest Dialogue"
-"0","0","影の魔物たちが、この村に向かって
-侵攻してきてるらしいんだ","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","1","Razanailt","Quest Dialogue"
-"0","0","もちろん村の者たちは勇敢な戦士ばかりだけど
-妖しき魔物たちに対峙した経験のある者はごく僅か
-――正直に言って、不利な戦いになりそうでね","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","2","Razanailt","Quest Dialogue"
-"0","0","戦士の村ダナを管理する者として
-よそ者に望みを託すのは気が引けるけど――
-あんたの実績を信頼して、頼ませてくれない？","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","3","Razanailt","Quest Dialogue"
-"0","0","《<STG 827>》方面に侵攻してきた魔物と
-その本隊を、根城ごと壊滅させてきてほしいんだ
-――あんたなら、できるだろう？","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","4","Razanailt","Quest Dialogue"
-"0","0","《<STG 827>》方面に侵攻してきた魔物と
-その本隊を、根城ごと壊滅させてきてほしいんだ
-あんたに勝る戦士は、今のダナにはいないから――","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","5","Razanailt","Quest Dialogue"
-"0","0","先日の水路侵攻との関わりを指摘する者もいるけど
-真相ははっきりとは分からないのさ","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","6","Razanailt","Quest Dialogue"
-"0","0","しかし、だとすれば――
-なおさら、あんたに決着をつけてもらうことが
-皆の納得のいく幕引きに繋がると思うよ","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","7","Razanailt","Quest Dialogue"
-"0","0","ありがとう――
-村の者皆があんたに大きな借りを作ったね","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","8","Razanailt","Quest Dialogue"
-"0","0","未だ認めようとしない者もいるかも知れないけど――
-あたしがよっく言い聞かせておくよ
-あんたの武勇をさ","","ui\00_message\quest\q21015002.gmd","\quest\q21015002.arc","q21015002.arc","9","Razanailt","Quest Dialogue"
-"0","0","あら、覚者さん！
-あの――もし良かったら、話を聞いてもらえない？
-冒険者の人に依頼をしたいんだけど
-やっぱり身分のしっかりしたアナタがいいかな、って","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","0","Revela","Quest Dialogue"
-"0","0","この仕事をしていると、色々な土地の
-色々な旅人の話を聞けるんだけど――
-そこである子供の話を聞いて、ずっと気になってるの
-<AREA 16>の《<NPC 2607>》って子","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","1","Revela","Quest Dialogue"
-"0","0","その子、とても寂しい状況にいるらしくて
-魔物の仔といつも遊んでいるんだって！
-危ないし、気の毒だし――
-私、なんとか力になりたいって思ったわ","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","2","Revela","Quest Dialogue"
-"0","0","ねえ覚者さん、その子にプレゼントをあげたいの
-心配している人がいる、ってことだけ伝えたくて！
-プレゼントの調達と配達をお願いできる？","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","3","Revela","Quest Dialogue"
-"0","0","会ったことも無い人にプレゼント、なんて変かしら？
-でも、どうしても気になるの――
-仕事柄、人を放っておけない性分なのかも","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","4","Revela","Quest Dialogue"
-"0","0","覚者さんならどこへでも行けるし
-なんでもできるでしょ？
-ね、お願い――
-<AREA 16>の《<NPC 2607>》のためを思って！","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","5","Revela","Quest Dialogue"
-"0","0","――はい
-父なら、仕事で留守にしていますが――","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","6","Reich","Quest Dialogue"
-"0","0","えぇっ！　僕にプレゼントですか？
-ダナに知り合いはいないのに――","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","7","Reich","Quest Dialogue"
-"0","0","わ――こ、これくれるんですか？
-嬉しいけど――一体、誰がこれを？","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","8","Reich","Quest Dialogue"
-"0","0","僕のことを心配してくれる人、ですか
-わぁ、嬉しいな――！
-トリンでも、ウルタンさんでもないんですよね
-一体、誰なんだろう――","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","9","Reich","Quest Dialogue"
-"0","0","最近、仲良しだった友達がいなくなっちゃって
-ちょっと落ち込んでたんですけど――
-これを見たら、元気が出ました
-きっとあの子も、元気にどこかで暮らしてますよね","","ui\00_message\quest\q21015003.gmd","\quest\q21015003.arc","q21015003.arc","10","Reich","Quest Dialogue"
-"0","0","ふん、噂は聞いている
-タラスクの件について、お前が対応しているようだな
-おかげで、俺は技の研鑚に集中できている――","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","0","Adair Donnchadh","Quest Dialogue"
-"0","0","何？　お前に頼むようなことなど、今は特に――
-――いや、一つあったな
-差支えなければ、一つ遣いを頼まれてはくれまいか","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","1","Adair Donnchadh","Quest Dialogue"
-"0","0","モルフォールにいる青年《<NPC 2604>》――
-彼の助けになる物を
-俺の代わりに届けてやってほしい
-そして、槍術に全てを注ぎ込む気はないか聞いてくれ","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","2","Adair Donnchadh","Quest Dialogue"
-"0","0","日々の暮らしで鍛錬の余裕も無いようなのだ
-余計な世話かもしれぬ事は承知の上だが
-あの才を腐らせておくのは少々惜しい
-――頼めるだろうか","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","3","Adair Donnchadh","Quest Dialogue"
-"0","0","モルフォールにいる青年《<NPC 2604>》――
-彼に暮らしの助けとなる物を届けてほしい
-少しでも、槍術に集中できるようにしてやりたいのだ","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","4","Adair Donnchadh","Quest Dialogue"
-"0","0","他人の生活に口出しすることは滅多にないが
-――野外鍛錬時に、偶然彼の者の動きを目にしてな
-その時から気にはかけていたのだが――","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","5","Adair Donnchadh","Quest Dialogue"
-"0","0","ふう――こうも毎日毎日いろんな事があると
-槍術の技を磨くのもままならないよね
-もう少し、暮らしが落ち着くといいんだけど――","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","6","Thorin","Quest Dialogue"
-"0","0","わぁ、こんな素晴らしい物もらっていいのかい？
-ありがとう、きっとみんな喜ぶよ
-一体誰がこんな親切を――","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","7","Thorin","Quest Dialogue"
-"0","0","えぇっ！
-あ、あ、あのアデルドナハさんが！？
-フィンダム一の槍士と名高い、あの人が
-僕に目をかけてくれているのか？","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","8","Thorin","Quest Dialogue"
-"0","0","弟子にしてもらえるかもなんて、夢みたいな話だ
-そりゃあ、すっごく嬉しいけど――
-村もこんな状態だ、中途半端な気持ちで取り組んでは
-失望させてしまう――ううん、少し考えさせてくれ","","ui\00_message\quest\q21015004.gmd","\quest\q21015004.arc","q21015004.arc","9","Thorin","Quest Dialogue"
-"0","0","<AREA 15>フィールドの《<ITEM 15944>》を採取できる採取ポイントの数が増えました
-＜11時から15時＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","0","The White Dragon","Quest Dialogue"
-"0","0","＜11時から15時＞の時間が終了したため、<AREA 15>フィールドの《<ITEM 15944>》の採取ポイント数が通常に戻りました
-納品し、クエストを終了しましょう","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","1","The White Dragon","Quest Dialogue"
-"0","0","今年も《<ITEM 15944>》の季節が来たね！
-あんたも採りに行きたいのかい？
-――ふふ、よそ者だからって拒んだりしないさ
-フィンダムの大地で、実りは全ての者に平等だからね","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","2","Razanailt","Quest Dialogue"
-"0","0","それじゃ、採集を許可するよ！
-――ただし、いろいろ注意点があるんだ","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","3","Razanailt","Quest Dialogue"
-"0","0","太陽が最も高くなる＜11時から15時＞の間に
-一度、採集に行く人を
-この拠点内に全員集めてもらえる？","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","4","Razanailt","Quest Dialogue"
-"0","0","《<ITEM 15944>》の採集に行く前に
-注意点を話しておかなきゃいけないんだ","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","5","Razanailt","Quest Dialogue"
-"0","0","太陽が最も高くなる＜11時から15時＞の間に
-一度、採集に行く人をこの拠点内に
-全員集めてもらえる？","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","6","Razanailt","Quest Dialogue"
-"0","0","全員集まったようだね！　いい？
-《<ITEM 15944>》は強い日差しが大好きだから
-＜11時から15時＞が一番、良いのがたくさん採れる
-採取地点の数も、その間はいつもより増えるのさ","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","7","Razanailt","Quest Dialogue"
-"0","0","ただし、その時間が終わると
-採取地点の数は元に戻ってしまうから
-気を付けるんだよ","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","8","Razanailt","Quest Dialogue"
-"0","0","あぁ――そうそう、たくさん採ったら
-＜５＞個ほど分けてもらえるとありがたいね
-日用品の素材として、村で重宝されてるんだ
-分けてくれたら少しだけど、お礼もするよ","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","9","Razanailt","Quest Dialogue"
-"0","0","《<ITEM 15944>》は＜11時から15時＞の間
-いつもよりたくさんの場所から採集できるの
-採る時に、大地に感謝するのを忘れないで","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","10","Razanailt","Quest Dialogue"
-"0","0","たくさん採れたら、＜５＞個ほど
-分けてもらえると助かるよ","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","11","Razanailt","Quest Dialogue"
-"0","0","あら、今年は特に大きく育ったんだねぇ
-こんな良いの、分けてくれてありがとうね","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","12","Razanailt","Quest Dialogue"
-"0","0","近くのモルフォール村は侵食に
-脅かされているそうだけど、ここはまだ
-豊かな実りがある――感謝しないとね","","ui\00_message\quest\q21015005.gmd","\quest\q21015005.arc","q21015005.arc","13","Razanailt","Quest Dialogue"
-"0","0","<AREA 15>フィールドの《<ITEM 15946>》を採取できる採取ポイントの数が増えました
-＜曇天＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","0","The White Dragon","Quest Dialogue"
-"0","0","＜曇天＞が終了したため、<AREA 15>フィールドの
-《<ITEM 15946>》の採取ポイント数が通常に戻りました
-納品し、クエストを終了しましょう","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","1","The White Dragon","Quest Dialogue"
-"0","0","ああ、覚者さん！　いつも世話になってるね
-やれ遺跡に行け、やれ水路に行けと忙しく働かせて――
-今日は、あんたにお礼がてら
-良い話を聞かせてやろうと思ってね","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","2","Razanailt","Quest Dialogue"
-"0","0","《<ITEM 15946>》は知っているかい？
-この平原でのみ採れる貴重な鉱石なんだけど――
-もっとたくさん掘れるように手配しておいてあげたよ","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","3","Razanailt","Quest Dialogue"
-"0","0","ただ、悪いんだけど――枯渇させる訳にはいかないから
-採掘にあたって、縛りを設けさせてもらった
-それでもひとたび掘れば、両手に持ちきれないほど
-採掘できるはずだよ","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","4","Razanailt","Quest Dialogue"
-"0","0","興味は――あるようだね
-詳しい話が聞きたいなら、天気が＜曇天＞の間に
-採掘に行くお仲間を全員
-一度、この拠点内に集めてもらえる？","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","5","Razanailt","Quest Dialogue"
-"0","0","《<ITEM 15946>》の採集に行く前に、
-注意点をよく聞いておくんだよ！","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","6","Razanailt","Quest Dialogue"
-"0","0","その前に――＜曇天＞の間に一度、
-採集に行くお仲間を全員
-この拠点内に集めてもらえる？","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","7","Razanailt","Quest Dialogue"
-"0","0","全員集まったようだね！　いい？
-《<ITEM 15946>》は＜曇天＞の間だけ
-より多くの地点から採れるようになっているんだ
-縛り、っていうのはこのことさ","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","8","Razanailt","Quest Dialogue"
-"0","0","それが終わったら、元に戻ってしまうのさ
-だからたくさん採掘したけりゃ、
-＜曇天＞の間に済ませておくことだね","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","9","Razanailt","Quest Dialogue"
-"0","0","あぁ――そうそう、たくさん採ったら
-＜５＞個ほど分けてもらえるかい？
-あの鉱石を採りに行くのはなかなか危険でね――
-分けてくれたら少しだけど、お礼をするよ","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","10","Razanailt","Quest Dialogue"
-"0","0","＜曇天＞の間は《<ITEM 15946>》が
-いつもより多くの地点から採集できるよ
-採る時には、大地に感謝するのを忘れないで
-そうすれば、きっとまた豊富な恵みが与えられるはず","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","11","Razanailt","Quest Dialogue"
-"0","0","もしたくさん採れたら、＜５＞つほど
-分けておくれよ
-ちゃんとその分、お礼はするからね","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","12","Razanailt","Quest Dialogue"
-"0","0","あら、分けてくれてありがとう
-――今まで教えてあげられなくて、悪かったね
-このファーラナ平原でしか採れないものだから、
-際限なく採られるとすぐに枯渇しちまうからさ","","ui\00_message\quest\q21015006.gmd","\quest\q21015006.arc","q21015006.arc","13","Razanailt","Quest Dialogue"
-"0","0","あ――もしかして、仕事を探しているの？
-だけど、なんでわざわざ僕に？
-荒事の依頼なら、この村に溢れてると思うけど","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","0","Flannan","Quest Dialogue"
-"0","0","僕が弱そうだったから？
-自分じゃ困りごとも解決できないように見えたから？
-――あぁ、そんな顔しないでくれよ","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","1","Flannan","Quest Dialogue"
-"0","0","筋肉や声のでかさが一番のこの村じゃ
-僕みたいなのは、どうしてもこうなっちゃうんだよな
-よそ者に、しかもあんたみたいな強そうな人に
-言っても仕方のないことなんだけど――","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","2","Flannan","Quest Dialogue"
-"0","0","――変な話して悪かったね
-お詫びに、仕事をお願いするよ
-ええと、村の近くに《<STG 812>》っていう
-魔物が溜まりやすい洞窟があるんだ","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","3","Flannan","Quest Dialogue"
-"0","0","村の戦士が定期的に掃除しに行くんだけど――
-最近は侵食騒ぎで、行けていないみたいでね
-だから、代わりに魔物を片付けて来てくれるかい？","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","4","Flannan","Quest Dialogue"
-"0","0","《<STG 812>》は魔物が溜まりやすくてね
-村の戦士が定期的に掃除に行ってたんだけど
-最近は行けていないみたいなんだ","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","5","Flannan","Quest Dialogue"
-"0","0","代わりに討伐してきてくれれば安心だよ
-僕には無理だったけど――君なら簡単だと思う
-行ってくれるかい？","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","6","Flannan","Quest Dialogue"
-"0","0","行ってきてくれたのか、ありがとう
-皆は気が付かないかもしれないけど――
-村に何かあったら大変だし、未然に防げて良かったよ","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","7","Flannan","Quest Dialogue"
-"0","0","もし良かったらまた――頼んでも良いかな
-他人頼みなんて、イーヴィや村の人に
-知られたら笑われるだろうけど――
-それでも、皆が傷付くことになるよりはマシだからさ","","ui\00_message\quest\q21015008.gmd","\quest\q21015008.arc","q21015008.arc","8","Flannan","Quest Dialogue"
-"0","0","な、なんだよ――じろじろ見ないでくれ
-戦士の村ダナに、こんなひょろひょろな奴が
-いることが、そんなに珍しいかい？","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","0","Flannan","Quest Dialogue"
-"0","0","――君、竜の力を受けた覚者なんだって？
-さぞかし強いんだろうなぁ
-僕は見ての通りだからさ、憧れるよ","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","1","Flannan","Quest Dialogue"
-"0","0","その強さ――僕に見せてくれよ
-村の外を行ったところに、強い奴らが何度挑んでも
-勝てない魔物がいるんだそうだ
-覚者なんだし、魔物ごとき余裕だろう？","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","2","Flannan","Quest Dialogue"
-"0","0","君なら、一度も倒れないで討伐することも簡単かな
-もし上手く倒せたら、良い物をあげるよ
-無事に帰って来られたら――の話だけどね","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","3","Flannan","Quest Dialogue"
-"0","0","あ、あの――感じの悪い言い方してごめんよ
-え？　本当に倒しに行くつもりかい？","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","4","Flannan","Quest Dialogue"
-"0","0","行くなら止めないけど――
-無理だと感じたら、気にせず戻ってくるといい
-この村の人達は何か言うかもしれないけど
-こんなことで命を落とす方が馬鹿げてるよ","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","5","Flannan","Quest Dialogue"
-"0","0","無事に帰って来たんだね――よかった
-――えっ！　本当に一度で倒したのかい？
-あぁ――大変だ――僕なんかがなんて失礼を","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","6","Flannan","Quest Dialogue"
-"0","0","本当は――君も痛い目を見るといい、って思ってた
-嫌な事があって、イライラしていてね
-だけど君はそんなものに負けない――
-本当の強者だったんだ","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","7","Flannan","Quest Dialogue"
-"0","0","君の強さを見たおかげで、僕も勇気をもらえたよ
-皆にからかわれようと、やりたいことをやるんだ！
-この仕事も嫌いじゃないけど――
-やっぱり、戦いで役に立つことを諦めたくないからさ","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","8","Flannan","Quest Dialogue"
-"0","0","――そうだ
-確か、君たちの大陸の戦士には華奢なのに
-奇跡のように大きな現象を操る戦士がいるらしいね
-もし彼らに会えたら話を聞いてみることにしよう――","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","9","Flannan","Quest Dialogue"
-"0","0","あ！　無事に帰ってきた――
-そうか、失敗したのか――まぁ、仕方ないよ
-無茶をふっかけてごめんよ
-ちょっと嫌なことがあって――","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","10","Flannan","Quest Dialogue"
-"0","0","感じの悪いこと言って悪かったと思ってたんだ
-――無事に帰ってくれて、本当にホッとしたよ","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","11","Flannan","Quest Dialogue"
-"0","0","お詫びの気持ちを受け取ってくれ
-――あんなことで死んだりしたら
-馬鹿げているからね、無理は禁物だよ","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","12","Flannan","Quest Dialogue"
-"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","13","The White Dragon","Quest Dialogue"
-"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21015009.gmd","\quest\q21015009.arc","q21015009.arc","14","The White Dragon","Quest Dialogue"
-"0","0","お前さん、大活躍なんだって？
-ワイニには昔、槍術やら戦術やらを
-指南してやってたんだが――
-あの冷静なあいつが、大興奮していたぞ！","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","0","Odran","Quest Dialogue"
-"0","0","あいつが感服するほどの腕前――
-一度見てみたいもんだ
-わしも昔は自分の何倍もある大きな獲物を
-ちぎっては投げちぎっては投げ――","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","1","Odran","Quest Dialogue"
-"0","0","お、熱いその瞳――燃えているな？
-よぅしわかった、ではお前さんの腕前を見せてみろ！","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","2","Odran","Quest Dialogue"
-"0","0","村から少し行った所に
-かなり厄介な魔物がたむろしていてな――
-そいつらを討伐してきてくれ！","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","3","Odran","Quest Dialogue"
-"0","0","昔のわしと今のお前さん
-どっちの方が強いんだろうな
-――腕を示したくて、うずうずしてるんじゃないか？","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","4","Odran","Quest Dialogue"
-"0","0","それなら、村から少し行ったところに
-たむろしている厄介な魔物どもを討伐してみろ！
-ワイニを感嘆させたその腕前
-わしにも見せてくれ！","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","5","Odran","Quest Dialogue"
-"0","0","いやぁ、久しぶりにワクワクさせられた！
-お前さんは若いころのワシに似てるようだ
-ま、ほんのちょっとわしの方が上だがな","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","6","Odran","Quest Dialogue"
-"0","0","ハッハッハ！　冗談だよ、冗談
-お前さんは十分に強い――
-だからこそ、これからも油断しないで行くんだぞ","","ui\00_message\quest\q21015010.gmd","\quest\q21015010.arc","q21015010.arc","7","Odran","Quest Dialogue"
-"0","0","――なんだ","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","0","Mahon","Quest Dialogue"
-"0","0","――フィンが言っていた戦士はお前か
-フィンは――俺が鍛えている","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","1","Mahon","Quest Dialogue"
-"0","0","フィンはまだまだ成長途中――
-だから、異国の強者の力を――見せてやってほしい
-世界の広さを、学ばせてやりたい","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","2","Mahon","Quest Dialogue"
-"0","0","沼地の方向に、魔物の群れがいる
-数が多く――危険だ
-多勢を相手にした立ち回りを見せてくれ","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","3","Mahon","Quest Dialogue"
-"0","0","―――フィンに異国の強者の戦いを見せてやりたい
-強者の戦いから学ぶことは、若者にとって重要だ","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","4","Mahon","Quest Dialogue"
-"0","0","沼地の方の、魔物の群れと戦ってきてくれ","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","5","Mahon","Quest Dialogue"
-"0","0","――感謝する
-影ながら同行していたフィンも
-学ぶものが多かったようだ","","ui\00_message\quest\q21015011.gmd","\quest\q21015011.arc","q21015011.arc","6","Mahon","Quest Dialogue"
-"0","0","お、お前ダレだ――？
-変ナ服――
-ファーガル、そんなノ見た事無い","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","0","Fergal","Quest Dialogue"
-"0","0","お前、戦士――？
-ファーガルも、戦える
-でも、タクサン戦った
-タクサン戦って、いっぱい疲レタ","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","1","Fergal","Quest Dialogue"
-"0","0","お前――魔物と戦ッテ、ファーガル助ける？
-ファーガル――倒れるマデ戦う
-戦っテ、お前助ける","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","2","Fergal","Quest Dialogue"
-"0","0","こんにちは、ええと――たしか
-レス――タニア？　とかいう大陸の覚者さん
-このタイミングで話しかけてくるなんて
-私、そんなに困った顔してたかしら――","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","3","Revela","Quest Dialogue"
-"0","0","――話を聞いてくれるの？
-あのね、私は仲介係をしているんだけど
-良い仲間を見つけられず一人で出かける人もいるの
-だけど、そういう人は大抵帰って来ないから――","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","4","Revela","Quest Dialogue"
-"0","0","捜索依頼を出して、他の冒険者たちに探してもらうの
-だけど、最近よそから来た人が増えたせいで
-失踪人数に対して捜索人数が圧倒的に足りなくて――","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","5","Revela","Quest Dialogue"
-"0","0","ね、もし良かったらお手伝いしてもらえない？
-えーと、覚者さんに行ってほしいのは
-《<STG 812>》で
-探してほしいのは――《ファーガル》さんよ！","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","6","Revela","Quest Dialogue"
-"0","0","発見された時には手遅れになってる人が多いから
-もし見つけたらできるだけ早く安全を
-確保して――元気なうちに助けてあげて！
-もし成功したら、その分のお礼はちゃんとするわ","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","7","Revela","Quest Dialogue"
-"0","0","覚者さんに捜索して欲しいのは
-《<STG 812>》へ行った《ファーガル》さんよ！","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","8","Revela","Quest Dialogue"
-"0","0","服装はフィンダムの人っぽかったけど
-どこの出身か分からなかったな――
-少し会話したら、慌てて走って行っちゃったの","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","9","Revela","Quest Dialogue"
-"0","0","あぁ、よかった！　生きていたのね
-本当に覚者さんに頼んで良かった――
-失踪者について残念な報告が入ると
-いつも気が滅入っていたの","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","10","Revela","Quest Dialogue"
-"0","0","それでも、こういうことがあって人に感謝されると
-やっぱり楽しくて――この仕事を辞められないの
-ね、覚者さんもそうでしょ？","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","11","Revela","Quest Dialogue"
-"0","0","もし冒険に行くときは、またお願いね","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","12","Revela","Quest Dialogue"
-"0","0","え！　生きていたの――あぁ、よかった
-怪我していても、命があっただけで幸運だわ","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","13","Revela","Quest Dialogue"
-"0","0","この平原の魔物は、ダナの戦士たちのように
-獰猛な奴が多いから――
-ありがとうね、覚者さん","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","14","Revela","Quest Dialogue"
-"0","0","早く、魔物、倒ス！","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","15","Fergal","Quest Dialogue"
-"0","0","マダ平気！　お前、頑張れ！","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","16","Fergal","Quest Dialogue"
-"0","0","グォォ――
-ファーガル、もう戦えナイ――","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","17","Fergal","Quest Dialogue"
-"0","0","お前――助ケタ？　なんで？
-ファーガル、お前、知らない
-お前、ファーガル、知らない――","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","18","Fergal","Quest Dialogue"
-"0","0","――外、出タノ――悪いコトばかり、違う
-お前、良いヤツ！
-礼シタイ","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","19","Fergal","Quest Dialogue"
-"0","0","グォォォ――
-ウググ――ファーガル、身体、力入らない","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","20","Fergal","Quest Dialogue"
-"0","0","お、お前、助ケタ――？
-感謝スル――
-ファーガル、動けない――置いてイケ","","ui\00_message\quest\q21015012.gmd","\quest\q21015012.arc","q21015012.arc","21","Fergal","Quest Dialogue"
-"0","0","あれ――見たことある顔だと思ったら！
-久しぶりだな
-こっちでも随分な活躍だそうじゃないか","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","0","Alan","Quest Dialogue"
-"0","0","俺か？
-俺は、ヴァネッサ副隊長の代理みたいなものだ
-――あ、グリッテン砦を捨てた訳じゃないぞ
-砦の危機には、飛んで帰るつもりだ","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","1","Alan","Quest Dialogue"
-"0","0","っと――立ち話してる場合ではなかったな
-すまないが、連戦続きで立っているのも
-やっとな状態でな――
-ここを切り抜けるのを、手伝ってくれるか？","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","2","Alan","Quest Dialogue"
-"0","0","あまり長くは戦えなさそうなんだ
-できる限りのサポートはするが――
-急いで、片づけてしまおう","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","3","Alan","Quest Dialogue"
-"0","0","あぁ――やっぱりあなたに頼んで良かった！
-獣の主の時ほどではなかったと思うけど
-なかなか大変だったでしょ？","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","4","Etna","Quest Dialogue"
-"0","0","やっぱり、どんな性質の魔物が出ても
-あなたにお願いすれば、退治できるのね
-その力と、私の知識が組み合わされば
-最強なんじゃないかしら！","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","5","Etna","Quest Dialogue"
-"0","0","そっか、動けなくなっちゃったんだ――
-まぁこの村では、危険は付き物だからね
-命があっただけでも十分、そう気を落とさないで","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","6","Etna","Quest Dialogue"
-"0","0","――はぁ、獣の主を倒した人ですら
-手こずるレベルの魔物が、どんどん出てくるんだよね","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","7","Etna","Quest Dialogue"
-"0","0","ああ！　こうしちゃいられない！
-私も、もっと魔物の勉強しなきゃ！","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","8","Etna","Quest Dialogue"
+このまま森の回復を見守るだけでは
+村が飢え滅びてしまいます","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","2","Arthfael","Quest Dialogue"
+"0","0","かの聖なる地から漏れ出た魔物と
+その住処となっている《<STG 950>》に
+はびこる魔物たちを
+どうか討伐してきていただけませんか","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","3","Arthfael","Quest Dialogue"
+"0","0","先祖代々暮らし守ってきたこの森を
+我々の代で失ってしまっては
+あまりに申し訳が立ちません","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","4","Arthfael","Quest Dialogue"
+"0","0","侵食の力を抑止するため――
+ぜひ、覚者様の力をお貸しください","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","5","Arthfael","Quest Dialogue"
+"0","0","かの聖なる地から漏れ出た魔物と
+《<STG 950>》の魔物たちを
+討伐してきていただけませんか","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","6","Arthfael","Quest Dialogue"
+"0","0","おお――
+大地を食い荒らす侵食の力とはさざ波のようなもの
+かすかではありますが、引いていくのを感じます","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","7","Arthfael","Quest Dialogue"
+"0","0","我々も、モルフォール一丸となって
+覚者様のご助力をさせていただきます
+どうか――最後までお付き合いくださいませ","","ui\00_message\quest\q21016002.gmd","\quest\q21016002.arc","q21016002.arc","8","Arthfael","Quest Dialogue"
+"0","0","あら、あなたは――
+母――ゾルタが話していた異国の覚者様ですね
+話は伺っています
+腕が立ち、そして誠実な方だとか","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","0","Winnie","Quest Dialogue"
+"0","0","あの――覚者様は色々な村へ行かれるのですよね
+ご面倒でなければなのですが
+１つお願いできないでしょうか","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","1","Winnie","Quest Dialogue"
+"0","0","ダナ村の《<NPC 2504>》という方への
+贈り物の品の調達と、配達をお願いしたいのです","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","2","Winnie","Quest Dialogue"
+"0","0","実は先日、侵食魔の群れが村を襲った時に
+ダナから援助にきてくれた戦士団の中にいた
+あのお方に親切にしていただいて――","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","3","Winnie","Quest Dialogue"
+"0","0","私、とても感動したのです
+どうかお礼をさせていただきたくて――
+覚者様、どうかお願いいたします","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","4","Winnie","Quest Dialogue"
+"0","0","ダナの《<NPC 2504>》という方に、お礼の贈り物を
+させていただきたいのです――","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","5","Winnie","Quest Dialogue"
+"0","0","――あれだけお優しい方です
+このような贈り物を受けることなど
+日常茶飯事かもしれませんが、
+それでも気持ちをお伝えしたいのです","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","6","Winnie","Quest Dialogue"
+"0","0","覚者様、どうか――よろしくお願いいたします","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","7","Winnie","Quest Dialogue"
+"0","0","や、やぁ――こんにちは
+僕に何か用かい？","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","8","Flannan","Quest Dialogue"
+"0","0","え？　贈り物？
+あぁいいよ、渡しておくよ
+それで――誰に渡せばいいんだい
+イーヴィかい？　アデルドナハさんかい？","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","9","Flannan","Quest Dialogue"
+"0","0","えっ――こ、これ――僕に？
+何かの間違いじゃないのかい？
+モルフォールから、僕に贈り物なんて","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","10","Flannan","Quest Dialogue"
+"0","0","「心優しいフラナン様へ」――へへへ
+優しさなんて、褒められた事無かったよ
+こんな素敵な贈り物初めてだ――
+届けてくれて、ありがとう","","ui\00_message\quest\q21016003.gmd","\quest\q21016003.arc","q21016003.arc","11","Flannan","Quest Dialogue"
+"0","0","あなたは――？
+あ、もしかして他の大陸の覚者さんですか？
+父があなたの話をしているのを聞きました","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","0","Reich","Quest Dialogue"
+"0","0","失礼の無いようにしなくちゃ――
+僕はライシュと言います
+父は今、族長補佐の仕事で留守にしていますが
+――お仕事をお探しなんですか？","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","1","Reich","Quest Dialogue"
+"0","0","ううん、そうだなぁ
+あ、そうだ――届け物をお願いできますか？
+エランの《<NPC 557>》という方へです","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","2","Reich","Quest Dialogue"
+"0","0","他の地域に避難した方たちとは
+定期的に物資のやりとりをしているのですが
+担当者である父が多忙で手が回らず
+旅人に託しそこねた案件のようなんです","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","3","Reich","Quest Dialogue"
+"0","0","品物の調達もお願いしたいんですが
+や――やっていただけますか？","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","4","Reich","Quest Dialogue"
+"0","0","エランにいる《<NPC 557>》と
+いう方に届け物をお願いしたいのです
+品物の調達もお願いします","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","5","Reich","Quest Dialogue"
+"0","0","えっと――
+覚者さんが来たら、お仕事を
+紹介するようにと父に言われていたんですが
+僕、上手くできましたか――？","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","6","Reich","Quest Dialogue"
+"0","0","――あらぁ、私に届け物？
+わざわざ覚者さんが届けてくれるのかい？","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","7","Gobinet","Quest Dialogue"
+"0","0","よそから来た覚者さんは
+魔物の討伐だけじゃなくて
+届け物なんてこともしてくれるんだねぇ","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","8","Gobinet","Quest Dialogue"
+"0","0","あぁ、モルフォールからかい
+今回はいつもより遅かったみたいだけど――
+やっぱり、向こうも大変なんだろうねぇ","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","9","Gobinet","Quest Dialogue"
+"0","0","こうやってやりとりすることで、離れた先から
+少しでも故郷の助けができたら良いと思ってね
+それに、モルフォールの物を見ることで
+いつか帰るぞ、って頑張る気になれるんだよ","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","10","Gobinet","Quest Dialogue"
+"0","0","届けてくれてありがとう、覚者さん
+これからも、何かあったらよろしくね","","ui\00_message\quest\q21016004.gmd","\quest\q21016004.arc","q21016004.arc","11","Gobinet","Quest Dialogue"
+"0","0","<AREA 16>フィールドの《<ITEM 15950>》を採取できる採取ポイントの数が増えました
+＜16時から20時＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","0","The White Dragon","Quest Dialogue"
+"0","0","＜16時から20時＞の時間が終了したため、<AREA 16>フィールドでの《<ITEM 15950>》の採取量が通常に戻りました
+納品し、クエストを終了しましょう","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","1","The White Dragon","Quest Dialogue"
+"0","0","白き竜の覚者様
+村のために動いてくださっているあなたに
+ぜひ、何か支援させていただきたいと
+考えていたのですが――","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","2","Arthfael","Quest Dialogue"
+"0","0","何かと入用でしょうから、ある素材が
+陽が沈む頃の＜16時から20時＞の間のみ
+多量に採取できるようになるというお話を
+させていただきましょう","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","3","Arthfael","Quest Dialogue"
+"0","0","《<ITEM 15950>》という素材ですが
+ご興味はおありでしょうか","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","4","Arthfael","Quest Dialogue"
+"0","0","もしご興味がおありなら
+陽が沈む頃の＜16時から20時＞の間に一度
+この拠点内にお仲間を集めていただけますか？
+詳細をご説明いたします","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","5","Arthfael","Quest Dialogue"
+"0","0","ある時間帯にのみ《<ITEM 15950>》が
+大量に採取できるようになるという話に
+ご興味はおありでしょうか？","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","6","Arthfael","Quest Dialogue"
+"0","0","もしご興味がおありなら
+詳細をご説明させていただきますので
+陽が沈む頃の＜16時から20時＞の間に一度、
+この拠点内にお仲間を集めていただけますか","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","7","Arthfael","Quest Dialogue"
+"0","0","お集まりいただき、ありがとうございます
+それでは詳しくお話しいたしましょう","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","8","Arthfael","Quest Dialogue"
+"0","0","実は、侵食魔の活動には――僅かな差ですが
+活発に活動する時間と、そうでない時間があります
+夕暮れ時は――活性化する時間のようなのです","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","9","Arthfael","Quest Dialogue"
+"0","0","その際に、木が多く打ち倒され《<ITEM 15950>》が
+多数採取できるようになるのです
+ですから、陽が沈む頃の＜16時から20時＞の間に
+採取に行かれるとよろしいでしょう","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","10","Arthfael","Quest Dialogue"
+"0","0","ただしその時間を過ぎますと
+魔物たちに踏み荒らされ、採取地点の数は
+元に戻ってしまいますのでご注意ください","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","11","Arthfael","Quest Dialogue"
+"0","0","あぁ、採取に行かれた際には＜５＞個ほど
+私に納めていただければ幸いです
+今は魔物が多く、気軽に採取にも行けないので
+覚者様にお分けいただければ――皆助かります","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","12","Arthfael","Quest Dialogue"
+"0","0","《<ITEM 15950>》は＜16時から20時＞の間のみ
+通常より多くの地点から採取できます
+ただしその時間を過ぎますと、採取地点の数は
+元に戻りますのでお気を付け下さい","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","13","Arthfael","Quest Dialogue"
+"0","0","大量採取から帰られましたら＜５＞個ほど
+お分けいただけると幸いです
+どうぞ、よろしくお願いいたします","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","14","Arthfael","Quest Dialogue"
+"0","0","覚者様、資材を分けていただきありがとうございます
+こんなによく採れるとは――","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","15","Arthfael","Quest Dialogue"
+"0","0","最近は特に侵食魔の活動が活発ですから――
+しかし、これだけ良質な素材が採れるとは
+まだまだ森の生命力が持ちこたえている証拠","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","16","Arthfael","Quest Dialogue"
+"0","0","覚者様も、お手元に残っているものがあれば
+どうぞ冒険にお役立てください
+――精霊竜のご加護がありますように","","ui\00_message\quest\q21016005.gmd","\quest\q21016005.arc","q21016005.arc","17","Arthfael","Quest Dialogue"
+"0","0","<AREA 16>フィールドの《<ITEM 15952>》を採取できる採取ポイントの数が増えました
+＜晴天＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","0","The White Dragon","Quest Dialogue"
+"0","0","＜晴天＞が終了したため、<AREA 16>フィールドの
+《<ITEM 15952>》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","1","The White Dragon","Quest Dialogue"
+"0","0","白き竜の覚者様――
+この度の尽力、心より感謝いたします
+未だ全ての浄化にはいたりませんが
+村の民も、森も、貴方には多大なる恩を受けました","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","2","Arthfael","Quest Dialogue"
+"0","0","そこで、恩返し――という訳ではありませんが
+覚者様に有用かと思われる話をお伝えしましょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","3","Arthfael","Quest Dialogue"
+"0","0","重要な素材である《<ITEM 15952>》が
+＜晴天＞時にのみ採取地点数が増加する――
+というお話です
+ご興味はおありでしょうか","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","4","Arthfael","Quest Dialogue"
+"0","0","ご興味がおありでしたら、＜晴天＞時に
+この拠点内に共に採取するお仲間を集めてから
+再度お声掛けいただけますでしょうか？
+その際に、詳しくご説明いたしましょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","5","Arthfael","Quest Dialogue"
+"0","0","重要な素材である《<ITEM 15952>》が
+＜晴天＞時にのみ大量に採取できる――
+という話にご興味はおありでしょうか","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","6","Arthfael","Quest Dialogue"
+"0","0","詳細なご説明をさせていただきたいので
+＜晴天＞時に共に採取に行かれるお仲間を
+この拠点に集めていただき
+再度お声掛けいただけますでしょうか","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","7","Arthfael","Quest Dialogue"
+"0","0","おお、お集まりくださいましたか
+ありがとうございます――
+それでは、ご説明いたしましょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","8","Arthfael","Quest Dialogue"
+"0","0","――ご存知のように、自然豊かなモロー樹林には
+不思議な生態を持つ植物が多く生息しています
+＜晴天＞の時のみ急速成長し、通常より多くの地点から
+採取が可能になる《<ITEM 15952>》もその一つ","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","9","Arthfael","Quest Dialogue"
+"0","0","＜晴天＞が終われば採取地点数は普段通りに
+なってしまいますが――
+天候を狙って、採取に向かってみてはいかがでしょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","10","Arthfael","Quest Dialogue"
+"0","0","また、その際ですが――
+十分な量を採取されましたら
+＜５＞つほどお分けいただけないでしょうか？","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","11","Arthfael","Quest Dialogue"
+"0","0","虫除けの効果があり、汎用性も高いため
+我が村にとって非常に価値ある素材なのです
+どうぞ、よろしくお願いいたします","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","12","Arthfael","Quest Dialogue"
+"0","0","《<ITEM 15952>》がより多くの地点から
+採取できるのは＜晴天＞の間のみでございます
+それが終われば通常通りに戻ってしまうでしょう","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","13","Arthfael","Quest Dialogue"
+"0","0","十分な分量が採取できましたら
+＜５＞つほどお分けいただけないでしょうか？
+どうぞ、よろしくお願いいたします","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","14","Arthfael","Quest Dialogue"
+"0","0","覚者様、お分けいただきありがとうございます
+全て懐にしまい込むという手があるにも関わらず
+正直に納品してくださった――","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","15","Arthfael","Quest Dialogue"
+"0","0","貴方を従える白き竜も
+きっとその身のようにさぞ清廉なのでしょうね","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","16","Arthfael","Quest Dialogue"
+"0","0","今回の採取で、お手元に残っているものがあれば
+どうぞ冒険にお役立てくださいませ
+――精霊竜のご加護がありますように","","ui\00_message\quest\q21016006.gmd","\quest\q21016006.arc","q21016006.arc","17","Arthfael","Quest Dialogue"
+"0","0","やぁ、君は――トリンが話していた覚者さんだね
+セシリーのことも世話になったようだし
+君のような立派な人に会えて、光栄だよ","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","0","Dingus","Quest Dialogue"
+"0","0","それで――僕に何か用かな
+気になっていることと言えば――そうだ
+爆発騒ぎの時、解除された封鎖があっただろう？
+実はあれが堤防の役割を果たしていたみたいでね","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","1","Dingus","Quest Dialogue"
+"0","0","今、《<STG 951>》に溜まっていた
+侵食魔たちがこちら側に流れ込んでいるそうなんだ
+河向こうからダナの応援を呼ぼうかと
+アルトフェイルが話しているのを聞いたよ","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","2","Dingus","Quest Dialogue"
+"0","0","良かったら、君が片付けてくれないか？
+全て討伐するのは難しいかもしれないけど
+成功すれば、その後がかなり楽になるはずだ","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","3","Dingus","Quest Dialogue"
+"0","0","それに、この村の戦士は皆
+君から学びたいことが大いにあるはずだからね
+モルフォールのために、やってくれると嬉しいよ","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","4","Dingus","Quest Dialogue"
+"0","0","今、《<STG 951>》に溜まっていた
+侵食魔たちがこちら側に流れ込んでいるそうなんだ
+もしよかったら、片づけて来てくれないか？
+やってくれれば、その後がかなり楽になるはずだ","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","5","Dingus","Quest Dialogue"
+"0","0","ここ最近、ダナには頼ることが多かったからね
+頼りすぎるのも村の力関係に影響が出そうだったから
+中立な立場の君が動いてくれるなら、
+皆安心してお願いできると思うんだよ","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","6","Dingus","Quest Dialogue"
+"0","0","あぁ、やってくれたのかい！
+やっぱり、トリン兄さんの言っていた通りだ
+本当に頼りになるんだね","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","7","Dingus","Quest Dialogue"
+"0","0","君みたいな立派な戦士に会えると、
+こういう仕事をして良かったと思うんだ
+戦技の扱いや休息の知識を生かせるからね――
+サポートなら任せてくれ！","","ui\00_message\quest\q21016009.gmd","\quest\q21016009.arc","q21016009.arc","8","Dingus","Quest Dialogue"
+"0","0","もう！　モルフォールには戻らないって！
+何度遣いを寄越しても無駄だって兄さんに伝えて――
+――あら？","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","0","Morgana","Quest Dialogue"
+"0","0","あぁ、""レスタニア""から来たっていう人たちね
+さっきのことは忘れてちょうだい
+ちょっと勘違いをしただけよ","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","1","Morgana","Quest Dialogue"
+"0","0","貴方たちに特別興味があるわけじゃないけれど
+噂は聞いていてよ――
+その勇敢さで、いくつもの事件を解決したとか","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","2","Morgana","Quest Dialogue"
+"0","0","ん――そうね、私も1つお願いしていい？
+最近、封鎖が解かれた先に
+クレーターがあるでしょう？","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","3","Morgana","Quest Dialogue"
+"0","0","あそこへ付着物の採取に行きたいのに
+道中が酷く汚染されていてね
+恐らく、どこかに侵食魔の巣があるのでしょう","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","4","Morgana","Quest Dialogue"
+"0","0","自分で行きたいのはやまやまだけど
+さすがに危険すぎるかも、と思ってね
+貴方が、道を開いてくれると助かるのだけど――
+やってくれるかしら？","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","5","Morgana","Quest Dialogue"
+"0","0","クレーターの方に続く道の侵食魔を
+片付けてほしいのよ
+やってくれるでしょう？","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","6","Morgana","Quest Dialogue"
+"0","0","あぁ、初めに言ったことは忘れてちょうだい
+うちの兄が口うるさくってね
+ここでもモルフォールでも、危険なのは
+変わりないじゃない","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","7","Morgana","Quest Dialogue"
+"0","0","兄ってね、澄ました顔してるけど
+本当は尋常じゃないくらいの心配性なのよ
+いつも、私のやることなすことに口を出すの","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","8","Morgana","Quest Dialogue"
+"0","0","あら――本当にやってくれたの
+どういう経緯であのグリフィンが侵されたのか――
+これでやっと、調べに現地へ行けるわ","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","9","Morgana","Quest Dialogue"
+"0","0","私は《侵食》をこの手で""捉える""まで帰れないわ
+そのために、あの結束の強いモルフォールから
+出たんだもの――
+いつか兄さんに、理解してもらえるといいのだけど","","ui\00_message\quest\q21016011.gmd","\quest\q21016011.arc","q21016011.arc","10","Morgana","Quest Dialogue"
+"0","0","おや――その格好、よその覚者さんですか
+あなたもハーブを採りにいらしたのですかな？
+実は、ここにはあまり来たことがなくてね
+迷っていたので、他の人に会えて安心しました","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","0","Ignatia","Quest Dialogue"
+"0","0","昔は、戦士として腕を鳴らしたものですが――
+さすがにこの歳になると体力も落ちて
+立っているだけでもやっとです","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","1","Ignatia","Quest Dialogue"
+"0","0","覚者さん、申し訳ないのですが
+少し、お手を貸していただけますかね？
+さっきからこちらを虎視眈々と狙っている
+魔物がいるようでしてね――","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","2","Ignatia","Quest Dialogue"
+"0","0","覚者さんの足手まといには
+ならないようにしますから
+出来るだけ早く――片付けてしまいましょう","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","3","Ignatia","Quest Dialogue"
+"0","0","あらまぁ、イナタイヤは見つかったんですね
+良かった――あなたに頼んで、正解でした
+あの人、いつもぼんやりしてるくせに
+無茶するから！","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","4","Zolta","Quest Dialogue"
+"0","0","――え？　生き生きしていたって？
+あら、そうなんですか――
+何か、これからの趣味でも見つけたのかしら
+ふふふ、帰って来るのが楽しみですね","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","5","Zolta","Quest Dialogue"
+"0","0","まぁ――無理しすぎて動けなくなるなんて！
+とはいえ、無事で安心しました
+あの人も、ずっと若いつもりでいるんですから
+心配するこっちの身にもなってほしいですね","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","6","Zolta","Quest Dialogue"
+"0","0","――戻ってきたら、最高のハーブを使って
+美味しい料理で労ってあげようかしら
+たっぷり、年寄り扱いしてあげないとね","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","7","Zolta","Quest Dialogue"
+"0","0","あぁ、この間の覚者さん！
+森の侵食魔の件は、本当に立派でしたねぇ
+あなたの良い噂はもう村中に広まってますよ！","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","8","Zolta","Quest Dialogue"
+"0","0","だけどねぇ――
+《<STG 817>》を調査する人で
+このモローも賑やかになったでしょう？","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","9","Zolta","Quest Dialogue"
+"0","0","それで、「みんないるから大丈夫！」なんて
+気が大きくなったのか、《<STG 817>》まで
+ハーブを採りに行ってしまったお友達が
+帰って来ないのが気になっているんですよ","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","10","Zolta","Quest Dialogue"
+"0","0","ねぇ覚者さん、あなた
+様子を見に行ってきてくれません？
+イナタイヤっていう人なんですけど――
+あなたが行ってくれれば安心ですよ！","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","11","Zolta","Quest Dialogue"
+"0","0","もしあの人を見つけたら、できるだけ
+早く安全を確保してあげてね
+その代わり――もし無事に帰って来られたら
+とっておきのお礼を用意してますからね！","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","12","Zolta","Quest Dialogue"
+"0","0","《<STG 817>》へ行ったイナタイヤの
+様子を見て来てくれません？","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","13","Zolta","Quest Dialogue"
+"0","0","ハーブを採りに行くだけって言ったって
+老人ひとりで大丈夫かしら――
+でもあなたが行ってくれるならもう安心ですね
+お願いしますよ！","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","14","Zolta","Quest Dialogue"
+"0","0","おお、助けてくださって感謝致します――
+ゾルタがあなたを？
+おやおや、それなら彼女にも感謝しないと","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","15","Ignatia","Quest Dialogue"
+"0","0","いやはや、現役だったのは随分と前なのに
+身体はまだ覚えていたようで
+自然と、動いてしまいましたよ！
+あなたを見ていたら昔を思い出しました――","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","16","Ignatia","Quest Dialogue"
+"0","0","おっと、忘れていました――ハーブでしたな
+すぐに集めたら戻りますので、お先にどうぞ
+――ゾルタによろしくお伝えください","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","17","Ignatia","Quest Dialogue"
+"0","0","ゴホ、ゴホ――おお
+助けてくださったのですかな――ありがたい
+おかげで九死に一生を得ました","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","18","Ignatia","Quest Dialogue"
+"0","0","戦士として鳴らしていたのも今は昔――
+途中で動けなくなってしまうとは
+寄る年波には勝てませんな
+ゴホ、ゴホ――","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","19","Ignatia","Quest Dialogue"
+"0","0","申し訳ないが、息が整うまで
+ここで休ませてもらってもよろしいかな","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","20","Ignatia","Quest Dialogue"
+"0","0","久しぶりに腕が鳴りますわい！","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","21","Ignatia","Quest Dialogue"
+"0","0","うう――
+身体の節々が痛んできました","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","22","Ignatia","Quest Dialogue"
+"0","0","アイタタタ、腰が――
+年寄りはここまでのようです","","ui\00_message\quest\q21016012.gmd","\quest\q21016012.arc","q21016012.arc","23","Ignatia","Quest Dialogue"
+"0","0","やぁ、どこかで会ったかい？
+君もレスタニアから来たんだろう？
+それなら、どこかで会ったかもしれないね","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","0","Christoph","Quest Dialogue"
+"0","0","ところで、こんなところで一体何を？
+私といえば――この侵食とやらを調べ回っているんだ
+新たな大陸の話を聞いて、じっとしていられなくてね
+色々と手を回して何とかフィンダムまで来たんだ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","1","Christoph","Quest Dialogue"
+"0","0","だけど、この粉っぽい空気は肌に合わないね――
+かなり疲れてしまったよ
+今魔物に襲われたら、あんまり戦えなさそうだ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","2","Christoph","Quest Dialogue"
+"0","0","――うわぁ！　魔物だ！
+き、君――悪いけど手伝ってくれるかい？
+私もやれるだけやってみるが――
+ダメになるまえに、片付けたいものだよね","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","3","Christoph","Quest Dialogue"
+"0","0","覚者さん、どうだった！？
+あぁ――よかった、助かったんだ！
+やっぱりあの見た目でも、戦士だったんだね","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","4","Thorin","Quest Dialogue"
+"0","0","もし怪我でもされたら
+僕のせいみたいなものだからね――
+心配で、ずっと考えていたのさ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","5","Thorin","Quest Dialogue"
+"0","0","――なんて、偽善みたいに聞こえるかな
+それでもいいさ
+モルフォールでみんな穏やかに過ごせるのなら――
+それが僕の、一番の望みだよ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","6","Thorin","Quest Dialogue"
+"0","0","怪我をしていても、命は助かったのか
+良かった――それだけでも
+行ってもらった甲斐があるよ
+本当にありがとう","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","7","Thorin","Quest Dialogue"
+"0","0","せっかくモルフォールに来てくれたのに
+そんな目に遭うなんて――
+――僕のせいだな","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","8","Thorin","Quest Dialogue"
+"0","0","彼が帰ってきたら、お見舞いに行かないと――
+覚者さん、本当にありがとう
+君がいなきゃ、それすらできなかったからね","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","9","Thorin","Quest Dialogue"
+"0","0","やぁ、覚者さん
+サリヴァンを助けてくれて、本当に感謝してるよ
+そう簡単には死んだりしなさそうな人だけど
+万が一ってことがあると悲しいからね","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","10","Thorin","Quest Dialogue"
+"0","0","ところで、覚者さんの大陸には
+やっぱりいろいろな人がいるんだね
+さっきなんて、長くて動き辛そうな衣を纏った人が
+剣も持たずにフラフラと森へ入っていったよ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","11","Thorin","Quest Dialogue"
+"0","0","きっと、ああいう人に限ってものすごい力を
+持っているんだろうね
+いやぁ、感心するよ
+――え？　その人が向かった先かい？","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","12","Thorin","Quest Dialogue"
+"0","0","《<STG 951>》の方だけど――
+もしかして、止めてあげるべきだったかな
+――これは困ったことになったぞ
+取り返しがつかなくなる前に助けないと","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","13","Thorin","Quest Dialogue"
+"0","0","僕はこれから外出の護衛に行く約束があって――
+なんとか彼が倒れる前に、急いで
+助け出してあげてくれないかな
+申し訳ないんだけど、頼めるかい？","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","14","Thorin","Quest Dialogue"
+"0","0","《<STG 951>》の方へ行った人は
+無事だったのかい？","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","15","Thorin","Quest Dialogue"
+"0","0","いや、急かせてすまない
+一度心配になるとずっと気になっちゃうからね
+彼が無事であることを祈るよ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","16","Thorin","Quest Dialogue"
+"0","0","ふぅ――杖を揮うのは久しぶりだったけど
+意外と何とかなるものだね
+君、手伝ってくれて助かったよ！","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","17","Christoph","Quest Dialogue"
+"0","0","それにしても――酷い有様だね
+モルフォールの人たちには良くしてもらったんだ
+彼らの故郷がこんな悲惨な状況だなんて――
+胸が痛むよ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","18","Christoph","Quest Dialogue"
+"0","0","君、モルフォールの人に言われて
+来てくれたんだろう？
+侵食について何か分かれば
+彼らの役にも立てるんだがな――","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","19","Christoph","Quest Dialogue"
+"0","0","私はもう少しだけサンプルを採取していくよ
+大丈夫、魔物が来たら逃げるくらいの元気はある
+先に帰っててくれ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","20","Christoph","Quest Dialogue"
+"0","0","う、うぅ
+君が――全て倒してくれたんだね？
+あ、ありがとう――","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","21","Christoph","Quest Dialogue"
+"0","0","やっぱり、かなり腕が鈍っていたみたいだよ
+調べ事ばかりしていたからかな――","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","22","Christoph","Quest Dialogue"
+"0","0","研究対象として""侵食""はすごく魅力的だったし
+モルフォールの人々の力にもなりたかったけど
+僕は、もう少し――
+自分の身の丈を見直すべきかもしれないな","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","23","Christoph","Quest Dialogue"
+"0","0","君、すまないが――
+ここでもう少し頭を冷やしていきたいんだ
+――一人にしてほしいってことさ","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","24","Christoph","Quest Dialogue"
+"0","0","職業柄、体力には自信無くてね――
+早く終わらせてしまおう","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","25","Christoph","Quest Dialogue"
+"0","0","うう――だめだ
+呂律が回らなくなってきた","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","26","Christoph","Quest Dialogue"
+"0","0","すまない――少し鈍り過ぎたようだ
+あとは頼んだよ――","","ui\00_message\quest\q21016013.gmd","\quest\q21016013.arc","q21016013.arc","27","Christoph","Quest Dialogue"
+"0","0","――このモルフォールは、フィンダムの中でも
+学者を多く輩出している村でな
+学士の祖、賢者ティルカンの手で学術が
+広く伝えられたことから始まったと言われている","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","0","Milan","Quest Dialogue"
+"0","0","私も若い頃は、資料を集めるために
+危険な森の奥地へ飛び出していったりと
+学術に傾倒していた頃もあったのだ","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","1","Milan","Quest Dialogue"
+"0","0","いつも本を読んでいた《<SPOT 936>》
+よく子供の遊び場ともなっていたが
+今では魔物の巣窟と変わってしまったのは
+なんとも嘆かわしく残念だ――","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","2","Milan","Quest Dialogue"
+"0","0","おっと、つい昔話をしてしまったな
+だが――なんとも懐かしさがこみあげてきた
+近くを通る用があったらで構わないのだが
+《<SPOT 936>》の魔物を一掃してくれないか？","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","3","Milan","Quest Dialogue"
+"0","0","そうだな――できることなら
+一度も倒れず圧倒的な力で討伐してきてほしい
+いくら侵食魔でも、強者がいると分かっている場所に
+二度と近寄ろうとはしないだろうからな","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","4","Milan","Quest Dialogue"
+"0","0","《<SPOT 936>》のそばを通る用があったら
+辺りに巣食う魔物を一掃してくれないか？
+思い出の地を穢されるのは
+なんとも胸が締め付けられる思いでな","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","5","Milan","Quest Dialogue"
+"0","0","族長からは、なるべく覚者殿の手を
+煩わさないようにといわれているのだ――
+私のこの気持ちを、心に留めておいて
+くれさえすればいい","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","6","Milan","Quest Dialogue"
+"0","0","もし圧倒的な力で魔物たちを蹴散らして
+あの地の平穏が保たれるようになれば――
+心ばかりのお礼をさせてもらおう","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","7","Milan","Quest Dialogue"
+"0","0","――そうか
+認めたくは無かったが、やはり魔物のるつぼと
+化していたか――
+いや、昨今の侵食被害を鑑みれば当然のこと","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","8","Milan","Quest Dialogue"
+"0","0","だが、おかげでしばらくは
+ティルカンの眠りが妨げられることもないだろう
+私も、久しぶりに訪れてみたくなった――
+本当に感謝する","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","9","Milan","Quest Dialogue"
+"0","0","その様子を見ると――
+苦戦したがなんとか下すことには成功した
+という戦果か――","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","10","Milan","Quest Dialogue"
+"0","0","となると、討たれた魔物の仲間が
+より攻撃的な状態で戻ってくるかもしれないな
+付近を通る者には注意喚起しておこう――
+いや、無理を言ってすまなかった","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","11","Milan","Quest Dialogue"
+"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","12","The White Dragon","Quest Dialogue"
+"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21016015.gmd","\quest\q21016015.arc","q21016015.arc","13","The White Dragon","Quest Dialogue"
+"0","0","傷ついた魔物の痕跡は、
+住処へと続いているようだ――","There are traces from the wounded monster
+It seems to lead towards its den.","ui\00_message\quest\q21016016.gmd","\quest\q21016016.arc","q21016016.arc","0","The White Dragon","Quest Dialogue"
+"0","0","異国の覚者様――
+あなた様のおかげで、なんとか採掘も
+続けられているようじゃ
+本当に、感謝せねばなるまいて","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","0","Ultan","Quest Dialogue"
+"0","0","ところでな、覚者様
+最近、農作物の生育があまり良くないのじゃ
+これも侵食の影響なのかの――","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","1","Ultan","Quest Dialogue"
+"0","0","覚者様に採れたてをご馳走しようと思っていたのに
+今やご馳走どころか、村の皆が日々食べる分すら
+危うい状況じゃ――","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","2","Ultan","Quest Dialogue"
+"0","0","こうなったのはちょうど封鎖を解除した頃じゃ
+おそらく《<STG 952>》から
+流れ込んできた、侵食胞子を含んだ
+風のせいじゃろうなぁ","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","3","Ultan","Quest Dialogue"
+"0","0","のぅ覚者様、1つ年寄りのお願いを聞いてくれんかの
+《<STG 952>》からこの村まで――
+侵食をまき散らす魔物たちを倒してきてほしくてな
+そうすれば、村の周りだけでも侵食が弱まるはずじゃ","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","4","Ultan","Quest Dialogue"
+"0","0","《<STG 952>》からこの村まで――
+侵食をまき散らす魔物たちを倒してきてほしくてな
+そうすれば、村の周りだけでも侵食が弱まるはずじゃ","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","5","Ultan","Quest Dialogue"
+"0","0","ワシがもう少し若ければ――
+じゃがこの老体には
+剣より鍬を振るう方が合っているでな
+覚者様、すまんが――お任せしてもよいかのう","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","6","Ultan","Quest Dialogue"
+"0","0","おお――よくぞお戻りになった
+しっかりと果たしてきてくださったんじゃな
+言われんでも見て分かりますわい
+一仕事終えた戦士の顔をしておるよ","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","7","Ultan","Quest Dialogue"
+"0","0","これで、また当分の間は甘く瑞々しい作物が
+採れるようになるじゃろうて
+本当に、覚者様には感謝でいっぱいじゃ","","ui\00_message\quest\q21016017.gmd","\quest\q21016017.arc","q21016017.arc","8","Ultan","Quest Dialogue"
+"0","0","――レスタニアの覚者だな
+出し抜けで恐縮だが、1つ手伝い願いたい
+戦力をお借りできないだろうか","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","0","Cornelia","Quest Dialogue"
+"0","0","主のためにモローの希少品を持ち帰らなければ
+ならないのだが、帰る途中で魔物に
+嗅ぎつけられてしまったようでな
+一人で切り抜けることが、困難な状況なのだ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","1","Cornelia","Quest Dialogue"
+"0","0","既に多くの戦いを経ているため、
+体力の残存もわずか――
+可能な限り、迅速な敵殲滅が必要だ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","2","Cornelia","Quest Dialogue"
+"0","0","それでは――戦闘を開始する！","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","3","Cornelia","Quest Dialogue"
+"0","0","おお、無事だったか――
+間一髪だったのだな
+迅速な救出、誠に感謝する","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","4","Milan","Quest Dialogue"
+"0","0","特に、ライシュやゾルタに気に入られていてな
+子供のように好奇心が強く
+素直な言葉ばかりのあの娘は
+風変りだが、すぐ皆と打ち解けたようだったよ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","5","Milan","Quest Dialogue"
+"0","0","侵食の大災は多くの物を奪って行ったが
+いくらかは、代えの無い価値ある出会いも
+運んできてくれた――","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","6","Milan","Quest Dialogue"
+"0","0","皆に代わって改めて礼を言う
+我々の友人を救ってくれて、本当にありがとう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","7","Milan","Quest Dialogue"
+"0","0","そうか――
+すまなかった、私がもう少し早く
+依頼していれば良かったものを","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","8","Milan","Quest Dialogue"
+"0","0","だが、命に別状は無かったのだな――
+それが何よりの成果だ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","9","Milan","Quest Dialogue"
+"0","0","常々考えているのだ――
+貴殿たちは、フィンダムの災害と戦ってくれているが
+それによって怪我が残ったり
+命を落とす者たちも少なくないだろう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","10","Milan","Quest Dialogue"
+"0","0","我々が本当に貴殿たちに報いるには
+何が最善なのか――
+そのような思いでいること
+少しでも心に留めておいてくれると嬉しい","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","11","Milan","Quest Dialogue"
+"0","0","採掘所の件は、貴殿の貢献が大きいと聞く
+店の品を切らす前に解決してくれたこと
+礼を言おう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","12","Milan","Quest Dialogue"
+"0","0","ウルタン殿は、穏やかなご老人だが
+ああ見えて昔は文武兼備の名高い剣士だったのだ
+彼の信頼を得た貴殿は、村の者からも
+同等の敬意を得られることだろう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","13","Milan","Quest Dialogue"
+"0","0","白竜の大陸の方々は皆、働き者で
+フィンダムやこの村のために尽くしてくれる
+最近この村に訪れた銀髪の美しい娘も
+手先が器用で、村の工芸に貢献してくれているのだ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","14","Milan","Quest Dialogue"
+"0","0","モルフォールに興味を抱いてくれているようで
+特産品や交易品などをよく尋ねてきてな
+昨日から《<STG 952>》へ
+向かったきり姿を見ないようだが――","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","15","Milan","Quest Dialogue"
+"0","0","む――少し心配だな
+覚者殿、手数をかけて申し訳ないが
+様子を見に行ってくれないか？","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","16","Milan","Quest Dialogue"
+"0","0","万が一魔物にでも襲われていたら大変だ
+二人で怪我無く、元気に戻ることを願っているぞ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","17","Milan","Quest Dialogue"
+"0","0","最近村を訪れた、美しい銀髪の手先の器用な娘が
+《<STG 952>》へ向かったまま
+姿が見えないようなのだ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","18","Milan","Quest Dialogue"
+"0","0","万一魔物にでも襲われていたら、一刻も早く
+助け出してやってほしい――
+村のことを色々と教えていた者たちが悲しむからな
+無事、帰ってくれることを願っているぞ","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","19","Milan","Quest Dialogue"
+"0","0","――此度の協力、感謝する
+この件は主に伝え、しかるべき礼を
+させていただくことになるだろう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","20","Cornelia","Quest Dialogue"
+"0","0","主の命令通り、モルフォールの住民と交流を深め
+価値ある特産物の情報を得た
+現物を入手することにも成功した
+これで――これで、任務は達成――だが","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","21","Cornelia","Quest Dialogue"
+"0","0","主は、こうも仰っていたのだ
+「商売の原則は、""等価交換""だ」
+私は受けた価値を返すため、今しばし
+モルフォールに留まりたいと思う――","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","22","Cornelia","Quest Dialogue"
+"0","0","覚者よ、やはり先に戻っていてくれ
+私はこの森で、住民たちが欲している品々を
+収集してから帰る方が良いだろう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","23","Cornelia","Quest Dialogue"
+"0","0","なに――最悪の場合でも、
+リムストーンに戻るだけのこと
+気にするな","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","24","Cornelia","Quest Dialogue"
+"0","0","くっ――
+主に命じられた品の入手には成功したが
+こんな状態では、お渡しすることなど――","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","25","Cornelia","Quest Dialogue"
+"0","0","――モルフォールの住民の厚意を任務に
+利用した罰が下ったのだろう
+私の魅力ならできる、とのことだったが
+彼らの厚遇に、魅力などは無関係だったように思う","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","26","Cornelia","Quest Dialogue"
+"0","0","覚者よ、すまない
+私はここでもう少し、休む必要がありそうだ
+先に村へ戻っていて構わない","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","27","Cornelia","Quest Dialogue"
+"0","0","迅速に片を付けよう","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","28","Cornelia","Quest Dialogue"
+"0","0","こんな体たらく――
+ファビオ様の顔に、泥を塗る訳には","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","29","Cornelia","Quest Dialogue"
+"0","0","くっ――やはり、ここまでか","","ui\00_message\quest\q21016020.gmd","\quest\q21016020.arc","q21016020.arc","30","Cornelia","Quest Dialogue"
+"0","0","あぁ、覚者さん！
+ちょうど声をかけようと思っていたんだよ
+覚者さんが助けてくれたサリヴァンのことは
+覚えているかい？","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","0","Thorin","Quest Dialogue"
+"0","0","彼と、今ちょっとした賭けをしていてね
+最近行けるようになった《<STG 951>》の
+魔物がなかなか手強いんだ
+どちらが倒すか毎日勝負しているんだよ","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","1","Thorin","Quest Dialogue"
+"0","0","村の脅威になる凶暴さは無い相手なんだけど
+まだ僕たちどちらも倒せていないんだ
+覚者さん、よかったら挑戦しないかい？","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","2","Thorin","Quest Dialogue"
+"0","0","あ――でも覚者って、竜力があるんだったね
+そうだなぁ――
+それじゃあ、一度も竜力で復活することなく
+倒せたら勝ちにしようか！","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","3","Thorin","Quest Dialogue"
+"0","0","やる気は十分みたいだね
+それじゃあ、お互い頑張ろう！","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","4","Thorin","Quest Dialogue"
+"0","0","《<STG 951>》の手強い魔物――
+よかったら覚者さんも、挑戦してみてよ
+もちろん、竜力での復活は無しでね","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","5","Thorin","Quest Dialogue"
+"0","0","実をいうとサリヴァン、助けてもらったくせに
+覚者さんの失敗に賭けているんだ！
+僕はもちろん、成功に賭けているよ","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","6","Thorin","Quest Dialogue"
+"0","0","成功したのかい？　本当に？
+――やった！
+ありがとう覚者さん！
+僕は覚者さんの実力を信じていたよ","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","7","Thorin","Quest Dialogue"
+"0","0","これで勝ち越しだ――
+いや、実は覚者さんの勝ち負けを
+サリヴァンと賭けていたんだ","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","8","Thorin","Quest Dialogue"
+"0","0","おっと――あんまり騒いじゃ不謹慎だよね
+覚者さん、この調子で侵食拡大の原因も
+バシッとやっつけてくれるのを
+期待してるよ！","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","9","Thorin","Quest Dialogue"
+"0","0","うわ、大丈夫かい？
+かなりボロボロって感じだ
+うん、失敗したのはわかるよ――","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","10","Thorin","Quest Dialogue"
+"0","0","竜の加護があるからって、無茶は駄目だよ
+痛みがあるのは誰でも一緒なんだから","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","11","Thorin","Quest Dialogue"
+"0","0","こんなことでうっかり死なれでもしたら
+一生悔んでも悔やみきれないよ
+モルフォールの皆が、君に感謝してるんだから
+もっと自分を大切にしてくれ！","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","12","Thorin","Quest Dialogue"
+"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","13","Archibald","Quest Dialogue"
+"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21016021.gmd","\quest\q21016021.arc","q21016021.arc","14","Archibald","Quest Dialogue"
+"0","0","覚者様――此度のご尽力
+言葉では表せないほどのご恩を感じております
+我々モルフォールの住民だけでなく、セシリーも――
+いや、今は精霊竜様と言うべきですね","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","0","Arthfael","Quest Dialogue"
+"0","0","今や我々にとって彼女は命の源――
+しかし――つい先ほど、モードレッドから
+不吉な連絡がありまして","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","1","Arthfael","Quest Dialogue"
+"0","0","始まりの洞にて、大きな爆発音が聞こえたとのこと
+爆発――モルフォールにとって、苦い響きです
+つい先日まで、爆発を引き起こした
+恐ろしい魔物に苦しめられていたのですから","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","2","Arthfael","Quest Dialogue"
+"0","0","聖域は清められたとはいえ、
+未だ侵食の痕が残る場所もあると聞きます
+さらには、聖域から漏れ出した侵食魔を見た者も
+村内には多数いるようです――","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","3","Arthfael","Quest Dialogue"
+"0","0","覚者様、念のため、この魔物たちを全て討伐し
+《<SPOT 880>》の状況を
+見て来てくださいませんか？","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","4","Arthfael","Quest Dialogue"
+"0","0","覚者様、聖域から漏れ出ているものも含め
+周辺の魔物を全て討伐し
+《<SPOT 880>》を
+調べてきてくださいませんか？","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","5","Arthfael","Quest Dialogue"
+"0","0","考えるのも恐ろしいことですが――
+もし今、樹内で魔物が勢いづきでもすれば
+芯なる樹は――精霊竜様は――","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","6","Arthfael","Quest Dialogue"
+"0","0","なんと――
+侵食を広めたあの魔物が、樹内に棲みつき
+さらに、強力な群れを作りかけていたと――","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","7","Arthfael","Quest Dialogue"
+"0","0","それを――打ち倒されたのですね？
+覚者様、貴方のような方がこの地を
+訪れてくださったのは、まさに精霊竜の
+お導きとしか考えられません","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","8","Arthfael","Quest Dialogue"
+"0","0","貴方様のお名前は
+モロー樹林の歴史に刻まれることでしょう
+モロー、いえフィンダムの民を代表して
+お礼申し上げます","","ui\00_message\quest\q21016022.gmd","\quest\q21016022.arc","q21016022.arc","9","Arthfael","Quest Dialogue"
+"0","0","そういえば、覚者様――
+我が村ではこの時期、豊穣を願い
+ある樹木で灯をともす風習があるのです","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","0","Arthfael","Quest Dialogue"
+"0","0","貴重な素材のため
+普段は松明に使用しないものなのですが
+この時期だけは特別なのです
+しかし、採集がひと苦労でして――","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","1","Arthfael","Quest Dialogue"
+"0","0","もし覚者様も《<ITEM 16003>》に
+ご興味がおありなのでしたら、
+採集にご協力いただけないでしょうか？","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","2","Arthfael","Quest Dialogue"
+"0","0","＜雨天＞の天候時に、お仲間全員を
+この拠点内に集めていただけるようでしたら
+多く採取できるポイントをご案内しましょう","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","3","Arthfael","Quest Dialogue"
+"0","0","覚者様も《<ITEM 16003>》に
+ご興味がおありでしたら、＜雨天＞時に
+お仲間全員をこの拠点内に集めていただけますか？
+多く採取できるポイントをお教えしましょう","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","4","Arthfael","Quest Dialogue"
+"0","0","非常に乾燥に弱い木材のため
+湿った状態で採取できる天候時でなければ
+ご案内できないのです
+申し訳ございませんが、ご協力お願いします","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","5","Arthfael","Quest Dialogue"
+"0","0","お集まりいただきありがとうございます
+それでは、《<ITEM 16003>》について
+詳細をご説明いたします","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","6","Arthfael","Quest Dialogue"
+"0","0","この木材は非常に乾燥に弱いため、＜雨天＞時に
+のみ多くのポイントで採取できるようになります
+そのため、＜雨天＞が終了した時点で
+通常の採取量に戻りますので、ご注意ください","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","7","Arthfael","Quest Dialogue"
+"0","0","また、採取いただいた木材は
+こちらで回収しているのですが、
+覚者様は特別に、＜5＞つ納品していただければ
+残りはお持ちいただいて構いません","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","8","Arthfael","Quest Dialogue"
+"0","0","儀式は採取時から始まっております
+採る際には、大地への感謝の祈りを
+お忘れ無きよう――","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","9","Arthfael","Quest Dialogue"
+"0","0","説明は以上となります
+それでは、いってらっしゃいませ――","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","10","Arthfael","Quest Dialogue"
+"0","0","《<ITEM 16003>》は＜雨天＞時のみ
+多くのポイントで採取できるようになります
+そのため、＜雨天＞が終了した時点で
+通常の採取量に戻りますので、ご注意ください","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","11","Arthfael","Quest Dialogue"
+"0","0","また、＜5＞つ納品していただければ
+残りはお持ちいただいて構いません
+どうぞ、残りは冒険にお役立てください","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","12","Arthfael","Quest Dialogue"
+"0","0","我々の祖先が炎を得るきっかけとなった
+と言われる木材です
+採る際には、豊穣への感謝の祈りを
+お忘れ無きよう――","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","13","Arthfael","Quest Dialogue"
+"0","0","お納めいただきありがとうございます
+採集には危険も多く、村の者たちでは
+わずかな量を集めるのにも四苦八苦なのです","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","14","Arthfael","Quest Dialogue"
+"0","0","これだけあれば村の者全員に行き渡るでしょう
+覚者様、ご協力いただき感謝致します","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","15","Arthfael","Quest Dialogue"
+"0","0","よその方々に風習を押し付ける気はありませんが
+覚者様も、よろしければモルフォールの火種で
+ランタンに灯を点してみてくださいませ
+精霊竜のご加護がありますように――","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","16","Arthfael","Quest Dialogue"
+"0","0","<AREA 16>フィールドの《<ITEM 16003>》を採取できる採取ポイントの数が増えました
+＜雨天＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","17","The White Dragon","Quest Dialogue"
+"0","0","＜雨天＞が終了したため、<AREA 16>フィールドの
+《<ITEM 16003>》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう","","ui\00_message\quest\q21016023.gmd","\quest\q21016023.arc","q21016023.arc","18","The White Dragon","Quest Dialogue"
+"0","0","はいはい、ご飯かい！
+今日の特製メニューは、肉がとろけるシチューだよ
+――と言いたいところだったんだけど
+実は、まだ狩りに出た子たちが帰ってないんだよ","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","0","Shena","Quest Dialogue"
+"0","0","全く、食事係だってのに食事が出せないってのは
+陸に上がった魚みたいな気分だよ――
+いよいよ、食料もまともに得られないほど
+差し迫った状況になってきてるのかねぇ","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","1","Shena","Quest Dialogue"
+"0","0","アンタ、覚者さんだっけ？
+遠い所来てもらって悪いけど――
+特製メニューは諦めるか、それが嫌なら
+村の外の様子を見て来てくれないかい？","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","2","Shena","Quest Dialogue"
+"0","0","もしかしたらまた大量の魔物が湧いていて
+狩りに出た子たちが帰って来られなく
+なっているかもしれないからね
+その時は、やっつけちまっておくれ","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","3","Shena","Quest Dialogue"
+"0","0","覚者さん、悪いけど――
+狩りに出た子たちがまだ獲物を持ち帰ってないから
+今は特製メニューが出せないんだよ
+悪いんだけど、外の様子を見てきてくれないかい？","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","4","Shena","Quest Dialogue"
+"0","0","ナーヴさんの言いつけを守って、近場の動物や魚を
+獲るだけならもっと早く帰ってくるはず――
+あいつら、まぁた遺跡の方まで深追いしてんのかね","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","5","Shena","Quest Dialogue"
+"0","0","あぁ、覚者さん！
+さっき、狩りに出た子たちが帰ってきたよ
+やっぱり、魔物のせいで足止めをくらっていたみたい
+覚者さんが討伐してくれたおかげだよ、ありがとう！","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","6","Shena","Quest Dialogue"
+"0","0","それで――悪い知らせなんだけどね
+待ちくたびれていた男どもが
+作ったシチューを全部たいらげちゃって――","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","7","Shena","Quest Dialogue"
+"0","0","今日の特製メニューはもう無くなっちゃったんだ――
+本当にごめんね
+次はもっとたくさん作るようにするからさ","","ui\00_message\quest\q21017000.gmd","\quest\q21017000.arc","q21017000.arc","8","Shena","Quest Dialogue"
+"0","0","よお覚者さん、また会えてうれしいよ！
+あのデーモンを討伐したあんたやお仲間のことを
+悪く言う奴は、村にはもういない
+ほんと、これってすごいことだよ","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","0","Mavail","Quest Dialogue"
+"0","0","え？　俺の顔色が悪いって？
+それで話しかけてきてくれたのか――
+俺、そんなにひどい顔してたんだな","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","1","Mavail","Quest Dialogue"
+"0","0","あぁ――今あんたに会えて、本当に良かったよ
+聞いてくれ――デーモンなんて比じゃない
+とんでもねえヤツが、この村の外にいる","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","2","Mavail","Quest Dialogue"
+"0","0","覚者さん――あいつらを追い払ってくれないか
+ただ追い払うだけじゃない
+一度も倒れずに、圧倒的な力を見せつけてやるんだ
+あいつらに舐められたら――この村は終わりだ","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","3","Mavail","Quest Dialogue"
+"0","0","あいつらを追い払ってくれないか
+ただ追い払うだけじゃない
+一度も倒れずに、圧倒的な力を見せつけてやるんだ
+あいつらに舐められたら――この村は終わりだ","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","4","Mavail","Quest Dialogue"
+"0","0","このことは、村の奴らには言わないでくれ
+また、よそ者がどうとか、遺跡の呪いだとか
+騒ぎ出してうるさいだろうからな","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","5","Mavail","Quest Dialogue"
+"0","0","おお、見事に追い払って来てくれたんだな！
+やっぱりあんたはやると信じてたよ――
+これなら、デーモンなんかメじゃないな！","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","6","Mavail","Quest Dialogue"
+"0","0","あんな奴ら見たこと無いけど、やっぱり遺跡の――？
+だとしたら、良いか悪いかはともかく
+変革に向かってるってことなんだろうな――
+うん、俺は希望を捨てないぜ","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","7","Mavail","Quest Dialogue"
+"0","0","――そうか、ダメだったか
+だが、まぁ、なんとか追い払ったんだし
+しばらくの間は大丈夫だろう","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","8","Mavail","Quest Dialogue"
+"0","0","もし、また現れたら
+今度こそ叩きのめしてきてくれないかな
+――グリンデュアを、見捨てないでくれよな","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","9","Mavail","Quest Dialogue"
+"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","10","The White Dragon","Quest Dialogue"
+"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21017001.gmd","\quest\q21017001.arc","q21017001.arc","11","The White Dragon","Quest Dialogue"
+"0","0","デーモンの討伐も大詰めとなり
+日々多忙であることは重々承知――
+しかし、この由々しき事態を
+相談せずにはいられない","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","0","Ciarán","Quest Dialogue"
+"0","0","デーモンとは別に、このキンガルには
+闇の魔物たちが多く存在している
+彼らは古くから存在し、遺跡と同様に
+我々が畏怖してきた存在だ","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","1","Ciarán","Quest Dialogue"
+"0","0","それが最近、《<STG 439>》に
+集結し始めているという
+彼らが徒党を組むなど、今まで
+起こり得なかった事――","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","2","Ciarán","Quest Dialogue"
+"0","0","異国の覚者よ
+この度の異変に立ち向かい
+彼らの企みを潰してきてくれないだろうか","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","3","Ciarán","Quest Dialogue"
+"0","0","こんなことは考えたくもないが
+デーモンと影の魔物が手を組んでしまったら――
+そうなれば、覚者であっても歯が立つかどうか","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","4","Ciarán","Quest Dialogue"
+"0","0","当然、フィンダム全域にも害が及ぶだろう
+それだけは、必ず阻止せねばならないのだ
+《<STG 439>》へ集結しかけている
+魔物たちを、どうか――","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","5","Ciarán","Quest Dialogue"
+"0","0","闇の魔物たちを散らしてきてくれたか！
+これでしばらくはデーモンの討伐に注力できる――
+このキアランより、礼を言わせてもらおう","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","6","Ciarán","Quest Dialogue"
+"0","0","古き者たちに手を出したことについては
+いささか不安が残るが――
+これが最善だったのだ――そう信じるほかない","","ui\00_message\quest\q21017002.gmd","\quest\q21017002.arc","q21017002.arc","7","Ciarán","Quest Dialogue"
+"0","0","全く、よそ者が急激に増えたせいで
+この村の物資不足は深刻だ――","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","0","Nave","Quest Dialogue"
+"0","0","おい、貴様は――あぁ、そうか
+ボーデシアが言っていた墓荒らしか
+まったく、いくら実力があるといっても
+全ての者を災いから護れるわけでもあるまいに","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","1","Nave","Quest Dialogue"
+"0","0","――この村に滞在しているからには
+物資も消費しているのだろう？
+少しは、剣を揮うばかりでなく
+物資問題に貢献しようという気持ちは起きぬか","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","2","Nave","Quest Dialogue"
+"0","0","《<ITEM 15923>》が＜4＞個足りない――
+もし持ってきてくれれば、貴様の大好きな
+強者の情報をくれてやろう","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","3","Nave","Quest Dialogue"
+"0","0","《<ITEM 15923>》が＜4＞個足りない――
+もし持ってきてくれれば、貴様の大好きな
+強者の情報をくれてやろう","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","4","Nave","Quest Dialogue"
+"0","0","遺跡まで行けばたやすく入手できるものではあるが
+――この村で暮らす者に頼むわけにはいかない
+よそ者が呪いをかぶって
+代わりに調達してくれると助かるのだが","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","5","Nave","Quest Dialogue"
+"0","0","ほう――頼んだとおり、持ってきたとはな
+なるほど、噂通りの人物という訳か","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","6","Nave","Quest Dialogue"
+"0","0","考えなしに遺跡に近付くことは許し難いが
+このキンガルに貢献しようという姿勢は認めよう
+ならば――見返りの話だな","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","7","Nave","Quest Dialogue"
+"0","0","《<STG 865>》 に、
+とにかく巨大な影の魔物がいるらしい
+オイングスでも恐ろしくて語れないほどだそうだ
+貴様らは、そういう相手が好みなのだろう？","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","8","Nave","Quest Dialogue"
+"0","0","これで、借りは返したぞ
+あとは好きにするがいい","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","9","Nave","Quest Dialogue"
+"0","0","なんだ、もう一度だけ言うぞ
+《<STG 865>》に
+とにかく巨大な影の魔物がいるらしい","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","10","Nave","Quest Dialogue"
+"0","0","狩りの獲物を深追いして
+遺跡に近付いた馬鹿者からの情報だ
+もっとも、そいつは病んでこの世を去ったから
+確かめることはできないが――","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","11","Nave","Quest Dialogue"
+"0","0","――なんだ、倒したと？
+そうか――","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","12","Nave","Quest Dialogue"
+"0","0","別に驚きはしない、貴様の実力の噂は
+嫌というほど耳に入ってくるからな
+――だがまぁ
+これで、あいつも浮かばれることだろう","","ui\00_message\quest\q21017003.gmd","\quest\q21017003.arc","q21017003.arc","13","Nave","Quest Dialogue"
+"0","0","よう覚者さん！
+あんたのこと、マヴェイル兄貴からよーく聞いてるぜ
+あの《<STG 439>》に入ったんだろ？","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","0","Conan","Quest Dialogue"
+"0","0","ずいぶん凶暴な魔物も多かったって聞いたけど――
+そこんとこ、どうなんだ？
+探索する分には、一般人でも入れるくらいか？","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","1","Conan","Quest Dialogue"
+"0","0","いやぁ、実はさ――兄貴と話してたんだけど
+あんたらのおかげでこの村も、今までの閉鎖的な
+体質から変わろうとしてるだろ","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","2","Conan","Quest Dialogue"
+"0","0","だから、これからは遺跡と共存していくべき
+なんじゃないかと思ってな
+つまり――遺跡はこの村の名物になるってことさ！
+な、これって良い考えじゃないか？","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","3","Conan","Quest Dialogue"
+"0","0","で、足掛かりとして、店でも遺跡の品を扱いたいんだ
+それで悪いんだけど、《<ITEM 15979>》を
+いくらか仕入れてきてくれないか？
+ちゃんと礼はするから、頼むよ！","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","4","Conan","Quest Dialogue"
+"0","0","これからは遺跡と共存していくべきなんだ！
+だから店でも遺跡の品を扱いたくてさ
+覚者さんに仕入れを頼みたいんだよ","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","5","Conan","Quest Dialogue"
+"0","0","ひとまず、《<ITEM 15979>》を
+いくつか頼むよ
+グリンデュアを訪れた旅人に大売れするはずさ
+土産物と言えばやっぱり、かさばらない物だもんな！","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","6","Conan","Quest Dialogue"
+"0","0","おお、これが！
+――うーん、なんか小汚いな
+川の水でよく洗えば――と、まあいいや","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","7","Conan","Quest Dialogue"
+"0","0","協力してくれてありがとうな！
+で――次の計画なんだけど
+やっぱり、名物となるからには
+遺跡にいろんな旅人が来る訳だろ？","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","8","Conan","Quest Dialogue"
+"0","0","となると、やっぱり安全じゃないとな！
+――もう言いたいことは分かるよな？
+覚者さん、あんたの得意分野だぜ！","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","9","Conan","Quest Dialogue"
+"0","0","《<STG 863>》の危険な魔物を
+片付けてきてほしいんだ
+やってくれるだろ？
+これが最後の仕事だ――頼むよ","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","10","Conan","Quest Dialogue"
+"0","0","覚者さん、遺跡を名物にするからには
+中は安全じゃないといけないんだ
+そこで、覚者さんに協力して欲しいのさ","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","11","Conan","Quest Dialogue"
+"0","0","《<STG 863>》の危ない魔物を
+片付けて来てほしいんだ――
+あんたの得意分野だろ？　頼むぜ","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","12","Conan","Quest Dialogue"
+"0","0","うーん――
+遺跡の中の案内人はスローニャがいいだろうなぁ
+飯処はメーヴとシェナで――
+くくく、忙しくなりそうだ！","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","13","Conan","Quest Dialogue"
+"0","0","おお、覚者さん――やってきてくれたんだな
+ありがとう、助かるぜ！
+あんたも遺跡が一般開放されるようになったら
+ぜひ武器をしまって遊びに来てくれよな！","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","14","Conan","Quest Dialogue"
+"0","0","さっき、話を聞いていたナーヴと
+ボーデシアに、こっ酷く説教されたが――
+俺は諦めない！
+いつか、絶対に実現させてみせるぜ！","","ui\00_message\quest\q21017004.gmd","\quest\q21017004.arc","q21017004.arc","15","Conan","Quest Dialogue"
+"0","0","<AREA 17>フィールドの《<ITEM 15953>》を採取できる採取ポイントの数が増えました
+＜5時から10時＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","0","The White Dragon","Quest Dialogue"
+"0","0","＜5時から10時＞が終了したため、<AREA 17>フィールドの《<ITEM 15953>》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","1","The White Dragon","Quest Dialogue"
+"0","0","近頃、貴君が村の者たちに声をかけ
+困りごとを聞いて回っているとか――？
+実は、俺からも頼みたいことがあるのだ","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","2","Ciarán","Quest Dialogue"
+"0","0","このキンガルでは、鉱物資源がよく取れ
+村の主要な収入源ともなっている
+だが、最近――《<ITEM 15953>》という鉱石が
+危険な魔物の巣材となっていることが判明した","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","3","Ciarán","Quest Dialogue"
+"0","0","よって、村の外の《<ITEM 15953>》をできるだけ
+収集してきてもらいたいのだ
+村の若者に行かせると、遺跡に近付こうとする者が
+必ず出てくるだろうからな――","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","4","Ciarán","Quest Dialogue"
+"0","0","貴君にとっても益のある話だろう
+鉱石の採掘に適した時間帯――朝日が昇る頃の
+＜5時から10時＞に仲間たちとこの建物内へ
+来てもらえるならば、詳しく案内しよう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","5","Ciarán","Quest Dialogue"
+"0","0","魔物の巣材となっている《<ITEM 15953>》――
+採掘には朝の＜5時から10時＞の間が最も適している
+一度に大量に掘ろうとするならば、この時間しかない","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","6","Ciarán","Quest Dialogue"
+"0","0","共に行く仲間たちとこの建物内へ
+朝日が昇る＜5時から10時＞の間に
+来てもらえるならば詳しく案内しよう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","7","Ciarán","Quest Dialogue"
+"0","0","おお、来てくれたか
+それでは、《<ITEM 15953>》の
+採掘について説明しよう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","8","Ciarán","Quest Dialogue"
+"0","0","《<ITEM 15953>》は、魔物が活発に
+活動する前である＜5時から10時＞の間、
+通常より多くの地点から採掘可能だ
+その時間を過ぎてしまうと魔物が掘り尽くしてしまい
+採掘地点の数は通常通りとなるだろう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","9","Ciarán","Quest Dialogue"
+"0","0","あぁ――貴君らを信用していない訳ではないが
+今回の成果の証として
+《<ITEM 15953>》を＜5＞個
+このキアランの元に持ってきてくれるよう頼む","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","10","Ciarán","Quest Dialogue"
+"0","0","《<ITEM 15953>》は、＜5時から10時＞の
+朝の間のみ多くの地点から採掘することができる
+魔物に採り尽くされる前に、こちらが
+できる限り採掘しておいてほしいのだ","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","11","Ciarán","Quest Dialogue"
+"0","0","採掘が終わったら
+《<ITEM 15953>》を＜5＞個持ってきてくれ
+もちろん、それを証として報酬を支払おう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","12","Ciarán","Quest Dialogue"
+"0","0","ふむ、たくさん採掘してくれたようだな
+これでしばらくは村周辺に
+魔物が巣食うこともないだろう","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","13","Ciarán","Quest Dialogue"
+"0","0","先祖から代々受け継いできたキンガルの土地を
+異国の者の手に委ねるのは、いささか不安では
+あったが――貴君ほどの実績がある者ならば
+そう心配することもなかったな","","ui\00_message\quest\q21017005.gmd","\quest\q21017005.arc","q21017005.arc","14","Ciarán","Quest Dialogue"
+"0","0","<AREA 17>フィールドの《<ITEM 15955>》を採取できる採取ポイントの数が増えました
+＜晴天＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","0","The White Dragon","Quest Dialogue"
+"0","0","＜晴天＞が終了したため、<AREA 17>フィールドの
+《<ITEM 15955>》の採取ポイント数が通常に戻りました
+納品し、クエストを終了しましょう","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","1","The White Dragon","Quest Dialogue"
+"0","0","ついに遺跡の封印は解かれてしまった――
+今まで我々は、古代文明に畏敬の念を抱いていたが
+もはや、それだけではすまされない状況だ","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","2","Ciarán","Quest Dialogue"
+"0","0","しかし我々は、貴君らにこの村の命運を
+託すと決めたのだ
+よって――貴君らの旅路が少しでも
+楽になるよう、協力させてもらおう","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","3","Ciarán","Quest Dialogue"
+"0","0","このキンガルには旧文明の頃から
+崇められてきた《<ITEM 15955>》という宝石がある
+それは非常に美しく、キンガルが誇る
+多彩な鉱石の中でも最上の品","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","4","Ciarán","Quest Dialogue"
+"0","0","それを特にたくさん採掘できる条件と
+場所をお伝えしよう
+興味があるならば＜晴天＞時に
+採掘を希望する全員で、この拠点に集まってくれ","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","5","Ciarán","Quest Dialogue"
+"0","0","このキンガルには旧文明の頃から
+崇められてきた《<ITEM 15955>》という宝石がある
+それは非常に美しく、キンガルが誇る
+多彩な鉱石の中でも最上の品","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","6","Ciarán","Quest Dialogue"
+"0","0","特にたくさん採掘するための
+条件と場所をお伝えしよう――
+＜晴天＞になったら採掘を希望する全員を
+この拠点内に集めてくれ","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","7","Ciarán","Quest Dialogue"
+"0","0","採掘に向かう者はこれで全員だろうか？
+――よし、では説明しよう
+かの宝石《<ITEM 15955>》は＜晴天＞時にのみ
+より多くの地点から採掘できる特性がある","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","8","Ciarán","Quest Dialogue"
+"0","0","だが、その時を逃せば採掘地点の数は
+元に戻ってしまうため
+天候には十分気を付けられよ","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","9","Ciarán","Quest Dialogue"
+"0","0","かの宝石は村の重要な交易品ともなっている
+もし首尾よく大量に採掘できたなら
+＜5＞個ほどこの村への納品を頼みたい
+当然、その分の礼はさせてもらおう","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","10","Ciarán","Quest Dialogue"
+"0","0","もし質の良い《<ITEM 15955>》を
+大量採掘するならば、＜晴天＞の間に行くべきだ
+その時を逃せば、採取地点数は普段通りに戻ってしまう","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","11","Ciarán","Quest Dialogue"
+"0","0","＜晴天＞の間、採掘に励んだ後は
+このグリンデュア・セントラムまで
+＜5＞個ほど納品を頼みたい
+当然、その分の礼はさせてもらおう","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","12","Ciarán","Quest Dialogue"
+"0","0","おぉ、随分とたくさん採る事ができたようだな
+それだけあれば、売って資金とするにせよ
+武具の作成に使うにせよ十分なはず
+――デーモン討伐の件、心に留め置いてほしい","","ui\00_message\quest\q21017006.gmd","\quest\q21017006.arc","q21017006.arc","13","Ciarán","Quest Dialogue"
+"0","0","あ、覚者さん、この間はありがとう！
+初めてお話した他の村の人だったから――
+助けてくれて、本当にホッとしたの","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","0","Adelin","Quest Dialogue"
+"0","0","だけどね――また族長のキアランさんが
+何か考え込んでるみたい
+最近開いた《<STG 829>》のことだって","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","1","Adelin","Quest Dialogue"
+"0","0","シェナさんが文句言ってたの――
+「考え出すと他の仕事が手につかなくて困る」って
+族長が決めなきゃいけないこと、いっぱいあるのに","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","2","Adelin","Quest Dialogue"
+"0","0","――ってマヴェイルさんが怒ってたんだけどね
+ね、覚者さま――
+族長の悩みの種を
+解決してあげられない？","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","3","Adelin","Quest Dialogue"
+"0","0","多分、《<STG 829>》の方に
+また魔物がいっぱいいるんだと思うの
+覚者さま――おねがいしてもいい？","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","4","Adelin","Quest Dialogue"
+"0","0","キアランさんの悩みの種を
+解決してあげられないかな？
+多分、《<STG 829>》の方に
+また魔物がいっぱいいるんだと思うの","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","5","Adelin","Quest Dialogue"
+"0","0","あのね――ないしょのおはなしだけど
+キアランさん、ときどき考え込みながら
+いびきをかいていることがあるの！","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","6","Adelin","Quest Dialogue"
+"0","0","疲れてるのかな――
+一番えらい人って、やっぱり大変なんだね","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","7","Adelin","Quest Dialogue"
 "0","0","あ、覚者さん！
-覚者さんが獣の主を倒した後、村では
-すごい騒ぎだったよ
-――まぁ、話を触れて回ったのは私なんだけど","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","9","Etna","Quest Dialogue"
-"0","0","――ねえ白竜の覚者って、皆そんなに強いの？
-さっきも――いかにも歴戦の戦士、って感じの
-覚者さん達のお仲間を見かけたけど――
-冒険に出てから、ずっと姿を見てないの","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","10","Etna","Quest Dialogue"
-"0","0","とても強そうだから平気だと思ったんだけど
-さすがに心配になってきたところ――
-だけど、覚者がそんなに強いのなら
-心配しなくてよかったかな？","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","11","Etna","Quest Dialogue"
-"0","0","あの人は、《<STG 860>》へ向かったけど
-気になるなら、様子を見てきてくれないかな――
-なんだか嫌な予感がするの","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","12","Etna","Quest Dialogue"
-"0","0","もしあの人を見つけたら、
-できるだけ早く安全を確保してあげてね
-元気に帰って来られたら――
-その分、ちゃんとお礼はするつもりよ","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","13","Etna","Quest Dialogue"
-"0","0","冒険に出てから帰って来ない覚者なら
-《<STG 860>》へ向かったけど――
-覚者がそんなに強いなら、無用の心配だったかな","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","14","Etna","Quest Dialogue"
-"0","0","だけど、万が一ってこともあるし――
-一応、様子を見てきてくれるかな
-覚者さんなら、私を助けてくれたように
-その人のことも助けてくれるよね？","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","15","Etna","Quest Dialogue"
-"0","0","俺も、ヴァネッサ副隊長の元で
-日々腕を磨いているんだからな！","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","16","Alan","Quest Dialogue"
-"0","0","クッ――ま、まだ平気だ！","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","17","Alan","Quest Dialogue"
-"0","0","うわぁ！
-もうダメだ――少し休みたい――","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","18","Alan","Quest Dialogue"
-"0","0","はぁ――助けられたな、礼を言う――
-正直、この大陸はなかなか厳しいな
-覚者隊としても、気が引き締まる思いだ――","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","19","Alan","Quest Dialogue"
-"0","0","ところで、こんな場所で何してたんだ？
-偶然通りかかったって訳でもなさそうだし","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","20","Alan","Quest Dialogue"
-"0","0","――え？　エトナって――
-ああ、あの女の子に聞いたのか","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","21","Alan","Quest Dialogue"
-"0","0","魔物のことをいろいろ教えてくれただけじゃなくて
-命まで救われたってことか――
-うーん、フィンダムにこんな大きな借りを
-作っちまうとはな","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","22","Alan","Quest Dialogue"
-"0","0","クソ、動けねえ――
-こんな遠い――辺境の地で俺は死ぬのか――
-ああ、ヴァネッサ副隊長――","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","23","Alan","Quest Dialogue"
-"0","0","あれ――俺は――助かったのか？
-良かっ――イテテ！","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","24","Alan","Quest Dialogue"
-"0","0","恥ずかしながら、しばらく動けそうにない
-俺は少しここで休んでいくよ――
-お前は先に戻ってていいぞ","","ui\00_message\quest\q21015013.gmd","\quest\q21015013.arc","q21015013.arc","25","Alan","Quest Dialogue"
-"0","0","よその覚者が、こんな場所へ何しに来た？","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","0","Corentin","Quest Dialogue"
-"0","0","なに？　私を助けに来ただと？
-無用だ、必要無い
-――と言いたいところだが","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","1","Corentin","Quest Dialogue"
-"0","0","修業とは極限まで身を追い込むもの――
-しかし、少々追い込み過ぎたようでな
-かなり消耗している所に、強敵が現れたのだ
-いつもならあの程度、一人でいなせるのだが――","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","2","Corentin","Quest Dialogue"
-"0","0","申し訳ないが、手伝ってもらえると助かる
-私もできるだけ戦うが――
-あまり長くはもたないだろう
-急いで片付けるよう、協力し合おうぞ","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","3","Corentin","Quest Dialogue"
-"0","0","そうか――本当に安心した、感謝の言葉も無い
-それにしても、あいつが素直に認める相手なんて――
-この村でも数えるくらいしかいないだろう","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","4","Wine","Quest Dialogue"
-"0","0","いや、当然か――タラスクを打ち倒した戦士だ
-そんな偉大な戦士にこんな頼みを聞いてもらったとは
-――今考えてみれば、なんと恐れ多い","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","5","Wine","Quest Dialogue"
-"0","0","コランタンめ、そんな事になっても
-まだ憎まれ口を――ヤツらしいな
-人より少し勝気なだけで、悪気があるのではない","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","6","Wine","Quest Dialogue"
-"0","0","そんなやつでも、友人としては悪い奴ではないのだ
-命だけでも、助けてくれて感謝する","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","7","Wine","Quest Dialogue"
-"0","0","これは、白き竜の覚者殿――
-この度のご活躍、誠に敬服いたした
-もし良ければ、近いうちに
-ぜひ稽古でもつけていただきたい","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","8","Wine","Quest Dialogue"
-"0","0","ところで、私に何か――
-たしかに困り事は、無くも無いが
-しかし、貴殿にそれを聞いていただくなど――
-――いや、聞かれた手前、甘えさせていただくべきか","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","9","Wine","Quest Dialogue"
-"0","0","実は、昨晩からコランタンの姿が見当たらない
-周辺警備任務の後別れてから、今この時まで一度もだ
-《<STG 827>》の方で見かけたという
-目撃証言はあるようだが――","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","10","Wine","Quest Dialogue"
-"0","0","こういったことは、村とは関係の薄い貴殿に頼みたい
-コランタンも腕は立つが、万一タラスクと
-鉢合わせでもしたら――
-と、とにかく――急いで見つけて来てくれないか","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","11","Wine","Quest Dialogue"
-"0","0","コランタンのやつが、昨晩あたりから見当たらないんだ
-《<STG 827>》の方で
-見たという証言もある――
-貴殿に頼むのも筋違いかもしれぬが、探してきてほしい","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","12","Wine","Quest Dialogue"
-"0","0","村とは関係の薄い貴殿だからこそ、自由に動けて
-ピサル殿や皆に迷惑がかかるような事も無い
-戦士仲間としてだけでなく、友人として心配して
-いるのだ、ヤツに会ったらそう伝えてくれ","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","13","Wine","Quest Dialogue"
-"0","0","ずいぶんと腕が立つと思ったら――
-墓守や獣の王を倒したという覚者ではないか！
-なるほど、飲み込めた――
-ワイニが貴殿を寄越したのだな？","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","14","Corentin","Quest Dialogue"
-"0","0","ヤツめ――余計なことを","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","15","Corentin","Quest Dialogue"
-"0","0","――いや、誰よりも村に尽くしてくれている相手に
-こんな口を利くべきではなかった――お詫びする
-危ない所を救ってくれたこと――ありがとう","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","16","Corentin","Quest Dialogue"
-"0","0","実は、ワイニの奴がメキメキと最近腕を上げていてな
-これではいかんと修行に来たのだ
-村の力になりたくてやった事が
-逆に迷惑になるとはな――面目ない","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","17","Corentin","Quest Dialogue"
-"0","0","ぐっ――動けないとは、なんと情けない
-よそ者にこんな姿を晒すことになるとは――
-ピサル殿に合わせる顔が無い――","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","18","Corentin","Quest Dialogue"
-"0","0","――なんだと、ワイニがお前をここへ？
-余計な事を――だが命だけは助かった
-今、村に余計な動揺を与えるのは避けたいからな
-――フン、礼はしよう","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","19","Corentin","Quest Dialogue"
-"0","0","このような奴ら、
-普段なら一捻りなのだが――","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","20","Corentin","Quest Dialogue"
-"0","0","ぐっ――助太刀、感謝する
-私はまだ動けるぞ――","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","21","Corentin","Quest Dialogue"
-"0","0","くそ――力及ばず、ここまでか――","","ui\00_message\quest\q21015014.gmd","\quest\q21015014.arc","q21015014.arc","22","Corentin","Quest Dialogue"
-"0","0","聞いたわよ、あなた大活躍なんだってね！
-ねぇ、あなたの実力ならヤツにも
-勝てるかもしれないわ","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","0","Evey","Quest Dialogue"
-"0","0","ヤツも昔は、村の若者の腕試し相手として
-愛されていた魔物だったんだけど――
-数々の戦士と戦ったおかげで鍛えられちゃって
-――もう手に負えないのよね","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","1","Evey","Quest Dialogue"
-"0","0","腕に覚えがあるのなら、ぜひ挑んでみてちょうだい
-――せっかくだし、村の腕試しの習慣に従って
-一度も膝をつかずに倒してきてよ！
-とびきりの報酬を用意するわ","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","2","Evey","Quest Dialogue"
-"0","0","ヤツは、昔から《<STG 827>》に
-暮らしているの
-良い結果を期待しているわね","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","3","Evey","Quest Dialogue"
-"0","0","もう村には、ヤツを倒せるほどの戦士がいないの
-腕に覚えがあるのなら、ぜひ挑んでみてちょうだい
-《<STG 827>》がヤツの住処よ","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","4","Evey","Quest Dialogue"
-"0","0","村の腕試しの習慣に従って
-一度も膝をつかずに倒してきてくれたら
-とびきりの報酬を用意するわよ！","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","5","Evey","Quest Dialogue"
-"0","0","本当にやりとげてくれたのね！
-あなた――やっぱりダナに腰を落ち着けたら？
-村のみんなに稽古でもつけてあげてよ","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","6","Evey","Quest Dialogue"
-"0","0","子供の頃から親しんだものが無くなっていって
-村の状況がどんどん変わっていくのは悲しいけど――
-あなたのような変化なら大歓迎だわ
-ね、今度墓守との死闘の話を聞かせてよ！","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","7","Evey","Quest Dialogue"
-"0","0","そう――やられてしまったの――
-まぁ、倒せただけでも十分よね！
-そう気を落とすことないわ","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","8","Evey","Quest Dialogue"
-"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","9","The White Dragon","Quest Dialogue"
-"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21015015.gmd","\quest\q21015015.arc","q21015015.arc","10","The White Dragon","Quest Dialogue"
-"0","0","傷ついた魔物の痕跡は
-住処へと続いているようだ――","","ui\00_message\quest\q21015016.gmd","\quest\q21015016.arc","q21015016.arc","0","The White Dragon","Quest Dialogue"
-"0","0","ネェネェ、""お願い""あるの！
-アナタ、すごく強い――エナン、言ってたダカラ！","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","0","Darrin","Quest Dialogue"
-"0","0","《<STG 861>》すごくすごく良いモノある！
-アナタじゃない強い人に聞いた！
-ダカラ、ダリンも行きたい！","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","1","Darrin","Quest Dialogue"
-"0","0","ダケド危ないマモノたくさん――
-アナタ、《<STG 861>》中まで
-やっつけて道開ける、そしたらお礼あげるヨ！","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","2","Darrin","Quest Dialogue"
-"0","0","《<STG 861>》すごく良いモノある！
-アナタ、やっつけて道開ける
-そしたらダリンも《<STG 861>》行ける
-とっても感謝ヨ！","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","3","Darrin","Quest Dialogue"
-"0","0","これ、エナンに内緒ヨ
-勝手に外出る、怒られるダカラ！","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","4","Darrin","Quest Dialogue"
-"0","0","ホントにやっつけてきた！
-アナタすごく強い！　とっても嬉しい！","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","5","Darrin","Quest Dialogue"
-"0","0","でもやっぱり、エナンの言うこと聞く――
-ワタシ、すごく良いモノいらないヨ
-ダリンだけ良いモノ持ってるの――ズルいダカラ
-ミンナとケンカになると、悲しいデショ？","","ui\00_message\quest\q21015017.gmd","\quest\q21015017.arc","q21015017.arc","6","Darrin","Quest Dialogue"
-"0","0","傷ついた魔物の痕跡は、
-住処へと続いているようだ――","There are traces from the wounded monster
-It seems to lead towards its den.","ui\00_message\quest\q21015018.gmd","\quest\q21015018.arc","q21015018.arc","0","The White Dragon","Quest Dialogue"
-"0","0","傷ついた魔物の痕跡は、
-住処へと続いているようだ――","There are traces from the wounded monster
-It seems to lead towards its den.","ui\00_message\quest\q21015019.gmd","\quest\q21015019.arc","q21015019.arc","0","The White Dragon","Quest Dialogue"
-"0","0","あぁ――こんなところに人が来るなんて！
-幸運の女神が微笑んでくれたんだ
-助かった――！","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","0","Ludovika","Quest Dialogue"
-"0","0","おっと――驚かせて悪かったね
-ねぇキミ、お礼はするから私を助けてくれない？
-この場を切り抜けたいんだけど、もうクタクタでね
-私と一緒に戦ってほしいんだ","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","1","Ludovika","Quest Dialogue"
-"0","0","ほら――臭いを嗅ぎつけて魔物が寄ってきた
-私はもうあんまり長く戦えなさそうだからね
-急いで片付けよう！","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","2","Ludovika","Quest Dialogue"
-"0","0","やはりそこにいましたか
-やれやれ、手遅れにならなくて本当に良かった
-詫びの品など、必要ないのですが――","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","3","Enan","Quest Dialogue"
-"0","0","ワシは、いくらお客人のご友人と言えども
-心に悪を抱く者をもてなしたりはしません
-その程度見抜く目は持ち合わせているつもりです","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","4","Enan","Quest Dialogue"
-"0","0","ともかく、面倒に巻き込んで申し訳ない
-あなた方のような外の住民なら――
-ワシらはいつでも歓迎しますぞ","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","5","Enan","Quest Dialogue"
-"0","0","まぁ――
-そんなことが――
-命があって、なによりです","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","6","Enan","Quest Dialogue"
-"0","0","外の世界は、恐ろしいことだらけ
-他人の言葉の裏を考えてしまうのは
-外の住民ならば仕方のないことです
-そうしなければ生きていけないのですから","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","7","Enan","Quest Dialogue"
-"0","0","ワシらにはその必要がありませんからな――
-その点については、彼女も居心地の良さを
-感じてくれていたと思ったのですがね
-このような結果になり残念です","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","8","Enan","Quest Dialogue"
-"0","0","おや、お客人
-お仲間の女性はお元気ですかな？
-あれから音沙汰が無いので心配しておりました","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","9","Enan","Quest Dialogue"
-"0","0","――え？　誰のこと、って――
-お客人のご友人ではありませんでしたかな
-あなたがたと同じような不思議な装いの方が
-しばらくここに滞在されていたのです","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","10","Enan","Quest Dialogue"
-"0","0","お客人には世話になりましたからな
-ご友人だと思い、おもてなししていたのですが――
-つい先日、突然姿が消えたので心配していました","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","11","Enan","Quest Dialogue"
-"0","0","探しに行かれるのでしたら《<STG 861>》へ
-行くと良いかもしれませんぞ
-その地の話を聞いた途端
-目を輝かせておりましたからな","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","12","Enan","Quest Dialogue"
-"0","0","探しに行かれるのなら、お急ぎください
-いなくなってからもう長い事経ちます――
-おそらく、かなり消耗している事でしょう","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","13","Enan","Quest Dialogue"
-"0","0","あの旅人は恐らく《<STG 861>》へ
-向かったのでしょう
-その地の話を聞いた途端
-目を輝かせておりましたからな","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","14","Enan","Quest Dialogue"
-"0","0","行っても何もないから、と諫めたのですが
-ワシの話も聞かずに行ってしまうとは――
-いやはや、よその方とはやはり
-根本的に考え方が異なりますな","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","15","Enan","Quest Dialogue"
-"0","0","はぁ、危なかった
-キミの実力と、キミに会えた私の幸運に
-感謝だね","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","16","Ludovika","Quest Dialogue"
-"0","0","え？　エナン爺が私を？
-そっか、心配してくれてたんだ
-この洞窟には何もない、って言うから
-私、お宝でも隠しているんだろうと思って――","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","17","Ludovika","Quest Dialogue"
-"0","0","だけど危険な魔物以外、本当に何もなかった
-あんなに真面目で正直な人を騙すような
-真似して私、最低だ――","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","18","Ludovika","Quest Dialogue"
-"0","0","キミ、助けてくれてありがとう
-私はここでエナン爺にお詫びの品でも
-作っていくから、先に帰ってていいよ","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","19","Ludovika","Quest Dialogue"
-"0","0","む――ここは？
-魔物の腹の中――じゃなさそうだね","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","20","Ludovika","Quest Dialogue"
-"0","0","エナン爺がキミを――？
-そっか、騙すように抜け出してきて
-悪いことしちゃったな――
-罰が当たったのかも","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","21","Ludovika","Quest Dialogue"
-"0","0","キミ――エナン爺に報告に行くんだろ？
-謝ってた、って伝えてくれないかな――
-私はまだ動けそうにないからさ
-頼むよ","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","22","Ludovika","Quest Dialogue"
-"0","0","さぁ、キミの実力を見せてくれよ！","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","23","Ludovika","Quest Dialogue"
-"0","0","うぅ――まさか
-私を見捨てたりしないだろうね","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","24","Ludovika","Quest Dialogue"
-"0","0","せっかくフィンダムまで来たのに
-こんな――ところで――","","ui\00_message\quest\q21015020.gmd","\quest\q21015020.arc","q21015020.arc","25","Ludovika","Quest Dialogue"
-"0","0","聞いたぞ、お前！
-マヌンの奴らに認められたんだって？
-見かけによらず、スゲーんだな！","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","0","Dewi","Quest Dialogue"
-"0","0","やっぱり、フィンダムならどこだろうと
-力を示せば認められるんだ――
-オレも、はやく一人前の戦士になりたいな","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","1","Dewi","Quest Dialogue"
-"0","0","実はさ――《<STG 901>》に
-新しいピクシーの王が現れたらしいんだ
-オレ、そんな奴一発で倒してやるって
-エトナに大口叩いちゃったんだ","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","2","Dewi","Quest Dialogue"
-"0","0","こんな頼みごとするなんて
-村の皆に聞かれたら笑われるだろうけど――
-内緒で、俺の代わりに倒してきてくれないか？
-エトナに言った通り、一度もやられず一発でさ！","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","3","Dewi","Quest Dialogue"
-"0","0","俺の代わりに《<STG 901>》の
-ピクシーの王を倒してきてくれ！
-ちゃんと宣言通り、一度もやられず一発でな！","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","4","Dewi","Quest Dialogue"
-"0","0","も、もちろんエトナのヤツには内緒だぞ！
-あいつにばれたら村中に言いふらされる――","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","5","Dewi","Quest Dialogue"
-"0","0","うわ――本当にやってきてくれたのか？
-スゲー！　あんた本当にすごいな！
-エトナも何も言ってなかったし
-ちゃんと約束守ってくれたんだな！","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","6","Dewi","Quest Dialogue"
-"0","0","へへっ――
-これでエトナに良い顔できるぞ！
-あとは俺が早いとこ
-ホントに強い戦士になれば完璧だな！","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","7","Dewi","Quest Dialogue"
-"0","0","え！　ピクシーの王にやられちゃったって
-そんな――話と違うじゃんか！
-ああ、こんなんじゃエトナに馬鹿にされる――","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","8","Dewi","Quest Dialogue"
-"0","0","行ってくれたお礼はするけどさ――
-オレのメンボク丸潰れだよ！
-村の危機とか――大事な時はもっと頑張ってくれよ！","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","9","Dewi","Quest Dialogue"
-"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","10","Archibald","Quest Dialogue"
-"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21015021.gmd","\quest\q21015021.arc","q21015021.arc","11","Archibald","Quest Dialogue"
-"0","0","タラスクの件でのあんたの勇猛さには
-全く恐れ入ったよ――
-うちの戦士たちも、あんたに負けたくない一心で
-いつになく鍛練に励んでるよ","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","0","Razanailt","Quest Dialogue"
-"0","0","だけど、全て丸く収まったとも言えなくてね
-――ほら、聖域が浄化されただろう？
-それで魔物たちが、聖域に殺到してるのさ
-あぶれた魔物が旅人を襲ったりしているんだよ","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","1","Razanailt","Quest Dialogue"
-"0","0","最近はタラスクのせいで
-村の外とのやり取りができなかったから
-これ以上交易を滞らせたくなくてね","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","2","Razanailt","Quest Dialogue"
-"0","0","あんたが――もしまだダナのために働いてもいいと
-言うなら、そいつらを退治してきてほしいんだ
-《<SPOT 880>》の奥にいるらしい
-やつらの親玉もろともね","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","3","Razanailt","Quest Dialogue"
-"0","0","それさえ終われば、きっと全てが元通りのはずさ
-大仕事になるだろうけど、やってくれるかい？","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","4","Razanailt","Quest Dialogue"
-"0","0","聖域が浄化されたせいか
-魔物たちが聖域に殺到してるみたいでね
-あぶれた魔物が旅人を襲ったりしてるんだよ","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","5","Razanailt","Quest Dialogue"
-"0","0","あんたが――もしまだダナのために働いてもいいと
-言うなら、そいつらを退治してきてほしいんだ
-《<SPOT 880>》の奥にいるらしい
-やつらの親玉もろともね","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","6","Razanailt","Quest Dialogue"
-"0","0","聖域が浄化されたのは良いことだけど
-どこも似たような問題を抱えてるみたい
-――うん、今が踏ん張り時ってことだね！
-覚者さんも、もう少しだけ付き合っとくれよ！","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","7","Razanailt","Quest Dialogue"
-"0","0","ああ、やってきてくれたんだね！
-いつも悪いね、本当に感謝するよ","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","8","Razanailt","Quest Dialogue"
-"0","0","さて――これで、ダナも完璧にとは言わないけど
-いつも通りに戻ったわけだね
-どう？　最近はあんたもダナにいて
-居心地の悪さなんて感じないだろう？","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","9","Razanailt","Quest Dialogue"
-"0","0","もうあんたのことを認めない輩は
-村の中で誰一人いない――
-あんたが認めさせたのさ、その腕で！
-ダナのこと、第二の故郷と思っていいからね！","","ui\00_message\quest\q21015022.gmd","\quest\q21015022.arc","q21015022.arc","10","Razanailt","Quest Dialogue"
-"0","0","あぁ、なるほどね
-《<ITEM 16001>》のことかい
-――え、知らないって？","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","0","Razanailt","Quest Dialogue"
-"0","0","あら、あんたに伝え忘れてたとはねぇ――
-最近、真夜中頃に地鳴りがよくあるだろう？
-そのせいで《<ITEM 16001>》って鉱石が
-少しの間採掘しやすくなっているみたいなのさ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","1","Razanailt","Quest Dialogue"
-"0","0","あんたも採りに行きたいのかい？
-だったら、悪いんだけど
-＜23時から2時＞の間に、行きたい全員を
-この拠点に集めてもう一度話しかけてくれる？","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","2","Razanailt","Quest Dialogue"
-"0","0","他にも採りたいって人がたくさんいてね
-バラバラに説明してると大変なのさ
-悪いね、協力してくれて助かるよ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","3","Razanailt","Quest Dialogue"
-"0","0","最近、真夜中頃に地鳴りがよくあるだろう？
-そのせいで《<ITEM 16001>》って鉱石が
-少しの間採掘しやすくなっているみたいなのさ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","4","Razanailt","Quest Dialogue"
-"0","0","あんたも採りに行きたいって言うんなら
-＜23時から2時＞の間に、行きたい全員を
-この拠点に集めてもう一度話しかけてくれるかい？","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","5","Razanailt","Quest Dialogue"
-"0","0","本当は村の外にばら撒きたくないんだけどね
-モルフォールあたりには、筆記石としての
-需要が高い交易品だからさ――
-ま、世話になっちまってるし仕方ないね","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","6","Razanailt","Quest Dialogue"
-"0","0","ちゃんと指定の時刻に集めてくれたんだね？
-ありがとう、いちいち説明する手間が省けたよ
-それじゃ――あたしも応えなくちゃね","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","7","Razanailt","Quest Dialogue"
-"0","0","＜23時から2時＞の間――
-タラスクの地鳴りが酷くなる真夜中に
-《<ITEM 16001>》がより多くの地点から
-採れるようになるらしいんだ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","8","Razanailt","Quest Dialogue"
-"0","0","ただし、その時間を過ぎるとまた地面が固まって
-採れる数はいつも通りに戻ってしまうから
-時間には十分気を付けるんだよ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","9","Razanailt","Quest Dialogue"
-"0","0","あ――それから、ちょっとお願いがあるんだけど
-もしたくさん採れたら＜5＞つほど
-分けてくれないかい？","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","10","Razanailt","Quest Dialogue"
-"0","0","筆記石として、手触りと書き心地が滑らかってんで
-モルフォールで人気の高い交易品なのさ
-よろしく頼んだよ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","11","Razanailt","Quest Dialogue"
-"0","0","＜23時から2時＞の間――
-タラスクの地鳴りが酷くなる真夜中に
-《<ITEM 16001>》がより多くの地点から
-採れるようになるそうなんだ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","12","Razanailt","Quest Dialogue"
-"0","0","それから、もしたくさん採れたら
-＜5＞つほど分けてくれないかい？
-タラスクのせいで落ち込み気味だった台所事情を
-タラスクのおかげで盛り上げ直すチャンスなのさ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","13","Razanailt","Quest Dialogue"
-"0","0","あら、そんなに採れたのかい
-よかったじゃない
-あんたの役に立てるなら
-その鉱石たちも本望ってものさ","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","14","Razanailt","Quest Dialogue"
-"0","0","その鉱石を何に使うかは知らないけど――
-あたしたちとしては、タラスクをぶちのめすのに
-役に立つんだって信じてるからね！","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","15","Razanailt","Quest Dialogue"
-"0","0","<AREA 15>フィールドの《<ITEM 16001>》を採取できる採取ポイントの数が増えました
-＜23時から2時＞の間にたくさん採取し、納品しましょう","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","16","The White Dragon","Quest Dialogue"
-"0","0","＜23時から2時＞の時間が終了したため、<AREA 15>フィールドの《<ITEM 16001>》の採取ポイント数が通常に戻りました
-納品し、クエストを終了しましょう","","ui\00_message\quest\q21015023.gmd","\quest\q21015023.arc","q21015023.arc","17","The White Dragon","Quest Dialogue"
-"0","0","あら、よそから来たっていう覚者さんね
-ちょうど良かったわ
-今から冒険に出かけるんでしょう？","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","0","Sloane","Quest Dialogue"
-"0","0","実は、フィンバーさんが村の近くで
-魔物が群れを成しているのを見たって
-騒いでいるみたいなの
-魔物の群れなんて、珍しくも無いでしょうに","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","1","Sloane","Quest Dialogue"
-"0","0","だけど、もし大きな群れになったら大変だから
-一応、覚者さんに見て来てもらえないかと
-思ってね","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","2","Sloane","Quest Dialogue"
-"0","0","危険そうな奴らだったら、ついでに
-蹴散らしてきちゃってほしいの
-――お願いできる？","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","3","Sloane","Quest Dialogue"
-"0","0","村の近くで出来ている魔物の群れの様子を
-見て来てほしいの
-出来れば、蹴散らしてきてほしいんだけど","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","4","Sloane","Quest Dialogue"
-"0","0","面倒事を頼んじゃってごめんなさいね！
-ちゃんとお礼はするから
-よろしくお願いね","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","5","Sloane","Quest Dialogue"
-"0","0","わぁ――本当にやってきてくれたの？
-やっぱり覚者って、一味違うのね
-本当にありがとう！","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","6","Reich","Quest Dialogue"
-"0","0","侵食が現れてから
-暗いニュースばかりだったけれど――
-あなた方が来て、なんだか
-何かが変わりそうな予感がするわ！","","ui\00_message\quest\q21016000.gmd","\quest\q21016000.arc","q21016000.arc","7","Reich","Quest Dialogue"
-"0","0","ぼ、僕に話しかけてるんですか？
-そりゃ、採掘場キャンプ地の件は感謝してるし
-あなたの活躍の話は、嫌と言うほど聞いてます","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","0","Finbar","Quest Dialogue"
-"0","0","僕の話なんて聞いても仕方ないと思いますけど――
-実はあの一件以来
-村人が襲撃される事件が相次いでいるそうで","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","1","Finbar","Quest Dialogue"
-"0","0","恐らく、魔物の群れのボスをなんとかしないと
-解決しないだろうって――村の人たちは
-好き勝手にウワサしてます","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","2","Finbar","Quest Dialogue"
-"0","0","覚者さん――あの、お願いがあります
-その魔物を追い払って来てほしいんです
-あなたくらい強い人じゃないと頼めないし――","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","3","Finbar","Quest Dialogue"
-"0","0","また戻って来られると困るので、
-一度も倒れずに、叩きのめしてほしいんです
-もちろん、でき――ますよね？
-すみませんが、よろしくおねがいします","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","4","Finbar","Quest Dialogue"
-"0","0","覚者さんが良かったらですけど――
-魔物の群れのボスを追い払って来てくれませんか
-一度も倒れずに、圧倒的な力で","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","5","Finbar","Quest Dialogue"
-"0","0","本当にボスなんかいたんですね
-あ、いや、嘘ついたつもりは無くて――
-ただの噂じゃなかったのかと","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","6","Finbar","Quest Dialogue"
-"0","0","用意したお礼がムダにならなくて
-よかったです――
-ありがとうございました","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","7","Finbar","Quest Dialogue"
-"0","0","ああっ、覚者さん――
-討伐中に膝をついたみたいですね
-だ、大丈夫ですか？
-侵食胞子にやられちゃってませんか？","","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","8","Finbar","Quest Dialogue"
+本当に魔物をやっつけてきてくれたんだね
+ありがとう","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","8","Adelin","Quest Dialogue"
+"0","0","これでそのうち、キアランさんも
+考え込むのをやめると思うの
+シェナさんも文句を言わなくなるし
+マヴェイルさんも怒らなくなると思う！","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","9","Adelin","Quest Dialogue"
+"0","0","わたしも覚者さんみたいに、
+村の役に立ちたいけれど――
+なにかできることはないかなぁ","","ui\00_message\quest\q21017008.gmd","\quest\q21017008.arc","q21017008.arc","10","Adelin","Quest Dialogue"
+"0","0","あ、覚者さま！
+つい最近、<NPC 4758>さんが寄ってくれてね
+村の外のお話をしてくれたの！","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","0","Adelin","Quest Dialogue"
+"0","0","なんだか――とっても怖いことになってるのね
+地震を起こす大きな竜や、侵食された人の話――
+全部、本当なの？
+村のすぐ周りにも、いっぱい悪魔がいるって","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","1","Adelin","Quest Dialogue"
+"0","0","わたし、村の外に出られないのがイヤだったの
+だけど、村の中に居さえすれば安全なのは
+本当はしあわせなことだったのね","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","2","Adelin","Quest Dialogue"
+"0","0","でもね、もう知っちゃったの
+キンガルに悪魔がいるって――
+覚者さま――<NPC 4758>さんの言う
+怖い悪魔たちをやっつけてきてくれない？","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","3","Adelin","Quest Dialogue"
+"0","0","確か《<STG 866>》までの道に
+たくさんいたんだって
+覚者さん――おねがい――","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","4","Adelin","Quest Dialogue"
+"0","0","<NPC 4758>さんの言う怖い悪魔たちを
+やっつけてきてほしいの
+確か、《<STG 866>》までの道に
+たくさんいたんだって","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","5","Adelin","Quest Dialogue"
+"0","0","わたし――悪魔が怖い――
+外になんて出て大丈夫なのかな
+大人になったら色々できるようになるのかなぁ
+ねぇ覚者さんの子供のころは、どうだった？","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","6","Adelin","Quest Dialogue"
+"0","0","すごい、覚者さん
+本当にやっつけてきてくれるなんて！
+これでちょっとだけ、安心できたよ！","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","7","Adelin","Quest Dialogue"
+"0","0","わたし、やっぱり外のことをもっと知ったほうが
+いいなって思ったの！
+だって――外のことを知ったから、こうやって
+覚者さんにお願いできたでしょ？","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","8","Adelin","Quest Dialogue"
+"0","0","わたし、グリンデュアの村が好きだから――
+もっと村の役に立つために
+もっと外のことを知りたいな","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","9","Adelin","Quest Dialogue"
+"0","0","――こんなこと言ってたら、
+ナーヴさんに怒られちゃうかな？","","ui\00_message\quest\q21017009.gmd","\quest\q21017009.arc","q21017009.arc","10","Adelin","Quest Dialogue"
+"0","0","あんた！　マヴェイルの兄貴が言ってた人だろ？
+兄貴に手放しで褒められるなんて、すごいよな
+ま、当然か
+あのデーモンを倒しちゃうんだもんな","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","0","Conan","Quest Dialogue"
+"0","0","なぁ、あんたの実力を見込んで頼みがあってさ
+絶対に誰にも言わないと約束してくれるか？
+誰にもだぞ？　マヴェイルの兄貴にもだぞ？","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","1","Conan","Quest Dialogue"
+"0","0","実は――昨日、こっそり遺跡の方を見に行ったんだ
+これだけデーモンについて騒がれてたのに
+俺、一度もその姿を見たことがなくてさ！
+だったら、全滅する前に一目見たいと思うだろ？","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","2","Conan","Quest Dialogue"
+"0","0","そうしたら、うっかり他の魔物の縄張りに
+入り込んじまったみたいで――
+慌てて逃げかえってきたんだけど、やつらが
+仕返しに来るんじゃないかと気が気じゃないんだ","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","3","Conan","Quest Dialogue"
+"0","0","だからさ、様子を見に行ってくれないか？
+もし追いかけて来てたら
+《<STG 439>》にいた群れごと
+倒しちまってほしいんだ――頼むよ！","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","4","Conan","Quest Dialogue"
+"0","0","もしあいつらが追いかけて来てたら
+《<STG 439>》にいた群れごと
+倒しちまって欲しいんだ！","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","5","Conan","Quest Dialogue"
+"0","0","身勝手なのは分かってるし、自分の尻拭いを
+他人にさせているのも分かってるけど――
+だけど、起きちまったことには対処するしかない
+あんたに頼むのが最善のはずなんだ","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","6","Conan","Quest Dialogue"
+"0","0","帰ってきた――！
+ほ、本当に魔物を倒してきたのか？
+じゃあ、村はもう大丈夫なんだな","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","7","Conan","Quest Dialogue"
+"0","0","あぁ――助かった
+秘密にしてくれた上に助けてくれるなんて
+本当に感謝するよ！","","ui\00_message\quest\q21017010.gmd","\quest\q21017010.arc","q21017010.arc","8","Conan","Quest Dialogue"
+"0","0","あなたは――その節はどうも
+今は何とかデーモンや魔物を
+退けてくれているようですけどね
+あなた方が帰った後の村の事、考えたことあります？","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","0","Boadicea","Quest Dialogue"
+"0","0","それを考えたら、本当は余計な事をしないのが
+一番なんですよ――まぁ、もう遅いのですけれど
+だって、今度は《<STG 865>》の方へ
+デーモンが湧いたそうですから","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","1","Boadicea","Quest Dialogue"
+"0","0","――ええ、もちろん村のためを思って
+してくれたことだというのは分かっていますよ
+だけど、現にデーモンは現れてしまっていますからね","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","2","Boadicea","Quest Dialogue"
+"0","0","あなた方が率先して余計な事をしてくれたおかげで
+今度は《<STG 865>》の方へ
+デーモンが湧いたそうです","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","3","Boadicea","Quest Dialogue"
+"0","0","わたしは、何も変えてほしくなかったのに――
+なのに、異国からきた人によって
+賽は投げられてしまったんですよ","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","4","Boadicea","Quest Dialogue"
+"0","0","少し、きつく言い過ぎたと反省していました
+無事に帰られて、安心しましたよ――
+討伐してきてくれて、ありがとうございます","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","5","Boadicea","Quest Dialogue"
+"0","0","自分のこれからについて、少し考えてみました
+さすがにもう、甘えている場合ではないのかも――
+わたしにもできることを探してみようかしら","","ui\00_message\quest\q21017011.gmd","\quest\q21017011.arc","q21017011.arc","6","Boadicea","Quest Dialogue"
+"0","0","あの遺跡、開いたんでしょう？
+マヴェイルが騒いでたわよ
+全く、若い子ってのはすぐ新しいことに
+飛びついて――","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","0","Maeve","Quest Dialogue"
+"0","0","ま、とにかくあと一息で、
+今までの生活に戻れるって訳
+でも、あんたが失敗すれば全て終わり――","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","1","Maeve","Quest Dialogue"
+"0","0","――あぁ、なんだか不安になってきたわ
+あんた、本当に大丈夫なんでしょうね？
+数多の魔族を片付けてきたって聞いたけど
+あまりにも突拍子無さ過ぎてね","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","2","Maeve","Quest Dialogue"
+"0","0","そうだ、ちょうど《<STG 863>》で
+暴れ回ってる魔物たちがいるのよ
+ここいらで見かけない――そう、モローにいるような
+不気味なやつも混じってるって話","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","3","Maeve","Quest Dialogue"
+"0","0","腕を示すのにうってつけでしょ？
+そいつを見事、一度もやられずに倒してみて
+何度倒れても立ち上がる――
+なんて無様なのは求めてないわよ","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","4","Maeve","Quest Dialogue"
+"0","0","あんたが数多の魔族を倒したとは
+悪いけど、ちょっと信じられないわ
+突然そんなこと言われてもね","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","5","Maeve","Quest Dialogue"
+"0","0","最近《<STG 863>》で暴れ回ってる魔物を
+見事、一度もやられずに倒してみせてくれたら
+この不安も少しはやわらぐと思うんだけど","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","6","Maeve","Quest Dialogue"
+"0","0","えぇ？　本当に倒してきたって？！
+ううーん――本当かい？
+この目で見てないからねぇ――","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","7","Maeve","Quest Dialogue"
+"0","0","うそうそ、冗談さ
+あんたの服についてるその毛や粉は
+間違いなくあの魔物どもの物だからね――
+信じるよ","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","8","Maeve","Quest Dialogue"
+"0","0","あれだけの魔物を一捻りできちまうってことは
+あんたのこと、少しは信用できそうね――","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","9","Maeve","Quest Dialogue"
+"0","0","あぁ、やっぱり駄目だったのかい
+最初からそんな気がして――
+え？　一応、討伐はしてきてくれたって？","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","10","Maeve","Quest Dialogue"
+"0","0","まぁ、礼は言っておくわ
+魔族はこんなもんじゃすまないって話だから
+頼れるところを見せてほしかったんだけど――","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","11","Maeve","Quest Dialogue"
+"0","0","パーティメンバーが死亡状態になりました","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","12","Maeve","Quest Dialogue"
+"0","0","依頼者からの報酬が下がります","","ui\00_message\quest\q21017012.gmd","\quest\q21017012.arc","q21017012.arc","13","Maeve","Quest Dialogue"
+"0","0","あれ、こんな所に人か
+珍しいな、よそから来たって奴らか","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","0","Sullivan","Quest Dialogue"
+"0","0","俺は――ここで修業してたんだ
+決して迷っているわけじゃないんだぞ
+ここは強い魔物がたっぷりだからな！","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","1","Sullivan","Quest Dialogue"
+"0","0","――っと、そうだ、ちょうどいい所に来たな
+ここから出るのを手伝ってくれないか？
+実はかなりキツい魔物がいてな――
+疲れきった今の俺じゃ、少し危なそうなんだ","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","2","Sullivan","Quest Dialogue"
+"0","0","ほらほら、噂をすればお出ましのようだぞ――
+さぁ！　俺が疲れて眠りこけちまう前に
+片付けようぜ！","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","3","Sullivan","Quest Dialogue"
+"0","0","サリヴァンは見つかったんだな？
+良かった――
+まぁ、アイツほどの腕なら
+そう簡単に死ぬはずはないからな","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","4","Glenis","Quest Dialogue"
+"0","0","とにかく、礼を言うよ
+アイツを助けてくれて、ありがとう","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","5","Glenis","Quest Dialogue"
+"0","0","――そうか、サリヴァンは何とか助かったか
+良かった――
+アイツが手こずるほど手強い敵も
+この辺りにはいるのだな","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","6","Glenis","Quest Dialogue"
+"0","0","エランの拠点復興に貢献するため
+こうして遊学をしていたが
+相棒であるアイツがそんな状態ともなると
+旅は断念せざるを得ないかもしれないな","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","7","Glenis","Quest Dialogue"
+"0","0","くそ――こんな結果、
+送り出してくれたミューセルに面目ない
+せめて戦いについてだけでも、精進せねばならないな","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","8","Glenis","Quest Dialogue"
+"0","0","へぇ――なんだか辛気臭い村だとは思っていたが
+食い物はなかなか悪くなさそうだな
+うん、これはミューセルに良い土産ができそうだ
+なぁ、サリー","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","9","Glenis","Quest Dialogue"
+"0","0","――あれ、サリー？
+くそ、どこへ行った
+ん？　お前はたしか影の魔物を倒したとか噂の――
+なぁ、大柄でいかつい顔の男を見なかったか？","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","10","Glenis","Quest Dialogue"
+"0","0","アイツ、また途中ではぐれたんだな
+おいお前、さっきのを見ていたことは許してやるから
+一つ頼まれてくれないか？","","ui\00_message\quest\q21017013.gmd","\quest\q21017013.arc","q21017013.arc","11","Glenis","Quest Dialogue"
