@@ -1,1764 +1,1444 @@
-﻿"0","0","次が最後――今までが基礎だとしたら次は応用だ","Next is the last—
-if the previous ones were theory, 
-this is application.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","9","Theodor","Quest Dialogue"
-"0","0","さて、これが最後の試練だ
-君が研鑽してきたものの本質を見せてもらおう","Now, this is the final trial. 
-Show me the essence of what you've honed.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","10","Theodor","Quest Dialogue"
-"0","0","ふむ、いいだろう――
-これで試練を終わりにしよう
-一度わたしの工房に戻ってから
-新たな技を継承しようか","Hmm, very well— the trial is concluded.
-Return to my workshop, and I shall pass
-down new techniques.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","11","Theodor","Quest Dialogue"
-"0","0","これで試練は終わりだよ
-――よくぞここまで研鑽したね","The trials end here. 
-You've honed yourself well to reach this point.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","12","Theodor","Quest Dialogue"
-"0","0","さて、一度わたしの工房に戻ってから
-正式に新たな技を継承しようか","Now, let us return to my workshop and
-formally pass down the new techniques.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","13","Theodor","Quest Dialogue"
-"0","0","錬金術を操る君の姿を見届けさせてもらった
-術に狂わされることもなく、論理に忠実な
-安定した戦い方だったよ
-君になら、さらなる技を継承しても大丈夫だろう","I've witnessed your mastery of alchemy.
-You never let the art sway you, staying true
-to order. Your fighting style was steady.
-You're ready to inherit greater techniques.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","14","Theodor","Quest Dialogue"
-"0","0","錬金術という人の論理による人のための
-学問と、竜の理との共存――
-君のような存在が、新たな世界を切り開いて
-くれるのかもしれない","The coexistence of human order—alchemy—
-and the dragon's order... Perhaps one like
-you will carve a new world.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","15","Theodor","Quest Dialogue"
-"0","0","高い移動力は錬金術を支える足場のようなものだ","High mobility serves as the foundation
-that supports alchemy.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","16","Theodor","Quest Dialogue"
-"0","0","意志によって自在に力の流れを、論理を操るんだ","We manipulate the flow of power and order at will.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","17","Theodor","Quest Dialogue"
-"0","0","戦いにおいて、エリクシルの使い分けは重要だよ","In battle, proper use of Elixirs is important.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","18","Theodor","Quest Dialogue"
-"0","0","論理の理解と転化、そして組み換え――これが錬金術だ","Understanding, transforming, and
-rearranging order—that is alchemy.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","19","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理は、友を助けることもできるだろう","The order you weave may also aid allies.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","20","Theodor","Quest Dialogue"
-"0","0","錬成物質は固めて付着させた方が効果的だ","For best results, solidify and 
-bind the alchemical matter.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","21","Theodor","Quest Dialogue"
-"0","0","論理によって状態異常を操るんだ","Control ailments using calculated methods.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","22","Theodor","Quest Dialogue"
-"0","0","仲間が共にある時は、積極的に彼らの力を押し上げなさい","When allies are present, actively
-amplify their strength.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","23","Theodor","Quest Dialogue"
-"0","0","錬成物質を付着させることで敵の気を引く、これも戦術だ","Using alchemical compounds to 
-distract the enemy is also a tactic.","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","24","Theodor","Quest Dialogue"
-"0","0","どのエリクシルを用いるか、吟味しているかな？","Are you deliberating which elixir to use?","ui\00_message\quest\q60200132.gmd","\quest\q60200132.arc","q60200132.arc","25","Theodor","Quest Dialogue"
-"0","0","白竜が君に、さらに新たな錬金の戦技を
-授けようとしたのかい――？
-にわかには信じがたいが――
-いや、そういうことなのだな――わかったよ","Did the White Dragon attempt to bestow upon
-you yet another new alchemical combat skill?
-Hard to believe at first, but—
-No, that must be the case. Understood.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","0","Theodor","Quest Dialogue"
-"0","0","しかし、君がさらなる力を
-手にするにふさわしい器かどうか
-私に見極めさせてもらうよ
-果てなき錬金術の追及は、時に人を狂わせるからね","However, I must ascertain whether you are
-a worthy vessel for greater power. The
-endless pursuit of alchemy can drive one mad.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","1","Theodor","Quest Dialogue"
-"0","0","試練の場を用意するから
-そこで落ち合うことにしよう","I shall prepare a trial ground. Let us
-meet there.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","2","Theodor","Quest Dialogue"
-"0","0","君が力を手にするにふさわしい器かどうか
-見極めさせてもらうよ
-試練の場を用意するから
-そこで落ち合うことにしよう","I must ascertain if you are a worthy
-vessel for greater power. I shall prepare
-a trial ground. Let us meet there.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","3","Theodor","Quest Dialogue"
-"0","0","おや、思ったより早かったね
-それでは行くとしようか――試練の旅へ","Oh, you're earlier than expected. Then
-let us depart—on a journey of trials.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","4","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理、見極めさせてもらうよ","Let me discern the order you weave.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","5","Theodor","Quest Dialogue"
-"0","0","まずは軽くいこうか、あれが最初の試練だ","Let's start lightly. That is the first trial.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","6","Theodor","Quest Dialogue"
-"0","0","ふむ、中々いいね
-次は第二の試練へ向かおう","Hmm, not bad at all. 
-Now, onward to the second trial.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","7","Theodor","Quest Dialogue"
-"0","0","よし、第二の試練だ","Very well, the second trial begins.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","8","Theodor","Quest Dialogue"
-"0","0","次が最後――今までが基礎だとしたら次は応用だ","Next is the last—
-if the previous ones were theory, 
-this is application.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","9","Theodor","Quest Dialogue"
-"0","0","さて、これが最後の試練だ
-君が研鑽してきたものの本質を見せてもらおう","Now, this is the final trial. 
-Show me the essence of what you've honed.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","10","Theodor","Quest Dialogue"
-"0","0","ふむ、いいだろう――
-これで試練を終わりにしよう
-一度わたしの工房に戻ってから
-新たな技を継承しようか","Hmm, very well— the trial is concluded.
-Return to my workshop, and I shall pass
-down new techniques.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","11","Theodor","Quest Dialogue"
-"0","0","これで試練は終わりだよ
-――よくぞここまで研鑽したね","The trials end here. 
-You've honed yourself well to reach this point.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","12","Theodor","Quest Dialogue"
-"0","0","さて、一度わたしの工房に戻ってから
-正式に新たな技を継承しようか","Now, let us return to my workshop and
-formally pass down the new techniques.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","13","Theodor","Quest Dialogue"
-"0","0","錬金術を操る君の姿を見届けさせてもらった
-自身の操る技術を過信することもなく
-安定した戦い方をしていた
-君になら、さらなる技を継承しても大丈夫だろう","I've witnessed your mastery of alchemy.
-You never overestimated your own skills,
-maintaining a steady fighting style.
-You're ready to inherit greater techniques.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","14","Theodor","Quest Dialogue"
-"0","0","錬金術という人の論理による
-人のための学問と、竜の理との共存――","The coexistence of human order -
-alchemy as mankind's discipline -
-with the dragon's order...","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","15","Theodor","Quest Dialogue"
-"0","0","君のような存在が、新たな世界を切り開いて
-くれた時、我々メルゴダの民も臆することなく
-顔をあげられるようになるのだろうな――","When a being like you paves the way
-to a new world, we Mergodans will finally
-stand tall without fear...","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","16","Theodor","Quest Dialogue"
-"0","0","高い移動力は錬金術を支える足場のようなものだ","High mobility serves as the foundation
-that supports alchemy.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","17","Theodor","Quest Dialogue"
-"0","0","意志によって自在に力の流れを、論理を操るんだ","We manipulate the flow of power and order at will.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","18","Theodor","Quest Dialogue"
-"0","0","戦いにおいて、エリクシルの使い分けは重要だよ","In battle, proper use of Elixirs is important.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","19","Theodor","Quest Dialogue"
-"0","0","論理の理解と転化、そして組み換え――これが錬金術だ","Understanding, transforming, and
-rearranging order—that is alchemy.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","20","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理は、友を助けることもできるだろう","The order you weave may also aid allies.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","21","Theodor","Quest Dialogue"
-"0","0","錬成物質は固めて付着させた方が効果的だ","For best results, solidify and 
-bind the alchemical matter.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","22","Theodor","Quest Dialogue"
-"0","0","論理によって状態異常を操るんだ","Control ailments using calculated methods.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","23","Theodor","Quest Dialogue"
-"0","0","仲間が共にある時は、積極的に彼らの力を押し上げなさい","When allies are present, actively
-amplify their strength.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","24","Theodor","Quest Dialogue"
-"0","0","錬成物質を付着させることで敵の気を引く、これも戦術だ","Using alchemical compounds to 
-distract the enemy is also a tactic.","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","25","Theodor","Quest Dialogue"
-"0","0","どのエリクシルを用いるか、吟味しているかな？","Are you deliberating which elixir to use?","ui\00_message\quest\q60200133.gmd","\quest\q60200133.arc","q60200133.arc","26","Theodor","Quest Dialogue"
-"0","0","白竜が君に、さらに新たな錬金の戦技を
-授けようとしたのかい――？
-にわかには信じがたいが――
-いや、そういうことなのだな――わかったよ","Did the White Dragon attempt to bestow upon
-you yet another new alchemical combat skill?
-Hard to believe at first, but—
-No, that must be the case. Understood.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","0","Theodor","Quest Dialogue"
-"0","0","しかし、君がさらなる力を
-手にするにふさわしい器かどうか
-私に見極めさせてもらうよ
-果てなき錬金術の追及は、時に人を狂わせるからね","However, I must ascertain whether you are
-a worthy vessel for greater power. The
-endless pursuit of alchemy can drive one mad.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","1","Theodor","Quest Dialogue"
-"0","0","試練の場を用意するから
-そこで落ち合うことにしよう","I shall prepare a trial ground. Let us
-meet there.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","2","Theodor","Quest Dialogue"
-"0","0","――試練の場へは、エリアランクが足りないと
-入れないこともあるんだ
-ちゃんと自分で確認してから向かうようにね","—You may not be able to enter the trial grounds
-if your area rank is insufficient.
-Make sure to check properly before heading there.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","3","Theodor","Quest Dialogue"
-"0","0","君が力を手にするにふさわしい器かどうか
-見極めさせてもらうよ
-試練の場を用意するから
-そこで落ち合うことにしよう","I must ascertain if you are a worthy
-vessel for greater power. I shall prepare
-a trial ground. Let us meet there.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","4","Theodor","Quest Dialogue"
-"0","0","――試練の場へは、エリアランクが足りないと
-入れないこともあるんだ
-ちゃんと自分で確認してから向かうようにね","—You may not be able to enter the trial grounds
-if your area rank is insufficient.
-Make sure to check properly before heading there.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","5","Theodor","Quest Dialogue"
-"0","0","おや、思ったより早かったね
-それでは行くとしようか――試練の旅へ","Oh, you're earlier than expected. Then
-let us depart—on a journey of trials.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","6","Theodor","Quest Dialogue"
-"0","0","これで試練は終わりだよ
-――よくぞここまで研鑽したね","The trials end here. 
-You've honed yourself well to reach this point.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","7","Theodor","Quest Dialogue"
-"0","0","さて、一度わたしの工房に戻ってから
-正式に新たな技を継承しようか","Now, let us return to my workshop and
-formally pass down the new techniques.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","8","Theodor","Quest Dialogue"
-"0","0","錬金術を操る君の姿を見届けさせてもらった
-術に狂わされることもなく、論理に忠実な
-安定した戦い方だったよ
-君になら、さらなる技を継承しても大丈夫だろう","I've witnessed your mastery of alchemy.
-You never let the art sway you, staying true
-to order. Your fighting style was steady.
-You're ready to inherit greater techniques.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","9","Theodor","Quest Dialogue"
-"0","0","錬金術という人の論理による人のための
-学問と、竜の理との共存――
-君のような存在が、新たな世界を切り開いて
-くれるのかもしれない","The coexistence of human order—alchemy—
-and the dragon's order... Perhaps one like
-you will carve a new world.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","10","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理、見極めさせてもらうよ","Let me discern the order you weave.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","11","Theodor","Quest Dialogue"
-"0","0","まずは軽くいこうか、あれが最初の試練だ","Let's start lightly. That is the first trial.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","12","Theodor","Quest Dialogue"
-"0","0","ふむ、中々いいね
-次は第二の試練へ向かおう","Hmm, not bad at all. 
-Now, onward to the second trial.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","13","Theodor","Quest Dialogue"
-"0","0","よし、第二の試練だ","Very well, the second trial begins.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","14","Theodor","Quest Dialogue"
-"0","0","次が最後――今までが基礎だとしたら次は応用だ","Next is the last—
-if the previous ones were theory, 
-this is application.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","15","Theodor","Quest Dialogue"
-"0","0","さて、これが最後の試練だ
-君が研鑽してきたものの本質を見せてもらおう","Now, this is the final trial. 
-Show me the essence of what you've honed.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","16","Theodor","Quest Dialogue"
-"0","0","ふむ、いいだろう――
-これで試練を終わりにしよう
-一度わたしの工房に戻ってから
-新たな技を継承しようか","Hmm, very well— the trial is concluded.
-Return to my workshop, and I shall pass
-down new techniques.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","17","Theodor","Quest Dialogue"
-"0","0","高い移動力は錬金術を支える足場のようなものだ","High mobility serves as the foundation
-that supports alchemy.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","18","Theodor","Quest Dialogue"
-"0","0","意志によって自在に力の流れを、論理を操るんだ","We manipulate the flow of power and order at will.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","19","Theodor","Quest Dialogue"
-"0","0","戦いにおいて、エリクシルの使い分けは重要だよ","In battle, proper use of Elixirs is important.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","20","Theodor","Quest Dialogue"
-"0","0","論理の理解と転化、そして組み換え――これが錬金術だ","Understanding, transforming, and
-rearranging order—that is alchemy.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","21","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理は、友を助けることもできるだろう","The order you weave may also aid allies.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","22","Theodor","Quest Dialogue"
-"0","0","錬成物質は固めて付着させた方が効果的だ","For best results, solidify and 
-bind the alchemical matter.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","23","Theodor","Quest Dialogue"
-"0","0","論理によって状態異常を操るんだ","Control ailments using calculated methods.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","24","Theodor","Quest Dialogue"
-"0","0","仲間が共にある時は、積極的に彼らの力を押し上げなさい","When allies are present, actively
-amplify their strength.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","25","Theodor","Quest Dialogue"
-"0","0","錬成物質を付着させることで敵の気を引く、これも戦術だ","Using alchemical compounds to 
-distract the enemy is also a tactic.","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","26","Theodor","Quest Dialogue"
-"0","0","どのエリクシルを用いるか、吟味しているかな？","Are you deliberating which elixir to use?","ui\00_message\quest\q60200134.gmd","\quest\q60200134.arc","q60200134.arc","27","Theodor","Quest Dialogue"
-"0","0","白竜が君に、さらに新たな錬金の戦技を
-授けようとしたのかい――？
-にわかには信じがたいが――
-いや、そういうことなのだな――わかったよ","Did the White Dragon attempt to bestow upon
-you yet another new alchemical combat skill?
-Hard to believe at first, but—
-No, that must be the case. Understood.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","0","Theodor","Quest Dialogue"
-"0","0","しかし、君がさらなる力を
-手にするにふさわしい器かどうか
-私に見極めさせてもらうよ
-果てなき錬金術の追及は、時に人を狂わせるからね","However, I must ascertain whether you are
-a worthy vessel for greater power. The
-endless pursuit of alchemy can drive one mad.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","1","Theodor","Quest Dialogue"
-"0","0","試練の場を用意するから
-そこで落ち合うことにしよう","I shall prepare a trial ground. Let us
-meet there.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","2","Theodor","Quest Dialogue"
-"0","0","――試練の場へは、エリアランクが足りないと
-入れないこともあるんだ
-ちゃんと自分で確認してから向かうようにね","—You may not be able to enter the trial grounds
-if your area rank is insufficient.
-Make sure to check properly before heading there.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","3","Theodor","Quest Dialogue"
-"0","0","君が力を手にするにふさわしい器かどうか
-見極めさせてもらうよ
-試練の場を用意するから
-そこで落ち合うことにしよう","I must ascertain if you are a worthy
-vessel for greater power. I shall prepare
-a trial ground. Let us meet there.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","4","Theodor","Quest Dialogue"
-"0","0","――試練の場へは、エリアランクが足りないと
-入れないこともあるんだ
-ちゃんと自分で確認してから向かうようにね","—You may not be able to enter the trial grounds
-if your area rank is insufficient.
-Make sure to check properly before heading there.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","5","Theodor","Quest Dialogue"
-"0","0","おや、思ったより早かったね
-それでは行くとしようか――試練の旅へ","Oh, you're earlier than expected. Then
-let us depart—on a journey of trials.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","6","Theodor","Quest Dialogue"
-"0","0","これで試練は終わりだよ
-――よくぞここまで研鑽したね","The trials end here. 
-You've honed yourself well to reach this point.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","7","Theodor","Quest Dialogue"
-"0","0","さて、一度わたしの工房に戻ってから
-正式に新たな技を継承しようか","Now, let us return to my workshop and
-formally pass down the new techniques.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","8","Theodor","Quest Dialogue"
-"0","0","錬金術を操る君の姿を見届けさせてもらった
-術に狂わされることもなく、論理に忠実な
-安定した戦い方だったよ
-君になら、さらなる技を継承しても大丈夫だろう","I've witnessed your mastery of alchemy.
-You never let the art sway you, staying true
-to order. Your fighting style was steady.
-You're ready to inherit greater techniques.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","9","Theodor","Quest Dialogue"
-"0","0","錬金術という人の論理による人のための
-学問と、竜の理との共存――
-君のような存在が、新たな世界を切り開いて
-くれるのかもしれない","The coexistence of human order—alchemy—
-and the dragon's order... Perhaps one like
-you will carve a new world.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","10","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理、見極めさせてもらうよ","Let me discern the order you weave.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","11","Theodor","Quest Dialogue"
-"0","0","まずは軽くいこうか、あれが最初の試練だ","Let's start lightly. That is the first trial.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","12","Theodor","Quest Dialogue"
-"0","0","ふむ、中々いいね
-次は第二の試練へ向かおう","Hmm, not bad at all. 
-Now, onward to the second trial.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","13","Theodor","Quest Dialogue"
-"0","0","よし、第二の試練だ","Very well, the second trial begins.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","14","Theodor","Quest Dialogue"
-"0","0","次が最後――今までが基礎だとしたら次は応用だ","Next is the last—
-if the previous ones were theory, 
-this is application.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","15","Theodor","Quest Dialogue"
-"0","0","さて、これが最後の試練だ
-君が研鑽してきたものの本質を見せてもらおう","Now, this is the final trial. 
-Show me the essence of what you've honed.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","16","Theodor","Quest Dialogue"
-"0","0","ふむ、いいだろう――
-これで試練を終わりにしよう
-一度わたしの工房に戻ってから
-新たな技を継承しようか","Hmm, very well— the trial is concluded.
-Return to my workshop, and I shall pass
-down new techniques.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","17","Theodor","Quest Dialogue"
-"0","0","高い移動力は錬金術を支える足場のようなものだ","High mobility serves as the foundation
-that supports alchemy.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","18","Theodor","Quest Dialogue"
-"0","0","意志によって自在に力の流れを、論理を操るんだ","We manipulate the flow of power and order at will.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","19","Theodor","Quest Dialogue"
-"0","0","戦いにおいて、エリクシルの使い分けは重要だよ","In battle, proper use of Elixirs is important.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","20","Theodor","Quest Dialogue"
-"0","0","論理の理解と転化、そして組み換え――これが錬金術だ","Understanding, transforming, and
-rearranging order—that is alchemy.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","21","Theodor","Quest Dialogue"
-"0","0","君の紡ぐ論理は、友を助けることもできるだろう","The order you weave may also aid allies.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","22","Theodor","Quest Dialogue"
-"0","0","錬成物質は固めて付着させた方が効果的だ","For best results, solidify and 
-bind the alchemical matter.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","23","Theodor","Quest Dialogue"
-"0","0","論理によって状態異常を操るんだ","Control ailments using calculated methods.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","24","Theodor","Quest Dialogue"
-"0","0","仲間が共にある時は、積極的に彼らの力を押し上げなさい","When allies are present, actively
-amplify their strength.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","25","Theodor","Quest Dialogue"
-"0","0","錬成物質を付着させることで敵の気を引く、これも戦術だ","Using alchemical compounds to 
-distract the enemy is also a tactic.","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","26","Theodor","Quest Dialogue"
-"0","0","どのエリクシルを用いるか、吟味しているかな？","Are you deliberating which elixir to use?","ui\00_message\quest\q60200135.gmd","\quest\q60200135.arc","q60200135.arc","27","Theodor","Quest Dialogue"
-"0","0","ふん――なるほどな
-突然慣れぬ力を感じたのは
-貴様が仕える白竜からのものだったのか","Hmm... I see. 
-So the sudden unfamiliar power I felt came from 
-the white dragon you serve.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","0","Adair Donnchadh","Quest Dialogue"
-"0","0","貴様に新たな戦技を与えたい――ということか
-いいだろう、この力を使って編み出した
-新たな技を伝授してやる","So you want me to grant you a new combat skill.
-Very well. I shall teach you a new technique
-forged with this power.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","1","Adair Donnchadh","Quest Dialogue"
-"0","0","しかし、その前に試させてもらおう
-貴様が森羅万象への敬意を忘れず
-霊力を操ることができているのか――
-この技にふさわしい者であるのかを――","But first, let me test you.
-Have you kept reverence for all creation? 
-Can you truly wield spiritual energy? 
-Are you worthy of this technique?","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","2","Adair Donnchadh","Quest Dialogue"
-"0","0","――以前、レスタニアの訓練官が
-ほどよい鍛練の場とやらを記した
-リストを送ってきていたな","...Some time ago, a training officer from Lestania 
-sent me a list of suitable training grounds.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","3","Adair Donnchadh","Quest Dialogue"
-"0","0","今回、試練の場は
-レスタニアの中より選ぶことにする
-準備ができ次第、向かうがいい","This time, the trial grounds will be
-selected from within Lestania.
-Head there once you are ready.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","4","Adair Donnchadh","Quest Dialogue"
-"0","0","――念のために言っておくが
-試練の場へはエリアランクが足らぬ場合
-足を踏み入れることすらできんようだ
-その場合は素直に出直すべきだろうな","...For your sake, know this: 
-if your area rank is insufficient, you cannot 
-even set foot in the trial site. 
-In that case, you should humbly return later.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","5","Adair Donnchadh","Quest Dialogue"
-"0","0","試させてもらおう
-この技にふさわしい者であるのかを――
-今回はレスタニアにて、試練の場を用意する
-準備ができ次第、向かうがいい","I shall put you to the test—to see if you are
-worthy of this technique. This time, the trial
-shall take place in Lestania. Go there when
-you are ready.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","6","Adair Donnchadh","Quest Dialogue"
-"0","0","――念のために言っておくが
-試練の場へはエリアランクが足らぬ場合
-足を踏み入れることすらできん
-素直に出直すべきだろうな","...For your sake, know this: 
-if your area rank is insufficient, 
-you cannot even set foot in the trial site. 
-You should return later.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","7","Adair Donnchadh","Quest Dialogue"
-"0","0","今回は俺も貴様と共に霊槍をふるおう
-たるんだところは見せてくれるなよ
-――行くぞ","This time, I too shall wield the Spirit Lance 
-alongside you. 
-Do not show me any slack—let's go.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","8","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練の成果を見せてもらった
-――どうした、我が庵に戻らないのか
-戦技を継承すると言っているのだぞ","Your ceaseless training has borne fruit.
-...Why hesitate? Return to my retreat.
-I shall teach you my skills.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","9","Adair Donnchadh","Quest Dialogue"
-"0","0","ふむ――
-鍛練は欠かさずにいるようだな
-霊槍が貴様の体に馴染み、霊球も歌っているようだ
-森羅の加護を活かした、よい戦いだった","Hmm... It seems you have 
-not neglected your training. 
-The Spirit Lance has become one with you, 
-and the spirit sphere sings. 
-It was a fine battle, 
-making full use of nature's blessings.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","10","Adair Donnchadh","Quest Dialogue"
-"0","0","今後も鍛練に励み
-さらに気高きスピリットランサーの
-極みへと邁進するがいい
-この戦技は、貴様のものだ","Continue to train diligently and strive
-toward the pinnacle of becoming a noble
-Spirit Lancer. This combat skill is now
-yours.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","11","Adair Donnchadh","Quest Dialogue"
-"0","0","日々の鍛練はそのまま戦い方に映る――見極めさせてもらうぞ","The way you fight mirrors your training.
-I'll evaluate you.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","12","Adair Donnchadh","Quest Dialogue"
-"0","0","言わずともわかったようだな
-あれが最初の試練だ","You seemed to know without being told.
-That was the first trial.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","13","Adair Donnchadh","Quest Dialogue"
-"0","0","この程度、軽くいなせて当然であろう","Of course, you'd effortlessly parry
-something at this basic level.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","14","Adair Donnchadh","Quest Dialogue"
-"0","0","第二の試練だ
-そろそろ本気を出してもらう","This is the second trial.
-Time to get serious.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","15","Adair Donnchadh","Quest Dialogue"
-"0","0","やるようだな、次が最後の試練だ","You're doing well. 
-The next one is the final trial.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","16","Adair Donnchadh","Quest Dialogue"
-"0","0","これが最後の試練となる
-見せてみるがいい
-その槍さばきを","This is the final trial. 
-Show me your spearwork.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","17","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練が霊槍に宿っているのを確かに感じた
-――我が庵へ戻り、戦技の継承を行おう","I sensed the tireless discipline
-embodied in your Spirit Lance.
-Let's return to my hut and
-conduct the technique transfer.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","18","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――霊槍は貴様の体の一部となっているようだな","Hmph... 
-The Spirit Lance has become
-an extension of your very body.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","19","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅に満ちる霊力を感じろ――そして感謝の念を忘れるな","Channel the spiritual energy
-flowing through existence -
-hold thankfulness close.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","20","Adair Donnchadh","Quest Dialogue"
-"0","0","集めた霊力をいつ、何に使うかが肝要だ","The key lies in when and how you 
-use the spiritual energy you gather.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","21","Adair Donnchadh","Quest Dialogue"
-"0","0","貴様の手にあるのはただの武器ではない、わかっているな","What you hold in your hand is 
-no mere weapon, you understand.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","22","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の祝福によって仲間を癒すこともできるのだ","The world's spiritual blessings
-let you mend comrades' wounds.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","23","Adair Donnchadh","Quest Dialogue"
-"0","0","突きにばかり固執するな
-加護を得た時、霊槍は踊る","Don't obsess over thrusting alone.
-When blessed, the Spirit Lance dances.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","24","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の加護を得るのだ――霊力を操れ","Receive of nature's divine blessing -
-harness the spiritual energy.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","25","Adair Donnchadh","Quest Dialogue"
-"0","0","霊力によって己を鼓舞する、これはスピリットランサーの基本だな","To invigorate oneself with spiritual power—
-this is the foundation of a Spirit Lancer.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","26","Adair Donnchadh","Quest Dialogue"
-"0","0","その霊力は仲間を癒し導くものでもあることを忘れるな","Do not forget that this spiritual power 
-can also heal and guide your allies.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","27","Adair Donnchadh","Quest Dialogue"
-"0","0","攻めるに出るべきか、支援に回るべきか――見極めろ","Decide whether to strike or
-aid your allies - Judge wisely.","ui\00_message\quest\q60200136.gmd","\quest\q60200136.arc","q60200136.arc","28","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――なるほどな
-此度も突然強い力を感じたのは
-貴様が仕える白竜からのものだったか","Hmph... I see. 
-So the sudden surge of power I felt this time 
-also came from the white dragon you serve.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","0","Adair Donnchadh","Quest Dialogue"
-"0","0","再び貴様に新たな戦技を与えたい――ということだな
-いいだろう、この力を使って編み出した
-新たな技を伝授してやる","You wish me to grant you another new 
-combat skill, is that it? 
-Very well. I shall teach you a new technique 
-forged with this power.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","1","Adair Donnchadh","Quest Dialogue"
-"0","0","しかし、その前に試させてもらおう
-貴様が森羅万象への敬意を忘れず
-霊力を操ることができているのか――
-この技にふさわしい者であるのかを――","But first, let me test you.
-Have you kept reverence for all creation? 
-Can you truly wield spiritual energy? 
-Are you worthy of this technique?","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","2","Adair Donnchadh","Quest Dialogue"
-"0","0","――以前、レスタニアの訓練官が
-ほどよい鍛練の場とやらを記した
-リストを送ってきていたな","...Some time ago, a training officer from Lestania 
-sent me a list of suitable training grounds.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","3","Adair Donnchadh","Quest Dialogue"
-"0","0","今回、試練の場は
-レスタニアの中より選ぶことにする
-準備ができ次第、向かうがいい","This time, the trial grounds will be
-selected from within Lestania.
-Head there once you are ready.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","4","Adair Donnchadh","Quest Dialogue"
-"0","0","――念のために言っておくが
-試練の場へはエリアランクが足らぬ場合
-足を踏み入れることすらできんようだ
-その場合は素直に出直すべきだろうな","...For your sake, know this: 
-if your area rank is insufficient, you cannot 
-even set foot in the trial site. 
-In that case, you should humbly return later.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","5","Adair Donnchadh","Quest Dialogue"
-"0","0","試させてもらおう
-この技にふさわしい者であるのかを――
-今回もレスタニアにて、試練の場を用意する
-準備ができ次第、向かうがいい","I shall put you to the test—to see if you are
-worthy of this technique. This time as well,
-the trial shall take place in Lestania. Go
-there when you are ready.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","6","Adair Donnchadh","Quest Dialogue"
-"0","0","――念のために言っておくが
-試練の場へはエリアランクが足らぬ場合
-足を踏み入れることすらできん
-素直に出直すべきだろうな","...For your sake, know this: 
-if your area rank is insufficient, 
-you cannot even set foot in the trial site. 
-You should return later.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","7","Adair Donnchadh","Quest Dialogue"
-"0","0","再び俺も共に霊槍をふるおう
-たるんだところは見せてくれるなよ
-――行くぞ","Once again, 
-we'll wield the Spirit Lances together.
-Keep your focus sharp.
-—Let's go.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","8","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練の成果を見せてもらった
-――どうした、我が庵に戻らないのか
-戦技を継承すると言っているのだぞ","Your ceaseless training has borne fruit.
-...Why hesitate? Return to my retreat.
-I shall teach you my skills.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","9","Adair Donnchadh","Quest Dialogue"
-"0","0","ふむ――
-鍛練は欠かさずにいるようだな
-霊槍が貴様の体に馴染み、霊球も歌っているようだ
-森羅の加護を活かした、よい戦いだった","Hmm... It seems you have 
-not neglected your training. 
-The Spirit Lance has become one with you, 
-and the spirit sphere sings. 
-It was a fine battle, 
-making full use of nature's blessings.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","10","Adair Donnchadh","Quest Dialogue"
-"0","0","今後も鍛練に励み
-さらに気高きスピリットランサーの
-極みへと邁進するがいい
-この戦技は、貴様のものだ","Continue to train diligently and strive
-toward the pinnacle of becoming a noble
-Spirit Lancer. This combat skill is now
-yours.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","11","Adair Donnchadh","Quest Dialogue"
-"0","0","日々の鍛練はそのまま戦い方に映る――見極めさせてもらうぞ","The way you fight mirrors your training.
-I'll evaluate you.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","12","Adair Donnchadh","Quest Dialogue"
-"0","0","言わずともわかったようだな
-あれが最初の試練だ","You seemed to know without being told.
-That was the first trial.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","13","Adair Donnchadh","Quest Dialogue"
-"0","0","この程度、軽くいなせて当然であろう","Of course, you'd effortlessly parry
-something at this basic level.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","14","Adair Donnchadh","Quest Dialogue"
-"0","0","第二の試練だ
-そろそろ本気を出してもらう","This is the second trial.
-Time to get serious.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","15","Adair Donnchadh","Quest Dialogue"
-"0","0","やるようだな、次が最後の試練だ","You're doing well. 
-The next one is the final trial.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","16","Adair Donnchadh","Quest Dialogue"
-"0","0","これが最後の試練となる
-見せてみるがいい
-その槍さばきを","This is the final trial. 
-Show me your spearwork.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","17","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練が霊槍に宿っているのを確かに感じた
-――我が庵へ戻り、戦技の継承を行おう","I sensed the tireless discipline
-embodied in your Spirit Lance.
-Let's return to my hut and
-conduct the technique transfer.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","18","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――霊槍は貴様の体の一部となっているようだな","Hmph... 
-The Spirit Lance has become
-an extension of your very body.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","19","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅に満ちる霊力を感じろ――そして感謝の念を忘れるな","Channel the spiritual energy
-flowing through existence -
-hold thankfulness close.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","20","Adair Donnchadh","Quest Dialogue"
-"0","0","集めた霊力をいつ、何に使うかが肝要だ","The key lies in when and how you 
-use the spiritual energy you gather.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","21","Adair Donnchadh","Quest Dialogue"
-"0","0","貴様の手にあるのはただの武器ではない、わかっているな","What you hold in your hand is 
-no mere weapon, you understand.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","22","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の祝福によって仲間を癒すこともできるのだ","The world's spiritual blessings
-let you mend comrades' wounds.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","23","Adair Donnchadh","Quest Dialogue"
-"0","0","突きにばかり固執するな
-加護を得た時、霊槍は踊る","Don't obsess over thrusting alone.
-When blessed, the Spirit Lance dances.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","24","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の加護を得るのだ――霊力を操れ","Receive of nature's divine blessing -
-harness the spiritual energy.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","25","Adair Donnchadh","Quest Dialogue"
-"0","0","霊力によって己を鼓舞する、これはスピリットランサーの基本だな","To invigorate oneself with spiritual power—
-this is the foundation of a Spirit Lancer.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","26","Adair Donnchadh","Quest Dialogue"
-"0","0","その霊力は仲間を癒し導くものでもあることを忘れるな","Do not forget that this spiritual power 
-can also heal and guide your allies.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","27","Adair Donnchadh","Quest Dialogue"
-"0","0","攻めるに出るべきか、支援に回るべきか――見極めろ","Decide whether to strike or
-aid your allies - Judge wisely.","ui\00_message\quest\q60200137.gmd","\quest\q60200137.arc","q60200137.arc","28","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――なるほどな
-此度も突然強い力を感じたのは
-貴様が仕える白竜からのものだったか","Hmph... I see. 
-So the sudden surge of power I felt this time 
-also came from the white dragon you serve.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","0","Adair Donnchadh","Quest Dialogue"
-"0","0","再び貴様に新たな戦技を与えたい――ということだな
-いいだろう、この力を使って編み出した
-新たな技を伝授してやる","You wish me to grant you another new 
-combat skill, is that it? 
-Very well. I shall teach you a new technique 
-forged with this power.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","1","Adair Donnchadh","Quest Dialogue"
-"0","0","しかし、その前に試させてもらおう
-貴様が森羅万象への敬意を忘れず
-霊力を操ることができているのか――
-この技にふさわしい者であるのかを――","But first, let me test you.
-Have you kept reverence for all creation? 
-Can you truly wield spiritual energy? 
-Are you worthy of this technique?","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","2","Adair Donnchadh","Quest Dialogue"
-"0","0","――以前、レスタニアの訓練官が
-ほどよい鍛練の場とやらを記した
-リストを送ってきていたな","...Some time ago, a training officer from Lestania 
-sent me a list of suitable training grounds.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","3","Adair Donnchadh","Quest Dialogue"
-"0","0","今回、試練の場は
-魔赤島の中より選ぶことにする
-準備ができ次第、向かうがいい","This time, the trial grounds will be
-selected from within Bloodbane Isle.
-Head there once you are ready.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","4","Adair Donnchadh","Quest Dialogue"
-"0","0","試させてもらおう
-この技にふさわしい者であるのかを――
-今回は魔赤島の中より、試練の場を用意する
-準備ができ次第、向かうがいい","I shall put you to the test—to see if you are
-worthy of this technique. This time, the trial
-shall take place in Bloodbane Isle. Go there
-when you are ready.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","5","Adair Donnchadh","Quest Dialogue"
-"0","0","再び俺も共に霊槍をふるおう
-たるんだところは見せてくれるなよ
-――行くぞ","Once again, 
-we'll wield the Spirit Lances together.
-Keep your focus sharp.
-—Let's go.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","6","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練の成果を見せてもらった
-――どうした、我が庵に戻らないのか
-戦技を継承すると言っているのだぞ","Your ceaseless training has borne fruit.
-...Why hesitate? Return to my retreat.
-I shall teach you my skills.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","7","Adair Donnchadh","Quest Dialogue"
-"0","0","ふむ――
-鍛練は欠かさずにいるようだな
-霊槍が貴様の体に馴染み、霊球も歌っているようだ
-森羅の加護を活かした、よい戦いだった","Hmm... It seems you have 
-not neglected your training. 
-The Spirit Lance has become one with you, 
-and the spirit sphere sings. 
-It was a fine battle, 
-making full use of nature's blessings.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","8","Adair Donnchadh","Quest Dialogue"
-"0","0","今後も鍛練に励み
-さらに気高きスピリットランサーの
-極みへと邁進するがいい
-この戦技は、貴様のものだ","Continue to train diligently and strive
-toward the pinnacle of becoming a noble
-Spirit Lancer. This combat skill is now
-yours.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","9","Adair Donnchadh","Quest Dialogue"
-"0","0","日々の鍛練はそのまま戦い方に映る――見極めさせてもらうぞ","The way you fight mirrors your training.
-I'll evaluate you.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","10","Adair Donnchadh","Quest Dialogue"
-"0","0","言わずともわかったようだな
-あれが最初の試練だ","You seemed to know without being told.
-That was the first trial.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","11","Adair Donnchadh","Quest Dialogue"
-"0","0","この程度、軽くいなせて当然であろう","Of course, you'd effortlessly parry
-something at this basic level.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","12","Adair Donnchadh","Quest Dialogue"
-"0","0","第二の試練だ
-そろそろ本気を出してもらう","This is the second trial.
-Time to get serious.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","13","Adair Donnchadh","Quest Dialogue"
-"0","0","やるようだな、次が最後の試練だ","You're doing well. 
-The next one is the final trial.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","14","Adair Donnchadh","Quest Dialogue"
-"0","0","これが最後の試練となる
-見せてみるがいい
-その槍さばきを","This is the final trial. 
-Show me your spearwork.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","15","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練が霊槍に宿っているのを確かに感じた
-――我が庵へ戻り、戦技の継承を行おう","I sensed the tireless discipline
-embodied in your Spirit Lance.
-Let's return to my hut and
-conduct the technique transfer.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","16","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――霊槍は貴様の体の一部となっているようだな","Hmph... 
-The Spirit Lance has become
-an extension of your very body.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","17","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅に満ちる霊力を感じろ――そして感謝の念を忘れるな","Channel the spiritual energy
-flowing through existence -
-hold thankfulness close.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","18","Adair Donnchadh","Quest Dialogue"
-"0","0","集めた霊力をいつ、何に使うかが肝要だ","The key lies in when and how you 
-use the spiritual energy you gather.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","19","Adair Donnchadh","Quest Dialogue"
-"0","0","貴様の手にあるのはただの武器ではない、わかっているな","What you hold in your hand is 
-no mere weapon, you understand.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","20","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の祝福によって仲間を癒すこともできるのだ","The world's spiritual blessings
-let you mend comrades' wounds.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","21","Adair Donnchadh","Quest Dialogue"
-"0","0","突きにばかり固執するな
-加護を得た時、霊槍は踊る","Don't obsess over thrusting alone.
-When blessed, the Spirit Lance dances.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","22","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の加護を得るのだ――霊力を操れ","Receive of nature's divine blessing -
-harness the spiritual energy.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","23","Adair Donnchadh","Quest Dialogue"
-"0","0","霊力によって己を鼓舞する、これはスピリットランサーの基本だな","To invigorate oneself with spiritual power—
-this is the foundation of a Spirit Lancer.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","24","Adair Donnchadh","Quest Dialogue"
-"0","0","その霊力は仲間を癒し導くものでもあることを忘れるな","Do not forget that this spiritual power 
-can also heal and guide your allies.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","25","Adair Donnchadh","Quest Dialogue"
-"0","0","攻めるに出るべきか、支援に回るべきか――見極めろ","Decide whether to strike or
-aid your allies - Judge wisely.","ui\00_message\quest\q60200138.gmd","\quest\q60200138.arc","q60200138.arc","26","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――なるほどな
-此度も突然強い力を感じたのは
-貴様が仕える白竜からのものだったか","Hmph... I see. 
-So the sudden surge of power I felt this time 
-also came from the white dragon you serve.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","0","Adair Donnchadh","Quest Dialogue"
-"0","0","再び貴様に新たな戦技を与えたい――ということだな
-いいだろう、この力を使って編み出した
-新たな技を伝授してやる","You wish me to grant you another new 
-combat skill, is that it? 
-Very well. I shall teach you a new technique 
-forged with this power.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","1","Adair Donnchadh","Quest Dialogue"
-"0","0","しかし、その前に試させてもらおう
-貴様が森羅万象への敬意を忘れず
-霊力を操ることができているのか――
-この技にふさわしい者であるのかを――","But first, let me test you.
-Have you kept reverence for all creation? 
-Can you truly wield spiritual energy? 
-Are you worthy of this technique?","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","2","Adair Donnchadh","Quest Dialogue"
-"0","0","――以前、レスタニアの訓練官が
-ほどよい鍛練の場とやらを記した
-リストを送ってきていたな","...Some time ago, a training officer from Lestania 
-sent me a list of suitable training grounds.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","3","Adair Donnchadh","Quest Dialogue"
-"0","0","今回、試練の場は
-魔赤島の中より選ぶことにする
-準備ができ次第、向かうがいい","This time, the trial grounds will be
-selected from within Bloodbane Isle.
-Head there once you are ready.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","4","Adair Donnchadh","Quest Dialogue"
-"0","0","――念のために言っておくが
-試練の場へはエリアランクが足らぬ場合
-足を踏み入れることすらできんようだ
-その場合は素直に出直すべきだろうな","...For your sake, know this: 
-if your area rank is insufficient, you cannot 
-even set foot in the trial site. 
-In that case, you should humbly return later.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","5","Adair Donnchadh","Quest Dialogue"
-"0","0","試させてもらおう
-この技にふさわしい者であるのかを――
-今回は魔赤島にて、試練の場を用意する
-準備ができ次第、向かうがいい","I shall put you to the test—to see if you are
-worthy of this technique. This time, the trial
-shall take place in Bloodbane Isle. Go there
-when you are ready.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","6","Adair Donnchadh","Quest Dialogue"
-"0","0","――念のために言っておくが
-試練の場へはエリアランクが足らぬ場合
-足を踏み入れることすらできん
-素直に出直すべきだろうな","...For your sake, know this: 
-if your area rank is insufficient, 
-you cannot even set foot in the trial site. 
-You should return later.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","7","Adair Donnchadh","Quest Dialogue"
-"0","0","再び俺も共に霊槍をふるおう
-たるんだところは見せてくれるなよ
-――行くぞ","Once again, 
-we'll wield the Spirit Lances together.
-Keep your focus sharp.
-—Let's go.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","8","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練の成果を見せてもらった
-――どうした、我が庵に戻らないのか
-戦技を継承すると言っているのだぞ","Your ceaseless training has borne fruit.
-...Why hesitate? Return to my retreat.
-I shall teach you my skills.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","9","Adair Donnchadh","Quest Dialogue"
-"0","0","ふむ――
-鍛練は欠かさずにいるようだな
-霊槍が貴様の体に馴染み、霊球も歌っているようだ
-森羅の加護を活かした、よい戦いだった","Hmm... It seems you have 
-not neglected your training. 
-The Spirit Lance has become one with you, 
-and the spirit sphere sings. 
-It was a fine battle, 
-making full use of nature's blessings.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","10","Adair Donnchadh","Quest Dialogue"
-"0","0","今後も鍛練に励み
-さらに気高きスピリットランサーの
-極みへと邁進するがいい
-この戦技は、貴様のものだ","Continue to train diligently and strive
-toward the pinnacle of becoming a noble
-Spirit Lancer. This combat skill is now
-yours.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","11","Adair Donnchadh","Quest Dialogue"
-"0","0","日々の鍛練はそのまま戦い方に映る――見極めさせてもらうぞ","The way you fight mirrors your training.
-I'll evaluate you.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","12","Adair Donnchadh","Quest Dialogue"
-"0","0","言わずともわかったようだな
-あれが最初の試練だ","You seemed to know without being told.
-That was the first trial.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","13","Adair Donnchadh","Quest Dialogue"
-"0","0","この程度、軽くいなせて当然であろう","Of course, you'd effortlessly parry
-something at this basic level.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","14","Adair Donnchadh","Quest Dialogue"
-"0","0","第二の試練だ
-そろそろ本気を出してもらう","This is the second trial.
-Time to get serious.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","15","Adair Donnchadh","Quest Dialogue"
-"0","0","やるようだな、次が最後の試練だ","You're doing well. 
-The next one is the final trial.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","16","Adair Donnchadh","Quest Dialogue"
-"0","0","これが最後の試練となる
-見せてみるがいい
-その槍さばきを","This is the final trial. 
-Show me your spearwork.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","17","Adair Donnchadh","Quest Dialogue"
-"0","0","たゆまぬ鍛練が霊槍に宿っているのを確かに感じた
-――我が庵へ戻り、戦技の継承を行おう","I sensed the tireless discipline
-embodied in your Spirit Lance.
-Let's return to my hut and
-conduct the technique transfer.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","18","Adair Donnchadh","Quest Dialogue"
-"0","0","ふん――霊槍は貴様の体の一部となっているようだな","Hmph... 
-The Spirit Lance has become
-an extension of your very body.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","19","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅に満ちる霊力を感じろ――そして感謝の念を忘れるな","Channel the spiritual energy
-flowing through existence -
-hold thankfulness close.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","20","Adair Donnchadh","Quest Dialogue"
-"0","0","集めた霊力をいつ、何に使うかが肝要だ","The key lies in when and how you 
-use the spiritual energy you gather.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","21","Adair Donnchadh","Quest Dialogue"
-"0","0","貴様の手にあるのはただの武器ではない、わかっているな","What you hold in your hand is 
-no mere weapon, you understand.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","22","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の祝福によって仲間を癒すこともできるのだ","The world's spiritual blessings
-let you mend comrades' wounds.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","23","Adair Donnchadh","Quest Dialogue"
-"0","0","突きにばかり固執するな
-加護を得た時、霊槍は踊る","Don't obsess over thrusting alone.
-When blessed, the Spirit Lance dances.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","24","Adair Donnchadh","Quest Dialogue"
-"0","0","森羅の加護を得るのだ――霊力を操れ","Receive of nature's divine blessing -
-harness the spiritual energy.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","25","Adair Donnchadh","Quest Dialogue"
-"0","0","霊力によって己を鼓舞する、これはスピリットランサーの基本だな","To invigorate oneself with spiritual power—
-this is the foundation of a Spirit Lancer.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","26","Adair Donnchadh","Quest Dialogue"
-"0","0","その霊力は仲間を癒し導くものでもあることを忘れるな","Do not forget that this spiritual power 
-can also heal and guide your allies.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","27","Adair Donnchadh","Quest Dialogue"
-"0","0","攻めるに出るべきか、支援に回るべきか――見極めろ","Decide whether to strike or
-aid your allies - Judge wisely.","ui\00_message\quest\q60200139.gmd","\quest\q60200139.arc","q60200139.arc","28","Adair Donnchadh","Quest Dialogue"
-"0","0","盗賊達は盗んだ品々を抱えたまま
-どこかの洞窟に潜んでいるらしい","The thieves seem to be hiding in some cave,
-their holding the stolen goods there.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","0","Joseph","Quest Dialogue"
-"0","0","目下、当たりをつけているのは
-ブリア、ボルド周辺の洞窟あたりだ","Currently, the likely spots are the caves
-around Breya Coast and Volden Mines.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","1","Joseph","Quest Dialogue"
-"0","0","まずはブリア海岸へ行ってみてくれんか？","First, could you head to Breya Coast?","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","2","Joseph","Quest Dialogue"
-"0","0","誰が隊長の右腕か――
-これはなかなか興味深い考察かもしれない","Who should be Captain's right hand?
-Now that's an interesting thought.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","3","Klaus","Quest Dialogue"
-"0","0","うーん、僕も気になってきた！","Hmm, I'm starting to get interested myself!","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","4","Klaus","Quest Dialogue"
-"0","0","隊長、まかせてください","Captain, leave it to me.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","5","Elliot","Quest Dialogue"
-"0","0","ま、手分けしてあたろうぜ","Well, let's split up and take a look around.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","6","Gurdolin","Quest Dialogue"
-"0","0","エリオット、なんだか張り切ってるね","Elliot, you seem pretty fired up.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","7","Lise","Quest Dialogue"
-"0","0","ああ、隊長もここに来たんだ
-でも、今さらこんな場所に何かあるのかな～？","Oh, the Captain's here too.
-But is there anything even left here now?","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","8","Lise","Quest Dialogue"
-"0","0","これだけ探しても盗品は見つからないし
-敵は出てくるし散々！","We've searched everywhere but found no loot,
-and enemies keep showing up. What a pain!","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","9","Lise","Quest Dialogue"
-"0","0","ねえ隊長、盗賊はもう盗品持って
-他へ行ったと思うな
-次の現場へ行ってみる？","Hey Captain, I think the thieves already took
-the loot somewhere else. Should we move on?","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","10","Lise","Quest Dialogue"
-"0","0","ここには盗賊はいないし
-もちろん、盗品もない","Not a thief in sight,
-and of course, no stolen goods either.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","11","Lise","Quest Dialogue"
-"0","0","次の場所、行ってみる？
-ボルド鉱山のあたりだったよね","Should we check the next area?
-It was around Volden Mines, right?","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","12","Lise","Quest Dialogue"
-"0","0","その顔じゃあ、ブリアははずれだったようだな
-せっかくだ、手伝ってくれ","That look tells me Breya was a dead end.
-Since you're here, might as well lend a hand.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","13","Gurdolin","Quest Dialogue"
-"0","0","何だお前！","What the...you!","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","14","Bandit","Quest Dialogue"
-"0","0","貴様、覚者か！","You... the Arisen!","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","15","Bandit","Quest Dialogue"
-"0","0","かまうかよ、やっちまえ！","Who cares? Just do it!","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","16","Bandit","Quest Dialogue"
-"0","0","あんたは一体、誰が勝つと思う？
-――おっと、こりゃ聞かない方が楽しいか","Who do you think will win?
-...Oops, maybe it'd more fun to find out yourself.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","17","Fabio","Quest Dialogue"
-"0","0","さあ、盛り上がってきたぞ！","Now, things are starting to get exciting!","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","18","Fabio","Quest Dialogue"
-"0","0","俺が怪しいと睨んだ洞窟はここです","The cave I suspected is right here.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","19","Elliot","Quest Dialogue"
-"0","0","どうやら隊長も同じ読みですね
-気をつけていきましょう","Seems the Captain had the same hunch.
-Let's be careful.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","20","Elliot","Quest Dialogue"
-"0","0","さあ、隊長、神殿に戻って自慢――
-いいえ、報告しましょう","Come on Captain, let's return to the temple
-and brag...erm, I mean report back.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","21","Elliot","Quest Dialogue"
-"0","0","ああ、お見事だったな――
-各地の村からも、報告がきたところだ","Ah, splendid work...
-reports are coming in from villages all over.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","22","Joseph","Quest Dialogue"
-"0","0","ガルドリン、リズ、エリオット――
-誰が隊長の右腕にふさわしいのか！？","Gurdolin, Lise, Elliot...
-who is worthy of being the Captain's right hand!?","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","23","Klaus","Quest Dialogue"
-"0","0","どうやら今回の一番手柄はエリオットらしいね","Seems Elliot was the top contributor this time.","ui\00_message\quest\q60200200.gmd","\quest\q60200200.arc","q60200200.arc","24","Klaus","Quest Dialogue"
-"0","0","おや、ひとりか
-入れ違いになったようだな","Alone, huh? You must've walked past each other
-without noticing.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","0","Joseph","Quest Dialogue"
-"0","0","メイリーフが、小鳥のことで相談があると
-ここに来ていたのだ
-それがどうにも要領を得ない話でな――","Mayleaf was here concerning
-some bird issue, though her
-explanation was unclear...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","1","Joseph","Quest Dialogue"
-"0","0","そういうことなら隊長が得意だろうから
-探して相談するといい――そう言っておいた
-あとは頼んだぞ","I said the captain would be good at this,
-so go and ask them...
-Left it to you.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","2","Joseph","Quest Dialogue"
-"0","0","メイリーフは――
-はて、少し前までそのあたりにいたのだが","Mayleaf... Well, she was here
-not too long ago, but...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","3","Joseph","Quest Dialogue"
-"0","0","メイリーフかい？
-うーん、自分の家じゃないかなあ","Mayleaf? Maybe she's at home.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","4","Klaus","Quest Dialogue"
-"0","0","小鳥の様子がおかしい――変だって
-ずいぶん心配していたからね","The little bird was acting strange—
-She was really worried about how odd it seemed.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","5","Klaus","Quest Dialogue"
-"0","0","ほら、あのキースヒルトから贈られた
-小鳥なんだってさ","That little bird was a gift from
-Kieshildt, or so I heard...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","6","Klaus","Quest Dialogue"
-"0","0","ああ、隊長さん
-メイリーフの頼みをきいてあげて","Captain, can you hear Mayleaf out?","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","7","Pamela","Quest Dialogue"
-"0","0","ずっと小鳥の心配ばかりで――
-このままではメイリーフが倒れてしまいそうなの","She's been so worried about the bird—
-if this continues, she might collapse.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","8","Pamela","Quest Dialogue"
-"0","0","見て、隊長さん！","Look, Captain!","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","9","Mayleaf","Quest Dialogue"
-"0","0","わたしのヒルティが――
-ほら、悲しそうに鳴いているでしょう？","My Hilti-
-See how sad she sounds?","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","10","Mayleaf","Quest Dialogue"
-"0","0","隊長、まずはメイリーフの話を聞いてみて","Captain, listen to what Mayleaf has to say first.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","11","Lise","Quest Dialogue"
-"0","0","隊長さん、お願いします
-ヒルティはキースヒルトから預かった
-大切な小鳥なの","Captain, please. Hilti is a precious bird
-entrusted to me by Kieshildt.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","12","Mayleaf","Quest Dialogue"
-"0","0","手分けして南の森を調べて
-その後、合流することにしよう","Let's split up and check the southern forest
-and then we'll meet up.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","13","Lise","Quest Dialogue"
-"0","0","何事もなければいいのだけど――","I hope nothing's wrong...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","14","Pamela","Quest Dialogue"
-"0","0","久しぶりだね
-リズはもう到着しているよ","Long time no see. Lise has already arrived.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","15","Rondejeel","Quest Dialogue"
-"0","0","さすが、対応が早いわね
-詳しい話は聞いている？
-ああ、そうでもないんだ","That was quick indeed.
-Are you up to speed already?
-Ah, not really then...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","16","Ringdeel","Quest Dialogue"
-"0","0","――いつからだったかな","...When did it start, I wonder.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","17","Ringdeel","Quest Dialogue"
-"0","0","まず、森から鳥たちが減ってしまったの
-次は小動物で、そして今は
-中型の肉食動物たちも滅多に見なくなったわ","First, the birds disappeared from the forest.
-Then small animals, and now even mid-sized
-predators are rarely seen.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","18","Ringdeel","Quest Dialogue"
-"0","0","動物たちが戻らないと、森の姿が
-変わってしまって、最悪の場合は
-森が死んでしまうかもしれないよね","If the animals don't return, the
-forest will change, and worst case,
-it might even die completely...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","19","Ringdeel","Quest Dialogue"
-"0","0","もしかしたら、白竜様にまた何か起こったのかと
-思ったけど、そんなことはないっていうし――
-だとすると、原因はなんだろうね","I thought maybe something happened to Lord White
-Dragon again, but they said that wasn't the case—
-so then, what could be the cause?","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","20","Ringdeel","Quest Dialogue"
-"0","0","ああ、隊長
-このあたりを歩きまわってみたけど
-やっぱりこれまでとは雰囲気がちがうの","Ah, Captain.
-I tried walking around the area, but the 
-atmosphere really is different from before.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","21","Lise","Quest Dialogue"
-"0","0","ロンドジールが少し調べたみたいだから
-直接聞いてみて","It seems Rondejeel looked into it a bit,
-so try asking directly.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","22","Lise","Quest Dialogue"
-"0","0","詳しいことはロンドジールから聞いてみて","Ask Rondejeel for the details.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","23","Lise","Quest Dialogue"
-"0","0","最近、森の動物がすっかり減ってしまって――
-たまに見つけても、とても怯えているんだ","Lately, the forest animals have decreased
-considerably. Even when I occasionally find
-one, they're extremely frightened.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","24","Rondejeel","Quest Dialogue"
-"0","0","まあ、正確には、怯えているように見えるという
-意味だけど――","Well, to be precise, 
-they appear to be terrified...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","25","Rondejeel","Quest Dialogue"
-"0","0","僕には、様子が変ということしかわからないけど
-その感じはエルテ・ディナンに近づくほど
-強い気がするよ","All I can tell is that something feels off, but
-that sensation seems to grow stronger the closer
-I get to Erte Deenan.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","26","Rondejeel","Quest Dialogue"
-"0","0","どうだろう――
-エルテ・ディナンへ行って、森の異変の
-原因を探って欲しいんだ
-もちろん、解決してくれれば最高だよ","What do you say... Head to Erte Deenan
-to uncover why the forest changed.
-Fixing it would be ideal, naturally.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","27","Rondejeel","Quest Dialogue"
-"0","0","エルテ・ディナンで一体何が起きているんだろう
-どうも胸騒ぎがするんだ","What's really occurring in Erte Deenan?
-Something feels wrong about this...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","28","Rondejeel","Quest Dialogue"
-"0","0","キースヒルトか――
-話は聞いてるけど――ああ、会いたかったな","Kieshildt, huh...
-I've heard the stories.
-Ah, I wish I could've met them.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","29","Lise","Quest Dialogue"
-"0","0","ねえ、隊長？","Hey, Captain?","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","30","Lise","Quest Dialogue"
-"0","0","この森、この古い街――
-エルフの代わりに、わたしたちが
-守っていかないとね","This forest, this ancient city—
-we must protect it in place of the elves.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","31","Lise","Quest Dialogue"
-"0","0","ねえ、神殿へ帰ろう
-ジョゼフ様に報告しなくちゃ","Hey, let's go back to the temple.
-We have to report to Master Joseph.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","32","Lise","Quest Dialogue"
-"0","0","キースヒルトはもういない――
-――もういないって","Kieshildt is gone...
-Gone forever.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","33","Mayleaf","Quest Dialogue"
-"0","0","何度自分に言いきかせても
-信じることができなかったんだ","No matter how many times I told myself,
-I couldn't bring myself to believe it.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","34","Mayleaf","Quest Dialogue"
-"0","0","でも――無理して信じることなんて
-ないんだよね","But... 
-you can't force yourself to believe something.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","35","Mayleaf","Quest Dialogue"
-"0","0","わたしには世の不思議も
-――難しいこともわからないけど
-とにかく、みんなが無事で良かったわ","Though I can't grasp life's mysteries
-or difficult matters, at least I'm
-thankful everyone came out unharmed...","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","36","Pamela","Quest Dialogue"
-"0","0","キースヒルトが小鳥を使って君たちを
-動かしたなんて、どうにも信じられないね","I can't truly believe Kieshildt used birds
-to manipulate you all like that.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","37","Klaus","Quest Dialogue"
-"0","0","理屈をつけるとしたら――
-うん――エルフはとてつもなく長命だから
-その思いが、巡る竜力に濃く残る――","If I had to explain it... 
-Hmm...
-Elves live for incredibly long spans, making
-their feelings persist in the Dragon Force.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","38","Klaus","Quest Dialogue"
-"0","0","その結果――なんてのはどうかな","Right... how about something like that?","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","39","Klaus","Quest Dialogue"
-"0","0","ゲルトから話は聞いた
-ご苦労だった","I heard about it from Gerd.You did well.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","40","Joseph","Quest Dialogue"
-"0","0","オークの件はなんらかの対処が必要だな
-ヴァネッサに伝えておこう","Something needs to be done about the orcs.
-I'll let Vanessa know.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","41","Joseph","Quest Dialogue"
-"0","0","それにしてもキースヒルトか――
-まったく、エルフは不思議な種族だな
-もっと話したかったわ","Still, Kieshildt...
-Elves truly are a mysterious race.
-I wish we could have talked more.","ui\00_message\quest\q60200201.gmd","\quest\q60200201.arc","q60200201.arc","42","Joseph","Quest Dialogue"
-"0","0","やあ――
-あのね――
-ちょっと頼みがあるんだ","Hey...
-Listen...
-I have a favor to ask.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","0","Klaus","Quest Dialogue"
-"0","0","僕はね、レスタニアに蓄積された
-豊富な知識と、フィンダムの自然が育んだ
-多彩な植物を組み合わせて
-新たな薬を作れないかと考えているんだ","My idea is to merge Lestania's extensive
-knowledge with Phindym's rich
-natural flora to create new kinds of
-medicine - that's my current project.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","1","Klaus","Quest Dialogue"
-"0","0","うまく行けば、これまで治せなかった
-病気も治療可能になるかもしれない
-もちろん、フィンダムの進歩にも
-貢献できるだろうしね","If all goes well, we might be able to treat
-illnesses that were previously incurable.
-Of course, it could also contribute to
-Phindym's progress.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","2","Klaus","Quest Dialogue"
-"0","0","いい話だろう？
-でも、ジョゼフ様が大反対なんだ
-もう、わけがわからないよ","Sounds good, right?
-But Master Joseph strongly opposes it.
-I just don't get it.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","3","Klaus","Quest Dialogue"
-"0","0","ねえ、ジョゼフ様を説得してくれないかな？
-君の話なら耳を貸すと思うんだ","Hey, could you convince Master Joseph for me?
-I think he'd listen to you.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","4","Klaus","Quest Dialogue"
-"0","0","ふう――
-最近、疲れが取れなくてな――
-面倒な話は、せめて一日おきにな","Sigh—
-I haven't been able to shake off this fatigue
-lately. At least space out the troublesome
-requests to every other day.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","5","Joseph","Quest Dialogue"
-"0","0","クラウスめ、最近はことごとく
-わたしに楯突いてくる","That Klaus, he's been opposing me at every
-turn lately.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","6","Joseph","Quest Dialogue"
-"0","0","提案に反対なわけじゃない
-ただ、時期尚早だと思うのだ
-フィンダムが落ち着くまで
-あと５年――１０年――","It's not that I oppose the proposal. I just
-think it's too soon. Wait until Phindym
-stabilizes—another 5... maybe 10 years.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","7","Joseph","Quest Dialogue"
-"0","0","それからでも遅くはない
-わたしはとにかくクラウスが心配だ
-おかしな毒を吸ってしまうのではないか
-無茶をするのではないか――","There'll still be time then. I'm just worried
-about Klaus. What if he inhales some strange
-poison? What if he does something reckless...","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","8","Joseph","Quest Dialogue"
-"0","0","ああ、言いたいことはいろいろあるが
-一番重要なことだけ伝えておこう","I have many things to say, but
-let me just tell you the most
-important thing for now.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","9","Joseph","Quest Dialogue"
-"0","0","クラウスを――頼む","I beg you.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","10","Joseph","Quest Dialogue"
-"0","0","クラウスはどうせフィンダムに行くと
-言い出すに違いない","Klaus will undoubtedly insist on going to Phindym.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","11","Joseph","Quest Dialogue"
-"0","0","隊長、一足先に行って安全を
-確保してやってくれんか？","Captain, can you go on ahead and 
-make it safe for him?","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","12","Joseph","Quest Dialogue"
-"0","0","いやぁ――
-ジョゼフ様にはがっかりだよ","Well...
-I'm disappointed in Master Joseph.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","13","Klaus","Quest Dialogue"
-"0","0","そこで、お願いがあるんだけれど
-フィンダムに行って向こうの植物を
-いくつか採取してきてほしいんだ","So, here's my request: 
-could you go to Phindym
-and gather some plants from there?","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","14","Klaus","Quest Dialogue"
-"0","0","薬のような効果を持つ植物が
-必ずあるはずで、フィンダムの人なら
-どこに生えているか知ってると思う","There must be plants with medicinal effects,
-and the people of Phindym would know where
-they grow.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","15","Klaus","Quest Dialogue"
-"0","0","フィンダムの植物を採取して欲しいんだ","I want you to gather Phindym's plants.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","16","Klaus","Quest Dialogue"
-"0","0","薬のような効果を持つ植物が
-必ずあるはずで、フィンダムの人なら
-どこに生えているか知ってると思う","There must be plants with medicinal effects,
-and the people of Phindym would know where
-they grow.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","17","Klaus","Quest Dialogue"
-"0","0","おお、あなただったか","Oh, it's you.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","18","Gearóid","Quest Dialogue"
-"0","0","実は――手紙をしたためていたのだ
-レスタニアの医術――特に薬の精製の
-知識で我々を助けてくれまいかと――","Actually... I was writing a letter.
-Hoping Lestania's healing arts -
-their knowledge of crafting medicine,
-might assist us...?","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","19","Gearóid","Quest Dialogue"
-"0","0","ふむ――そうか！
-レスタニアにも同じことを考えている
-者がいるというのか","Hmm... I see! So there are those in
-Lestania who think the same way.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","20","Gearóid","Quest Dialogue"
-"0","0","ではさっそく、不思議な効能で知られる
-植物の自生場所を伝えるよう
-各地のエリアマスターに伝達しておこう","Then let's promptly inform the Area Masters
-in each region to report the locations where
-plants with curious effects grow.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","21","Gearóid","Quest Dialogue"
-"0","0","具体的な場所は彼らから聞いてほしい","Ask them for the specific locations.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","22","Gearóid","Quest Dialogue"
-"0","0","ただしその効力のせいか、魔物を引き寄せる
-植物としても知られているものばかりだ","But, perhaps because of their potency, they're
-also known to attract monsters.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","23","Gearóid","Quest Dialogue"
-"0","0","採集には、くれぐれも注意してくれ","Be very careful when gathering them.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","24","Gearóid","Quest Dialogue"
-"0","0","目的の植物の自生地は複数あるが
-そのうちの２箇所から採集できれば
-十分だろう","There are multiple locations where the target
-plants grow, but gathering from two should
-be enough.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","25","Gearóid","Quest Dialogue"
-"0","0","具体的な場所は各地のエリアマスターたちから
-聞くといい","Ask the area masters for the specific
-locations.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","26","Gearóid","Quest Dialogue"
-"0","0","来訪の目的は聞いています
-お探しの植物は、そうですね","I've heard about your visit. 
-The plant you're looking for... let's see.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","27","Arthfael","Quest Dialogue"
-"0","0","このモロー樹林の深層内を
-探すと良いでしょう","You may want to look for this
-within the depths of Morrow Forest.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","28","Arthfael","Quest Dialogue"
-"0","0","でも気を付けてください
-その植物は、森の徘徊者に守られていますから","But be careful -
-those plants are guarded by
-forest wanderers.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","29","Arthfael","Quest Dialogue"
-"0","0","元気だったかい！？
-フィンダムの医療に手を貸してくれるんだって！
-こんなに嬉しいことはないよ","How have you been!?
-I hear you're helping with Phindym's
-medicinal work! 
-Nothing could please me more.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","30","Razanailt","Quest Dialogue"
-"0","0","そう、あんたの求める植物なら、マヌンの集落
-あたりを探すといいんだけれど
-ちょっと厄介でね","The plant you're looking for should be near
-the Manun settlement, but there's a bit of a
-problem.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","31","Razanailt","Quest Dialogue"
-"0","0","植物に魅入られたみたいにその場を
-離れない魔物がいるんだ
-だから、くれぐれも気をつけるんだよ","There are monsters that won't leave the spot,
-as if bewitched by the plants.
-So be very careful.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","32","Razanailt","Quest Dialogue"
-"0","0","お久しぶりですね
-レスタニアの覚者さま――","It has been a while,
-Master Arisen of Lestania.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","33","Muirgel","Quest Dialogue"
-"0","0","お話はガラダの使者の方より聞いています
-ぜひとも協力させてください","I've heard the details from Gearóid's envoy.
-Please let me assist you.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","34","Muirgel","Quest Dialogue"
-"0","0","あなたが求める植物は、エラン水林奥地――
-密林の鍾乳洞入口あたりで見つかるでしょう","The plant you seek can be found in the depths of 
-Elan Water Grove—
-near the Jungle Limestone Caves entrance.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","35","Muirgel","Quest Dialogue"
-"0","0","ですが――
-そこには恐ろしい魔物が棲みついていると
-聞いています
-どうかご用心下さい","However...
-I have heard that terrifying monsters
-inhabit that place.
-Please be careful.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","36","Muirgel","Quest Dialogue"
-"0","0","グリンデュアへようこそ
-ふたたび貴君の顔を見れて嬉しく思うよ","Welcome back to Glyndwr.
-It's good to see you once more.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","37","Ciarán","Quest Dialogue"
-"0","0","ガラダの使いの者から話は聞いている
-件の植物なら、この峡谷の奥地にある
-谷間を調べてみるといい","I heard from Gearóid's envoy.
-The plant in question lies in
-this gorge's farthest reaches.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","38","Ciarán","Quest Dialogue"
-"0","0","ただし、魔物を倒さなければ目的の品は
-手に入らないと思った方がいいな","Just know you won't get your prize
-without defeating the monsters
-first. Best remember that.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","39","Ciarán","Quest Dialogue"
-"0","0","おお、見たところ、無事のようだな
-しかも、植物の採集も首尾良く
-終えたようだ","Ah, you seem unharmed. 
-And it looks like you successfully got the plant.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","40","Gearóid","Quest Dialogue"
-"0","0","別の植物――ああ、あのことか","Another plant—oh, you mean that one.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","41","Gearóid","Quest Dialogue"
-"0","0","それなら、大いなる芯なる樹の樹内――
-ヴァルテブル・ホールに行けば
-必ず見つかるはずだ","Then, go to the heart of the Core Tree—
-Valtable Hall. You'll surely find it there.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","42","Gearóid","Quest Dialogue"
-"0","0","クラウスには話したのだが――
-やはり興味を持ったかな","I told Klaus about it—
-I guess he's still interested.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","43","Gearóid","Quest Dialogue"
-"0","0","ホールには魔物がいるから
-くれぐれも気をつけてな","There are monsters in the hall,
-so be very careful.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","44","Gearóid","Quest Dialogue"
-"0","0","こちらは順調ですよ
-じわりじわりと薬効成分の抽出中です
-そちらはどうです？","Things are going well here.
-We're gradually extracting the active
-ingredients. How about over there?","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","45","Camus","Quest Dialogue"
-"0","0","頼んだ植物は見つかったかな？
-ガラダから聞いたんだろう？","Did you find the plants I asked for?
-You heard about it from Gearóid, right?","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","46","Klaus","Quest Dialogue"
-"0","0","クラウスめ、ついにカミュまで巻きこんで
-大々的に動き始めたな
-わたしに隠そうともせんわ","Klaus started making big moves
-and even dragged Camus into it.
-Not even trying to hide it from me.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","47","Joseph","Quest Dialogue"
-"0","0","ジョゼフ様ったら、クラウスのこと
-気が気じゃないみたいですね
-素直じゃないんだから、まったく","Master Joseph seems really worried about Klaus. 
-Honestly, he's so stubborn.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","48","Elliot","Quest Dialogue"
-"0","0","フィンダムに行ってるんでしょ？
-わたしも行こうかな","You're going to Phindym, right?
-Maybe I'll go too.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","49","Lise","Quest Dialogue"
-"0","0","クラウスに頼まれたブツは手に入ったのか？
-魔物がいて厄介らしいが、俺を巻きこむなよ","Did you get the stuff Klaus asked for?
-Sounds like there are monsters causing trouble,
-but don't drag me into it.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","50","Gurdolin","Quest Dialogue"
-"0","0","ジョゼフとクラウスのけんかだけで
-俺はいっぱいいっぱいだぜ","Just Joseph and Klaus fighting is
-more than enough for me.","ui\00_message\quest\q60200202.gmd","\quest\q60200202.arc","q60200202.arc","51","Gurdolin","Quest Dialogue"
-"0","0","ファビオには会ったか？
-たった今までいたのだが――
-おまえを探していたぞ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","0","Joseph","Quest Dialogue"
-"0","0","次は酒場を探すと言っていたから
-行ってみたらどうだ？","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","1","Joseph","Quest Dialogue"
-"0","0","とはいえ、何やらコソコソした様子で
-おまえを探している理由もなんだかんだと
-ごまかしていた
-変なことに巻きこまれるなよ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","2","Joseph","Quest Dialogue"
-"0","0","ファビオは酒場だろう
-おかしなことに巻きこまれるなよ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","3","Joseph","Quest Dialogue"
-"0","0","さっきファビオとひさしぶりに話したよ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","4","Klaus","Quest Dialogue"
-"0","0","ファビオはいつも商売のタネを探しているよね
-知り合ったころはどうかと思っていたけど
-最近は感心しているんだ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","5","Klaus","Quest Dialogue"
-"0","0","ああ、いたいた！
-頼みたいことがあってあんたを探していたんだ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","6","Fabio","Quest Dialogue"
-"0","0","実はさ――このあいだ、地図を手に入れたんだ
-それも、ただの地図じゃない
-我らの友、レオが残した地図だ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","7","Fabio","Quest Dialogue"
-"0","0","しかも、半分ほど破れているな？
-好奇心がはち切れそうだろう？
-これは調べずにはいられないよな","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","8","Fabio","Quest Dialogue"
-"0","0","その第一歩として、レオと親しかった
-グリッテン砦のヴァネッサの意見を聞きたい
-な？　一緒にグリッテン砦へ行こうぜ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","9","Fabio","Quest Dialogue"
-"0","0","知ってるだろ？　おれはヴァネッサが苦手でね","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","10","Fabio","Quest Dialogue"
-"0","0","おれなんかきっと嫌われている――
-そう思うと、ふたりきりはキツい","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","11","Fabio","Quest Dialogue"
-"0","0","あんたが新人の頃はいろいろ世話したよな？
-その時の恩を、今、ちょーっと返してくれ","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","12","Fabio","Quest Dialogue"
-"0","0","ああ――よく来たな","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","13","Vanessa","Quest Dialogue"
-"0","0","悪いな
-ここでの仕事を片付けて、なるべく早くに
-わたしも行けるようにする","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","14","Vanessa","Quest Dialogue"
-"0","0","新しい地図にあった印は、やっぱり
-この洞窟だよな――","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","15","Fabio","Quest Dialogue"
-"0","0","これを見てくれ
-つなぎ合わせた地図から読み取ると――","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","16","Vanessa","Quest Dialogue"
-"0","0","どうやら、この洞窟の、さらに奥に
-何かがあるらしい","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","17","Vanessa","Quest Dialogue"
-"0","0","おそらく――危険な魔物がいるのだろう
-レオはその魔物退治をひとりでやっていた
-そういう奴だ、あいつは","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","18","Vanessa","Quest Dialogue"
-"0","0","よし、我々の手でレオの憂いを断ってやろう
-行くぞ――","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","19","Vanessa","Quest Dialogue"
-"0","0","くぅ――出た出た！","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","20","Fabio","Quest Dialogue"
-"0","0","これがレオの心残りか！？","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","21","Vanessa","Quest Dialogue"
-"0","0","何か手がかりがあるかもしれない
-手分けして探そう","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","22","Vanessa","Quest Dialogue"
-"0","0","レオめ、ここに何を隠したんだ？","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","23","Fabio","Quest Dialogue"
-"0","0","また別の場所へのメッセージか――
-おれたちもしかして、からかわれてるのか？","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","24","Fabio","Quest Dialogue"
-"0","0","いや、レオはそういう性格じゃないしなあ
-とにかく、このメッセージの場所は――","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","25","Fabio","Quest Dialogue"
-"0","0","この洞窟入口近くの、滝を望む崖あたりかな","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","26","Fabio","Quest Dialogue"
-"0","0","新たな情報の示す先はこのダウ渓谷の
-滝の麓というわけだな","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","27","Vanessa","Quest Dialogue"
-"0","0","さあ、行こうか","","ui\00_message\quest\q60200203.gmd","\quest\q60200203.arc","q60200203.arc","28","Vanessa","Quest Dialogue"
-"0","0","おお、調査を引き受けてくれるか
-貴君に頼めるのであれば心強い","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","0","Alfred","Quest Dialogue"
-"0","0","場所はテルの西側、《刃擦れの細道》の辺りだ
-ハイデルではあまり見ることの
-なかった魔物たちが徘徊している","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","1","Alfred","Quest Dialogue"
-"0","0","アークが何らかの作用によって
-新手の魔物を引き付けているのか
-それとも魔物が内部から出てくる術を知ったのか――","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","2","Alfred","Quest Dialogue"
-"0","0","どちらにせよ、テルの脅威と
-なることに変わりはない
-なるべく早めに調査結果を知らせてくれ","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","3","Alfred","Quest Dialogue"
-"0","0","場所はテルの西側、《刃擦れの細道》の辺りだ
-テルの新たな脅威となりかねない――
-なるべく早めに調査結果を知らせてくれ","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","4","Alfred","Quest Dialogue"
-"0","0","おお、調査だけでなく
-周辺にいた魔物の討伐も
-してきてくれたのか！　感謝する","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","5","Alfred","Quest Dialogue"
-"0","0","――ふむ、貴君のいうとおり、
-魔物たちに錬金術の痕跡があったことや
-発見場所が限定されているということは
-内部から出てきたということになるだろうな――","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","6","Alfred","Quest Dialogue"
-"0","0","恐らく今後も内部から這い出てきた魔物が
-うろつくこともあるだろう
-村人たちには、あの付近に近寄らぬよう
-あらためて伝えておこう","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","7","Alfred","Quest Dialogue"
-"0","0","――しかし、今までアークの中に潜んでいたものが
-いったい何故この時期になって
-這い出てきたのだろうな","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","8","Alfred","Quest Dialogue"
-"0","0","アーク付近の様子については
-今後も子細に監視しておく
-貴君も何か気付いたことがあれば知らせてくれ","","ui\00_message\quest\q60201000.gmd","\quest\q60201000.arc","q60201000.arc","9","Alfred","Quest Dialogue"
-"0","0","おお、調査に協力してくれるか
-今わかっていることを全て話しておこう","Oh, you will assist with the investigation?
-Then I shall tell you everything we know so far.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","0","Alfred","Quest Dialogue"
-"0","0","《アーク》の付近から小動物の姿が
-消えていると話したが、これは何かに
-食われているというわけではないのだ","You mentioned that small animals have been
-disappearing near the Ark, but this isn't due to
-being eaten by something.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","1","Alfred","Quest Dialogue"
-"0","0","わたしが周囲を調べてみたところ
-アークから発される微かな振動が大地に伝わり
-小動物たちはそれを嫌って逃げたようだった","After investigating the area, I discovered that
-faint vibrations from the Ark are traveling
-through the ground. It seems as though
-the small animals have fled to avoid them.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","2","Alfred","Quest Dialogue"
-"0","0","以前はアークからそのような振動が
-発せられることはなかった
-内部で何らかの変化が起こっていることは
-確実と見ていいだろう","The Ark wasn't emitting such vibrations before.
-It's safe to assume something has changed.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","3","Alfred","Quest Dialogue"
-"0","0","《アーク裏層》の入り口付近から
-最も強い振動が確認されている
-調査もそちら側から始めた方が良いだろう","The strongest vibrations have been detected near
-the Ark's Lower Level entrance. We should begin
-our investigation there.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","4","Alfred","Quest Dialogue"
-"0","0","アークには未だに謎が多い――
-詳細な構造すら未だ解明されていないとも聞く
-くれぐれも注意して向かってくれ","The Ark still holds many mysteries...
-I've heard that even the details of its structure
-remain completely unknown.
-Please be cautious as you proceed.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","5","Alfred","Quest Dialogue"
-"0","0","《アーク裏層》の入り口付近から
-最も強い振動が確認されている
-調査もそちら側から始めた方が良いだろう","The strongest vibrations have been detected near
-the Ark's Lower Level entrance. We should begin
-our investigation there.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","6","Alfred","Quest Dialogue"
-"0","0","アークには未だに謎が多い――
-身の安全を優先した行動を心掛けてくれ","With the Ark shrouded in such mystery...
-Prioritize your safety above all else.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","7","Alfred","Quest Dialogue"
-"0","0","ああ、調査に行ってきてくれたのだな！
-まずは無事の帰還を喜ぼうではないか","Ah, so you've returned safely from
-the investigation! First, let us celebrate.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","8","Alfred","Quest Dialogue"
-"0","0","ふむ、《アーク裏層》の奥にて
-強大な魔導兵器が起動し、暴走していたと――
-その振動が微かにアークの外にまで
-伝わっていたというのか――","I see... So, a powerful arcane weapon awakened
-and ran amok in the Ark's Lower Level...
-And its tremors reached outside the Ark?","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","9","Alfred","Quest Dialogue"
-"0","0","話を聞くだけでも、その強力さが伝わってくるようだ
-調査に加え、魔導兵器の停止まで済ませてくれるとは
-さすがは統率の右腕と呼ばれる覚者だな","Speaking to you about it gives me a fair
-understanding of its fearsome power.
-But for you to investigate and put a stop
-to the arcane weapon in one go...
-You truly are worthy of being called an Arisen.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","10","Alfred","Quest Dialogue"
-"0","0","調査に協力してくれたことに感謝する
-貴君の力添えなしでは解明できなかっただろう","Thank you for helping with the investigation.
-Without your aid, we would never have uncovered
-the truth.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","11","Alfred","Quest Dialogue"
-"0","0","今後もアーク内に残った魔導兵器が
-暴走する可能性は残っている
-わたしも引き続きアークの監視を
-続けることを約束しよう","Other arcane weapons inside the Ark may still go
-out of control. I promise to continue monitoring
-it closely.","ui\00_message\quest\q60201001.gmd","\quest\q60201001.arc","q60201001.arc","12","Alfred","Quest Dialogue"
-"0","0","やっぱり覚者さんも
-井戸の底の青い光、気になるよね！","So, Arisen, you're also curious about that
-blue light at the bottom of the well, huh?","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","0","O'Neill","Quest Dialogue"
-"0","0","もしかしたら今度こそ
-""ブリアに眠る財宝""かもしれないし――
-お宝って、意外とああいう地味なところに
-あるんじゃないかって思うんだよ","Who knows, it might actually be the fabled
-""Breya's Sleeping Treasure."" 
-Sometimes, treasure can be found 
-in the most unexpected and 
-mundane places. 
-That's what I think, anyway.","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","1","O'Neill","Quest Dialogue"
-"0","0","あんな古い井戸の底なんか
-目を付ける盗賊もいないだろうしね","No thief would bother looking in an old well
-like that, after all.","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","2","O'Neill","Quest Dialogue"
-"0","0","じゃあ、青い光については
-覚者さんに任せたよ！
-お宝だといいな！","Alright, the Arisen will take care of that
-blue light! I hope it's treasure!","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","3","O'Neill","Quest Dialogue"
-"0","0","《灯台下の古井戸》の青い光のことは
-覚者さんに任せたよ！
-もしお宝だったら山分けだ！","I'll leave the blue light in the Lighthouse
-Old Well to you, Arisen!
-If it's treasure, we'll split it!","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","4","O'Neill","Quest Dialogue"
-"0","0","えっ！
-井戸の底はブルーニュートの巣になってたって！？
-しかも、かなり大きい個体が居たって――！？","What! The bottom of the well turned out to be
-a nest of Blue Newts!? 
-What's more, there was a giant one too!?","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","5","O'Neill","Quest Dialogue"
-"0","0","財宝が見つかれば、この村も覚者さんも
-一気に潤うんじゃないかと思ったんだけど――
-なんだか迷惑をかけちゃったね――","I thought if we found treasure, it would surely help
-everyone out... You, the village, all in one go.
-Sorry for putting you through so much trouble.","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","6","O'Neill","Quest Dialogue"
-"0","0","これ、お詫びといっちゃなんだけど
-受け取ってよ！
-井戸の魔物も掃除してくれたみたいだし
-そのお礼も兼ねてさ","This gift is more of an apology, but please take it!
-You cleared out the monsters in the well,
-so let me show my appreciation.","ui\00_message\quest\q60202000.gmd","\quest\q60202000.arc","q60202000.arc","7","O'Neill","Quest Dialogue"
-"0","0","いやぁ、本当にまいったよ
-ずっと封鎖してあった遺跡に
-まさかリンドブルムが棲みついてるなんて――","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","0","O'Neill","Quest Dialogue"
-"0","0","すぐに封鎖しなおすことも考えたんだけど
-竜は知能が高いっていうだろ？
-モルトバ遺跡と井戸が繋がってるってことは
-もうバレちゃってると思うんだよ――","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","1","O'Neill","Quest Dialogue"
-"0","0","もしもリンドブルムがこっち側に出てくるつもりなら
-通路に鍵をかけ直したところで
-焼け石に水じゃないか","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","2","O'Neill","Quest Dialogue"
-"0","0","そう考えると気が気じゃないんだ――
-覚者さんに様子を見てきてもらうまでは
-眠れそうにないよ――","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","3","O'Neill","Quest Dialogue"
-"0","0","《モルトバ遺跡》のリンドブルムが
-もしこっちに来るようなそぶりを見せていたら
-すぐに教えてくれ","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","4","O'Neill","Quest Dialogue"
-"0","0","エリアマスターとして、村人を避難させるとか
-何か方法を考えないと――","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","5","O'Neill","Quest Dialogue"
-"0","0","うう、気が重いよ――
-できるだけ早く見に行ってもらえないかな――","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","6","O'Neill","Quest Dialogue"
-"0","0","覚者さん、リンドブルムの様子はどうだった？
-村の方に来そうな気配は――
-えっ！　やっつけてきてくれたのか！？","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","7","O'Neill","Quest Dialogue"
-"0","0","そ、そりゃおかげで安心したけどさ！
-リンドブルムだって、覚者さんに
-とっちめられたとなれば、今後も村の方に
-近寄ろうとはしないだろうからね","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","8","O'Neill","Quest Dialogue"
-"0","0","ふぅ、覚者さんがいてくれれば
-きっとこれからもローテスは安泰だよ！
-これ、今回のお礼だよ
-少ないけど役に立ててくれ","","ui\00_message\quest\q60202001.gmd","\quest\q60202001.arc","q60202001.arc","9","O'Neill","Quest Dialogue"
-"0","0","退治を引き受けてくれるのね！
-最近は白衛騎士団もこちら方面には
-手が回っていないようだから、助かるわ","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","0","Patricia","Quest Dialogue"
-"0","0","""子攫いのメリーティア""が巣食っているのは
-リンウッドからミスリウ森林深部に向かう
-一本道の途中にある《行商人の難所》よ","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","1","Patricia","Quest Dialogue"
-"0","0","そういえば、""子攫いのメリーティア""のことは
-もう知っていたかしら？
-人の味を知った凶悪なナイトメアよ","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","2","Patricia","Quest Dialogue"
-"0","0","かつてはこのレスタニア中を飛び回り
-子供ばかりを攫っては食べていたそうよ
-騎士団に討伐されたと聞いていたのだけど
-どこかに潜んで生き延びていたのね","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","3","Patricia","Quest Dialogue"
-"0","0","一体いつ頃から活動を再開したのかは
-わからないけど
-先日、恐ろしい叫び声と共に
-ジンゲンの方角から飛来したの","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","4","Patricia","Quest Dialogue"
-"0","0","リンウッドには子供も多いから
-きっと目を付けて近くで狙っているに違いないわ
-子供が攫われる前に何とかしなきゃ――","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","5","Patricia","Quest Dialogue"
-"0","0","""子攫いのメリーティア""は
-《行商人の難所》に
-巣食っているわ","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","6","Patricia","Quest Dialogue"
-"0","0","ナイトメアの中でも
-人の味を知った凶悪な個体よ
-くれぐれも気を付けてね","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","7","Patricia","Quest Dialogue"
-"0","0","""子攫いのメリーティア""を
-討伐してきてくれたのね！
-貴方のことだから、きっとあの魔物相手にも
-上手くやってくれると信じていたわ！","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","8","Patricia","Quest Dialogue"
-"0","0","これでメリーティアも
-また住み処を変えるか
-傷が癒えるまで大人しくしているでしょう","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","9","Patricia","Quest Dialogue"
-"0","0","きっと村の親たちも安心すると思うわ
-これは、私と親たちの気持ちだと思って
-受け取ってちょうだい","","ui\00_message\quest\q60203000.gmd","\quest\q60203000.arc","q60203000.arc","10","Patricia","Quest Dialogue"
-"0","0","よかった、引き受けてくれるのね！
-それじゃあ、出発前に《ミスリウ古墳墓》で
-何が起こったかを話しておくわね","Good that you're taking this on!
-Before we leave, let me tell you what happened
-at the Mysree Barrow.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","0","Patricia","Quest Dialogue"
-"0","0","先日、あの古墳墓に歴史家が立ち入ったのよ
-もちろん、私の許可を得てのことだったんだけど――
-中で調べ事をしている時に、魔物に襲われたらしいの","The other day, a historian entered that tomb.
-They had my permission, of course...
-but while researching inside, they were attacked
-by a monster.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","1","Patricia","Quest Dialogue"
-"0","0","何とか命からがら逃げてきたみたいだけど
-どうにも言っていることがはっきりしないのよ","They barely escaped with their lives, but their
-recollection is oddly vague.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","2","Patricia","Quest Dialogue"
-"0","0","――薄暗い古墳墓の中で突然飛びかかられて
-その瞬間にランタンを落としてしまったから
-どんな魔物だったかわからない――","The tomb was poorly lit... 
-making it impossible to see the monster
-ambushing them after dropping their lantern.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","3","Patricia","Quest Dialogue"
-"0","0","――飛びかかられた瞬間に
-両腕を振り回して抵抗したものの
-魔物の毛一本掴むことができなかった――ですって","They recalled flailing their arms in desperation
-during the ambush, but couldn't manage
-any contact with their attacker...
-Not even a hair, they said.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","4","Patricia","Quest Dialogue"
-"0","0","何かの魔物がいることは間違いないと思うんだけど
-古墳墓の中に何が潜んでいるかはわからないから
-くれぐれも注意してね","We have no idea what monster is lurking within
-the tombs, so please exercise caution.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","5","Patricia","Quest Dialogue"
-"0","0","《ミスリウ古墳墓》調査の進みは
-どうかしら？","How's the Mysree Barrow investigation going?","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","6","Patricia","Quest Dialogue"
-"0","0","急ぐわけじゃないけど気がかりなのよ
-何かわかったら、すぐ教えてね","I'm not rushing you, I'm just concerned.
-Let me know as soon as you find anything.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","7","Patricia","Quest Dialogue"
-"0","0","まぁ、早速調査に行ってきてくれたのね！
-くわしく聞かせて！","Wow, you've already gone and done it!
-Tell me everything!","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","8","Patricia","Quest Dialogue"
-"0","0","――そうだったの――
-あの古墳墓には強力な墓守が
-ついているということね","Interesting...
-So that tomb has a powerful beast guarding it.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","9","Patricia","Quest Dialogue"
-"0","0","一体どういう人があの古墳墓に
-葬られているのかはわからないけれど
-今後も軽々しく足を踏み入れない方が良さそうね","We don't know who rests in that tomb,
-so it's best to venture cautiously from now on.","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","10","Patricia","Quest Dialogue"
-"0","0","それにしても、シャドーキメラが
-""得体の知れない魔物""の正体とはね！","As it turns out, the Shadow Chimera was the
-so-called ""mysterious monster"" all along!","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","11","Patricia","Quest Dialogue"
-"0","0","確かに、薄暗いところでは姿が見えにくいし
-その毛にも触れることはできないけれど――
-未知の強大な魔物でも潜んでいるのかと
-思っちゃったわ！","It makes sense. They are very difficult to see in
-dim light, and its fur is immaterial...
-I even started wondering what sort of
-powerful monster was lurking there!","ui\00_message\quest\q60203001.gmd","\quest\q60203001.arc","q60203001.arc","12","Patricia","Quest Dialogue"
-"0","0","これはこれは、覚者さん！
-《ボルド大坑道》の魔物退治の件
-引き受けてくださるんですな！","Well, well, Ser Arisen! I see that you've agreed
-to handle the monster extermination request
-for the Volden Large Tunnels!","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","0","Roy","Quest Dialogue"
-"0","0","いやぁ、助かります！
-《ボルド大坑道》の再開発はこのエリアにとって
-避けては通れない重大な課題でしてね","What a relief this is!
-The redevelopment of the Volden Large Tunnels
-is a vital task that we cannot avoid.","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","1","Roy","Quest Dialogue"
-"0","0","なんでも、骸骨騎士が坑内を歩いている――とか
-光るドクロが坑道の奥からこっちを見てた――とか
-おおかたスケルトンか何かだと思うんですけどねぇ","As of late, rumors claim of a skeletal knight
-wandering the mines... They're saying,
-""a glowing skull stares from the depths.""
-It's probably just skeletons or something.","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","2","Roy","Quest Dialogue"
-"0","0","鉱員が集まらなくなる妙な噂は
-早めにどうにかしてしまわないといけません","We need to address these strange rumors
-discouraging miners from coming in to work,
-as soon as possible.","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","3","Roy","Quest Dialogue"
-"0","0","覚者さんがちゃんと退治してくださったと
-言えるようになれば、また鉱員も集まるでしょう
-ここは一つ、よろしくお願いしますよ！","Once word spreads that the problem has been
-taken care of, the miners should return.
-We're counting on you for this one!","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","4","Roy","Quest Dialogue"
-"0","0","そういえば、《ボルド大坑道》の妙な噂については
-どうなりましたかな？","Speaking of which, any news on those strange
-rumors regarding the Volden Large Tunnels?","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","5","Roy","Quest Dialogue"
-"0","0","いえいえ、急いでいるわけではありませんが
-あの噂は私も気になっているもので！","No, no, I'm not in a hurry...
-but those rumors are bothering me!","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","6","Roy","Quest Dialogue"
-"0","0","ほら、アレです
-骸骨騎士が坑道をうろついているとかいう噂――","You know, the one about a skeletal knight
-wandering the mines...","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","7","Roy","Quest Dialogue"
-"0","0","ほう、スカルロード！
-そんなものがあの坑道内をさまよっていたのですか
-残ってくれていた数少ない鉱員が襲われる前に
-退治していただけて助かりました！","Oh, a Skull Lord!
-So he was haunting the tunnels, huh?
-You've done us a great favor by eliminating it
-before it could attack anyone else!","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","8","Roy","Quest Dialogue"
-"0","0","噂の正体はスカルロードで
-覚者さんにきっちり退治していただいた――
-そう説明できれば、いずれ噂も消えましょう","Once we tell of the Arisen who defeated
-the Skull Lord in the tunnels, the rumors will
-eventually lose hold of the people.","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","9","Roy","Quest Dialogue"
-"0","0","これでまた鉱員を集めて
-ボルド大坑道の再開発を進めることができますな！
-覚者さん、いつもありがとうございます！","We can now gather miners and proceed with the
-redevelopment of the Volden Large Tunnels.
-Thank you as always, Ser Arisen!","ui\00_message\quest\q60204000.gmd","\quest\q60204000.arc","q60204000.arc","10","Roy","Quest Dialogue"
-"0","0","《灼熱の封鎖道》なんですがね
-私も様子を見に入ってみたところ
-ダイヤどころかジオゴーレムが丸まっているのを
-見つけてしまったんですよ","It's about the Scorching Blocked Passage, right?
-When I went to check it out myself,
-what I found there was not a single diamond,
-only a curled up Geo Golem waiting for me.","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","0","Roy","Quest Dialogue"
-"0","0","いやぁ、やっぱり人の手が入らないと
-ああいうのが棲みついてしまうんですねぇ","Well, you know, without human intervention,
-things like that start taking up residence.","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","1","Roy","Quest Dialogue"
-"0","0","特に、ジオゴーレムは炎の力を
-動力にしているそうですから
-地下の溶岩からの熱を受けられるあの場所は
-居心地がいいんでしょうな――","Considering Geo Golems use fire as their power
-source, a place with underground magma must be
-cozy for them.","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","2","Roy","Quest Dialogue"
-"0","0","しかし、あんな魔物が居座っているとなると
-今後《灼熱の封鎖道》を
-開発しようってことになった時に
-差し障りがあるかも知れません","With such a monster lurking there, it could cause
-problems if we try to develop the Scorching
-Blocked Passage.","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","3","Roy","Quest Dialogue"
-"0","0","こりゃぁボルドの発展に
-関わりかねない問題ですからね
-早めに手を打っておきたいんです
-よろしく頼みますよ、覚者さん！","This could seriously hinder Volden's development,
-so we need to act fast. I'm counting on you,
-Arisen!","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","4","Roy","Quest Dialogue"
-"0","0","《灼熱の封鎖道》に居座っている
-ジオゴーレムの件、何か進展はありましたかな？","Any progress with the Geo Golems in the Scorching
-Blocked Passage?","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","5","Roy","Quest Dialogue"
-"0","0","このボルドの将来のため
-よろしく頼みますよ、覚者さん！","For the future of Volden,
-I'm counting on you, Arisen!","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","6","Roy","Quest Dialogue"
-"0","0","さすがは覚者さん！
-もうあのジオゴーレムを
-片付けてきてくださったんですか？！","It's no surprised that you've already taken care
-of that Geo Golem, Ser Arisen!","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","7","Roy","Quest Dialogue"
-"0","0","ジオゴーレムを見つけた時は
-焦ったものですが、覚者さんのおかげで
-このボルドは安泰ですな！","I was quite frantic when I happened upon it,
-but thanks to you, Volden is safe now!","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","8","Roy","Quest Dialogue"
-"0","0","あそこは地熱の加減もあって
-ジオゴーレムには絶好の環境でしょうから
-今後もまた見かけることがあれば
-追い払っておいてもらえると助かります","The geothermal activity there makes it a perfect
-environment for Geo Golems. If you should see
-any more in the future, please drive them away.","ui\00_message\quest\q60204001.gmd","\quest\q60204001.arc","q60204001.arc","9","Roy","Quest Dialogue"
-"0","0","おお、覚者様！
-調査を引き受けてくださるのですね！","Oh, Ser Arisen!
-So you'll take on the investigation, huh!","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","0","Hayden","Quest Dialogue"
-"0","0","カタコンベの近くに
-逃げ惑うような姿の石像が
-たくさん立ち並んでいます――","Near the catacombs, many stone statues stand in
-what appear to be fleeing postures.","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","1","Hayden","Quest Dialogue"
-"0","0","石と化した村人たちは
-もはや戻ることは叶わぬことでしょう――
-しかし、原因となった魔物が徘徊し続ける限り
-この村は滅亡の危機に瀕することになるのです","Those turned to stone can never return to life,
-and as long as the monsters responsible
-are allowed to roam, the villagers remain in fear
-of the same fate.","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","2","Hayden","Quest Dialogue"
-"0","0","このままでは村人たちも
-村の外を歩くことができません
-あの辺りに危険な魔物が潜んでいないか
-調査をお願いいたします――","As things stand, the villagers are too afraid to
-venture outside. Please find out if those
-dangerous monsters still lurk in that area.","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","3","Hayden","Quest Dialogue"
-"0","0","カタコンベの近くに突如現れた石像――
-あれは子供を探しに出た親たちのように
-思えてなりません","The stone statues that suddenly appeared near the
-catacombs seem to resemble parents searching for
-their children.","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","4","Hayden","Quest Dialogue"
-"0","0","どうか、あの辺りに危険な魔物が潜んでいないか
-調査をお願いいたします","Please investigate that area to determine if those
-petrifying monsters still lurk about.","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","5","Hayden","Quest Dialogue"
-"0","0","な、なんと！
-カタコンベ近くにガーゴイルの群れが
-巣食っていたのですか――","W-what dismay!
-A clan of gargoyles is nesting near
-the catacombs, you say...","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","6","Hayden","Quest Dialogue"
-"0","0","子供を探しに出たというのに
-ガーゴイルに襲われてしまうとは――
-親たちもさぞ無念であったことでしょう――","They went out searching for their children, only
-to be attacked by gargoyles. What bitter despair
-they must have felt in those last moments...","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","7","Hayden","Quest Dialogue"
-"0","0","カタコンベの近くには近寄らないよう
-村人たちにも周知いたします
-調査にご協力くださってありがとうございました
-ジンゲンの村人を代表してお礼を申し上げます","I will warn the villagers to stay away from the
-catacombs. Thank you for your cooperation with
-this investigation. On behalf of Jingen's villagers,
-I express my deepest gratitude.","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","8","Hayden","Quest Dialogue"
-"0","0","一つ気がかりなことがあるのですが――
-あの辺りには子供らしき石像は
-見当たりませんでしたが
-子供たちもガーゴイルに襲われたのでしょうか――","There is one thing that troubles me though...
-Among the stone statues, none resembled children.
-Were the children also attacked by gargoyles,
-or...","ui\00_message\quest\q60205000.gmd","\quest\q60205000.arc","q60205000.arc","9","Hayden","Quest Dialogue"
-"0","0","此度もお引き受けくださるとは――
-覚者様のお心遣いに感謝いたします","It's kind of you to take this on again.
-We are truly grateful, Arisen.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","0","Hayden","Quest Dialogue"
-"0","0","《見捨てられた井戸》から聞こえたという人の声――
-もしかすると居なくなった子供たちや
-その親の誰かが、井戸の中で生きているのではと
-希望を捨てきれないのです","Some have heard a voice come from within
-the Forsaken Well... We wonder if any of
-the missing children or one of their parents
-could still be alive inside.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","1","Hayden","Quest Dialogue"
-"0","0","しかし、魔物の声である可能性も高いので
-我々が調べに行くこともできず――","However, there is also a good chance that it could
-be something... sinister, so we are afraid to go
-check it out ourselves.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","2","Hayden","Quest Dialogue"
-"0","0","覚者様のような方にお頼りするしかないのです
-井戸の奥に誰も居ないかを確認していただければ
-我々も諦めがつくというもの
-どうかよろしくお願いいたします","We have no choice but to rely on you, Arisen.
-If you could verify whether anyone is in the
-depths of the well, it would help us find closure.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","3","Hayden","Quest Dialogue"
-"0","0","《見捨てられた井戸》は
-その名の通り、何年も前に井戸としての機能を失い
-存在を忘れられていた井戸でした","True to its name, the Forsaken Well stopped
-working many years ago and had been abandoned
-by all.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","4","Hayden","Quest Dialogue"
-"0","0","井戸の底がどのような状態になっているかは
-わたくしにも想像がつきません
-覚者様、お気をつけて――","I cannot begin to imagine what lies the bottom of it...
-So please take care, Arisen.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","5","Hayden","Quest Dialogue"
-"0","0","何ということだ――
-《見捨てられた井戸》の中に
-メドゥーサがいたとは――","What did you say!?
-There was a Medusa inside the Forsaken Well?","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","6","Hayden","Quest Dialogue"
-"0","0","子供を探して井戸の中に入った親たちは
-そこでメドゥーサの餌食となったのですね――
-そして、命からがら井戸から逃げ出した者すら
-ガーゴイルの群れに襲われた――","The parents entered the well in search of
-their children only to become Medusa's prey...
-and even those who managed to escape the well
-were attacked by the clan of gargoyles...","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","7","Hayden","Quest Dialogue"
-"0","0","そのような事態が起こっているとは
-予想だにしませんでした――
-ときに、あの井戸の中に子供の姿はあったでしょうか？","I never imagined such a thing could happen...!
-Were there any signs of children in that well?","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","8","Hayden","Quest Dialogue"
-"0","0","――そうですか、井戸に
-子供たちが居た形跡は無かったのですね
-あの子たちは一体どこに行ってしまったのか――","I see... so there were no traces of the children
-in the well. Where in the world could they have
-gone...","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","9","Hayden","Quest Dialogue"
-"0","0","ともあれ、覚者様
-おかげ様でわたくし共も一旦は
-気持ちの整理を付けることができました――","Be that as it may, we can begin to process our
-grief, for now... 
-Thank you, Arisen.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","10","Hayden","Quest Dialogue"
-"0","0","こちらはこのジンゲンの全ての村人からの
-感謝の気持ちでございます
-どうかお役立てください","Take this... as a token of gratitude
-from all of the villagers of Jingen.
-Please make use of it.","ui\00_message\quest\q60205001.gmd","\quest\q60205001.arc","q60205001.arc","11","Hayden","Quest Dialogue"
-"0","0","イニアス湖の近辺に現れた人影を
-打ち払ってくださるのですね","Please say you'll drive away the figure that
-appeared near Lake Inias.","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","0","Christine","Quest Dialogue"
-"0","0","イヴァンがあの辺りに近寄れず
-森の中を巡回していただけないとなると
-魔物の襲来に備えることもできません","Ivan will not approach that area,
-and if he won't patrol the forest,
-we cannot prepare for any monster attack.","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","1","Christine","Quest Dialogue"
-"0","0","ここで森の奥に潜む魔物を食い止め
-テルやリンウッドの人々を守るためにも
-どうかよろしくお願いいたします――","Please protect the people of Tel and Lynwood
-and put a stop to the monsters lurking
-deep in the forest.","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","2","Christine","Quest Dialogue"
-"0","0","覚者さま、イニアス湖近辺に
-現れた人影について――
-心の片隅にお留め置きください――","Regarding the figure that appeared near Lake
-Inias, please keep it in mind, Ser Arisen.","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","3","Christine","Quest Dialogue"
-"0","0","人が何かを強く思った時
-思念体がその場にとどまり続けることがあると
-耳にした覚えがございます","I've heard that when someone strongly wishes
-for something, an apparition may appear.","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","4","Christine","Quest Dialogue"
-"0","0","かの人影も恐らく
-誰かが遺した思念体でありましょう
-このような深き森にて、一体何を思われたのか――","That figure is likely an apparition created by
-such a person. What could they have wished for
-so deep in the forest?","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","5","Christine","Quest Dialogue"
-"0","0","思念体は一度散らされようと
-時が経てば再び姿を成すことがあるそうです
-覚者さま、もしその姿を見ることがあれば
-その時はよろしくお願いいたします――","Even if an apparition has dispersed, it may take
-form again in time. Ser Arisen, if you see it
-again, please help us dispatch it once more.","ui\00_message\quest\q60206000.gmd","\quest\q60206000.arc","q60206000.arc","6","Christine","Quest Dialogue"
-"0","0","先日、突如としてこの祠の前に現れた
-ミストドレイクはイヴァンによって退けられ
-《霧幻のテラス》へと去りました","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","0","Christine","Quest Dialogue"
-"0","0","力が戻った時、ミストドレイクは
-再びこの祠に襲来することでしょう
-そうなれば、私には対抗する術がありません","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","1","Christine","Quest Dialogue"
-"0","0","覚者さま、今が好機なのです
-どうかこの機に《霧幻のテラス》への
-封じ込めにご協力ください","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","2","Christine","Quest Dialogue"
-"0","0","覚者さま、《霧幻のテラス》に
-潜むミストドレイク――
-力を取り戻してしまう前に
-遺跡内に封じ込めていただけないでしょうか","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","3","Christine","Quest Dialogue"
-"0","0","覚者さま、《霧幻のテラス》への
-ミストドレイク封じ込めにご協力くださり
-感謝いたします","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","4","Christine","Quest Dialogue"
-"0","0","覚者さまのお力添えがなければ
-とても成しえなかったことです
-最大限のお礼を申し上げます","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","5","Christine","Quest Dialogue"
-"0","0","それにしても、あのミストドレイク――
-祠へ降り立ったその時
-何かを探し求めるような目をしていたのです――","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","6","Christine","Quest Dialogue"
-"0","0","――いえ、この祠に
-思念体となった竜の求めるようなものなど
-ありませんから、私の気のせいでしょうね","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","7","Christine","Quest Dialogue"
-"0","0","この祠にあるのは
-かつてここを訪れた
-人々の記憶くらいでしょうから――","","ui\00_message\quest\q60206001.gmd","\quest\q60206001.arc","q60206001.arc","8","Christine","Quest Dialogue"
-"0","0","引き受けてくれるのかい
-じゃあ、問題のエントについて
-詳しく説明するよ","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","0","Rondejeel","Quest Dialogue"
-"0","0","《大樹の広場》の付近に現れたエントなんだけど
-えらく攻撃的で、あの辺りに
-近寄ることすらできないんだ","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","1","Rondejeel","Quest Dialogue"
-"0","0","なぜ突然暴れ始めたのかは
-わからないんだけど――
-ここからもそう遠くないし
-こちらに向かってくることがあると困るからね","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","2","Rondejeel","Quest Dialogue"
-"0","0","エントが暴れているのは《大樹の広場》付近だよ
-あの辺りは大木が多いから
-エントと普通の木を見間違えないようにね","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","3","Rondejeel","Quest Dialogue"
-"0","0","エントを倒してきてくれたのか！
-これで安心して薬草を摘みにいくことができるよ","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","4","Rondejeel","Quest Dialogue"
-"0","0","それにしても、あのエントは一体何に反応して
-暴れていたんだろう","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","5","Rondejeel","Quest Dialogue"
-"0","0","いや、今まで《大樹の広場》では
-エントが暴れるなんてことは無かったから
-奇妙に思ってさ","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","6","Rondejeel","Quest Dialogue"
+﻿"0","0","今までは、エントたちは大樹に敬意を払って
+あの辺りを避けているのかとも思っていたんだ
+僕の思い違いだったみたいだけどね","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","7","Rondejeel","Quest Dialogue"
+"0","0","そうそう、これは今回のお礼だよ
+いつも僕らに力を貸してくれてありがとう","","ui\00_message\quest\q60207000.gmd","\quest\q60207000.arc","q60207000.arc","8","Rondejeel","Quest Dialogue"
+"0","0","ウィルムの討伐、引き受けてくれるのかい
+妹一人の手には余るようだったからね
+助かるよ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","0","Rondejeel","Quest Dialogue"
+"0","0","妹によると、ウィルムは
+《飛天のテラス》の奥に潜んでいたそうだ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","1","Rondejeel","Quest Dialogue"
+"0","0","あんな鳥だらけのところに
+氷竜がいるなんて不思議だけど、
+もしかすると羽ばたきの音が
+意外と心地よかったりするのかもね","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","2","Rondejeel","Quest Dialogue"
+"0","0","――なんて、ちょっとウィルムのことを
+人みたいに考えすぎたかな
+とにかく、討伐の件は君に任せるよ
+急ぎはしないから、頃合いを見て取り組んでくれ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","3","Rondejeel","Quest Dialogue"
+"0","0","妹によれば、ウィルムは
+《飛天のテラス》の奥に潜んでいたそうだ
+きっと今もテラスのどこかにいるはずだよ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","4","Rondejeel","Quest Dialogue"
+"0","0","急ぎはしないから、君の都合のいい頃にでも
+取り組んでみてくれ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","5","Rondejeel","Quest Dialogue"
+"0","0","ウィルムを討伐してきてくれてありがとう
+これで《飛天のテラス》の調査を
+進めることができるよ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","6","Rondejeel","Quest Dialogue"
+"0","0","今までに見つかっているエルフの遺跡は
+それぞれ異なった特色を備えているんだけど
+《飛天のテラス》は今に至るまで
+鳥を呼び寄せるような不思議な力を残している","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","7","Rondejeel","Quest Dialogue"
+"0","0","あそこを調べることで
+エルフの文化について
+より一層見識を深めることができると思うんだ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","8","Rondejeel","Quest Dialogue"
+"0","0","何か新しいことがわかったら
+君にも伝えることにしよう
+君の協力あってこその成果だからね","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","9","Rondejeel","Quest Dialogue"
+"0","0","今回も力を貸してくれてありがとう
+少ないけれど、これはお礼だよ
+受け取ってくれ","","ui\00_message\quest\q60207001.gmd","\quest\q60207001.arc","q60207001.arc","10","Rondejeel","Quest Dialogue"
+"0","0","おっ、準備できたか！
+それじゃあ早速だが頼んだぞ","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","0","Scherzo","Quest Dialogue"
+"0","0","場所はバートランド大橋の近くにある
+《薄煙の荒れ地》って呼ばれてる場所だ
+まぁ、近寄ってみればすぐにわかるだろう
+オークが野営に使った焚火がくすぶってるからな","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","1","Scherzo","Quest Dialogue"
+"0","0","あの辺りはオークとの小競り合いが
+勃発しやすい地点だったんだが
+最近になってガーゴイルまで飛び回りはじめたんだ","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","2","Scherzo","Quest Dialogue"
+"0","0","オークとやりあっている時に
+石呪の吐息なんか吹きかけられてみろ
+たまったもんじゃないぜ","Try fighting off Orcs while getting sprayed
+by petrifying breath, it's the worst.","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","3","Scherzo","Quest Dialogue"
+"0","0","ってことで、隊としても本腰を入れて
+ガーゴイルを駆除することになったんだ","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","4","Scherzo","Quest Dialogue"
+"0","0","お前も石にされないように
+気を付けて行ってくれよ
+あれは軽く見てるとイタい目に遭うからな――","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","5","Scherzo","Quest Dialogue"
+"0","0","よう、ガーゴイルの駆除は進んでるか？
+石化下しは忘れず持っていけよ！
+石呪は見た目以上に厄介だからな――","Hey, exterminating those Gargoyles?
+Don't forget to bring Petrification cures!
+That curse is more troublesome than it looks...","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","6","Scherzo","Quest Dialogue"
+"0","0","おっ、ガーゴイルを駆除してきてくれたんだな！
+ご苦労さん！","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","7","Scherzo","Quest Dialogue"
+"0","0","駆除してきてもらって早々に悪いが
+実はあそこはガーゴイルを引き付けやすい環境に
+なってるみたいなんだよなぁ
+これまでも何度も駆除してるんだが――","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","8","Scherzo","Quest Dialogue"
+"0","0","今回はお前に駆除してきてもらったが
+またすぐに別の群れが棲みつくだろう","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","9","Scherzo","Quest Dialogue"
+"0","0","だが、隊としては根気強く
+駆除を繰り返していく方針だ
+お前も再びガーゴイルの群れを見かけることがあれば
+駆除を心がけてくれ！","","ui\00_message\quest\q60208000.gmd","\quest\q60208000.arc","q60208000.arc","10","Scherzo","Quest Dialogue"
+"0","0","おっ、もう行ってくれる気になったのか！
+――いや、ほんとに大丈夫か？
+もう少し時間をかけて覚悟を固めてもいいんだぞ","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","0","Scherzo","Quest Dialogue"
+"0","0","ま、お前が大丈夫っていうんなら
+俺としてはありがたいこと
+この上ないんだけどな！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","1","Scherzo","Quest Dialogue"
+"0","0","念のためだ、もう一度説明しておくぞ
+場所はおなじみの《罪人の修獄》だ
+勝手に鍵が開いてた、あの墓場だよ","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","2","Scherzo","Quest Dialogue"
+"0","0","調査に行った隊士の話では
+女の笑い声があちこちから聞こえてきたそうだ――
+繰り返すが――誰も居るはずがない墓地で、だぞ！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","3","Scherzo","Quest Dialogue"
+"0","0","ううっ、話してるだけで寒気がしてきた――
+こんな話を副隊長にするわけにはいかないからな
+お前だけが頼りだ！
+それじゃ、任せたぞ！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","4","Scherzo","Quest Dialogue"
+"0","0","あの件はどうなった？
+ほら、《罪人の修獄》で
+女の笑い声が聞こえてきたってやつ――","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","5","Scherzo","Quest Dialogue"
+"0","0","い、いや、急ぐことはないぞ！
+こういうことには覚悟が必要だからな――
+俺もよーくわかってる！
+無理はしなくていいからな！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","6","Scherzo","Quest Dialogue"
+"0","0","おお、無事に帰ってきてくれてよかった！
+ほんっとうによかった！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","7","Scherzo","Quest Dialogue"
+"0","0","いやぁ、送り出したはいいものの
+万が一お前が帰ってこなかったら
+次は俺が様子を見に行かなきゃなって考えたら
+気分が重くなってな！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","8","Scherzo","Quest Dialogue"
+"0","0","で、《罪人の修獄》の中で笑ってたのは
+何だったんだ？
+――女の幽霊！
+やっぱり出たんだな！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","9","Scherzo","Quest Dialogue"
+"0","0","ふむ、冤罪を示唆するような
+不穏な手記が遺されていたのか――","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","10","Scherzo","Quest Dialogue"
+"0","0","あの墓地に葬られているのは
+大罪を犯して獄死した囚人ばかりだと聞いていたが
+冤罪に問われ、無念のうちに没した者も
+いたのかも知れんな――","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","11","Scherzo","Quest Dialogue"
+"0","0","気味の悪い任務を引き受けてもらって悪いな
+俺からの感謝の気持ちとして
+これを受け取ってくれ
+また何かあったら、よろしくな！","","ui\00_message\quest\q60208001.gmd","\quest\q60208001.arc","q60208001.arc","12","Scherzo","Quest Dialogue"
+"0","0","あらっ、ガルドノック砦の様子を
+見て来てくれるの？","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","0","Sunny","Quest Dialogue"
+"0","0","それじゃ、あたしが今知ってることを
+全部教えておくからね！
+役に立つことかはわかんないけど、情報は
+ちょっとでもあった方がいいでしょ！","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","1","Sunny","Quest Dialogue"
+"0","0","最近、ガルドノック砦の方が騒がしくてね
+遠目に様子を探ったりもしてるんだけど
+オークたちがやけに出たり入ったりしてるんだよ","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","2","Sunny","Quest Dialogue"
+"0","0","もしかしたら中で何か起こってるかも知れないよ
+こっちに攻め込んでくる準備をしてるとかさ","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","3","Sunny","Quest Dialogue"
+"0","0","あたしも気になってるんだ
+中を見てきたら、どんな様子だったか
+教えてね","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","4","Sunny","Quest Dialogue"
+"0","0","ガルドノック砦の中で
+オークたちが変なことしてないといいんだけど――","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","5","Sunny","Quest Dialogue"
+"0","0","こっちに攻め込んでくる準備だとか
+魔獣を飼い慣らしてるとか――
+やだやだ、考え始めるとキリがないね","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","6","Sunny","Quest Dialogue"
+"0","0","ええっ！
+ガルドノック砦に
+侵食されたオークが居たのかい！","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","7","Sunny","Quest Dialogue"
+"0","0","侵食って、前にローテスの浜辺に
+流れ着いたっていう魔物みたいに
+体が蝕まれた状態になるんだろ？","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","8","Sunny","Quest Dialogue"
+"0","0","この辺りにも侵食の魔の手が迫ってるんだね――
+オークや魔物だけでも大変なのに
+その上に侵食の心配もしなきゃいけないなんて――","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","9","Sunny","Quest Dialogue"
+"0","0","それにしても、最近オークが頻繁に出入りしてたのは
+侵食されたヤツを何とか助けようと
+仲間を呼び寄せたりしてたってことなのかね","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","10","Sunny","Quest Dialogue"
+"0","0","仲間を見捨てないなんて
+オークも意外といいとこあるのかもしれないね――","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","11","Sunny","Quest Dialogue"
+"0","0","人間はさ、問題が起こると見捨てたり
+自分たちから切り離して考えがちだろ
+この村やザンドラの辺りみたいにさ","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","12","Sunny","Quest Dialogue"
+"0","0","――なんて、ちょっと考えすぎたみたいだ
+さて、調査してきてもらったからには
+お礼を弾まないとね！
+これ、持って行っておくれよ！","","ui\00_message\quest\q60209000.gmd","\quest\q60209000.arc","q60209000.arc","13","Sunny","Quest Dialogue"
+"0","0","ああ、行ってくれるのかい！
+ありがとう！
+それじゃ、くわしく説明させてもらうよ","Aah, so you'll go for me! Thank you!
+Now I'll give you all the details...","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","0","Sunny","Quest Dialogue"
+"0","0","あたしの見た気持ちの悪い魔物なんだけどさ
+あいつは《ガルドノック廃水廊》から
+出てきたんじゃないかって思うんだよ","I've seen this creepy monster, you know?
+I think it came from the Gardnox Sewers.","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","1","Sunny","Quest Dialogue"
+"0","0","だって、今まであんなの一度も
+見たことも聞いたことも無かったんだから！","I mean, I'd never seen or heard of anything like
+it before!","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","2","Sunny","Quest Dialogue"
+"0","0","最近ここらで変わったことといえば
+《ガルドノック廃水廊》が開いたこと以外
+ないでしょ？","The only recent change around here is the opening
+of the Gardnox Sewers, right? That should be it.","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","3","Sunny","Quest Dialogue"
+"0","0","だから、あの魔物の根城になってないかを
+見てきてほしいんだ
+もしも棲みついてたら追い払っておくれよ","So, I want you to check if it's their hideout.
+Drive them out if they've settled in.","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","4","Sunny","Quest Dialogue"
+"0","0","あたし、あの気持ちの悪い魔物は
+《ガルドノック廃水廊》から出てきたんだと思うんだ
+女の勘ってやつだよ","I think that creepy monster definitely came from
+the Gardnox Sewers. Call it women's intuition.","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","5","Sunny","Quest Dialogue"
+"0","0","やっぱりあの魔物
+ガルドノック廃水廊から出てきてたんだね！","So that monster really did come
+from the Gardnox Sewers!","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","6","Sunny","Quest Dialogue"
+"0","0","あんたが倒してくれたんなら
+もう村の近くであの顔を見ることはないかな
+安心したよ！　ありがとう！","If you took care of it, I won't see its ugly face
+near the village again. I'm so relieved! Thanks!","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","7","Sunny","Quest Dialogue"
+"0","0","ふふ、それにしても
+自分の予測が当たると何だかいい気分だね","Hehe, you know,
+it feels good to have my prediction come true.","ui\00_message\quest\q60209001.gmd","\quest\q60209001.arc","q60209001.arc","8","Sunny","Quest Dialogue"
+"0","0","覚者様、黒大鷲が舞い降りた
+《狂信者の潜伏地》は、かつて錬金の術に
+傾倒した者たちが我流にて研究を
+繰り返していたという場所です","Ser Arisen, a black eagle has descended upon
+the Fanatic's Hiding Ground, a place where those
+devoted to alchemy conducted their research.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","0","Dian","Quest Dialogue"
+"0","0","彼らが姿を消した後
+かの地は捨て置かれております
+――しかし、災いを繰り返させぬためにも
+いつか神殿からの調査が入ることになるでしょう","After they vanished, the land was abandoned...
+However, to prevent history from repeating, the
+Temple plans to send investigators.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","1","Dian","Quest Dialogue"
+"0","0","その日まで、かの地をそのままに
+残しておきたいのです
+どうか力をお貸しください","Until that day comes, I wish to leave that place
+untouched. Please lend me your strength.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","2","Dian","Quest Dialogue"
+"0","0","覚者様、黒大鷲が舞い降りたのは
+この場より北西の方角でございます","Ser Arisen, a black griffin has descended
+northwest of here.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","3","Dian","Quest Dialogue"
+"0","0","いつか神殿からの調査が入るその日まで
+あの場をそのままに残しておくため
+どうか力をお貸しください","Until the day the Temple sends its investigators,
+I wish to keep that place as it is. 
+Please lend me your strength.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","4","Dian","Quest Dialogue"
+"0","0","覚者様、大黒鷲を討伐していただき
+お礼申し上げます","Ser Arisen, thank you for slaying
+the great black eagle.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","5","Dian","Quest Dialogue"
+"0","0","いつかこの地にも神殿の方々による調査が入り
+そして安全が認められれば
+再び人々が集う日もくることでしょう","In time, the Temple will send investigators.
+Once safety is confirmed, people can gather
+in this land once again.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","6","Dian","Quest Dialogue"
+"0","0","それまでは私がこの地を守り
+神殿と覚者様のお役に立とうと思います","Until that time comes,
+I will protect this land and serve the Temple...
+And you, Ser.","ui\00_message\quest\q60210000.gmd","\quest\q60210000.arc","q60210000.arc","7","Dian","Quest Dialogue"
+"0","0","覚者様、魔物が騒いでいるのは
+《叫びの竪穴》でございます","Ser Arisen, there are monsters making a ruckus
+from within the Pit of Screams.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","0","Dian","Quest Dialogue"
+"0","0","井戸の中で魔物同士の争いが続けば
+いずれ居場所を無くした魔物たちが
+地上に溢れ出してくることは
+想像にかたくありません","As the monsters keep fighting each other in the well,
+it's not hard to imagine that those that become
+displaced will spill out onto the surface.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","1","Dian","Quest Dialogue"
+"0","0","どうか今のうちに中の様子を確認し
+騒ぎを起こしている魔物の退治を
+お願いいたします","Please investigate the situation and deal with the
+monsters causing trouble.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","2","Dian","Quest Dialogue"
+"0","0","《叫びの竪穴》に新たな魔物が巣食い
+元々あの井戸に棲みついていた魔物たちと
+争いあっているようです","A new group of monsters has arrived to infest
+the Pit of Screams and they seem to be
+fighting with those already living there.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","3","Dian","Quest Dialogue"
+"0","0","行き場を無くした魔物が
+地上に溢れ出してくる前に
+どうか争いを鎮めていただきたいのです","Please quell the conflict before the displaced
+monsters spill onto the surface.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","4","Dian","Quest Dialogue"
+"0","0","覚者様、無事のご帰還何よりです
+井戸で暴れる魔物の咆哮、この祠にまで
+遠く響いておりました","Ser Arisen, your safe return is joyous news.
+The roars of the rampaging monsters in the well
+have reached even this shrine from afar.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","5","Dian","Quest Dialogue"
+"0","0","覚者様のお力により
+魔物同士の諍いは一先ずの結着を見せたようです","Thanks to your strength, the conflict between
+the monsters has reached an end.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","6","Dian","Quest Dialogue"
+"0","0","此度もお力添えをいただき
+感謝の念に堪えません
+覚者様へのご恩に適うものではございませんが
+こちらはお礼の品でございます","Your aid once more leaves me overcome with gratitude.
+This humble gift can hardly repay my debt to you.
+Arisen, please accept it as a token of my gratitude.","ui\00_message\quest\q60210001.gmd","\quest\q60210001.arc","q60210001.arc","7","Dian","Quest Dialogue"
+"0","0","ふふ、勇敢なる覚者さん
+討伐に行ってくれるのね","Hehe, how brave, Arisen.
+You've come to slay it, haven't you?","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","0","Nadia","Quest Dialogue"
+"0","0","鎧が暴れている場所は
+この町から東の方角よ
+死体が多くて《屍のすすり泣く地》なんて
+呼ばれているところなの――","The place the armor rampages lies East of this
+town. It's called the Weeping Corpse Ground due
+to all the bodies.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","1","Nadia","Quest Dialogue"
+"0","0","あの場に染みついた死臭に導かれて
+やってきた""空っぽのお客さん""――
+貴方の手で動きを止めてやって","The undead are drawn by the stench of
+death clinging to that place...
+Please stop its movements by your own hands.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","2","Nadia","Quest Dialogue"
+"0","0","《屍のすすり泣く地》は
+ここから東へ行ったところよ","Weeping Corpse Ground is East of here.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","3","Nadia","Quest Dialogue"
+"0","0","ふふ、貴方も屍の仲間入りをしないように
+気を付けてね――","Hehe, be careful not to join the ranks of corpses.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","4","Nadia","Quest Dialogue"
+"0","0","あら、お帰りなさい
+無事あの鎧の動きを止めてくれたようね","Oh, welcome back. It seems you've stopped that
+armor's movements safely.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","5","Nadia","Quest Dialogue"
+"0","0","これで、この町に
+""空っぽのお客さん""が来ることは無さそう――","With this, it seems no hollow ones
+will be visiting this town.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","6","Nadia","Quest Dialogue"
+"0","0","探求者たちの夢が集うここゾマを
+守ってくれて感謝するわ
+その力強さ――ロマンを感じるわ――ふふふ","Thank you for protecting Zoma, where seekers'
+dreams gather. That strength, it feels...
+Romantic... hehehe.","ui\00_message\quest\q60211000.gmd","\quest\q60211000.arc","q60211000.arc","7","Nadia","Quest Dialogue"
+"0","0","ふふふ、本当に人が良いんだから――
+会ったこともない若者の安否が
+気になるなんてね","Hehe, you're too kind... 
+Worrying about the well-being of a young
+stranger you've never even met.","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","0","Nadia","Quest Dialogue"
+"0","0","あの人たちが向かったのは《幽玄の霊堂》よ
+眠りにつくことができない死者たちが
+彷徨い続ける古いカタコンベ――","They were headed for the Mysterious Mausoleum,
+an old catacomb where those without rest
+wander endlessly...","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","1","Nadia","Quest Dialogue"
+"0","0","もしもあの人たちを見つけたら
+あのカタコンベは古すぎて
+盗れる物なんて残ってないって伝えてあげて
+生きていたらの話だけどね","If you find them, tell them that those catacombs
+are far too old to have anything left worth stealing.
+Assuming they're still alive, of course.","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","2","Nadia","Quest Dialogue"
+"0","0","《幽玄の霊堂》に葬られているのは
+かなり前の年代の死者たちよ
+彼らの命があった頃には
+ザンドラはこんな姿ではなかったでしょうね","The Mysterious Mausoleum houses those who have
+passed long ago. In their time, Zandora wasn't
+the wretched place that it currently is.","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","3","Nadia","Quest Dialogue"
+"0","0","あら、あの若者たち
+怖気づいて逃げ出していたのね","Oh my, those youngsters turned tail and ran. 
+How... predictable.","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","4","Nadia","Quest Dialogue"
+"0","0","心に秘めたものを持たない人たちが
+無事にこのザンドラ東部を抜けて
+元いた場所に帰ることができるのかしら――","I wonder if those with nothing hidden in their hearts
+can truly cross Zandora's eastern reaches and return
+to where they came from?","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","5","Nadia","Quest Dialogue"
+"0","0","それはそうと、見知らぬ若者を
+助けに行くお人よしさん
+これは私からのお礼よ","Here, kind stranger chasing after lost youths,
+a token of my gratitude.","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","6","Nadia","Quest Dialogue"
+"0","0","このゾマでは中々見られないものを
+見せてくれたことに対する、ね――","Consider it thanks for showing me something
+rarely seen in Zoma, alright?","ui\00_message\quest\q60211001.gmd","\quest\q60211001.arc","q60211001.arc","7","Nadia","Quest Dialogue"
+"0","0","ディアマンテスが滅んだ今となっても
+その思想に取りつかれた者は少なくありません
+いつしか再起をはかろうと
+そこかしこに息を潜めているのです","Even now that Diamantes has fallen, those
+possessed by his ideology are not few in number.
+They lie hidden, scattered...
+Biding their time to rise again.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","0","Beatrix","Quest Dialogue"
+"0","0","今回、彼らが《メルゴダ民の住居》へと
+密かに集まっているのも
+何かよからぬ企てをしているに違いありません","This time, their secret gathering at this particular
+""Mergodan Residence"" surely signals some
+nefarious scheme brewing between them.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","1","Beatrix","Quest Dialogue"
+"0","0","再びこのメルゴダを過ちに
+染めるわけにはまいりません
+どうか彼らの企てを未然に防いでください","We cannot allow Melgoda to be tainted by 
+wrong-doing once more. Please halt their scheme
+before it can begin.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","2","Beatrix","Quest Dialogue"
+"0","0","未だディアマンテスの思想に
+傾倒する者がいる事実――
+このメルゴダ居住区を管理する者として
+胸を痛めているのです","The fact that there are still those who would dare
+adhere to the ideals of Diamantes...
+As one overseeing the Mergoda Residential Area,
+this weighs heavily on my heart.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","3","Beatrix","Quest Dialogue"
+"0","0","一体何が彼らを破滅へと向かわせるのか――
+ディアマンテスの残した呪いとでも
+いうべきものなのでしょうか
+《メルゴダ民の住居》へ――どうかお願いします","What drives them toward ruin?
+Is it some lingering curse left by Diamantes?
+Please, go to the ""Mergodan Residence."" I beg of you.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","4","Beatrix","Quest Dialogue"
+"0","0","地上の覚者よ
+ディアマンテス派残党の企てを
+未然に防いでくださったことに感謝いたします","Ser Arisen, I thank you for thwarting the
+Diamantes remnants' scheme before it
+could unfold.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","5","Beatrix","Quest Dialogue"
+"0","0","私の口から申し上げるのも辛いのですが
+恐らくディアマンテスに傾倒した者たちは
+まだ数多くこのメルゴダに潜んでいることでしょう","It pains me to say it, but many who follow
+Diamantes likely still lurk within Mergoda.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","6","Beatrix","Quest Dialogue"
+"0","0","また彼らが集うことがあれば
+どうか再びその力を貸してください","Should they gather again, please
+lend your strength once more.","ui\00_message\quest\q60212000.gmd","\quest\q60212000.arc","q60212000.arc","7","Beatrix","Quest Dialogue"
+"0","0","引き受けてくださるのですね、地上の覚者よ
+ならば私も、この事態の背景をご説明しましょう","You will accept then, Ser Arisen? 
+Then I shall explain the history of the matter.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","0","Beatrix","Quest Dialogue"
+"0","0","かつてディアマンテスに傾倒した女性技師が
+とある井戸を《秘匿の実験場》として
+頻繁に出入りしていたことは、以前お話した通りです","As I had mentioned, there was a female technician
+obsessed with Diamantes who frequently used a well
+as a Hidden Observatory.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","1","Beatrix","Quest Dialogue"
+"0","0","彼女は人を――魔物に化すための研究に
+夢中になっていたようなのです――
+恐らくディアマンテスの成さんと
+していたことを彼女なりに模したのでしょう","She was deep into research about transforming
+people into monsters. Likely an attempt recreate
+what she believed Diamantes accomplished.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","2","Beatrix","Quest Dialogue"
+"0","0","これは憶測に過ぎませんが
+《秘匿の実験場》でもそのための実験が
+繰り返されていたに違いありません","Pure speculation, but the Hidden Observatory was
+most likely the site where she conducted
+experiments for that purpose.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","3","Beatrix","Quest Dialogue"
+"0","0","あそこには彼女に""造られた""魔物たちが
+数多く眠っているはずです","The monsters she created must be slumbering there in great numbers.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","4","Beatrix","Quest Dialogue"
+"0","0","今回活動しはじめた気配の主も
+そのような存在でしょう
+脅威であり、哀れでもあるかの者に
+再びの眠りを与えてやってください――","A presence has been made known to be one such being.
+It is a threat as much as it is a pity.
+May you grant it slumber once more.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","5","Beatrix","Quest Dialogue"
+"0","0","《秘匿の実験場》には
+魔物と変えられた者たちが
+今も数多く眠っているはずです――","There must be many of those, transformed
+into monsters, still slumbering at the
+Hidden Observatory.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","6","Beatrix","Quest Dialogue"
+"0","0","今回活動を再開したものに
+再びの眠りを与えてやってください","Grant slumber once more to the one that stirs.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","7","Beatrix","Quest Dialogue"
+"0","0","ああ、強大な気配が
+動きを止めるのを感じました
+つかの間の眠りについたことでしょう","I felt a mighty presence cease its movement,
+likely having fallen into a deep slumber.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","8","Beatrix","Quest Dialogue"
+"0","0","地上の覚者よ、いつもこのメルゴダの地に
+手を差し伸べてくれること
+心から感謝しています","Ser Arisen, I sincerely thank you for always
+extending a helping hand to the land of Mergoda.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","9","Beatrix","Quest Dialogue"
+"0","0","少量ながら礼を用意しました
+メルゴダ居住区を代表する者として
+そして安らぎを与えられた者の代理人として――","As a representative of Mergoda Residential Area
+and an agent of those granted peace, I have
+prepared a small token of gratitude.","ui\00_message\quest\q60212001.gmd","\quest\q60212001.arc","q60212001.arc","10","Beatrix","Quest Dialogue"
+"0","0","準備は万端か？
+よし、ではもう一度任務内容を
+説明しておこう","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","0","Bertrand","Quest Dialogue"
+"0","0","調査対象は、この拠点から南西の
+海岸沿いにある古い地下聖堂のような場所だ","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","1","Bertrand","Quest Dialogue"
+"0","0","俺たちは《せせらぎの地下聖堂》と
+呼んでいるが――
+内部に引かれた水路のせいか
+一種おごそかな雰囲気が漂っている","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","2","Bertrand","Quest Dialogue"
+"0","0","この島には珍しく、文化的な造形物が
+数多く残されているのが特徴だ
+詳しく調査すれば何か得るものが
+あるかもしれん","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","3","Bertrand","Quest Dialogue"
+"0","0","奥には危険な魔物が
+潜んでいることを確認している
+十分に注意して調査に向かってくれ","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","4","Bertrand","Quest Dialogue"
+"0","0","《せせらぎの地下聖堂》の
+調査は進んでいるか？","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","5","Bertrand","Quest Dialogue"
+"0","0","この島には珍しく
+女神像や彫刻入りの柱といった人工物が
+多数残されている地下水路だ
+何か得るものがあるかもしれん","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","6","Bertrand","Quest Dialogue"
+"0","0","内部は危険度の高い魔物が
+徘徊していることを確認している
+雰囲気に呑まれて気を抜かんようにな","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","7","Bertrand","Quest Dialogue"
+"0","0","ふむ、奥まで行っても
+手がかりになりそうなものは
+見つからなかったか――","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","8","Bertrand","Quest Dialogue"
+"0","0","だが、奥にあったという祭壇や
+最深部の広場の様子からして
+あの建築物が聖堂として
+使われていたことはほぼ確実だろう","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","9","Bertrand","Quest Dialogue"
+"0","0","この島には元々、川や湖、あるいは木々――
+自然の中に存在する何かを
+尊ぶ文化があったのかもしれんな","","ui\00_message\quest\q60213000.gmd","\quest\q60213000.arc","q60213000.arc","10","Bertrand","Quest Dialogue"
+"0","0","おお、引き受けてくれるか！
+いつも厄介な任務を任せてすまんな","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","0","The White Dragon","Quest Dialogue"
+"0","0","今回の討伐対象は《翼風高原》に現れた
+侵食ゴアサイクロプスだが、
+こいつがまた派手に侵食が進んだ個体だ","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","1","The White Dragon","Quest Dialogue"
+"0","0","""侵食核""って呼び名らしいが
+とにかく頭にイバラみたいなものを
+２本も生やしてやがる","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","2","The White Dragon","Quest Dialogue"
+"0","0","あれは体に回りきった毒が
+行き場を失って噴き出したような状態だ
+危険度のバロメータと考えても良いだろう","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","3","The White Dragon","Quest Dialogue"
+"0","0","侵食が進んだ魔物の凶暴性が増すのは
+前に説明した通りだが
+あそこまで侵食が進んでしまうと
+もう別種の魔物と考えた方がいいだろうな――","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","4","The White Dragon","Quest Dialogue"
+"0","0","警戒しておくに越したことはない相手だ
+いつもの討伐任務だと思わずに
+気を緩めることのないよう向かってくれ","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","5","The White Dragon","Quest Dialogue"
+"0","0","《翼風高原》に現れた
+侵食ゴアサイクロプスはもう見たか？","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","6","The White Dragon","Quest Dialogue"
+"0","0","体に生えたイバラのようなものは
+""侵食核""といって、体に回りきった毒が
+行き場を失って噴き出したような状態だ","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","7","The White Dragon","Quest Dialogue"
+"0","0","いつもの討伐任務だと思わずに
+気を緩めることのないよう討伐に向かってくれ","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","8","The White Dragon","Quest Dialogue"
+"0","0","あの状態になった侵食ゴアサイクロプスを
+軽く倒してくるとは、さすがだな！","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","9","The White Dragon","Quest Dialogue"
+"0","0","今回の件で、侵食が進んだ敵が相手であっても
+調査隊の戦力で討伐が
+可能であるということがわかった
+調査隊全体の士気向上にもつながるだろう！","","ui\00_message\quest\q60213001.gmd","\quest\q60213001.arc","q60213001.arc","10","The White Dragon","Quest Dialogue"
+"0","0","準備は万端か？
+今回の討伐対象は、ただでさえ
+危険度の高いベヘモットが
+侵食作用によって凶暴化した相手だからな","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","0","Bertrand","Quest Dialogue"
+"0","0","おまけにヤツが潜む場所も
+菌胞がべったりの《菌糸の襲窟》だ
+抗侵薬は多めに持って損は無いぞ","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","1","Bertrand","Quest Dialogue"
+"0","0","本当なら俺も同行して共に戦いたいんだが
+調査隊監督兼エリアマスターというのは
+やりがいはあっても
+こういう時に自由がききにくくてな――","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","2","Bertrand","Quest Dialogue"
+"0","0","すまんが、任せたぞ！","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","3","Bertrand","Quest Dialogue"
+"0","0","おお、やってくれたか！
+これでヤツも少しの間は
+大人しくしていることだろう","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","4","Bertrand","Quest Dialogue"
+"0","0","怪我をした隊士への何よりの見舞い話になるな
+エリアマスターとして
+――調査隊監督として礼を言おう！","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","5","Bertrand","Quest Dialogue"
+"0","0","菌胞だらけの《菌糸の襲窟》に潜む
+侵食ベヘモットの討伐だからな
+抗侵薬は多めに持っていくにこしたことはないだろう
+すまんが、任せたぞ！","","ui\00_message\quest\q60213002.gmd","\quest\q60213002.arc","q60213002.arc","6","Bertrand","Quest Dialogue"
+"0","0","実は、あなたにエンナと話をして
+きていただきたいのです――
+旅人であるあなたになら、エンナも悩み事を
+打ち明けるかもしれません","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","0","Muirgel","Quest Dialogue"
+"0","0","何か思い悩んでいるようなんですけど
+わたしやディリスが訪ねても何も話さないんです
+難しい年頃なのかしら――","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","1","Muirgel","Quest Dialogue"
+"0","0","エンナはつらい思いをして
+このエランへ逃げてきた子です
+――どうか、話を聞いてやってください","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","2","Muirgel","Quest Dialogue"
+"0","0","えっ、ミューセルさんが
+ボクのことを心配してくれてるの？","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","3","Enna","Quest Dialogue"
+"0","0","うぅん――ボクが悩んでるのは――","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","4","Enna","Quest Dialogue"
+"0","0","あのね、覚者さん
+ミューセルさんが直したがってる
+《忘却の廃村》への道なんだけど――","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","5","Enna","Quest Dialogue"
+"0","0","あの道がなかなか直せないのは
+ワーグがいっぱいいるからなんだ
+ディリスもすごく困ってるって言ってたよ","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","6","Enna","Quest Dialogue"
+"0","0","ボクもなんとかお手伝いしたいんだけど
+やっぱりワーグは怖くって――
+ボクがダナの戦士だったらよかったのにって
+そんなことをずっと考えてたんだ","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","7","Enna","Quest Dialogue"
+"0","0","ねぇ、覚者さん
+《<SPOT 929>》にいっぱいいるワーグを
+退治してきてもらえないかなぁ","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","8","Enna","Quest Dialogue"
+"0","0","本当はボクがワーグをやっつけられたら
+いいんだけど、怖くって――","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","9","Enna","Quest Dialogue"
+"0","0","覚者さんが《<SPOT 929>》にいるワーグを
+退治してきてくれたら、ミューセルさんも
+ディリスも、それからボクもすごく嬉しいよ","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","10","Enna","Quest Dialogue"
+"0","0","わぁ！　ワーグをやっつけてくれたんだね
+本当にありがとう！","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","11","Enna","Quest Dialogue"
+"0","0","覚者さん、かっこいいなぁ――
+ボクも大きくなったら、おばあちゃんや
+ディリスやミューセルさんを守れるようになりたいな","","ui\00_message\quest\q60214000.gmd","\quest\q60214000.arc","q60214000.arc","12","Enna","Quest Dialogue"
+"0","0","あぁ、どうしましょう――
+実は、《<SPOT 931>》へと調査に行って
+いただいた方の消息が途絶えてしまったのです――","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","0","Muirgel","Quest Dialogue"
+"0","0","まだ、調査に行くには早かったのでしょうか――
+どこかで救助を必要としているかもしれません","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","1","Muirgel","Quest Dialogue"
+"0","0","知り合いの戦士たちに急ぎ連絡をとらなければ！
+申し訳ございませんが、ご用はディリスに
+お申し付けくださいませ――","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","2","Muirgel","Quest Dialogue"
+"0","0","わたしは《<SPOT 931>》への救助に
+向かってくれそうな戦士たちに
+急ぎ連絡を取らねばなりません","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","3","Muirgel","Quest Dialogue"
+"0","0","申し訳ございませんが、ご用はディリスに
+お申し付けくださいませ――","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","4","Muirgel","Quest Dialogue"
+"0","0","なるほど、ミューセルが手配したか――
+何？　話を聞いて自発的に
+助けにきてくれたというのか！？
+い、異国の覚者というのはお人よしなのだな","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","5","Glenis","Quest Dialogue"
+"0","0","お人よしのおかげで、何とか無事に帰れそうだ
+助かったよ、礼を言おう","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","6","Glenis","Quest Dialogue"
+"0","0","そうだ――
+せっかくだから、この辺りだけでも
+軽く調査して帰ることにする
+ミューセルにはお前から言っておいてくれ","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","7","Glenis","Quest Dialogue"
+"0","0","お前には助けられたな――
+礼を言おう","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","8","Glenis","Quest Dialogue"
+"0","0","え！？
+グリニスを助けてきてくださったんですか！？
+あ、ありがとうございます――！","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","9","Muirgel","Quest Dialogue"
+"0","0","わたしの考えが甘かったせいで
+幼馴染みに大ケガでもさせたのかと
+焦ってしまいましたわ――","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","10","Muirgel","Quest Dialogue"
+"0","0","きちんとお願いもしていなかったというのに
+手を貸してくださって、本当に感謝しています
+――これからは困ったことがあれば
+正式に依頼させていただきますね","","ui\00_message\quest\q60214001.gmd","\quest\q60214001.arc","q60214001.arc","11","Muirgel","Quest Dialogue"
+"0","0","討伐をお引き受けくださるのですね！
+ありがとうございます――","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","0","Muirgel","Quest Dialogue"
+"0","0","聖域から流れ込んだとみられる強力な魔物が
+森に現れてからというもの
+森の魔物が活性化してきてしまって――","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","1","Muirgel","Quest Dialogue"
+"0","0","おそらく、これまでの棲みかを追われたり
+縄張り争いをしたりするせいでしょう","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","2","Muirgel","Quest Dialogue"
+"0","0","この騒動が拡大する前に
+聖域の魔物を抑え込まねば、手の付けられない
+状態になる可能性すらあります――","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","3","Muirgel","Quest Dialogue"
+"0","0","ちょうどディリスが聖域の魔物を
+目撃したとのこと――
+彼女に聞けば、どこに魔物がいるかを
+詳しく教えてくれることでしょう","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","4","Muirgel","Quest Dialogue"
+"0","0","覚者様、どうか――かの魔物の討伐を
+お願いいたします","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","5","Muirgel","Quest Dialogue"
+"0","0","ちょうどディリスが聖域の魔物を
+目撃したとのこと――
+彼女に聞けば、どこに魔物がいるかを
+詳しく教えてくれることでしょう","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","6","Muirgel","Quest Dialogue"
+"0","0","ええ、わかってるわ
+聖域の魔物のことでしょう？","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","7","Dirith","Quest Dialogue"
+"0","0","わたし、白くて大きな魔物を見たの
+木陰から少し覗き見たくらいなんだけど
+ちょっと神々しいくらいにきれいだったわ
+でも、すごく怖かった――","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","8","Dirith","Quest Dialogue"
+"0","0","あの魔物はそのあと飛び立って
+《<STG 815>》の辺りに
+舞い降りたみたい","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","9","Dirith","Quest Dialogue"
+"0","0","魔物がまた飛び去っちゃう前に
+討伐してきてね――お願いよ！","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","10","Dirith","Quest Dialogue"
+"0","0","わたしが見た白い魔物は
+《<STG 815>》の辺りに
+舞い降りたみたい","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","11","Dirith","Quest Dialogue"
+"0","0","魔物がまた飛び去っちゃう前に
+討伐してきてね――お願いよ！","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","12","Dirith","Quest Dialogue"
+"0","0","聖域の魔物を倒してきてくれたのね！
+本当にありがとう
+これでエランの魔物たちも少しは
+落ち着いてくれるはず――","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","13","Dirith","Quest Dialogue"
+"0","0","お姉様にはわたしが報告しておくわ
+ちゃんと、あなたが倒してきてくれたって
+言っておくからね！","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","14","Dirith","Quest Dialogue"
+"0","0","これは、少しだけどお礼よ
+最近手に入れた物資なの――
+あなたの役に立つかと思って","","ui\00_message\quest\q60214002.gmd","\quest\q60214002.arc","q60214002.arc","15","Dirith","Quest Dialogue"
+"0","0","そうそう、ディリスが覚者様に
+話したいことがあるとか――
+どうかお耳を貸してやってくださいませ","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","0","Muirgel","Quest Dialogue"
+"0","0","ねぇ、ディリス
+覚者様が話を聞いてくださるそうよ","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","1","Muirgel","Quest Dialogue"
+"0","0","ディリスが覚者様に
+話したいことがあるとか――
+どうかお耳を貸してやってくださいませ","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","2","Muirgel","Quest Dialogue"
+"0","0","時間をとってくださって
+ありがとうございます、覚者様","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","3","Dirith","Quest Dialogue"
+"0","0","え？　やけにかしこまってるって――？
+実は――お願いしたいことがあって――","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","4","Dirith","Quest Dialogue"
+"0","0","今回、ミューセルお姉様の働きかけで
+エラン大門を開くことになったでしょう？
+でも、きっといいことばかりじゃないと思うの","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","5","Dirith","Quest Dialogue"
+"0","0","急に門が開いたことで
+しばらくは魔物も入り込んでくるはず――
+そう思って、わたし――","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","6","Dirith","Quest Dialogue"
+"0","0","わたし、内緒でグリニスさんに
+《<SPOT 934>》に入り込んでくる魔物の
+討伐をお願いしたの！
+――そうしたら、グリニスさんが帰ってこないの","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","7","Dirith","Quest Dialogue"
+"0","0","お願い、グリニスさんを迎えにいって！
+もしも魔物に襲われていたら助けてあげて！
+こんなこと、あなたにしか頼めなくて――","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","8","Dirith","Quest Dialogue"
+"0","0","グリニスさんは《<SPOT 934>》に
+向かってから帰ってこないの――
+お願い、迎えにいってあげて！
+魔物に襲われてるかもしれないわ――","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","9","Dirith","Quest Dialogue"
+"0","0","くっ――
+私としたことが敵の罠にはまってしまった――
+結界のせいで身動きがとれずにこのザマだ
+封印を解いて助けてくれ！","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","10","Glenis","Quest Dialogue"
+"0","0","結界を張る護符が周囲にあるはずだ
+それを全て破壊すれば――
+！！　――魔物だ！　気をつけろ！","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","11","Glenis","Quest Dialogue"
+"0","0","結界を張るための護符が周囲にあるはずだ
+それを全て破壊してくれ！","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","12","Glenis","Quest Dialogue"
+"0","0","助かった！　礼を言う！
+私を罠にはめた魔物たちは
+この先にいる――ついてきてくれ！","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","13","Glenis","Quest Dialogue"
+"0","0","ふぅ――何とか撃退できたな――
+最近、フィンダム各地で
+こういった妙な護符を持った魔物が
+出没しているようだ","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","14","Glenis","Quest Dialogue"
+"0","0","本来、魔物が持つような代物ではないだろう
+こんなもの――
+何者かが入れ知恵をしているのか――？","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","15","Glenis","Quest Dialogue"
+"0","0","それはさておき、多分お前は<NPC 559>に
+泣きつかれて私を助けに来たんじゃないか？
+早く戻って、無事を報告してやってくれ
+一応、私も後で顔は出すとしよう","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","16","Glenis","Quest Dialogue"
+"0","0","多分お前は<NPC 559>に
+泣きつかれて私を助けに来たんじゃないか？
+早く戻って、無事を報告してやってくれ
+一応、私も後で顔は出すとしよう","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","17","Glenis","Quest Dialogue"
+"0","0","よ、よかった――！
+グリニスさんが無事で――
+覚者様、本当に、本当にありがとうございます！","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","18","Dirith","Quest Dialogue"
+"0","0","気を利かせたつもりが
+もう少しで大変なことになるところだったわ
+今、心から反省しているところなの――","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","19","Dirith","Quest Dialogue"
+"0","0","エラン水林とお姉様のお役に立つために
+もっと思慮深く、賢くならなくちゃ――","","ui\00_message\quest\q60214003.gmd","\quest\q60214003.arc","q60214003.arc","20","Dirith","Quest Dialogue"
+"0","0","行ってくださるのですね！
+かつてエランにあった村を滅ぼした元凶である
+フィンダーエントの討伐に――","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","0","Muirgel","Quest Dialogue"
+"0","0","この脅威の排除こそ
+村の復興を実現させるための
+礎になることでしょう","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","1","Muirgel","Quest Dialogue"
+"0","0","フィンダーエントが今どこにいるかは
+ディリスが情報を集めています
+――大きな魔物ですから、その動向は
+獣たちの動きなどからも推測できるのです","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","2","Muirgel","Quest Dialogue"
+"0","0","村を一つ滅ぼすほどの
+手強い相手ではありますが――
+わたしは、覚者様ならきっとかの魔物を
+排除できると信じておりますわ","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","3","Muirgel","Quest Dialogue"
+"0","0","フィンダーエントが今どこにいるかは
+ディリスが情報を集めています
+――大きな魔物ですから、その動向は
+獣たちの動きなどからも推測できるのです","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","4","Muirgel","Quest Dialogue"
+"0","0","フィンダーエントの動きについて、でしょ？
+どうやら《<SPOT 935>》の辺りに
+落ち着いて、動く気は無いみたい","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","5","Dirith","Quest Dialogue"
+"0","0","――あのフィンダーエントを討伐すれば
+お姉様の悲願である、エランの村復興に
+また一歩近付くのよね？","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","6","Dirith","Quest Dialogue"
+"0","0","本当はね、お姉様のお話を聞くたびに
+ずっと夢みたいなことだなって思ってたの","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","7","Dirith","Quest Dialogue"
+"0","0","もっともっと時間がかかって
+きっと私やお姉様は、生きているうちに
+その村が復興するところなんて
+見られないんじゃないかって――","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","8","Dirith","Quest Dialogue"
+"0","0","でも、本当に近付いてるのね――
+覚者様、どうかフィンダーエントを討伐して
+無事に戻ってきてね","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","9","Dirith","Quest Dialogue"
+"0","0","フィンダーエントなら
+どうやら《<SPOT 935>》の辺りに
+落ち着いて、動く気は無いみたい","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","10","Dirith","Quest Dialogue"
+"0","0","覚者様、どうかフィンダーエントを討伐して
+無事に戻ってきてね
+いつかエランの村が復興するのを
+お姉様や覚者様と一緒に見たいの","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","11","Dirith","Quest Dialogue"
+"0","0","えっ！？　もうフィンダーエントを
+討伐してきてくださったのですか！？","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","12","Muirgel","Quest Dialogue"
+"0","0","もっと長丁場になるものと思っておりましたが
+――さすがは覚者様ですわ！
+無事のお戻り、本当に喜ばしいことです","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","13","Muirgel","Quest Dialogue"
+"0","0","ああ――
+あのフィンダーエントを排除できたということは
+このエランに村を再興しても
+もう潰される心配はないのですね","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","14","Muirgel","Quest Dialogue"
+"0","0","このことは、エラン水林の歴史に刻まれる
+大きな出来事となることでしょう
+覚者様、もちろんあなた様のお名前と共に――","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","15","Muirgel","Quest Dialogue"
+"0","0","エラン水林の守り人として
+ここに最大限の感謝を表します
+お力添え、本当にありがとうございます","","ui\00_message\quest\q60214004.gmd","\quest\q60214004.arc","q60214004.arc","16","Muirgel","Quest Dialogue"
+"0","0","まだ油断はできない――
+我々はここで調査を継続します","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","0","Glenis","Quest Dialogue"
+"0","0","ここは我々が守ります
+覚者殿は先に戻ってお伝えください","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","1","Nora","Quest Dialogue"
+"0","0","まぁ、調査に行ってくださるのですね！
+人が増えれば、目の付け所も変わりますもの
+きっと新たな発見があるはずですわ","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","2","Muirgel","Quest Dialogue"
+"0","0","崖崩れから復旧したのは
+《<SPOT 930>》の辺りです
+鳥が多いところですから突かれないように
+注意なさってくださいね、ふふふ！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","3","Muirgel","Quest Dialogue"
+"0","0","崖崩れから復旧したのは
+《<SPOT 930>》の辺りです
+ああ、調査結果を聞かせていただくのが
+楽しみです","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","4","Muirgel","Quest Dialogue"
+"0","0","調査に出向いたところを魔物に襲われたんだ
+この先で私の仲間が戦っている――
+私が退路を確保しておくから
+君は加勢に向かってくれ、頼む！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","5","Ide","Quest Dialogue"
+"0","0","この先で私の仲間が戦っている――
+私が退路を確保しておくから
+君は加勢に向かってくれ、頼む！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","6","Ide","Quest Dialogue"
+"0","0","撤退か――それが正しい判断だな
+私は仲間と一旦態勢を立て直してから退く
+君はミューセルに報告に行ってくれ！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","7","Ide","Quest Dialogue"
+"0","0","撤退が正しい判断だな
+私は仲間と一旦態勢を立て直してから退く
+君はミューセルに報告に行ってくれ！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","8","Ide","Quest Dialogue"
+"0","0","あら、覚者様
+どうでしたか？　調査のほどは――！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","9","Muirgel","Quest Dialogue"
+"0","0","ええっ！　白い魔物に襲われた！？
+グリニスとイデさんがご無事なのは
+不幸中の幸いですが――","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","10","Muirgel","Quest Dialogue"
+"0","0","困りましたね――
+恐らくその白い魔物は
+聖域からやってきた魔物でしょう","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","11","Muirgel","Quest Dialogue"
+"0","0","よそから来た魔物が
+このエランに居つくようになったら
+森の生態系が変わってしまいますわ
+バランスが崩れないといいのですけれど――","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","12","Muirgel","Quest Dialogue"
+"0","0","はぁ、わたしはてっきり
+イデさんや覚者様が、珍しい草花でも
+持って帰ってくださるかとばかり――","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","13","Muirgel","Quest Dialogue"
+"0","0","覚者様にまたもご迷惑をおかけして
+しまいましたね――
+ともあれ、イデさんやグリニスを助けてくださって
+感謝いたしますわ","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","14","Muirgel","Quest Dialogue"
+"0","0","異国の覚者か！　これはいいところに――！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","15","Glenis","Quest Dialogue"
+"0","0","な、何なんだ！？　この白い魔物は！？","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","16","Glenis","Quest Dialogue"
+"0","0","くっ――劣勢か――！　ここは一旦退くべきだな――
+お前も退くんだ！　ミューセルにこのことを伝えてくれ！","","ui\00_message\quest\q60214006.gmd","\quest\q60214006.arc","q60214006.arc","17","Nora","Quest Dialogue"
+"0","0","ああ、悪いね
+あんたに頼みごとをしたいって子が
+いるもんでさ――","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","0","Razanailt","Quest Dialogue"
+"0","0","エトナって子だよ
+多分二階にいると思うから
+会いにいってやってくれるかい？","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","1","Razanailt","Quest Dialogue"
+"0","0","エトナがあんたに
+頼みたいことがあるっていうんだ
+多分二階にいると思うから
+会いにいってやってくれるかい？","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","2","Razanailt","Quest Dialogue"
+"0","0","ああ、あんたが異国の覚者様だったのね！
+あたしはエトナよ
+ねぇ、ひとつお願いしたいことがあるんだけど――","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","3","Etna","Quest Dialogue"
+"0","0","最近この辺り、地鳴りがすごいのよ
+なのに、みんな「タラスクが来るんじゃないか」
+なんて憶測で怖がるばかり","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","4","Etna","Quest Dialogue"
+"0","0","こんな時こそ、過去の記録をあらって
+似たような事件がなかったか
+確かめるべきだと思わない！？","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","5","Etna","Quest Dialogue"
+"0","0","だから昔の本がある《<SPOT 919>》に
+行きたいのに、あそこはもう獣だらけだからって
+誰も相手にしてくれないのよ――","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","6","Etna","Quest Dialogue"
+"0","0","ちょっとくらい危険を冒しても
+過去の本にはそれ以上の価値があるはずなの――
+特に、こんな時には――","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","7","Etna","Quest Dialogue"
+"0","0","でね、《<SPOT 919>》には""獣の主""がいて
+そのせいで獣たちが集まってるって聞いたわ
+覚者様が""獣の主""を倒してくれたら
+きっと獣たちも散るはず――","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","8","Etna","Quest Dialogue"
+"0","0","お願い――
+過去の本がどうしても必要なの
+""獣の主""を倒してきて！","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","9","Etna","Quest Dialogue"
+"0","0","お願い――
+過去の本がどうしても必要なの
+《<SPOT 919>》に巣食う
+""獣の主""を倒してきて！","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","10","Etna","Quest Dialogue"
+"0","0","""獣の主""を倒してきてくれたのね
+ありがとう――！
+これで本を探しに行けるわ！","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","11","Etna","Quest Dialogue"
+"0","0","よその国から来た見慣れない人だけど
+とても強くて優しい覚者様なのね
+あの、これ、お礼に――少しだけど――","","ui\00_message\quest\q60215000.gmd","\quest\q60215000.arc","q60215000.arc","12","Etna","Quest Dialogue"
+"0","0","鎧の魔物の討伐、あんたが行ってくれるんだね
+助かるよ――ほんと最近は色々あって
+手が足りなくてさ","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","0","Razanailt","Quest Dialogue"
+"0","0","元々調査に行くはずだった戦士を紹介するから
+一度、本人から討伐の詳細を
+聞いてから現地に向かってくれるかい？","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","1","Razanailt","Quest Dialogue"
+"0","0","ワイニって戦士さ
+普段は門番をしてるから
+きっと門の近くにいると思うよ","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","2","Razanailt","Quest Dialogue"
+"0","0","ワイニって戦士に
+討伐の詳細を聞いてから
+現地に向かってくれるかい？","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","3","Razanailt","Quest Dialogue"
+"0","0","普段は門番をしてるから
+きっと門の近くにいると思うよ","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","4","Razanailt","Quest Dialogue"
+"0","0","ラザネイルから話は聞いている
+私の代わりに鎧の魔物を討伐しに行ってくれると――","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","5","Wine","Quest Dialogue"
+"0","0","鎧の魔物は現在《<SPOT 921>》に
+とどまっているようだ
+叩くなら今が好機だな","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","6","Wine","Quest Dialogue"
+"0","0","すでに聞いているかもしれないが
+《マグサス古水路》の鍵を
+鎧の魔物に奪われているのだ","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","7","Wine","Quest Dialogue"
+"0","0","恐らく、鍵は鎧の魔物が持っているか
+近くに落ちているかのどちらかだろう
+討伐だけでなく、鍵の探索も頼んだぞ","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","8","Wine","Quest Dialogue"
+"0","0","鎧の魔物は現在《<SPOT 921>》に
+とどまっているようだ
+叩くなら今が好機だな","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","9","Wine","Quest Dialogue"
+"0","0","おお、帰ったか
+鎧の魔物は討伐し、鍵も持ち帰ったと――！
+完璧ではないか！","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","10","Wine","Quest Dialogue"
+"0","0","鍵が真っ二つに割れているようだが
+この程度、継ぎ合わせればどうということはない
+私が修復し、ラザネイルに渡しておこう","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","11","Wine","Quest Dialogue"
+"0","0","この分だと、私が討伐に出ようとするよりも
+最初から貴方に頼んだ方が速かったかも知れないな
+その武勇に敬意を――","","ui\00_message\quest\q60215001.gmd","\quest\q60215001.arc","q60215001.arc","12","Wine","Quest Dialogue"
+"0","0","ああ、行ってくれるっていうのかい！
+――あんたが引き受けてくれるんじゃないかって
+内心期待してたところもあってね――","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","0","Razanailt","Quest Dialogue"
+"0","0","タラスクの居場所は
+外にいるフィンが知ってるはずさ
+――あんたにこの村の命運がかかってるんだ
+気張っておくれよ――","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","1","Razanailt","Quest Dialogue"
+"0","0","タラスクの居場所は
+外にいるフィンが知ってるはずさ
+――あんたにこの村の命運がかかってるんだ
+気張っておくれよ――","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","2","Razanailt","Quest Dialogue"
+"0","0","ああ、あんたがタラスクの討伐に
+向かってくれるのか――","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","3","Fionn","Quest Dialogue"
+"0","0","クソッ！　毎日鍛練を積んできたっていうのに
+あの巨体の前になす術もなくやられちまった――！","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","4","Fionn","Quest Dialogue"
+"0","0","俺だけじゃない、あの叔父貴たちも
+次々なぎ倒されちまったんだ
+ここんところ侵食魔との戦いが続いて
+調子が悪かったんだと思うが――","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","5","Fionn","Quest Dialogue"
+"0","0","なぁ、この村で今戦えるのはあんただけだ
+タラスクは《<SPOT 922>》にいる――
+頼むよ、この無念を晴らしてきてくれ！","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","6","Fionn","Quest Dialogue"
+"0","0","この村で今戦えるのはあんただけだ
+タラスクは《<SPOT 922>》にいる――
+頼むよ、この無念を晴らしてきてくれ！","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","7","Fionn","Quest Dialogue"
+"0","0","ど、どうだった――
+タラスクは――","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","8","Fionn","Quest Dialogue"
+"0","0","何！？　討伐できたのか！！
+やった！　これで村を潰されずに済む！！","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","9","Fionn","Quest Dialogue"
+"0","0","心から感謝する
+村を救ってくれて――
+そして、俺たちの無念を晴らしてきてくれて！","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","10","Fionn","Quest Dialogue"
+"0","0","あんたみたいに勇敢な戦士もなかなかいないよ
+その武勇に全力で敬意を捧げるぜ！","","ui\00_message\quest\q60215002.gmd","\quest\q60215002.arc","q60215002.arc","11","Fionn","Quest Dialogue"
+"0","0","なんとか撃退できたか――
+あの奇妙な魔物は一体何だったのだ
+罠を仕掛ける魔物など、聞いたこともない！","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","0","Corentin","Quest Dialogue"
+"0","0","レスタニアの覚者よ、すまないが
+一度、《マヌンの集落》の辺りにいる爺さん――
+<NPC 2556>といったか、彼に報告に行ってくれないか
+俺はこの辺りを少し調べてから戻る","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","1","Corentin","Quest Dialogue"
+"0","0","レスタニアの覚者よ、すまないが
+一度、《マヌンの集落》の辺りにいる爺さん――
+<NPC 2556>といったか、彼に報告に行ってくれないか
+俺はこの辺りを少し調べてから戻る","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","2","Corentin","Quest Dialogue"
+"0","0","これはこれは――
+ダナで一番の戦士をよこしてくれるのかと思えば
+まさか異国の覚者様、貴方が来てくださるとは","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","3","Enan","Quest Dialogue"
+"0","0","なんでも、ダナの辺りで地鳴りが聞こえるそうですな
+恐らく原因はわしの記憶にある""アレ""で
+間違いありますまい","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","4","Enan","Quest Dialogue"
+"0","0","本来ならば、この年寄りの昔話くらい
+こころよくお聞かせしたいところですが
+このマヌンにも危機が迫っておるのです――","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","5","Enan","Quest Dialogue"
+"0","0","《聖河の遺跡》に
+封印されていたはずの魔物が
+最近、急に動き出したような気配がありまして","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","6","Enan","Quest Dialogue"
+"0","0","近くを通りがかった戦士に声をかけ
+様子を見てきてくれるよう頼んだのですが
+いまだ戻ってきておりませんでな――","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","7","Enan","Quest Dialogue"
+"0","0","これは、何らかの理由で
+封印が解けたと考えてよいでしょう
+かの魔物が外に出れば、この洞窟を
+襲いに来るやもしれませぬ","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","8","Enan","Quest Dialogue"
+"0","0","交換条件となってしまいますが
+魔物を倒してきてくだされば
+地鳴りについて、お話いたしましょう","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","9","Enan","Quest Dialogue"
+"0","0","《聖河の遺跡》 で
+目覚めたらしき魔物を討伐してきてくだされば
+わしの知る限りのことをお話いたしましょう","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","10","Enan","Quest Dialogue"
+"0","0","先に行った戦士もまだ戻っておりませんが――
+残念なことになっていなければいいのですが","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","11","Enan","Quest Dialogue"
+"0","0","ああ、行ってくれるのかい
+どんどんややこしいことになっていっちまって
+なんだかすまないね――","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","12","Razanailt","Quest Dialogue"
+"0","0","エナンって人は《マヌンの集落》で暮らす
+人たちの長老らしいよ
+あそこと何かやり取りをする時は
+大体あの人が出てくるんだ","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","13","Razanailt","Quest Dialogue"
+"0","0","一体どんな武勇を見せろっていうんだか
+わからないけど、気張って行っておくれよ！","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","14","Razanailt","Quest Dialogue"
+"0","0","《マヌンの集落》で暮らしてる人たちの
+長老、エナンって人のところに行ってくれるかい
+一体どんな武勇を見せろっていうんだか
+わからないけど、気張って行っておくれよ！","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","15","Razanailt","Quest Dialogue"
+"0","0","レスタニアの覚者か――！
+すまないが手を貸してくれ
+様子を見るだけのつもりだったのだが
+妙な魔物の罠にはめられたようだ","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","16","Corentin","Quest Dialogue"
+"0","0","この結界を張る護符が近くにあるはずだ
+それを全て破壊してくれ
+そうすれば、この結界が――
+――覚者よ、後ろだ！！","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","17","Corentin","Quest Dialogue"
+"0","0","結界を張る護符が周囲にあるはずだ
+それを全て破壊してくれ！
+結界さえ解ければ、俺も戦える！","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","18","Corentin","Quest Dialogue"
+"0","0","なんと――罠をしかける魔物とは――
+何やら不穏なものを感じます
+今後も気は抜けませんな――","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","19","Enan","Quest Dialogue"
+"0","0","そうそう、地鳴りについてですが
+昔から、響き渡る地鳴りについての話は
+時折耳にしていたものです","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","20","Enan","Quest Dialogue"
+"0","0","こういったことは《知恵の小塔》に収められた
+過去の書物を紐解くことで明らかとなるでしょう
+あそこは特に貴重な書物が収められ
+学者たちがつどった場所ですからの――","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","21","Enan","Quest Dialogue"
+"0","0","魔物の襲撃を受けるようになって
+放棄されましたが、数年前までは
+わしが密かに手入れしておりました
+書物もまだ十分に読める状態で残っているはずです","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","22","Enan","Quest Dialogue"
+"0","0","わしは難しい書物を読むことはできませんが
+きっと大切なものだろうと思ったのです
+こういう時のためだったのですな","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","23","Enan","Quest Dialogue"
+"0","0","ダナ村のエリアマスターにも
+この情報は伝えておきましょう
+覚者様、この度はマヌンの危機を救ってくださり
+感謝いたしますぞ――","","ui\00_message\quest\q60215003.gmd","\quest\q60215003.arc","q60215003.arc","24","Enan","Quest Dialogue"
+"0","0","本当に、ちょうどいい時に来てくれたもんだ
+詳しいことはオリアに聞いてもらえるかい
+今、タラスクについて色んな情報が
+入ってくるもんだからちょっと手が離せないのさ","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","0","Razanailt","Quest Dialogue"
+"0","0","詳しいことはオリアに聞いてもらえるかい
+今、タラスクについて色んな情報が
+入ってくるもんだからちょっと手が離せないのさ","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","1","Razanailt","Quest Dialogue"
+"0","0","ああ、覚者さん！
+よかった、あんたに言わないと
+いけないことがあるんだよ！","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","2","Orla","Quest Dialogue"
+"0","0","そう、タラスクが出たんだ！
+もうラザネイルさんに聞いたかい？
+野ウサギでも獲ろうと思って
+外に出たら地鳴りがして――！","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","3","Orla","Quest Dialogue"
+"0","0","《<SPOT 923>》で山みたいに大きな
+ものが動いてるのを見て
+慌てて帰ってきたんだ！","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","4","Orla","Quest Dialogue"
+"0","0","それに、前に見たタラスクとは
+なんだか様子が違ったような――
+とにかく大きくて凶暴そうなんだ！
+このままじゃ村ごと踏み潰されちまうよ！","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","5","Orla","Quest Dialogue"
+"0","0","《<SPOT 923>》で山みたいに大きな
+ものが動いてるのを見たんだよ！
+前に見たタラスクとは
+なんだか様子が違ったように思うけど――","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","6","Orla","Quest Dialogue"
+"0","0","な、なんだって！？
+あの新手のタラスクを
+討伐してきたっていうのかい！","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","7","Razanailt","Quest Dialogue"
+"0","0","確かに、少し前に急に地鳴りが止んだよ
+――あたしらが右往左往している間に
+あんたはその腕でいち早く村を救ったんだね","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","8","Razanailt","Quest Dialogue"
+"0","0","戦士の村・ダナは、その武勇によって
+ここに在ったっていうのに
+まさか他所の国から来たあんたに
+そのことを教えられるとは！","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","9","Razanailt","Quest Dialogue"
+"0","0","どんな強大な敵であっても、武器をとって
+立ち向かう勇敢さ――
+あんたには頭が上がらないよ
+ダナを救ってくれて、本当にありがとう","","ui\00_message\quest\q60215004.gmd","\quest\q60215004.arc","q60215004.arc","10","Razanailt","Quest Dialogue"
+"0","0","ああ、引き受けてくれるのかい！
+すまないね、こんなこと頼んじまって
+なんせ手が足りなくてさ","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","0","Razanailt","Quest Dialogue"
+"0","0","《<SPOT 923>》の辺りで
+最近やけに魔物が出るもんだから
+橋の復旧作業が止まっちまうのさ","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","1","Razanailt","Quest Dialogue"
+"0","0","だから、復旧作業に集中するために
+あの辺りに出る魔物を片っ端から
+ぶん殴ってきてほしいんだよ
+あんたならこのくらい、簡単だろ？","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","2","Razanailt","Quest Dialogue"
+"0","0","他の子もすでに向かわせてるから
+途中で合流して一緒にやってくれればいいよ
+その方が気も楽だろ？","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","3","Razanailt","Quest Dialogue"
+"0","0","すでに他の子も《<SPOT 923>》に
+向かわせたから、途中で合流して
+一緒にやってくれればいいよ","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","4","Razanailt","Quest Dialogue"
+"0","0","ハッ――異国の覚者ではないか！
+ちょうどよいところに――
+実は、さっきここの対岸部に
+巨大な魔物が出現したのだ！","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","5","Lorcan","Quest Dialogue"
+"0","0","襲われているのを見た通りすがりの戦士が
+俺をここまで逃がしてくれたが――
+彼女たちがまだ戻らぬ！","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","6","Lorcan","Quest Dialogue"
+"0","0","頼む、彼女たちに加勢してやってくれ！
+俺は足を痛めてしまって
+これ以上戦えんのだ――！","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","7","Lorcan","Quest Dialogue"
+"0","0","頼む、対岸にいる彼女たちに加勢してやってくれ！
+あんな巨大な魔物、一人では到底相手にできん
+俺は足を痛めてしまって
+これ以上戦えんのだ――！","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","8","Lorcan","Quest Dialogue"
+"0","0","――今考えていたんだが
+もしや、あれが昔話に聞いた
+タラスクなのでは――","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","9","Lorcan","Quest Dialogue"
+"0","0","一刻も早く村に戻って報告しないと――
+俺は足をやられているから
+先に村に戻っておいてくれないか","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","10","Lorcan","Quest Dialogue"
+"0","0","さっき見たアレがタラスクだったら
+これから大変なことになるぞ――","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","11","Lorcan","Quest Dialogue"
+"0","0","一刻も早く村に戻って報告しないと――
+俺は足をやられているから
+先に村に戻っておいてくれないか","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","12","Lorcan","Quest Dialogue"
+"0","0","えぇっ！？
+歩くと地響きがするような、巨大な――？
+甲羅のある竜だって！？","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","13","Razanailt","Quest Dialogue"
+"0","0","そ、それってタラスクじゃないか――！
+本当にタラスクが現れたっていうのかい！？","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","14","Razanailt","Quest Dialogue"
+"0","0","これは大変なことになったね――
+地鳴りが聞こえ始めた頃から
+そうじゃないかとは思ってたけど――","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","15","Razanailt","Quest Dialogue"
+"0","0","とにかく
+報告してくれて感謝するよ
+地鳴りの正体がわかったからには
+対策が立てられるからね","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","16","Razanailt","Quest Dialogue"
+"0","0","助太刀感謝する！　だが、三人でもこやつに敵うかどうか――！","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","17","Glenna","Quest Dialogue"
+"0","0","このままでは押されるばかりだ！　一旦、対岸まで退くぞ！","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","18","Glenis","Quest Dialogue"
+"0","0","まさか旅をしている最中に
+タラスクに襲われている人を見つけるなんて
+さすがに思いもよらなかったな――","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","19","Glenis","Quest Dialogue"
+"0","0","間一髪だな
+あんな巨大な魔物、一体どうやって
+対処すればいいんだ――
+討伐にしろ捕獲にしろ困難を極めるぞ","","ui\00_message\quest\q60215005.gmd","\quest\q60215005.arc","q60215005.arc","20","Glenna","Quest Dialogue"
+"0","0","そうだ、あんた覚者なんだろ？
+最近、妙な赤い光を見たっていう情報が
+いろんなところから入ってくるんだ
+何か知ってたら教えてくれない？","That's right, you're an Arisen, aren't you? 
+Lately, we've been getting reports from all over
+about strange red lights being seen. 
+If you know something, could you tell me?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","0","Razanailt","Quest Dialogue"
+"0","0","最近だと、外にいるオリアが
+その赤い光を見たらしいからさ
+一度話を聞いてみてよ","Oria, who's been outside
+recently saw the red light.
+Why not go question her?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","1","Razanailt","Quest Dialogue"
+"0","0","最近、妙な赤い光を見たっていう情報が
+いろんなところから入ってくるんだ
+あんた、何か知ってたら教えてくれない？","I've been getting reports from all over
+about people seeing strange red lights.
+Do you know anything about it?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","2","Razanailt","Quest Dialogue"
+"0","0","最近だと、外にいるオリアが
+その赤い光を見たらしいからさ
+一度話を聞いてみてよ","Oria, who's been outside
+recently saw the red light.
+Why not go question her?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","3","Razanailt","Quest Dialogue"
+"0","0","赤い光を目撃したかだって？
+確かに見たともさ！
+それも、この森のいろんな場所で見たよ","If I saw the red light? 
+Sure did! Saw it in lots of
+places around this forest, too.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","4","Orla","Quest Dialogue"
+"0","0","ただ――魔物のように恐ろしげだったり
+不気味だったりするものじゃなかったね
+よーく見ると、ひっそりある感じだよ","But—it wasn't terrifying like some
+monster, or eerie, or anything really.
+Look closely, and it's just kinda... there.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","5","Orla","Quest Dialogue"
+"0","0","あれは周りをよく見ないとわからないと思うねぇ――
+そういえば、さっき他の人にも赤い光の
+調査をしてるって話を聞かれたから
+その人にも様子を聞いてみるといいんじゃないかね？","Can't tell without looking properly...
+Now that I think of it, someone else
+mentioned studying the red light -
+maybe ask them too?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","6","Orla","Quest Dialogue"
+"0","0","赤い光は見たけど、魔物のように恐ろしげだったり
+不気味だったりするものじゃなかったね
+よーく見ると、ひっそりある感じだよ","I saw the red light, but it wasn't terrifying
+like some enemy, or eerie, or anything. 
+Look closely, and it's just kinda... there.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","7","Orla","Quest Dialogue"
+"0","0","あれは周りをよく見ないとわからないと思うねぇ――
+そういえば、さっき他の人にも赤い光の
+調査をしてるって話を聞かれたから
+その人にも様子を聞いてみるといいんじゃないかね？","Can't tell without looking properly...
+Now that I think of it, someone else
+mentioned studying the red light -
+maybe ask them too?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","8","Orla","Quest Dialogue"
+"0","0","これは隊長殿――
+赤い妖光の調査状況についてですか？","Ah, Captain - is this concerning
+that strange red light?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","9","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","ちょうど、この周辺に
+赤く光るモノがあるらしいのですが――
+まだ発見できずに困ってたんです","Apparently, there's something around here
+that glows red... but I still haven't
+been able to find it. It's been frustrating.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","10","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","聞いたところによれば
+高低差や地形などをよく把握した上で探すと
+発見できるようです","They say you'll find it if you pay attention to
+the landscape and elevation differences when
+you search.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","11","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","自分はココでしばらく粘ってみたのですが
+全然ダメでして――
+よかったら、隊長殿も探してみられては
+いかがでしょう？","I tried sticking it out here for a while
+but had no luck at all. 
+Captain, perhaps you'd like to attempt it instead?","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","12","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","聞いたところによれば
+高低差や地形などをよく把握した上で探すと
+発見できるようですよ","I heard you'll find it if you pay attention to
+the landscape and elevation differences when
+you search.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","13","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","おおお！　さすがは隊長殿！！
+鮮やかなる発見っぷりでした！","Whoa! That's the Captain for you!
+What a brilliant discovery!","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","14","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","そうそう、フィンダム中を調査して
+コイツを発見していくと
+その結果に応じて、神殿から報酬が出るそうですよ","Right—so, if you scout around Phindym
+and find these things, the temple will
+reward you based on your results, 
+or so I've heard.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","15","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","どのくらい発見できたかについては
+一度、白竜神殿にいるジュリアさんの元を
+訪れるか、アチーブメントを確認してください","To check how many you've found, either visit
+Miss Julia at the White Dragon Temple or
+check your achievements.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","16","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","いやぁ、できれば自分も赤い光を
+見つけてみたかったものですが――
+どうも向いていないようです
+別のところでお役に立てるよう、精進します！","Well, I would have liked to find the red light
+myself if possible, but...
+I suppose it's just not for me.
+I'll strive to be of use elsewhere!","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","17","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","フィンダム中を調査して
+この赤い光を発見していくと
+その結果に応じて、神殿から報酬が出るそうですよ","If you scout around Phindym
+and find these red lights, the temple will
+reward you based on your results.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","18","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","どのくらい発見できたかについては
+一度、白竜神殿にいるジュリアさんの元を
+訪れるか、アチーブメントを確認してくださいね","To check how many you've found, either visit
+Miss Julia at the White Dragon Temple or
+check your achievements.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","19","Arisen Corps Regimental Soldier","Quest Dialogue"
+"0","0","へぇ、あの赤い光は《精霊の火種》っていうのかい
+持ってるだけじゃ特に役にも立たないし
+何の害も無いってシロモノなんだね――","Huh, that red light is called a ""Spiritual Flame?""
+Just carrying it doesn't seem to do anything,
+and it's completely harmless...","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","20","Razanailt","Quest Dialogue"
+"0","0","心配して損しちまったよ
+てっきり、侵食のせいでまた何かが
+おかしくなっちまったのかと思ってさ！","Worried for nothing. Thought maybe
+the corruption had messed things up again!","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","21","Razanailt","Quest Dialogue"
+"0","0","わざわざ調べてくれてありがとう
+あんた、結構いいやつみたいだね","Thanks for checking it out.
+You seem like a pretty good sort.","ui\00_message\quest\q60215006.gmd","\quest\q60215006.arc","q60215006.arc","22","Razanailt","Quest Dialogue"
+"0","0","森で侵食魔の群れを見たというのは
+外にいるゾルタです
+彼女はハーブを採りによく森へ
+入りますからね","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","0","Arthfael","Quest Dialogue"
+"0","0","侵食魔についての情報を
+集めていらっしゃるのですか？
+ならば、本人から聞くのが一番でしょう
+彼女に話を通しておきますよ","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","1","Arthfael","Quest Dialogue"
+"0","0","森で侵食魔の群れを見たというのは
+外にいるゾルタです
+彼女には私から話を通しておきましょう
+ぜひ、本人から詳細をお聞きください","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","2","Arthfael","Quest Dialogue"
+"0","0","ああ――侵食魔の群れについてですね","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","3","Zolta","Quest Dialogue"
+"0","0","先日、ハーブを採りに森に入ったんです
+そうしたら《<SPOT 939>》に
+侵食魔がたくさんいたんです","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","4","Zolta","Quest Dialogue"
+"0","0","一匹や二匹ならまだしも
+たくさんいたということは
+群れに侵食が拡がっているということでしょう？","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","5","Zolta","Quest Dialogue"
+"0","0","このまま、どんどん侵食魔が増えていって
+ハーブも採りにいけなくなったらって思うと
+もう恐ろしくて――","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","6","Zolta","Quest Dialogue"
+"0","0","覚者様、無茶なお願いかも知れませんが――
+侵食魔の群れを討伐していただけませんか？
+どうかわたしたちの生活を守ってください","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","7","Zolta","Quest Dialogue"
+"0","0","侵食魔の群れがいたのは
+《<SPOT 939>》の辺りです","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","8","Zolta","Quest Dialogue"
+"0","0","覚者様、どうかわたしたちの生活を
+守っていただけませんか","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","9","Zolta","Quest Dialogue"
+"0","0","侵食魔の群れを討伐してきてくださったんですね！
+ありがとうございます","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","10","Zolta","Quest Dialogue"
+"0","0","これでしばらくはハーブを採りに
+行くことができそうです","","ui\00_message\quest\q60216000.gmd","\quest\q60216000.arc","q60216000.arc","11","Zolta","Quest Dialogue"
+"0","0","みなを不安にさせたくないので
+あまり大きな声では申し上げられませんが――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","0","Arthfael","Quest Dialogue"
+"0","0","実は、侵食された人間が存在するのです――
+彼らは侵食の作用により、すでに人らしい
+理性はとどめておりません","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","1","Arthfael","Quest Dialogue"
+"0","0","そして、ここからが問題なのですが――
+先日、この村におりますフィンバーが
+外を歩いていたところ
+侵食された彼らと遭遇したそうでして――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","2","Arthfael","Quest Dialogue"
+"0","0","いえ、これより詳しくは本人から
+お聞きになった方がよいでしょう
+私からでは又聞きとなってしまいますから――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","3","Arthfael","Quest Dialogue"
+"0","0","覚者様、どうか小声でお願いいたします――
+詳しくはフィンバーよりお聞きください――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","4","Arthfael","Quest Dialogue"
+"0","0","ひ、ひぃ――
+あの話ですか――もう、思い出したくないのに――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","5","Finbar","Quest Dialogue"
+"0","0","僕、村から全然出なくなっちゃったもので
+このままじゃいけないって勇気を振り絞って
+散歩に出たんです――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","6","Finbar","Quest Dialogue"
+"0","0","そうしたらいつの間にか
+《<SPOT 941>》の近くまで行っちゃって
+そこで、見たんです――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","7","Finbar","Quest Dialogue"
+"0","0","侵食された人たちのこと――
+魔物と同じく、侵食核が突き出ていて
+ふらふら歩いてました","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","8","Finbar","Quest Dialogue"
+"0","0","慌てて逃げましたが、彼らは僕に
+気付いて追ってこようとしていました！
+跡はつけられていないつもりですが――
+もしかしたら、村の位置もばれてるかも――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","9","Finbar","Quest Dialogue"
+"0","0","か、覚者さん、お願いです
+同じ人としてこんなこと言うのも辛いんです
+でも――でも、彼らを討ってきてください――！","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","10","Finbar","Quest Dialogue"
+"0","0","もしも彼らが村にやってきたら
+この村は壊滅してしまいます――
+なんせ、近寄るまでは普通の人間に見えたんです
+きっと門の内側まで進入を許してしまうでしょう","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","11","Finbar","Quest Dialogue"
+"0","0","それから、僕があそこに落としてきてしまった
+メモの回収もお願いできないでしょうか？
+運の悪いことに、モルフォールの位置を記した
+メモだったんです――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","12","Finbar","Quest Dialogue"
+"0","0","侵食された人間が他にもいて
+もしもメモが読めたとしたらと思うと
+気が気じゃなくて――
+どうかどうか、お願いします――！","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","13","Finbar","Quest Dialogue"
+"0","0","《<SPOT 941>》にいるはずの
+侵食された人たちを討ってきてください――
+それから、僕が落としてきたメモの回収も――
+どうかどうか、お願いします","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","14","Finbar","Quest Dialogue"
+"0","0","うっ――
+ありがとうございます
+これで安心して眠れます――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","15","Finbar","Quest Dialogue"
+"0","0","覚者様――
+同じ人間を討ってきてくれだなんて
+こんなお願い、黙って聞き入れてくださって
+本当に感謝しています――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","16","Finbar","Quest Dialogue"
+"0","0","本当にヘマばかりして、情けない――
+僕ももっと強くなりたいです
+うぅ、侵食された人たちのためにも――","","ui\00_message\quest\q60216001.gmd","\quest\q60216001.arc","q60216001.arc","17","Finbar","Quest Dialogue"
+"0","0","此度もお力を貸していただけるのですね
+ありがとうございます、覚者様","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","0","Arthfael","Quest Dialogue"
+"0","0","今回問題となっているのは
+採掘所についてなのです","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","1","Arthfael","Quest Dialogue"
+"0","0","かつては村の生命線の一つでもあった
+採掘所に強大な侵食魔があらわれ
+その場を荒らし始めたようなのです","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","2","Arthfael","Quest Dialogue"
+"0","0","詳しくは、畑のそばにおりますウルタンが
+ご説明できるでしょう
+彼から話をお聞きください","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","3","Arthfael","Quest Dialogue"
+"0","0","村の生命線の一つでもあった採掘所が
+侵食魔に荒らされているのです
+詳しくは、畑のそばにおりますウルタンが
+ご説明できるでしょう","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","4","Arthfael","Quest Dialogue"
+"0","0","異国の覚者様――今回あらわれた侵食魔について
+わしがご説明しようかの
+ちぃとばかり急ぎの作業があっての
+手は止めずに失礼しますぞ","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","5","Ultan","Quest Dialogue"
+"0","0","――《<SPOT 908>》の奥地は
+村の生命線ともいえる採掘所となっていたんじゃ
+そこに、大型の侵食魔があらわれて
+岩肌に体当たりをしたりと暴れ始めての","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","6","Ultan","Quest Dialogue"
+"0","0","このまま場を荒らされ続ければ
+いつの日か侵食が収まったとしても
+採掘に使えなくなってしまう――","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","7","Ultan","Quest Dialogue"
+"0","0","侵食という災厄の最中にあっても、わしらは
+その先のことをも考えねばならんのじゃ","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","8","Ultan","Quest Dialogue"
+"0","0","どうか、これ以上あの場が
+荒らされないうちに
+侵食魔を退治してもらえんかの――","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","9","Ultan","Quest Dialogue"
+"0","0","《<SPOT 908>》の奥に
+現れた侵食魔――
+どうか、これ以上あの場を荒らさぬうちに
+退治してきてもらえんかの","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","10","Ultan","Quest Dialogue"
+"0","0","おお――もう退治してきてくれたとは！
+さすがは覚者様じゃ
+覚者様の強さ、清さは
+国によって変わるものではないのじゃな","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","11","Ultan","Quest Dialogue"
+"0","0","侵食が去ったあとも生活することができる――
+この希望が、侵食へ立ち向かうための力となるのじゃ
+アルトフェイルもそこのところを
+よくわかっておる――","","ui\00_message\quest\q60216002.gmd","\quest\q60216002.arc","q60216002.arc","12","Ultan","Quest Dialogue"
+"0","0","此度もお力添えいただけるとは――！
+謎の爆発と、新手の侵食魔については
+<NPC 2604>から直接お聞きください
+彼なら村のどこかで警備にあたっていることでしょう","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","0","Arthfael","Quest Dialogue"
+"0","0","此度もお力添えいただけるとは――！
+謎の爆発と、新手の侵食魔については
+<NPC 2604>から直接お聞きください
+彼なら村のどこかで警備にあたっていることでしょう","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","1","Arthfael","Quest Dialogue"
+"0","0","ああ――この前見た、妙な爆発の話だね
+村の周辺を見回っていた時に
+突然爆発音がして、大量の侵食胞子が
+舞い上がるのを見たんだ","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","2","Thorin","Quest Dialogue"
+"0","0","ここモロー樹林は火山地帯でもないし
+森の中に爆発するようなものがあるとは思えない
+何かよくないことが起こっているような気がするよ","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","3","Thorin","Quest Dialogue"
+"0","0","妙なことが起こっているっていうのに
+僕が村を離れるわけにはいかないだろう？
+だから、知り合いの戦士に連絡を取って
+調査を頼んであるんだ","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","4","Thorin","Quest Dialogue"
+"0","0","気の良い彼だから、すぐに駆けつけて
+《<SPOT 943>》へ調査に向かってくれたよ","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","5","Thorin","Quest Dialogue"
+"0","0","アルトフェイルが悩んでいた新手の
+侵食魔についても、彼が数を減らして
+きてくれるはずだよ","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","6","Thorin","Quest Dialogue"
+"0","0","そろそろ戻ってきてもいい頃なんだけど
+少し帰りが遅いのは気になるかな――","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","7","Thorin","Quest Dialogue"
+"0","0","妙な爆発についてなら
+知り合いの戦士に連絡を取って
+《<SPOT 943>》の調査を頼んであるよ","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","8","Thorin","Quest Dialogue"
+"0","0","そろそろ戻ってきてもいい頃なんだけど
+少し帰りが遅いのは気になるかな――","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","9","Thorin","Quest Dialogue"
+"0","0","いやぁ、まいった！
+辺りを調査していたら、護符を持った
+妙な魔物が出てきて、このザマだ！","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","10","Sullivan","Quest Dialogue"
+"0","0","すまんが、近くに護符が無いか探してもらえないか？
+魔物が結界を張るのに使っていた
+護符を全て破壊すれば――","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","11","Sullivan","Quest Dialogue"
+"0","0","――っとと！
+後ろだ、来たぞ！！","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","12","Sullivan","Quest Dialogue"
+"0","0","すまんが、近くに護符が無いか探してもらえないか？
+魔物が結界を張るのに使っていた
+護符を全て破壊すれば――！","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","13","Sullivan","Quest Dialogue"
+"0","0","助かった！　おかげでようやく身動きが取れる！
+大方、あんたも""謎の爆発""について
+調べに来たんだろう？
+こっちだ、ついてきてくれ！","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","14","Sullivan","Quest Dialogue"
+"0","0","この辺りの調査の妨げになるような
+侵食魔どもは片付けられたが――
+どうやら、これは大変なことになっていそうだ――","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","15","Sullivan","Quest Dialogue"
+"0","0","すまんが、一度<NPC 2604>に
+報告にいってくれないか
+俺はこの辺りをもう少し調べてから
+戻ることにしよう","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","16","Sullivan","Quest Dialogue"
+"0","0","すまんが、一度<NPC 2604>に
+報告にいってくれないか
+俺はこの辺りをもう少し調べてから
+戻ることにしよう","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","17","Sullivan","Quest Dialogue"
+"0","0","サリヴァンが敵に拘束されていたなんて！
+軽い気持ちだったけど、君に話しておいて
+よかったみたいだ！","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","18","Thorin","Quest Dialogue"
+"0","0","彼を助けてくれて礼を言うよ
+――それにしても、サリヴァンが
+「大変なことになっていそうだ」なんて
+言ったとはね――","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","19","Thorin","Quest Dialogue"
+"0","0","大抵のことは笑い飛ばす性質の彼が
+そこまで真剣になるということは
+調査結果についても覚悟しておいた方が
+良さそうだな――","","ui\00_message\quest\q60216003.gmd","\quest\q60216003.arc","q60216003.arc","20","Thorin","Quest Dialogue"
+"0","0","先日見つかったクレーターですが
+あれは強力な魔物が暴れてできたもののようです","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","0","Arthfael","Quest Dialogue"
+"0","0","さらに、様々な調査結果より
+その魔物によって侵食が拡げられている気配が
+あることもわかっています","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","1","Arthfael","Quest Dialogue"
+"0","0","覚者様、どうかあの魔物を
+討伐してきていただけないでしょうか
+魔物が暴れるたびに侵食される土地が拡がっては
+我々はここに住み続けることも危ういのです","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","2","Arthfael","Quest Dialogue"
+"0","0","トリンが熱心に魔物のことを調べていたようですから
+詳細については彼が詳しいでしょう
+討伐に出られる前に
+ぜひ、彼に直接話を聞いてみてください","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","3","Arthfael","Quest Dialogue"
+"0","0","トリンが熱心に魔物のことを調べていたようですから
+詳細については彼が詳しいでしょう
+討伐に出られる前に
+ぜひ、彼に直接話を聞いてみてください","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","4","Arthfael","Quest Dialogue"
+"0","0","そうなんだ
+アルトフェイルから聞いていると思うけど
+この前の爆発のようなものやクレーターは
+魔物によるものだったみたいでね","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","5","Thorin","Quest Dialogue"
+"0","0","まさかクレーターを作るような
+強力な魔物がこの時期に現れるなんて
+思いもよらなかったよ","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","6","Thorin","Quest Dialogue"
+"0","0","どうやら相手は侵食が進んだグリフィンみたいだ
+あの羽根で飛び回って
+侵食胞子を含んだ唾液を撒き散らしては
+侵食の範囲を拡げていたんだろうね","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","7","Thorin","Quest Dialogue"
+"0","0","今、ヤツは《<SPOT 944>》に
+いるみたいだけど――
+何せ羽根のある相手だ
+いつどこへ飛び立つかわからない状態さ","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","8","Thorin","Quest Dialogue"
+"0","0","きっと、グリフィン自身も
+あんな姿になって苦しんでいるだろうに――
+何とかしてやりたいけど、僕一人で
+勝てる相手じゃなさそうだ","","ui\00_message\quest\q60216004.gmd","\quest\q60216004.arc","q60216004.arc","9","Thorin","Quest Dialogue"
