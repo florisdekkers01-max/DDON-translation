@@ -1,1141 +1,1187 @@
-﻿"0","0","大砲の弾","","ui\00_message\examine_message\quest\quest_examine_q60320000.gmd","\quest\q60320000.arc","q60320000.arc","0","Doris","Quest Examine"
-"0","0","大砲の土台","","ui\00_message\examine_message\quest\quest_examine_q60320000.gmd","\quest\q60320000.arc","q60320000.arc","1","Doris","Quest Examine"
-"0","0","大砲の砲身","","ui\00_message\examine_message\quest\quest_examine_q60320000.gmd","\quest\q60320000.arc","q60320000.arc","2","Doris","Quest Examine"
-"0","0","――仲間の救援部隊が到着した！","","ui\00_message\examine_message\quest\quest_examine_q60320001.gmd","\quest\q60320001.arc","q60320001.arc","0","Umit","Quest Examine"
-"0","0","――敵軍が増援部隊を招集！","","ui\00_message\examine_message\quest\quest_examine_q60320001.gmd","\quest\q60320001.arc","q60320001.arc","1","Umit","Quest Examine"
-"0","0","――敵の痕跡を発見した！","","ui\00_message\examine_message\quest\quest_examine_q60320003.gmd","\quest\q60320003.arc","q60320003.arc","0","Dean","Quest Examine"
-"0","0","――敵の痕跡を見失った！","","ui\00_message\examine_message\quest\quest_examine_q60320003.gmd","\quest\q60320003.arc","q60320003.arc","1","Dean","Quest Examine"
-"0","0","――敵の気配を発見した！出現場所へ！","","ui\00_message\examine_message\quest\quest_examine_q60320003.gmd","\quest\q60320003.arc","q60320003.arc","2","Dean","Quest Examine"
-"0","0","――敵の痕跡ではなかった！他を探そう！","","ui\00_message\examine_message\quest\quest_examine_q60320003.gmd","\quest\q60320003.arc","q60320003.arc","3","Dean","Quest Examine"
-"0","0","辺りを見渡す","","ui\00_message\examine_message\quest\quest_examine_q60320010.gmd","\quest\q60320010.arc","q60320010.arc","0","Doris","Quest Examine"
-"0","0","岩の向こうから巨大な力を感じる――
-この先に竜がいるのだろう","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","0","Bacias","Quest Examine"
-"0","0","魔物の身体から闇の力を感じる――","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","1","Bacias","Quest Examine"
-"0","0","さきほど感じたものと同じ闇の力を感じる
-奥へと続いているようだ――","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","2","Bacias","Quest Examine"
-"0","0","大きな闇の力の痕跡がある
-魔物がいないことが気になるが――","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","3","Bacias","Quest Examine"
-"0","0","魔物が突然現れ襲い掛かってきた","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","4","Bacias","Quest Examine"
-"0","0","闇の力の流れる先を感じ取った","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","5","Bacias","Quest Examine"
-"0","0","魔物が突然現れ襲い掛かってきた","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","6","Bacias","Quest Examine"
-"0","0","闇の力の流れる先を感じ取った","","ui\00_message\examine_message\quest\quest_examine_q60321010.gmd","\quest\q60321010.arc","q60321010.arc","7","Bacias","Quest Examine"
-"0","0","――護衛兵を発見した！","","ui\00_message\examine_message\quest\quest_examine_q80301070.gmd","\quest\q80301070.arc","q80301070.arc","0","Mephis","Quest Examine"
-"0","0","――時間切れのようだ――","","ui\00_message\examine_message\quest\quest_examine_q80301070.gmd","\quest\q80301070.arc","q80301070.arc","1","Mephis","Quest Examine"
-"0","0","――敵の増援が出現した！","","ui\00_message\examine_message\quest\quest_examine_q80301072.gmd","\quest\q80301072.arc","q80301072.arc","0","Mephis","Quest Examine"
-"0","0","北：ダナ
-西：ナバド
-南：ファーラナ遺跡","North: Dana
-West: Nabhadh
-South: Farana Ruins","ui\00_message\examine_message\stage\stage_examine_st0120.gmd","\stage\st0120\st0120.arc","st0120.arc","0","","Farana Plains Stage Examine"
-"0","0","東：キンガル峡谷
-西：ダナ
-南：甲竜の湿原","East: Kingal Canyon
-West: Dana
-South: Shell Dragon's Bog","ui\00_message\examine_message\stage\stage_examine_st0120.gmd","\stage\st0120\st0120.arc","st0120.arc","1","","Farana Plains Stage Examine"
-"0","0","さらに、旅が終わったら二度と
-このようなことが起きないよう
-冒険者の集いを作り、助け合えるように
-したいということ","Furthermore, once our journey comes to a conclusion,
-I wish to establish a gathering of adventurers
-to ensure that such events never happen again,
-and to foster mutual assistance in the future.","ui\00_message\examine_message\stage\stage_examine_st0120.gmd","\stage\st0120\st0120.arc","st0120.arc","7","","Farana Plains Stage Examine"
-"0","0","そして最も感動したのは、我々にも
-その一端を担わせてくださるということ――
-ポーンでありながら仲間として認められた
-ような気さえしました","And what had moved me the most was that
-we were allowed to play a part in it as well.
-Even as pawns, it felt like we were recognized
-as companions on equal footing.","ui\00_message\examine_message\stage\stage_examine_st0120.gmd","\stage\st0120\st0120.arc","st0120.arc","8","","Farana Plains Stage Examine"
-"0","0","鳥らしき図が描かれている
-注意喚起の立て札だろうか――","A drawing of bird-like figures.
-Perhaps it's a notice for caution.","ui\00_message\examine_message\stage\stage_examine_st0121.gmd","\stage\st0121\st0121.arc","st0121.arc","0","","Farana Plains Stage Examine"
-"0","0","立て札はぼろぼろに朽ちている","The sign is old and worn out.","ui\00_message\examine_message\stage\stage_examine_st0121.gmd","\stage\st0121\st0121.arc","st0121.arc","1","","Farana Plains Stage Examine"
-"0","0","湖の北：モロー樹林
-東の丘：ナバド","North of the lake: Morrow Forest
-Eastern hill: Nabhadh","ui\00_message\examine_message\stage\stage_examine_st0121.gmd","\stage\st0121\st0121.arc","st0121.arc","2","","Farana Plains Stage Examine"
-"0","0","""この先、モロー樹林""と書かれている
-この桟橋は船着き場のようだ","It says ""Morrow Forest"" ahead.
-This wharf appears to serve as a dock.","ui\00_message\examine_message\stage\stage_examine_st0121.gmd","\stage\st0121\st0121.arc","st0121.arc","3","","Farana Plains Stage Examine"
-"0","0","～この先、許可なき者の立入を禁ず～
-　　グリンデュア族長　キアラン","～Unauthorized entry prohibited beyond this point～
-Chief of the Glyndwr Tribe, Ciarán","ui\00_message\examine_message\stage\stage_examine_st0122.gmd","\stage\st0122\st0122.arc","st0122.arc","0","","Hidden Passage Stage Examine"
-"0","0","～この先、何人たりとも立入を禁ず～","～No one shall enter beyond this point～","ui\00_message\examine_message\stage\stage_examine_st0122.gmd","\stage\st0122\st0122.arc","st0122.arc","1","","Hidden Passage Stage Examine"
-"0","0","この先、軽度侵食域
-用無き者立ち入るべからず","Ahead lies the mildly corrupted area.
-Unauthorized persons are not allowed to enter.","ui\00_message\examine_message\stage\stage_examine_st0123.gmd","\stage\st0123\st0123.arc","st0123.arc","0","","Fort Thundra Stage Examine"
-"0","0","この先、重度侵食域
-即刻この場より退避し、南へ戻ること","Beyond this point lies a heavily infected area.
-Immediately evacuate from this location
-and return to the south. You have been warned!","ui\00_message\examine_message\stage\stage_examine_st0123.gmd","\stage\st0123\st0123.arc","st0123.arc","1","","Fort Thundra Stage Examine"
-"0","0","北：フェルヤナ関所、ダクレイム砦
-西：ロスギルの村","North: Feryana Checkpoint, Dacreim Fortress
-West: Village of Rothgill","ui\00_message\examine_message\stage\stage_examine_st0131.gmd","\stage\st0131\st0131.arc","st0131.arc","0","","Rathnite Foothills Lakeside Stage Examine"
-"0","0","荒々しい紋様のようなものが描かれている
-この先は魔軍にとって重要な場所なのかもしれない","There seems to be a rugged pattern drawn.
-This place ahead might be important for the demon
-army.","ui\00_message\examine_message\stage\stage_examine_st0131.gmd","\stage\st0131\st0131.arc","st0131.arc","1","","Rathnite Foothills Lakeside Stage Examine"
-"0","0","お困りの方、坂の上へお進みください
-メフィテはどなたでも歓迎いたします","If you are in need, please proceed up the hill.
-Mephite welcomes everyone.","ui\00_message\examine_message\stage\stage_examine_st0132.gmd","\stage\st0132\st0132.arc","st0132.arc","0","","Feryana Wilderness Stage Examine"
-"0","0","東の道、危険区域につき
-特殊任務発令時以外の立ち入りを禁ず","Dangerous Area: Eastern Road
-Entry prohibited except during special mission
-assignments.","ui\00_message\examine_message\stage\stage_examine_st0133.gmd","\stage\st0133\st0133.arc","st0133.arc","0","","Megadosys Plateau Stage Examine"
-"0","0","北の頭領　セロの認めを受けぬ者は
-この先に進むべからず","Those who do not receive Cyril's recognition
-shall not proceed any further.","ui\00_message\examine_message\stage\stage_examine_st0134.gmd","\stage\st0134\st0134.arc","st0134.arc","0","","Urteca Mountains Stage Examine"
-"0","0","注意――
-サラマンダーの異常発生が頻発","Attention—
-Frequent abnormal outbreaks of Pyre Saurians.","ui\00_message\examine_message\stage\stage_examine_st0134.gmd","\stage\st0134\st0134.arc","st0134.arc","1","","Urteca Mountains Stage Examine"
-"0","0","淀み濁った魂たちには
-すみやかな解放を――
-彼らの苦しみは、生者をも闇の世界へと
-引きずり込むだろう","To the stagnant and turbid souls,
-grant them swift liberation—
-for their suffering shall drag even the living
-into the world of darkness.","ui\00_message\examine_message\stage\stage_examine_st0135.gmd","\stage\st0135\st0135.arc","st0135.arc","0","","Forest of Mist Stage Examine"
-"0","0","敵に見つかってしまった！","The enemy has spotted us!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","0","","Feryana Wilderness by Castle Stage Examine"
-"0","0","任務を離脱してしまった――","We've abandoned the mission—","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","1","","Feryana Wilderness by Castle Stage Examine"
-"0","0","ソネルのやる気がなくなってしまった――","Sonel has lost motivation...","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","2","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《第一捕虜収容所》
-捕虜を連れて来た者は報告すること！","Ahead is the ""First Prison Camp.""
-Those who bring captives must report in!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","3","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《集会場》
-只今警備体制強化中！","Assembly Hall
-Currently strengthening security measures!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","4","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《兵士詰所》
-捕虜の檻が閉まっているか確認すること！　","Ahead is the ""Guardroom."" Make sure the
-prisoner cages are closed!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","5","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《兵士詰所》
-敵の侵入は決して許してはならない！","Beyond here is the ""Guardroom."" Enemy
-incursion is absolutely forbidden!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","6","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《兵舎》
-休息は必ず交代して行うこと","Barracks ahead.
-Rest must always be taken in shifts.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","7","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《集会場》
-掲示板で仕事を確認すること！","Ahead is the ""Assembly Hall.""
-Check the bulletin board for assignments!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","8","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《隔離兵舎》
-許可のない者、入るべからず！","Isolation Barracks ahead.
-Entry prohibited without permission!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","9","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《隔離兵舎》
-許可のない者、入るべからず！","Isolation Barracks ahead.
-Entry prohibited without permission!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","10","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《第二捕虜収容所》
-捕虜を連れて来た者は報告すること！","Ahead is the ""Second Prison Camp.""
-Those who bring captives must report in!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","11","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《大演習場》
-すべての隔離部屋の閉鎖を確認すること！","""Large Training Area"" ahead.
-Ensure the closure of all isolation rooms!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","12","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《大演習場》
-すべての隔離部屋の閉鎖を確認すること！","""Large Training Area"" ahead.
-Ensure the closure of all isolation rooms!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","13","","Feryana Wilderness by Castle Stage Examine"
-"0","0","""隊長の部屋""","Captain's Room","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","14","","Feryana Wilderness by Castle Stage Examine"
-"0","0","気高く、力強いイメージを表現してみた
-なかなかの傑作だと思う","I tried to convey a noble, powerful image. I
-think it's quite a masterpiece.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","15","","Feryana Wilderness by Castle Stage Examine"
-"0","0","疲れた時は、この""わら""で
-ゆっくりしていってほしい","When you're tired, please take your time and
-relax with this ""straw"".","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","16","","Feryana Wilderness by Castle Stage Examine"
-"0","0","隊長は、絶対に気に入ってくれると
-ボクは信じて疑わない","I have no doubt that the captain will absolutely
-love it.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","17","","Feryana Wilderness by Castle Stage Examine"
-"0","0","""ボロい木箱""","""shabby wooden box""","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","18","","Feryana Wilderness by Castle Stage Examine"
-"0","0","中に隠れつつ、隙間から偵察できる
-見た目はボロいが侮れない箱だ","While hiding inside, you can conduct
-reconnaissance through the gaps.
-Though it may look shabby, this box cannot be
-underestimated.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","19","","Feryana Wilderness by Castle Stage Examine"
-"0","0","箱に隠れたまま移動しようと
-試みたが、足が出せず断念した","I tried to move while hidden in the box, but gave
-up because I couldn't get my legs out.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","20","","Feryana Wilderness by Castle Stage Examine"
-"0","0","隊長はこれを壊すのが好きらしい
-きっとこいつも餌食になるだろう","The captain seems to enjoy breaking things.
-Surely this one will also become prey.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","21","","Feryana Wilderness by Castle Stage Examine"
-"0","0","――もうなってるかもしれないが","—It might be too late already.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","22","","Feryana Wilderness by Castle Stage Examine"
-"0","0","""わら""","""Straw""","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","23","","Feryana Wilderness by Castle Stage Examine"
-"0","0","言わずと知れたフカフカなヤツ
-これには何度も世話になった","It goes without saying, this fluffy one. I've
-relied on it countless times.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","24","","Feryana Wilderness by Castle Stage Examine"
-"0","0","このフカフカに包まれていると
-身を隠している以上の安心感がある","Being enveloped in this softness, there is a
-sense of security that goes beyond mere hiding.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","25","","Feryana Wilderness by Castle Stage Examine"
-"0","0","ここに寝っ転がって本を散らかすのが
-ボクの至福の時間だ","Lying here, scattering books all over the place
-is my idea of bliss.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","26","","Feryana Wilderness by Castle Stage Examine"
-"0","0","ただ、""アレ""がいないかどうかだけは
-必ずチェックするようにしている","However, I always make sure to check if ""that
-thing"" is present or not.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","27","","Feryana Wilderness by Castle Stage Examine"
-"0","0","""丸太""","""Logs""","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","28","","Feryana Wilderness by Castle Stage Examine"
-"0","0","こいつはとても恐ろしい","This one is truly terrifying.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","29","","Feryana Wilderness by Castle Stage Examine"
-"0","0","一見、地面との間の隙間が
-最高の隠れ場所に見えるが――","At first glance, the gap between the ground seems
-like the perfect hiding spot but—","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","30","","Feryana Wilderness by Castle Stage Examine"
-"0","0","それは罠だ","It's a trap.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","31","","Feryana Wilderness by Castle Stage Examine"
-"0","0","一度その中に潜り込んだが最後
-二度と出られなくなってしまうからだ","Once you have entered that place, you can never
-escape again.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","32","","Feryana Wilderness by Castle Stage Examine"
-"0","0","あの時ほど、背中に杖を背負ったことを
-後悔した日はなかった","There was no day when I regretted carrying a
-staff on my back as much as I did back then.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","33","","Feryana Wilderness by Castle Stage Examine"
-"0","0","それまで、一度も後悔したことも
-なかったけど","Until then, I had never regretted anything.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","34","","Feryana Wilderness by Castle Stage Examine"
-"0","0","""《熟成爆弾カボチャ》栽培場""","""Ripened bomb pumpkin"" cultivation area.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","35","","Feryana Wilderness by Castle Stage Examine"
-"0","0","関係者以外立ち入り禁止！","Entry prohibited except for authorized personnel!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","36","","Feryana Wilderness by Castle Stage Examine"
-"0","0","関係者も立ち入り禁止！","No entry, even for authorized personnel!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","37","","Feryana Wilderness by Castle Stage Examine"
-"0","0","一度にたくさん育て過ぎて
-どれが爆発しそうか
-自分でも分からなくなってしまった","I ended up growing too many at once,
-and now I can't even tell which ones
-are on the verge of exploding.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","38","","Feryana Wilderness by Castle Stage Examine"
-"0","0","こうなってしまってはもう
-食い意地のはったカラスくんの
-勇気ある行動に期待したい","In this situation, I can only hope
-for brave actions from Mr. Crow,
-who's always hungry for food.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","39","","Feryana Wilderness by Castle Stage Examine"
-"0","0","「大砲は１日１時間！」","""Cannons can only be used for 1 hour a day!""","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","40","","Feryana Wilderness by Castle Stage Examine"
-"0","0","どうやらここが""自分の部屋""のようだ――","It looks like this is my ""personal room.""","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","41","","Feryana Wilderness by Castle Stage Examine"
-"0","0","《オオワラカミツキ》！？","""The Great Wyvern""!?","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","42","","Feryana Wilderness by Castle Stage Examine"
-"0","0","は、いないようだ","Seems like it's not here.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","43","","Feryana Wilderness by Castle Stage Examine"
-"0","0","ソネルの机のようだ――
-次はいったいどんな作戦を
-考えているのだろうか","Looks like Sonel's desk...
-I wonder what kind of strategy
-he is conjuring up next.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","44","","Feryana Wilderness by Castle Stage Examine"
-"0","0","今にも爆発しそうだ！","It's about to explode any moment!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","45","","Feryana Wilderness by Castle Stage Examine"
-"0","0","これは食べられそうだね！","This looks edible!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","46","","Feryana Wilderness by Castle Stage Examine"
-"0","0","無数の大砲の弾に紛れて
-何故かカボチャが置かれている","Mixed in with the countless cannonballs
-is a pumpkin for some reason.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","47","","Feryana Wilderness by Castle Stage Examine"
-"0","0","いったい何に使うのだろうか――","I wonder what they are used for...","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","48","","Feryana Wilderness by Castle Stage Examine"
-"0","0","大量の石像が積み上げられている――","A large number of stone statues are piled up...","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","49","","Feryana Wilderness by Castle Stage Examine"
-"0","0","どこから運んできたかも気になるが
-何に使うのかはもっと気になる","I'm curious about where it was transported from,
-but I'm even more curious
-about what it will be used for.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","50","","Feryana Wilderness by Castle Stage Examine"
-"0","0","真ん中の石像だけ粉々になっている","Only the middle statue is completely shattered.","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","51","","Feryana Wilderness by Castle Stage Examine"
-"0","0","ソネルはここで何をしているのだろうか――","I wonder what Sonel is doing here...","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","52","","Feryana Wilderness by Castle Stage Examine"
-"0","0","城外に張り巡らされた古井戸だ――","An old well that extends beyond the castle's
-perimeter...","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","53","","Feryana Wilderness by Castle Stage Examine"
-"0","0","絶え間なく増援が来る！ここは一時撤退！","Reinforcements keep coming!
-We should stage a temporary retreat from here!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","54","","Feryana Wilderness by Castle Stage Examine"
-"0","0","この先《大演習場》
-捕虜の檻が閉まっているか確認すること！　","Ahead is the ""Large Training Area.""
-Make sure the prisoner cages are closed!","ui\00_message\examine_message\stage\stage_examine_st0137.gmd","\stage\st0137\st0137.arc","st0137.arc","55","","Feryana Wilderness by Castle Stage Examine"
-"0","0","淀み濁った魂たちには
-すみやかな解放を――
-彼らの苦しみは、生者をも闇の世界へと
-引きずり込むだろう","To the stagnant and turbid souls,
-grant them swift liberation—
-for their suffering shall drag even the living
-into the world of darkness.","ui\00_message\examine_message\stage\stage_examine_st0141.gmd","\stage\st0141\st0141.arc","st0141.arc","0","","Forest of Mist Stage Examine"
-"0","0","レスタニアの地図がある","There is a map of Lestania.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","0","","The White Dragon Temple Stage Examine"
-"0","0","白衛騎士団の歴史は古く、白翼覚者隊が組織
-されるはるか以前の時代より竜を守り、
-大陸全土の治安維持に貢献してきた","The White Guard Knights have a long history, 
-protecting the dragon and maintaining peace 
-across the entire continent, long before the 
-formation of the White Wings Arisen Corps.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","1","","The White Dragon Temple Stage Examine"
-"0","0","騎士団の旧本拠地であるドリード城をはじめ、
-地下道、監視塔など団がかつて整備した遺構は
-今も数多く各地に残っている","Starting with their old headquarters, 
-Dreed Castle, many remnants of the order's 
-infrastructure, such as underground tunnels and 
-watchtowers, remain across 
-the land to this day.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","2","","The White Dragon Temple Stage Examine"
-"0","0","補給物資の目録、魔物の討伐録など
-がずらりと並んでいる","The shelves are filled with supply lists and 
-monster extermination records.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","3","","The White Dragon Temple Stage Examine"
-"0","0","様々な髪型のモデルが描かれている","Models showcasing different hairstyles are drawn.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","4","","The White Dragon Temple Stage Examine"
-"0","0","謎の礎は妖しい輝きを放っている","The mysterious stone emits an eerie glow.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","5","","The White Dragon Temple Stage Examine"
-"0","0","この部屋に入るには、ジュリアの紹介が必要なようだ","It seems you need Julia's introduction 
-to enter this room.","ui\00_message\examine_message\stage\stage_examine_st0200.gmd","\stage\st0200\st0200.arc","st0200.arc","6","","The White Dragon Temple Stage Examine"
-"0","0","パーティー中、クイックパーティ申請中は使用できません","This cannot be used when in a party 
-or during Quick Party registration.","ui\00_message\examine_message\stage\stage_examine_st0203.gmd","\stage\st0203\st0203.arc","st0203.arc","0","","Volden Mines Stage Examine"
-"0","0","（仮）部屋を出るとリーダー自室に行ったメンバーも
-退室させられます。","When you leave the room, any members in the 
-leader's private room will also be removed.","ui\00_message\examine_message\stage\stage_examine_st0211.gmd","\stage\st0211\st0211.arc","st0211.arc","0","","Arisen's Room Stage Examine"
-"0","0","この部屋に入るには、ジュリアの紹介が必要なようだ","It seems you need Julia's introduction 
-to enter this room.","ui\00_message\examine_message\stage\stage_examine_st0212.gmd","\stage\st0212\st0212.arc","st0212.arc","0","","Training Room Stage Examine"
-"0","0","魔法について書かれているらしい
-古い文献が並んでいる","It seems to be about magick.
-Ancient texts are lined up.","ui\00_message\examine_message\stage\stage_examine_st0308.gmd","\stage\st0308\st0308.arc","st0308.arc","0","","Lone House in the Forest Stage Examine"
-"0","0","""明日クリスティーヌに持って行くもの""
-と書かれたメモが大量に置かれている
-毎日のように祠に通っているようだ――","A large number of notes are left that say
-""Things to bring to Christine tomorrow.""
-It appears they go to the shrine every day.","ui\00_message\examine_message\stage\stage_examine_st0315.gmd","\stage\st0315\st0315.arc","st0315.arc","0","","Ivan's Lodge Stage Examine"
-"0","0","""すりきれた羊皮紙""","""Worn parchment""","ui\00_message\examine_message\stage\stage_examine_st0350.gmd","\stage\st0350\st0350.arc","st0350.arc","0","","Seaside Cellar Stage Examine"
-"0","0","――このブリアのどこかには
-見る者の目を奪う、１０００のサファイアに
-匹敵する美しい財宝が眠ると言われている","It is said that somewhere in Breya
-lies a beautiful treasure, one that
-can rival a thousand sapphires and
-captivate the eyes of all who behold it.","ui\00_message\examine_message\stage\stage_examine_st0350.gmd","\stage\st0350\st0350.arc","st0350.arc","1","","Seaside Cellar Stage Examine"
-"0","0","それを知った村の者は財宝へと手を伸ばし
-海神がその行いに、怒りにて報いた――","The villagers, having learned of this,
-sought the treasure, and the sea god
-avenged himself upon them in anger.","ui\00_message\examine_message\stage\stage_examine_st0350.gmd","\stage\st0350\st0350.arc","st0350.arc","2","","Seaside Cellar Stage Examine"
-"0","0","財宝のありかは村に伝わり
-そして海神の怒りもまた伝わった――","The tale of the treasure spread through the
-village, as did the story of the sea god's fury.","ui\00_message\examine_message\stage\stage_examine_st0350.gmd","\stage\st0350\st0350.arc","st0350.arc","3","","Seaside Cellar Stage Examine"
-"0","0","モルトバ灯台の守番は、代々退役した
-白衛騎士団員が務めることになっている","For generations, the watch of the Moltva
-Lighthouse has been held by retired members
-of the White Guard Knights.","ui\00_message\examine_message\stage\stage_examine_st0365.gmd","\stage\st0365\st0365.arc","st0365.arc","0","","Lighthouse Keeper's House Stage Examine"
-"0","0","その歴史は古く、神殿建造以前より
-継承されている","The history is old, dating back to before
-the construction of the temple.","ui\00_message\examine_message\stage\stage_examine_st0365.gmd","\stage\st0365\st0365.arc","st0365.arc","1","","Lighthouse Keeper's House Stage Examine"
-"0","0","だが、いくたびもの遠洋調査にも関わらず
-辿りつけたのは《竜の巣》のみである――","However, despite numerous oceanic surveys,
-only the ""Dragon's Nest"" has been reached.","ui\00_message\examine_message\stage\stage_examine_st0365.gmd","\stage\st0365\st0365.arc","st0365.arc","2","","Lighthouse Keeper's House Stage Examine"
-"0","0","""そこに崖がある限り""
-""ロープの結び方100選""
-""登山のススメ""
-""サイクロプスからの眺め　～中級編～""","""Wherever there is a cliff""
-""100 Rope Knots to Master""
-""Climbing Tips""
-""Cyclops' Perspective - Intermediate""","ui\00_message\examine_message\stage\stage_examine_st0373.gmd","\stage\st0373\st0373.arc","st0373.arc","0","","Lone House in the Valley Stage Examine"
-"0","0","など、偏ったテーマの本が積まれている","and other books with niche themes piled up.","ui\00_message\examine_message\stage\stage_examine_st0373.gmd","\stage\st0373\st0373.arc","st0373.arc","1","","Lone House in the Valley Stage Examine"
-"0","0","""グリッテン砦　記録史""","""Fort Gritten: A Recorded History""","ui\00_message\examine_message\stage\stage_examine_st0400.gmd","\stage\st0400\st0400.arc","st0400.arc","0","","Fort Gritten Stage Examine"
-"0","0","グリッテン砦はオーク勢力南下を防ぐため、
-防衛の要所として白竜神殿とほぼ同時期頃に
-着工された","Fort Gritten was constructed around the same time
-as the White Dragon Temple to prevent the southern
-advance of the Orc forces and serve as a key
-defensive position.","ui\00_message\examine_message\stage\stage_examine_st0400.gmd","\stage\st0400\st0400.arc","st0400.arc","1","","Fort Gritten Stage Examine"
-"0","0","現在の規模になるまで複数回に渡り拡張と
-補修が繰り返されているが、オーク勢力の
-増大に伴いその重要性はますます上がっている","Since then, it has undergone multiple expansions
-and repairs to reach its current scale, but with
-the growing Orc forces, its importance has only
-increased further.","ui\00_message\examine_message\stage\stage_examine_st0400.gmd","\stage\st0400\st0400.arc","st0400.arc","2","","Fort Gritten Stage Examine"
-"0","0","ハイデルを守る盾として、白翼覚者隊の
-一層の活躍が期待される","As the shield protecting Hidell, the White Wings 
-Arisen Corps is expected to further excel.","ui\00_message\examine_message\stage\stage_examine_st0400.gmd","\stage\st0400\st0400.arc","st0400.arc","3","","Fort Gritten Stage Examine"
-"0","0","グリッテン砦の正門は閉ざされている
-許可がなければ通行することはできない","The main gate of Fort Gritten is closed.
-You cannot pass without permission.","ui\00_message\examine_message\stage\stage_examine_st0400.gmd","\stage\st0400\st0400.arc","st0400.arc","4","","Fort Gritten Stage Examine"
-"0","0","オーク語だろうか、歪んだ文字らしきものと
-図が紙に記されている","A piece of paper with what appears to be 
-distorted text, possibly Orcish, and a
-diagram.","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","0","","Gardnox Fortress Stage Examine"
-"0","0","図からして、命の器とアークのようだ――","Looking at the diagram, it seems to depict the
-Vessel of Life and the Ark.","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","1","","Gardnox Fortress Stage Examine"
-"0","0","生々しい爪あとがいくつも内側に
-ついている――","There are several fresh nail marks on the inside...","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","2","","Gardnox Fortress Stage Examine"
-"0","0","""血濡れのメモ入り見取り図""","""Bloodstained Map with Notes""","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","3","","Gardnox Fortress Stage Examine"
-"0","0","砦の中枢は２つの大門で守られている
-侵入したとしても、門を突破せねば
-奥へ進むことは不可能だ","The center of the fortress is defended by 
-two grand gates. Even if you enter, 
-you cannot move deeper without breaking through.","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","4","","Gardnox Fortress Stage Examine"
-"0","0","どこかに開門用の装置が２台あるはずだ
-それぞれを起動できれば、門は開くだろう","There are likely two devices for opening 
-the gates hidden somewhere. Activating 
-both should allow the gates to open.","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","5","","Gardnox Fortress Stage Examine"
-"0","0","オークどもが遠征から戻って来る前に
-装置を見つけられれば、勝機はある","If we can find the devices before the 
-orcs return from their expedition, we 
-might have a chance.","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","6","","Gardnox Fortress Stage Examine"
-"0","0","無事でいてくれ――ミレイア","Stay safe—Mireia","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","7","","Gardnox Fortress Stage Examine"
-"0","0","扉には鍵がかかっている
-鍵には赤黒い錆びが浮いている――","The door has a lock on it. 
-Dark red rust is visible around the keyhole.","ui\00_message\examine_message\stage\stage_examine_st0402.gmd","\stage\st0402\st0402.arc","st0402.arc","8","","Gardnox Fortress Stage Examine"
-"0","0","""ドリード城の興り""","""The Foundation of Dreed Castle""","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","0","","Dreed Castle Stage Examine"
-"0","0","北の王都、そして禊の神殿を守る要所として
-白衛騎士団団長が王より預かり、レスタニア
-中部に築かれたのがドリード城である","To protect the northern royal capital and the 
-Temple of Purification, the leader of the 
-White Guard Knights was entrusted by the king to 
-establish Dreed Castle in central Lestania.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","1","","Dreed Castle Stage Examine"
-"0","0","ドリード城と各地を結ぶ中継地として
-騎士団駐屯地と監視塔も建設され機能している","As a relay point connecting Dreed Castle 
-to various locations, a knight garrison 
-and watchtowers have been built and are 
-functioning effectively.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","2","","Dreed Castle Stage Examine"
-"0","0","王都周辺はもちろんのこと、バートランド全域、
-ダウ、ハイデルにまで騎士団の護りは広がり
-永く治安の安定に寄与することであろう
-我らが白竜の翼が天にある限り","The knights' protection extends not only 
-around the royal capital but throughout 
-Betland, down to Dowe and Hidell, 
-contributing to the long-term stability 
-of public safety as long as our 
-White Dragon's wings are in the heavens.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","3","","Dreed Castle Stage Examine"
-"0","0","――第十四代城主　白衛騎士団団長アーデルベルト","— Fourteenth Lord of the Castle, 
-Commander of the White Guard Knights, Adelbert","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","4","","Dreed Castle Stage Examine"
-"0","0","""記録官の手記""","""Record Keeper's Notes""","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","5","","Dreed Castle Stage Examine"
-"0","0","ドリード城の牢には、レスタニア各地で
-捕えられた罪人、そして捕えられた魔物が
-収監されている","The dungeons of Dreed Castle hold
-captured criminals and monsters 
-from all over Lestania","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","6","","Dreed Castle Stage Examine"
-"0","0","罪人はともかく、あのような魔物を殺さず
-監獄に繋いでおくなど――恐ろしいことだ
-都から来るという兵装研究の術師団に引き渡す
-そうだが、一体何に使うのやら","Setting aside the sinners, it's horrifying 
-to have those monsters kept alive and 
-chained in a prison. They intend to 
-transfer them to the armed research 
-mages arriving from the capital, but 
-what will they be used for?","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","7","","Dreed Castle Stage Examine"
-"0","0","そして、宝物庫と地下礼拝堂には何か
-特別な品を納めることになったらしい
-どうやら、近々王都から届くらしいが
-是非見てみたいものだ","It seems that something special is to be 
-stored in the treasury and underground 
-chapel. Apparently, it will arrive from 
-the capital soon, and I would love to 
-see it for myself.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","8","","Dreed Castle Stage Examine"
-"0","0","""魔女と闇の術""","""Witchcraft and Dark Sorcery""","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","9","","Dreed Castle Stage Examine"
-"0","0","魔女――その存在は、実に忌むべきものである
-女性を中心としたソーサラーの一派であったとも
-それとは異なる冥界の存在とも噂されるが
-彼女らの正体ははっきりと解らない","Witches—such beings are truly to be 
-abhorred. They are rumored to be a 
-faction of sorceresses centered around 
-women, or perhaps beings from the 
-underworld, but their true nature remains 
-unclear.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","10","","Dreed Castle Stage Examine"
-"0","0","ひとつはっきりしていることは、その魔術には
-呪いの力が組み込まれていることだ
-人や魔物の魂を蝕み、影の兵として操り、そして
-己自身を不死者と同じくする闇の術――","One thing is certain: their magick is 
-infused with the power of curses. It 
-corrodes the souls of both humans and 
-monsters, controlling them as shadowy 
-warriors, and turns the user into 
-something akin to an immortal.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","11","","Dreed Castle Stage Examine"
-"0","0","魔術は闇の干渉を受ける危険が極めて高い
-プリーストとセージの術を公用化し、
-ソーサラーの魔術は今後縮小させるほうが良いだろう","The danger of magick being influenced by 
-dark forces is extremely high. It would 
-be better to make the arts of priests and 
-sages public, while gradually reducing 
-the use of sorcerers' magick from now on.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","12","","Dreed Castle Stage Examine"
-"0","0","ソーサラーの中に呪いにおぼれる者が生まれれば
-大きな災いにつながるのは間違いない――","Should a sorcerer succumb to the allure 
-of curses, it will inevitably lead to 
-great misfortune.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","13","","Dreed Castle Stage Examine"
-"0","0","""すりきれた革の手記""","""Worn-out Leather Journal""","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","14","","Dreed Castle Stage Examine"
-"0","0","白竜様が、まさかこんなことになるとは――
-王都からの連絡は途絶え、もはや北地の
-状況はまったく解らないらしい","It's hard to believe that the White Dragon 
-could bring about such events— 
-communication from the royal city has 
-stopped, leaving the state of the 
-northern regions entirely unknown.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","15","","Dreed Castle Stage Examine"
-"0","0","ハイデルの海岸に白竜様が墜ちたという情報が
-入り、慌ただしく騎士団全員が移動の準備を
-始めている","We've received word that the 
-White Dragon has fallen on 
-Hidell's coastline, causing 
-the entire Knights' Order to 
-swiftly begin preparations to move.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","16","","Dreed Castle Stage Examine"
-"0","0","ドリードの護りはごく少数になるようだが、
-これからどうなるのだろうか
-もし、そこを魔物の群れに襲われるような
-ことになれば――","It looks like there will be very few left 
-to protect Dreed. What will come next? 
-If a horde of monsters were to strike...","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","17","","Dreed Castle Stage Examine"
-"0","0","扉には鍵がかかっている
-<COL ffdc78>《ドリード城主の間》</COL>と記されている","The door is locked 
-marked as 
-<COL ffdc78>[The Lord's Chamber of Dreed Castle]</COL>","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","18","","Dreed Castle Stage Examine"
-"0","0","扉には鍵がかかっている
-プレートには<COL ffdc78>《宝物庫》</COL>と記されている","The door is locked 
-and the plate reads <COL ffdc78>[Treasury]</COL>","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","19","","Dreed Castle Stage Examine"
-"0","0","扉には大きな鍵がかかっている
-一般の鍵とは異なる
-特殊な<COL ffdc78>《監獄牢の鍵》</COL>が必要のようだ","A large lock secures the door, 
-distinct from a standard key. 
-It appears a special <COL ffdc78>[Dungeon Key]</COL> 
-is required.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","20","","Dreed Castle Stage Examine"
-"0","0","ものものしい鍵で封印されている
-扉にはうっすらと<COL ffdc78>《ドリード礼拝堂》</COL>と
-記されている","A formidable lock seals the door, 
-which is faintly labeled 
-<COL ffdc78>[Dreed Chapel]</COL>.","ui\00_message\examine_message\stage\stage_examine_st0403.gmd","\stage\st0403\st0403.arc","st0403.arc","21","","Dreed Castle Stage Examine"
-"0","0","""朽ちかけた手記""","""Decaying Notebook""","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","0","","Erte Deenan Stage Examine"
-"0","0","恐ろしい――
-金色の竜が現れる少し前、北の都に
-招待された同胞達はどうなってしまった
-というのだろう","It's dreadful—what fate has befallen 
-the brethren who were summoned 
-to the northern city right before 
-the golden dragon appeared?","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","1","","Erte Deenan Stage Examine"
-"0","0","なぜ、こうも便りがない？
-そしてあの竜――空を舞う黄金の影を
-見た時に感じた悪寒――","Why is there no news at all? 
-And that dragon—the chill I felt 
-when I saw the golden shadow 
-flying through the sky—","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","2","","Erte Deenan Stage Examine"
-"0","0","なぜだ、今も震えが止まらない
-心臓の奥が凍りつくような――","Why, I can't stop shaking even now.
-It's like ice deep in my heart...","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","3","","Erte Deenan Stage Examine"
-"0","0","エルテ・ディナンに残った僅かな者で
-力を合わせ、皆が戻るまでここを守らねば――","The few of us left in Erte Deenan must join 
-forces and protect this place 
-until everyone returns...","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","4","","Erte Deenan Stage Examine"
-"0","0","""エルフと人""","""Elves and Humans""","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","5","","Erte Deenan Stage Examine"
-"0","0","我々エルフより、人の一生ははるかに短いが
-それぞれの種にはおそらく、生きる時間に
-見合った役割があるのだろう","Though we elves live much longer than humans, 
-surely each species has its role 
-that fits its lifespan.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","6","","Erte Deenan Stage Examine"
-"0","0","人が長い時間をひとつの目で見られないのと
-同様に、我々は短い時間に起こりえる変化を
-素早く捉えることは難しい","Just as humans cannot perceive long spans 
-of time with a single glance, we find it 
-difficult to swiftly grasp the changes 
-that can occur in a short time.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","7","","Erte Deenan Stage Examine"
-"0","0","移ろう者と、とどまる者
-世の流れにはそのどちらもが等しく必要なのだ","The transient and the steadfast,
-both are equally necessary for the flow of the world.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","8","","Erte Deenan Stage Examine"
-"0","0","そして、白竜が選んだ者《覚者》こそ、その両方
-を備える次代の紡ぎ手と言えるだろう","Thus, the one chosen by the White Dragon, 
-the Arisen, can be called the next weaver 
-of both.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","9","","Erte Deenan Stage Examine"
-"0","0","""竜力と精""","""Dragon Force and Essence""","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","10","","Erte Deenan Stage Examine"
-"0","0","白竜のもたらす清廉なる霊的加護は、
-ディナンの森、そしてレスタニアの
-すみずみにまで満ちている","The divine protection of the
-White Dragon saturates the
-Deenan Forest and all of Lestania.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","11","","Erte Deenan Stage Examine"
-"0","0","この大地と白竜の間には、非常に密接かつ
-強固な生命力の繋がりが存在するのだろう","There is undoubtedly a deep and
-solid connection of life force
-between this land and the
-White Dragon.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","12","","Erte Deenan Stage Examine"
-"0","0","他のドラゴンとは異なる白竜という存在が、
-いかなる存在なのか――
-長い時を生きる我々も、その真なる答えには
-辿りついていない","What the White Dragon is, 
-different from other dragons—
-even we, who live for a 
-long time, have yet to reach
-that true answer.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","13","","Erte Deenan Stage Examine"
-"0","0","巨大な白い石扉がある
-表面にはうっすらと鍵穴らしき
-小さなくぼみが見える","A large white stone door looms.
-On its surface, a slight depression that 
-looks like a keyhole can be seen.","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","14","","Erte Deenan Stage Examine"
-"0","0","遺跡の入り口は鍵で閉ざされている
-鍵には<COL ffdc78>《蝶の刻印》</COL>が刻まれている","The entrance to the ruins is locked, 
-with the lock bearing the 
-<COL ffdc78>Butterfly Seal.</COL>","ui\00_message\examine_message\stage\stage_examine_st0404.gmd","\stage\st0404\st0404.arc","st0404.arc","15","","Erte Deenan Stage Examine"
-"0","0","""入山者への注意""","""Notice to Those Entering the Mountains""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","0","","Volden Large Tunnels Stage Examine"
-"0","0","岩盤は不安定な箇所が多く、坑道のいたる
-ところに岩詰まりがある","The bedrock is unstable in many areas,
-with rock obstructions throughout the tunnel.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","1","","Volden Large Tunnels Stage Examine"
-"0","0","地図に道があるにも関わらず坑道が
-見当たらない場合、近くにある
-火薬樽で発破するといい","If the map shows a path but the tunnel
-isn't visible, it's best to use nearby
-gunpowder barrels to blast through.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","2","","Volden Large Tunnels Stage Examine"
-"0","0","""ぼろぼろの手帳""","""Tattered Notebook""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","3","","Volden Large Tunnels Stage Examine"
-"0","0","鉱石床発見だ！！
-坑道内部はあらかた掘りつくされてて
-新しい鉱石はなかなか見つからなかった
-けど、ついに見つけたぞ！","Ore deposit discovered!!
-The tunnel was nearly cleared out,
-making new ore hard to find,
-but I finally spotted it!","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","4","","Volden Large Tunnels Stage Examine"
-"0","0","坑道のどんつきや崖の上なんかは
-まだざくざくの鉱石床が残ってる！
-まぁ、多少岩詰まりが多くて厄介だったり
-登りがキツイところもあるが―ー","The tunnel's end and the cliff tops
-still have rich beds of ore remaining!
-Sure, there are quite a few rockfalls
-and steep climbs, but...","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","5","","Volden Large Tunnels Stage Examine"
-"0","0","これで山ほど鉱石を持って帰って
-売りさばきゃ、ひと財産だぜ！
-手を滑らせないよう気をつけないとな","With a mountain of ore to take back
-and sell, I'll have a fortune!
-I need to watch my step, though.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","6","","Volden Large Tunnels Stage Examine"
-"0","0","忘れないように鉱床をメモして
-おこう――","I'll jot down the ore location
-to make sure I remember it.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","7","","Volden Large Tunnels Stage Examine"
-"0","0","""鉱員の手記""","""Notes of a Miner""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","8","","Volden Large Tunnels Stage Examine"
-"0","0","やった！！
-光り輝く鉱脈を発見したぞ！
-こんな美しい鉱床は初めてだ","We did it!
-We've found a shiny vein of ore!
-I've never seen such a beautiful deposit.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","9","","Volden Large Tunnels Stage Examine"
-"0","0","アメジストのように、だがもっと強く
-輝く紫色の輝く新鉱脈だ！","Like amethyst, but stronger.
-It's a shiny new vein of shining purple!","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","10","","Volden Large Tunnels Stage Examine"
-"0","0","よし、さっそく採掘してみよう
-採れたものを以下にメモする――","Alright, let's start mining right away.
-I'll note down what I collect below.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","11","","Volden Large Tunnels Stage Examine"
-"0","0","（メモは途中で途切れている）","(The notes are incomplete)","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","12","","Volden Large Tunnels Stage Examine"
-"0","0","""他の鉱員に宛てたメモ""","""A note for the other miners""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","13","","Volden Large Tunnels Stage Examine"
-"0","0","奥の大鉱床に向かうなら、左側の足場を
-道なりに進むのがいいだろう
-ルートは入り組み、迷いやすくなっている","To reach the large deposit ahead,
-stick to the left path as you go.
-The way is intricate and can lead to confusion.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","14","","Volden Large Tunnels Stage Examine"
-"0","0","""坑道の行き先分岐について""","""About the junctions in the tunnels""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","15","","Volden Large Tunnels Stage Examine"
-"0","0","右側　：奥の大鉱床へ
-中央　：掘削中
-左側　：鉱山西出口へ","Right: To the deep mine
-Center: Under excavation
-Left: To the western exit of the mine","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","16","","Volden Large Tunnels Stage Examine"
-"0","0","右側へ進む場合、目印の順路灯をたどること","When proceeding to the right, 
-follow the marked lights.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","17","","Volden Large Tunnels Stage Examine"
-"0","0","""鉱員への注意""","""Warnings for the miners""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","18","","Volden Large Tunnels Stage Examine"
-"0","0","奥の大鉱床へ行くならこの階段を上がり
-左の足場を迂回すること","If you're heading to the large ore deposit,
-climb these stairs and go around the left platform.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","19","","Volden Large Tunnels Stage Examine"
-"0","0","""鉱員への連絡""","""Message for the miners""","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","20","","Volden Large Tunnels Stage Examine"
-"0","0","ここがメインとなる大鉱床である
-また、体力に自信がある者は、左側の壁を
-伝い降りて最深部の掘削にも協力してほしい","This is the main large ore deposit.
-Those confident in their stamina should
-descend along the left wall to assist in
-excavating the deepest part.","ui\00_message\examine_message\stage\stage_examine_st0406.gmd","\stage\st0406\st0406.arc","st0406.arc","21","","Volden Large Tunnels Stage Examine"
-"0","0","滝に阻まれて、奥の扉に近づけない
-どこかで滝を止められるのだろうか――","The waterfall is blocking access to the
-door ahead. Is there a way to halt the
-waterfall somewhere?","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","0","","Temple of Purification Stage Examine"
-"0","0","水流制御室の鍵が見当たらない
-いったいどこへ行ってしまったのか――
-あれがなければ、水門の開閉ができない
-ではないか","I can't find the key to the water control room.
-Where could it have gone? Without it, I can't
-open or close the water gate.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","1","","Temple of Purification Stage Examine"
-"0","0","水門係が落としたのであれば、水路に
-落としてしまった可能性もある","If the sluice attendant dropped it, 
-it could be in the canal.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","2","","Temple of Purification Stage Examine"
-"0","0","仕方ない。神官長が戻られた時に予備の
-鍵をお借りするとしよう","It can't be helped. I'll borrow the spare key
-from the high priest when he returns.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","3","","Temple of Purification Stage Examine"
-"0","0","""神官長の日記""","""Chronicles of the High Priest""","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","4","","Temple of Purification Stage Examine"
-"0","0","あぁ、どうしたことだ――
-白竜神が墜ち――そして都が消えるなど","What has happened—
-The Divine White Dragon has fallen— 
-and the capital has disappeared.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","5","","Temple of Purification Stage Examine"
-"0","0","もはや我々もここを守る意味はない
-いそぎ白竜神のもとへ駆けつけ、そう、
-動けぬ白竜神のため、ハイデルに休息の場を
-ご用意しなければ","We no longer have a reason to guard this place. 
-We must hurry to the Divine White Dragon and, 
-yes, prepare a place of rest in Hidell for the 
-incapacitated White Dragon.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","6","","Temple of Purification Stage Examine"
-"0","0","我ら神官は白竜神と共にあり、傍にてお仕え
-することこそ本分
-新たな神殿を、今一度我々の手で――！","We, the priests, stand with the White Dragon, 
-serving at its side is our duty. 
-Once more, 
-we shall build a new temple with our hands—！","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","7","","Temple of Purification Stage Examine"
-"0","0","""禊の神殿　記録書""","""Records of the Temple of Purification""","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","8","","Temple of Purification Stage Examine"
-"0","0","白竜を称え、大いなる翼の休息場として
-建造されたのがこの神殿である","This temple was built to honor the White Dragon,
-serving as a resting place for its great wings.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","9","","Temple of Purification Stage Examine"
-"0","0","神殿はまた、王都や各地へセラー湖の水を
-制御し下ろす水門の役割も担っている","Additionally, the temple functions as a
-watergate that controls and channels
-the waters of Lake Cera to 
-the Royal Capital and beyond.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","10","","Temple of Purification Stage Examine"
-"0","0","そして、覚者として選ばれた者が
-身を清める儀式の場としても、この
-神殿は大きな意味を持っている","Additionally, the temple serves as an important
-venue for the purification rituals of those
-chosen as the Arisen.","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","11","","Temple of Purification Stage Examine"
-"0","0","扉には鍵がかかっている
-プレートには<COL ffdc78>《水流制御室》</COL>と記されている","The door is locked, 
-with a plate inscribed 
-<COL ffdc78>Flow Control Room.</COL>","ui\00_message\examine_message\stage\stage_examine_st0408.gmd","\stage\st0408\st0408.arc","st0408.arc","12","","Temple of Purification Stage Examine"
-"0","0","謎の礎は妖しい輝きを放っている
-白竜神殿の礎と呼応しているようだ――","The mysterious Portcrystal shines with a mystic 
-light, as if in harmony with the Portcrystal of 
-the White Dragon Temple...","ui\00_message\examine_message\stage\stage_examine_st0409.gmd","\stage\st0409\st0409.arc","st0409.arc","0","","The Golden Palace Stage Examine"
-"0","0","不思議な文様の刻まれた《礎》がある
-メルゴダに通じるものだろうか","There is a Portcrystal engraved with 
-strange patterns. 
-Perhaps it leads to Mergoda.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","0","","Mergoda Security District Stage Examine"
-"0","0","《礎》は光を失い、今は何の力も感じない","The light has faded from the Portcrystal, 
-leaving no trace of power behind.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","1","","Mergoda Security District Stage Examine"
-"0","0","""朽ちかけた手記""","""Decaying Notebook""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","2","","Mergoda Security District Stage Examine"
-"0","0","つい最近十分なエネルギー共有があり、
-巨人兵ゴリアテ量産のメドがたちそうだ","Recently, we have achieved sufficient 
-energy sharing, and it seems we are on track to 
-mass-produce the Giant Warrior Goliath.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","3","","Mergoda Security District Stage Examine"
-"0","0","これで、メルゴダの守りはより万全に
-なるだろう
-古いタイプの王宮巨人兵よりやや能力は
-劣るものの、扱いやすさは上がるはずだ","With this, the defenses of Mergoda will be
-even more robust. While their abilities may be
-slightly inferior to the old-style royal giants,
-they should be easier to handle.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","4","","Mergoda Security District Stage Examine"
-"0","0","そろそろ地下の失敗作としぼった残骸は
-処分しておかないとな","It's about time to dispose of the failed
-experiments and the remains we've squeezed
-down in the underground.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","5","","Mergoda Security District Stage Examine"
-"0","0","""錬金研究者の手記""","""Notes of an Alchemical Researcher""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","6","","Mergoda Security District Stage Examine"
-"0","0","溶命炉の起動は問題なく、ついに
-最終調整に入ることになりました","The molten furnace has started up without
-issues, and we are now moving on to the
-final adjustments.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","7","","Mergoda Security District Stage Examine"
-"0","0","しかし、ディアマンテス様はあの炉で
-何をなさるのでしょう
-――いや、それは私ごとき、いち錬金術師の
-考えの及ぶことではないのでしょうね","However, what is it that Diamantes intends 
-to do at that furnace? 
-—No, that is not something 
-a simple alchemist like me can comprehend.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","8","","Mergoda Security District Stage Examine"
-"0","0","あの方のことです
-きっと素晴らしい変革がもたさらされるに
-違いありません","It's about that esteemed figure; 
-without a doubt, a magnificent transformation 
-will be forthcoming.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","9","","Mergoda Security District Stage Examine"
-"0","0","本はぼろぼろに朽ちている――","The book is in tatters and crumbling...","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","10","","Mergoda Security District Stage Examine"
-"0","0","""消えかけた染み文字""","""Faded stained text""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","11","","Mergoda Security District Stage Examine"
-"0","0","――あぁ、どうしてわたし達が
-こんな事に
-人は、一体この実験で何を――","—Ah, why have we 
-come to this? 
-What is it that people 
-hope to achieve with this experiment?","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","12","","Mergoda Security District Stage Examine"
-"0","0","ディナンの皆よ――
-逃げてくれ――","People of Deenan— 
-Please, escape...","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","13","","Mergoda Security District Stage Examine"
-"0","0","""錬魔研究者のメモ""","""Alchemy Researcher's Memo""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","14","","Mergoda Security District Stage Examine"
-"0","0","門番となる錬魔を造り出すあの装置、
-造肉炉はもう少し小型化できないだろうか","Can that device for creating the 
-guard homunculus, the meat furnace, 
-be made a bit more compact?","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","15","","Mergoda Security District Stage Examine"
-"0","0","幅は取る、栄養を送る器具は要る、
-何より見た目の異様さ――
-王宮や家庭用に実用化するには課題が多い","It takes up space, requires 
-equipment to supply nutrients, 
-and above all, its strange appearance— 
-there are many challenges to 
-make it practical for the palace or homes.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","16","","Mergoda Security District Stage Examine"
-"0","0","だがまぁ、ここでの試験運用では成果も上々だ
-ディアマンテス様は溶命炉の件でお忙しい
-ようだが、成果は報告しておこう","However, the results of the trial operation 
-here have been quite good. 
-Master Diamantes appears to be busy 
-with the matter of the furnace, 
-but I should still report the successes.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","17","","Mergoda Security District Stage Examine"
-"0","0","""錬金研究生のノート""","""Alchemy Student's Notebook""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","18","","Mergoda Security District Stage Examine"
-"0","0","あぁ、ここは錬金術の粋にあふれている！
-あの方はまさにこの世界を変えようと
-しておられる天才だ！！","Ah, this place is full of alchemy!
-That man is truly a genius who is
-trying to change this world!","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","19","","Mergoda Security District Stage Examine"
-"0","0","ディアマンテス様万歳！！
-僕も誰より勉強して、あの方が認める
-ような新しい発明をしてみせるぞ！","Long live Diamantes!
-I will study harder than anyone else and come up 
-with new inventions that he would approve of!","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","20","","Mergoda Security District Stage Examine"
-"0","0","大扉は固く閉ざされている
-開く方法はあるのだろうか","The great door is tightly shut. 
-Is there a way to open it?","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","21","","Mergoda Security District Stage Examine"
-"0","0","""アイアス副所長の手記""","""Record of Ias, Deputy Director""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","22","","Mergoda Security District Stage Examine"
-"0","0","――ううむ、困ったものよ
-大扉を開けるには《錬金研究棟》の
-開閉装置を起動しなければならぬというに
-肝心の鍵を失うとは","—Hmm, this is troubling. 
-To open the grand door, one must activate 
-the switch in the Alchemical Research, 
-yet I've lost the crucial key.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","23","","Mergoda Security District Stage Examine"
-"0","0","落としたとすれば、おそらくあそこ――
-《軍事演習棟》にある
-新型巨人兵の格納庫であろう","If I dropped it, it's likely over there― 
-in the Barracks, 
-probably in the new Giant Warrior hangar.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","24","","Mergoda Security District Stage Examine"
-"0","0","仕方ない
-先に格納庫に立ち寄るとするか","There's no helping it. 
-I guess I'll head to the storage area first.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","25","","Mergoda Security District Stage Examine"
-"0","0","""破れた手帳""","""Torn Journal""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","26","","Mergoda Security District Stage Examine"
-"0","0","あぁ、造肉炉の研究担当に
-されなくて本当に助かった！","Ah, I'm so glad I wasn't 
-made responsible for the meat furnace research!","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","27","","Mergoda Security District Stage Examine"
-"0","0","あの肉の塊はぶよぶよして、まったく
-生理的に受け付けないったらない","That chunk of meat is so slimy, 
-it's completely repulsive to me!","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","28","","Mergoda Security District Stage Examine"
-"0","0","これで安心して巨人兵に搭載する
-新しい雷撃弾を研究できるというものだ
-もっと強化し、錬研のやつらを見返してやる","With this, I can safely work on 
-new thunder shells for the Giant Warriors. 
-I'll upgrade them and make those alchemists 
-see what I'm really made of!","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","29","","Mergoda Security District Stage Examine"
-"0","0","""汚れたノート""","""Dirty Notebook""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","30","","Mergoda Security District Stage Examine"
-"0","0","くっ――なんてことだ！
-アイアス副所長が新型巨人兵に
-踏み潰されただって――！？","Damn it—what a disaster! 
-Deputy Director Ias was crushed 
-by the new Giant Warrior—!?","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","31","","Mergoda Security District Stage Examine"
-"0","0","どうせまた、過剰なエリクシル投入で
-制御しきれなかったに違いない
-――威力増強しか見えぬ兵研の馬鹿どもめ！","It's probably because they 
-overloaded on elixirs again 
-—those fools in the weapons lab only see 
-the increase in power!","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","32","","Mergoda Security District Stage Examine"
-"0","0","だが、アイアス副所長が亡くなったなら
-次の副所長は一体誰になるんだ？
-もしや、俺も候補に――？","But if Deputy Director Ias has passed, 
-who will be the next in line? 
-Am I perhaps a candidate—?","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","33","","Mergoda Security District Stage Examine"
-"0","0","鍵がかかっている
-扉には<COL ffdc78>《錬金研究棟》</COL>と記されている","The door is locked. 
-The plaque reads: 
-<COL ffdc78>[Alchemical Research]</COL>.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","34","","Mergoda Security District Stage Examine"
-"0","0","鍵がかかっている
-扉には<COL ffdc78>《指導官室》</COL>と記されている","The door is locked. 
-The plaque reads: 
-<COL ffdc78>[Instructors Office]</COL>.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","35","","Mergoda Security District Stage Examine"
-"0","0","鍵がかかっている
-扉には<COL ffdc78>《特別研究区》</COL>と記されている","The door is locked. 
-The plaque reads: 
-<COL ffdc78>[Special Research]</COL>.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","36","","Mergoda Security District Stage Examine"
-"0","0","""軍事指導官の手帳""","""Military Commander's Notebook""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","37","","Mergoda Security District Stage Examine"
-"0","0","量産型巨人兵の製造は順調だ
-王宮の番兵ほどではないとはいえ、
-これで都周辺の守護には十分な兵力となるだろう","The production of mass-produced giant soldiers 
-is proceeding smoothly. While not on par with 
-the palace guards, this should provide 
-sufficient force to protect the city outskirts.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","38","","Mergoda Security District Stage Examine"
-"0","0","しかし、ディアマンテス様に反目する
-錬金術師一派には今後も注意する必要がある","Nonetheless, it will be necessary to remain 
-vigilant against the faction of alchemists 
-who oppose Lord Diamantes.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","39","","Mergoda Security District Stage Examine"
-"0","0","""朽ちかけた伝言板""","""Weathered Bulletin Board""","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","40","","Mergoda Security District Stage Examine"
-"0","0","この先はアイアス副所長が管理する
-《特別研究区》です","Beyond this point is the [Special Research Area] 
-managed by Deputy Director Ias.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","41","","Mergoda Security District Stage Examine"
-"0","0","大門の開閉担当者は
-副所長の許可証を必ず携帯ください","Those responsible for the main gate's 
-operation must always have the 
-Deputy Director's authorization on hand.","ui\00_message\examine_message\stage\stage_examine_st0411.gmd","\stage\st0411\st0411.arc","st0411.arc","42","","Mergoda Security District Stage Examine"
-"0","0","""ポーン郷の成立記録""","""Chronicles of Pawn Cathedral's Origins""","ui\00_message\examine_message\stage\stage_examine_st0412.gmd","\stage\st0412\st0412.arc","st0412.arc","0","","Pawn Cathedral Stage Examine"
-"0","0","ポーン郷はレスタニアにおいて、異界との
-接点を守るため建造された
-その成立は古く、異界より大勢のポーンを
-召喚し率いた旧時代の覚者が成したとされている","Pawn Cathedral was built in Lestania to 
-safeguard the connection with the 
-otherworld. Its origin is ancient, 
-credited to an old Arisen who summoned 
-and led many pawns from that world.","ui\00_message\examine_message\stage\stage_examine_st0412.gmd","\stage\st0412\st0412.arc","st0412.arc","1","","Pawn Cathedral Stage Examine"
-"0","0","ポーンの長により管理され続けてきたこの聖堂は、
-《異界の狭間》への入り口として現在も覚者に
-とって試練の場として機能している","The cathedral, under the Pawn Chief's care, 
-remains a trial ground for the Arisen, 
-acting as a gateway to [The Rift].","ui\00_message\examine_message\stage\stage_examine_st0412.gmd","\stage\st0412\st0412.arc","st0412.arc","2","","Pawn Cathedral Stage Examine"
-"0","0","だが覚者も、そしてここより来たるポーンすら、
-異界の狭間を越えた先がどこへ繋がるか
-知る者はいない","But neither the Arisen nor the pawns 
-who come from here know where 
-the paths beyond the rifts 
-of the otherworld lead.","ui\00_message\examine_message\stage\stage_examine_st0412.gmd","\stage\st0412\st0412.arc","st0412.arc","3","","Pawn Cathedral Stage Examine"
-"0","0","異界の扉は閉ざされている
-ポーンが消滅し《異界の狭間》に送られた
-時のみ、扉は開くようだ","The gate to the otherworld is closed. 
-The door opens only when a Pawn disappears, 
-transported to [The Rift].","ui\00_message\examine_message\stage\stage_examine_st0412.gmd","\stage\st0412\st0412.arc","st0412.arc","4","","Pawn Cathedral Stage Examine"
-"0","0","<COL ffdc78>《鉱泉の鍵・癒しの泉》</COL>は
-受付カウンターで好評販売中です！
-　　　　　～キノザ鉱泉支配人・ロイ～","<COL ffdc78>[Spring of Healing Key]</COL> 
-is now available at the reception counter! 
-―Kinoza Mineral Springs Manager, Roy","ui\00_message\examine_message\stage\stage_examine_st0414.gmd","\stage\st0414\st0414.arc","st0414.arc","0","","Kinoza Mineral Springs Stage Examine"
-"0","0","<COL ffdc78>《鉱泉の鍵・活力の泉》</COL>は
-受付カウンターで好評発売中です！
-　　　　　～キノザ鉱泉支配人・ロイ～","<COL ffdc78>[Spring of Vitality Key]</COL> 
-is now available at the reception counter! 
-―Kinoza Mineral Springs Manager, Roy","ui\00_message\examine_message\stage\stage_examine_st0414.gmd","\stage\st0414\st0414.arc","st0414.arc","1","","Kinoza Mineral Springs Stage Examine"
-"0","0","<COL ffdc78>《鉱泉の鍵・豊穣の泉》</COL>は
-受付カウンターで好評発売中です！
-　　　　　～キノザ鉱泉支配人・ロイ～","<COL ffdc78>[Spring of Abundance Key]</COL> 
-is now available at the reception counter! 
-―Kinoza Mineral Springs Manager, Roy","ui\00_message\examine_message\stage\stage_examine_st0414.gmd","\stage\st0414\st0414.arc","st0414.arc","2","","Kinoza Mineral Springs Stage Examine"
-"0","0","""メルゴダ上級士官の手記""","""Notes of the Mergoda Senior Officer""","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","0","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","ゴルゴラン王は最近、なにやら深く
-思慮されることが多いように思う","King Golgorran appears to have been 
-engaged in deep contemplation of late.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","1","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","ディアマンテス錬金術師長も
-大規模な研究をされているようだが、
-一体何が始まるのだろう","It looks like Chief Alchemist 
-Diamantes is undertaking a major study; 
-I wonder what will unfold.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","2","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","嫌な予感がする――
-思いすごしであればいいが","I have a bad feeling about this—
-I hope I'm just imagining things.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","3","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","そう言えば、エルテ・ディナンから
-の訪問団はまだ護政区なのだろうか","That reminds me, is the 
-visiting group from Erte Deenan still in 
-the Security District?","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","4","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","""錬金術の頂き""","""The Apex of Alchemy""","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","5","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","錬金術――この学問は人が万物の元素を
-理解し、論理により望む結果を導く道である","Alchemy—this discipline is the path by which 
-humans understand the elements of all things 
-and derive desired outcomes through logic.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","6","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","それは、自然に存在する要素に人為的な
-変化を与えることで、様々なもののありようが
-人の制御下に置かれることを意味する","This signifies that by imposing artificial 
-changes on naturally existing elements, 
-various aspects of existence 
-are brought under human control.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","7","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","智と論理により、世界の姿はいかようにも
-変えられるのである","By means of wisdom and logic, the world can 
-be transformed into any form imaginable.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","8","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","""白竜と大地の姿""","""The Form of the White Dragon and the Land""","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","9","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","白竜の竜力とレスタニアの大地には
-強いエネルギー的結びつきが認められる
-のは、広く知られる通りだ","It is widely known that there is a strong 
-energetic bond between the power of the 
-White Dragon and the land of Lestania.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","10","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","これまでになかった事だが、もし白竜が
-死に瀕するようなことがあれば、
-レスタニアにどのような異変がおこるのか","While this has never occurred, should the 
-White Dragon find itself near death, 
-what sort of anomalies would arise in Lestania?","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","11","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","荒れた大地となるのか、新たな竜が台頭
-するのか、それとも異界へ墜ちるのか――","Will it become a wasteland, 
-will a new dragon arise, 
-or will it plunge into the otherworld?...","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","12","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","人は錬金術により、知と力を得た
-いずれ起こるかもしれぬそういった
-事態に備え、手だてを準備する必要がある","Through alchemy, humanity has gained 
-knowledge and power, and we must prepare 
-measures for such eventualities that may 
-occur.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","13","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","複雑な図や式が書きこまれているが
-まったく読みとることができない","Complicated diagrams and expressions are written, 
-but you cannot decipher them.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","14","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","巨大な扉の向こうから言い知れぬ
-気配を感じる","An indescribable presence emanates 
-from beyond the giant door.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","15","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","扉には複雑な文様と、何かをはめ込む
-くぼみがある","The door has a complicated pattern and a
-recess for fitting something.","ui\00_message\examine_message\stage\stage_examine_st0418.gmd","\stage\st0418\st0418.arc","st0418.arc","16","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","扉は固く閉ざされており
-開きそうにない","The door is firmly shut.
-Unlikely to be opened.","ui\00_message\examine_message\stage\stage_examine_st0421.gmd","\stage\st0421\st0421.arc","st0421.arc","0","","Mergoda Ruins: Royal Palace Level Stage Examine"
-"0","0","謎の礎は妖しい輝きを放っている
-白竜神殿の礎と呼応しているようだ――","The mysterious Portcrystal shines with a mystic 
-light, as if in harmony with the Portcrystal of 
-the White Dragon Temple...","ui\00_message\examine_message\stage\stage_examine_st0422.gmd","\stage\st0422\st0422.arc","st0422.arc","0","","The Golden Palace Stage Examine"
-"0","0","何か仕掛けを解除する必要がありそうだ","It seems necessary to deactivate some mechanism.","ui\00_message\examine_message\stage\stage_examine_st0432.gmd","\stage\st0432\st0432.arc","st0432.arc","0","","Shadolean Great Temple Stage Examine"
-"0","0","解放に必要なクエストの進行を満たしていません。","You have not fulfilled the quest progress needed","ui\00_message\examine_message\stage\stage_examine_st0460.gmd","\stage\st0460\st0460.arc","st0460.arc","0","","Fortress City Megado: Residential Level Stage Examine"
-"0","0","現在この先通行止め","This path is currently off-limits.","ui\00_message\examine_message\stage\stage_examine_st0471.gmd","\stage\st0471\st0471.arc","st0471.arc","0","","Fortress City Megado: Residential Level Stage Examine"
-"0","0","現在この先通行止め","This path is currently off-limits.","ui\00_message\examine_message\stage\stage_examine_st0472.gmd","\stage\st0472\st0472.arc","st0472.arc","0","","Fortress City Megado: Residential Level Stage Examine"
-"0","0","我、悟ったり
-死こそ真なる救済――
-破滅と無こそ真の静寂――","I have come to understand 
-that death is the true salvation— 
-and ruin and nothingness bring true tranquility...","ui\00_message\examine_message\stage\stage_examine_st0507.gmd","\stage\st0507\st0507.arc","st0507.arc","0","","Dead Lord's Labyrinth Stage Examine"
-"0","0","あぁ、ナディア、すまない――
-もう君の元へ戻れそうにない","Oh, Nadia, forgive me— 
-I fear I can no longer come back to you","ui\00_message\examine_message\stage\stage_examine_st0507.gmd","\stage\st0507\st0507.arc","st0507.arc","1","","Dead Lord's Labyrinth Stage Examine"
-"0","0","だが、思った通りだった
-""黒い騎士""こそが呪われた秘宝の正体だ","But it was as I suspected. 
-The ""Black Knight"" is the cursed 
-treasure's true form.","ui\00_message\examine_message\stage\stage_examine_st0507.gmd","\stage\st0507\st0507.arc","st0507.arc","2","","Dead Lord's Labyrinth Stage Examine"
-"0","0","あの騎士の身体に同化した装具
-まさに秘宝というべき、
-見たこともない宝剣に宝弓――","The equipment fused with that knight's body 
-truly deserves to be called a treasure, 
-a sword and bow like none I've seen...","ui\00_message\examine_message\stage\stage_examine_st0507.gmd","\stage\st0507\st0507.arc","st0507.arc","3","","Dead Lord's Labyrinth Stage Examine"
-"0","0","だがああ、その騎士に破れた者は、
-呪われた秘宝に囚われた者は
-もはやここから出られない","Yet alas, those who have fallen to that knight, 
-Those ensnared by the cursed treasure 
-Can no longer escape from here.","ui\00_message\examine_message\stage\stage_examine_st0507.gmd","\stage\st0507\st0507.arc","st0507.arc","4","","Dead Lord's Labyrinth Stage Examine"
-"0","0","おそらく、俺も――","Perhaps, I too...","ui\00_message\examine_message\stage\stage_examine_st0507.gmd","\stage\st0507\st0507.arc","st0507.arc","5","","Dead Lord's Labyrinth Stage Examine"
-"0","0","ガラクタにしか見えないものが積んである","It appears to be nothing but debris piled high.","ui\00_message\examine_message\stage\stage_examine_st0510.gmd","\stage\st0510\st0510.arc","st0510.arc","0","","Hobolic Cave Stage Examine"
-"0","0","文字のようなものが書いてあるが
-まったく読みとることができない","There are markings that resemble letters,
-but I can't decipher them at all.","ui\00_message\examine_message\stage\stage_examine_st0510.gmd","\stage\st0510\st0510.arc","st0510.arc","1","","Hobolic Cave Stage Examine"
-"0","0","""岩に刻まれた文字""","""Inscription carved into the rock""","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","0","","Roaring Tide Cave Stage Examine"
-"0","0","――あぁ、そうだったのか
-１０００のサファイアに勝るブリアの財宝
-とは、このことだったのか――","Ah, so that's what it was.
-The treasure of Breya that surpasses
-a thousand sapphires—this is it.","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","1","","Roaring Tide Cave Stage Examine"
-"0","0","財宝を求め踏み入った者は
-ことごとく海竜の逆鱗に触れ命を落とす――","Anyone who enters seeking treasure
-falls victim to the sea dragon's wrath
-and lose their lives.","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","2","","Roaring Tide Cave Stage Examine"
-"0","0","財宝の伝説は、この滝を崇めるだけでなく
-ブリアを荒らす海賊を死へ導く罠だったのだ","The legend of the treasure not only reveres
-this waterfall but serves as a trap
-leading pirates who ravage Breya to their death.","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","3","","Roaring Tide Cave Stage Examine"
-"0","0","""かすれた文字""","""Faded text""","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","4","","Roaring Tide Cave Stage Examine"
-"0","0","海竜を退け、この部屋を訪れる者が
-もしいるとしたら――","Should anyone come to this chamber
-after driving away the sea dragon...","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","5","","Roaring Tide Cave Stage Examine"
-"0","0","どうかこの部屋の秘密は守ってくれないだろうか
-噂がさらに広まれば海賊たちは増え
-刺激された海竜がまた地上へ出ないとも限らない","I hope you can keep the secret of this room.
-If rumors spread further, more pirates will come,
-and there's no telling if the sea dragon will
-be provoked to rise again.","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","6","","Roaring Tide Cave Stage Examine"
-"0","0","俺の過ぎた好奇心のせいで、故郷が――
-ルフローが襲われたあの日のように――","Due to my overwhelming curiosity, my hometown—
-just as on the day Ruflow was assaulted—
-has been endangered.","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","7","","Roaring Tide Cave Stage Examine"
-"0","0","""消えかけた文字""","""Faint characters""","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","8","","Roaring Tide Cave Stage Examine"
-"0","0","宝への鍵は、奥の滝のそばに――","The key to the treasure lies by the waterfall
-in the back...","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","9","","Roaring Tide Cave Stage Examine"
-"0","0","かなり古い時代のものらしき
-黄金の装飾品やタペストリーがある
-しかし、あまりに重くて持ち帰れそうにない","There are golden ornaments and tapestries
-that seem to be from a long-ago time.
-However, they are too heavy to take back.","ui\00_message\examine_message\stage\stage_examine_st0513.gmd","\stage\st0513\st0513.arc","st0513.arc","10","","Roaring Tide Cave Stage Examine"
-"0","0","""蝶文様の手記""","""The butterfly-patterned manuscript""","ui\00_message\examine_message\stage\stage_examine_st0523.gmd","\stage\st0523\st0523.arc","st0523.arc","0","","Le Karvas Salto Stage Examine"
-"0","0","エルテ・ディナンと人の都には長く
-交流があり、両種は互いを尊重しつつ
-良い関係を維持しています","There has been a long exchange between Erte Deenan 
-and the human city, with both races
-respecting one another and maintaining a
-positive relationship.","ui\00_message\examine_message\stage\stage_examine_st0523.gmd","\stage\st0523\st0523.arc","st0523.arc","1","","Le Karvas Salto Stage Examine"
-"0","0","しかし、族長は懸念を抱いておられるよう
-確かに錬金術師達の自然を歪める研究は、この
-ところあまりに加速しています――","Yet, the chief appears to be worried.
-The alchemists' experiments that warp nature
-have been accelerating too rapidly recently.","ui\00_message\examine_message\stage\stage_examine_st0523.gmd","\stage\st0523\st0523.arc","st0523.arc","2","","Le Karvas Salto Stage Examine"
-"0","0","次期北都への訪問で、人と対話を持って
-彼らの考えと研究目的を確認できれば良いのですが","Hopefully, during the next visit to the
-northern capital, I can engage in
-dialogue with them and understand their
-thoughts and research objectives.","ui\00_message\examine_message\stage\stage_examine_st0523.gmd","\stage\st0523\st0523.arc","st0523.arc","3","","Le Karvas Salto Stage Examine"
-"0","0","""擦り切れた手帳""","""The worn-out notebook""","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","0","","Le Karvas Arma Stage Examine"
-"0","0","北の地で、一体何が起こったというのでしょう！
-白竜様が墜ち、大地が抉れ、人の都は滅んだと
-の話ですが、いずれも俄かに信じられぬこと","What has happened in the north? They say
-the white dragon fell, the land was
-ravaged, and the human city was destroyed,
-but I can hardly believe any of it.","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","1","","Le Karvas Arma Stage Examine"
-"0","0","森と地の活力の衰えを、私ですら感じるほど
-レスタニアは弱っています","I can sense the weakening vitality 
-of the forest and the land; 
-Lestania is faltering.","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","2","","Le Karvas Arma Stage Examine"
-"0","0","ああ、そして族長はまだお戻りになられぬまま――","Alas, the leader has not yet returned...","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","3","","Le Karvas Arma Stage Examine"
-"0","0","""蔦模様の手記""","""Vine-patterned notebook""","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","4","","Le Karvas Arma Stage Examine"
-"0","0","あぁ、オークや鬼人が都の中にまで――！
-このアーマを閉め切って、なんとか
-持ちこたえなければ――","Ah, orcs and monsters have reached 
-the city itself―! We have to shutter 
-this gate tightly and endure―","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","5","","Le Karvas Arma Stage Examine"
-"0","0","シリルフィーム達さえいれば、あのような
-魔物に踏み込まれることもなかったのに！","If only Sylphim and the rest were around, 
-those creatures wouldn't have 
-breached our defenses!","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","6","","Le Karvas Arma Stage Examine"
-"0","0","――嘆いても仕方ない――
-冷静に、残された私達にできることを
-考えなければ","There's no point in lamenting— 
-we must think calmly about 
-what we can do now.","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","7","","Le Karvas Arma Stage Examine"
-"0","0","""葉紋の手帳""","""Leaf-patterned notebook""","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","8","","Le Karvas Arma Stage Examine"
-"0","0","――あぁ、残された我らにはもはや
-絶望しかない","Alas, there is nothing left for us 
-but despair.","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","9","","Le Karvas Arma Stage Examine"
-"0","0","いや、絶望がまたも――訪れた","No, despair has come once more...","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","10","","Le Karvas Arma Stage Examine"
-"0","0","オークを何とか退けたというのに
-ごくわずかしか残らぬ我らの、最後の一人まで
-喰らおうというのか","Even though we've somehow driven away 
-the orcs, do they intend to devour 
-even the last of us who remain?","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","11","","Le Karvas Arma Stage Examine"
-"0","0","今残された我々に、あの蒼白い角竜を退ける
-だけの力は――","At this point, we have no strength left 
-to fend off that pale blue horned dragon.","ui\00_message\examine_message\stage\stage_examine_st0524.gmd","\stage\st0524\st0524.arc","st0524.arc","12","","Le Karvas Arma Stage Examine"
-"0","0","""破れかけたメモ""","""Tattered note""","ui\00_message\examine_message\stage\stage_examine_st0527.gmd","\stage\st0527\st0527.arc","st0527.arc","0","","Greenleaf Terrace Stage Examine"
-"0","0","この青い光はなんだ？
-円状の台座に乗ると1つ消えたが、降りると再び光る
-どうやら前の扉と関係しているようだが――","What is this blue light? 
-When I step on the circular pedestal, 
-one light disappears, but it shines again 
-when I step off. It seems related 
-to the previous door somehow.","ui\00_message\examine_message\stage\stage_examine_st0527.gmd","\stage\st0527\st0527.arc","st0527.arc","1","","Greenleaf Terrace Stage Examine"
-"0","0","ついに森民の遺跡を発見したと思ったのに
-こんなところで足止めを食うとは！
-だがせっかくだ。詳細に記録し、これがどんな仕掛け
-なのか解き明かそうと思う","I thought I had finally found 
-the forest people's ruins, but 
-I'm held up here! But this is 
-a great opportunity. I will 
-document everything and decipher 
-what kind of mechanism this is.","ui\00_message\examine_message\stage\stage_examine_st0527.gmd","\stage\st0527\st0527.arc","st0527.arc","2","","Greenleaf Terrace Stage Examine"
-"0","0","――ん？　なにかの唸り声が聞こえた
-早く扉を開けなければ、こんな小部屋で魔物に
-襲われたらどうしようもないな","Huh? I can hear a growl. I 
-better open the door fast; 
-if a monster attacks me 
-in this tiny room, I'll be 
-helpless.","ui\00_message\examine_message\stage\stage_examine_st0527.gmd","\stage\st0527\st0527.arc","st0527.arc","3","","Greenleaf Terrace Stage Examine"
-"0","0","扉はびくともしない
-こちら側からは開かないようだ","The door won't budge.
-It doesn't seem to open from this side.","ui\00_message\examine_message\stage\stage_examine_st0541.gmd","\stage\st0541\st0541.arc","st0541.arc","0","","Tel's Withered Well Stage Examine"
-"0","0","ポーンの救出に成功しました！","The pawn was successfully rescued!","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","0","","The Rift Stage Examine"
-"0","0","ポーンの救出に失敗しました――","Pawn rescue failed...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","1","","The Rift Stage Examine"
-"0","0","ポーンが復活しました！","The pawn has returned!","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","2","","The Rift Stage Examine"
-"0","0","""祭壇に宿った思念の声が聞こえる""","""Whispers of the essence residing in the altar""","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","3","","The Rift Stage Examine"
-"0","0","――異界の狭間、それはポーンが現れ
-そして帰す場所――","The Rift is the place where
-pawns come forth and return.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","4","","The Rift Stage Examine"
-"0","0","ポーンを求める覚者が訪れ、そしてまた
-ポーンを失いし覚者が戻る試練の場","It is a trial ground where Arisen seek pawns,
-and those who have lost their pawns return.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","5","","The Rift Stage Examine"
-"0","0","汝、戦徒を失いし者よ
-異界の奥《リムの淵辺》にて囚われた
-従者を己が手で連れ戻せ","You, who has lost your Myrmidon, 
-retrieve your captured follower 
-from the depths of the Other World, 
-at the Depths of the Rift, with your own hands.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","6","","The Rift Stage Examine"
-"0","0","""朽ち果てた覚者の思念が聞こえる""","""Echoes of a withered Arisen's consciousness are heard.""","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","7","","The Rift Stage Examine"
-"0","0","ああ、我が力及ばぬばかりに――
-無念だ――","Oh, how I lament my inability—
-Such a deep regret...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","8","","The Rift Stage Examine"
-"0","0","《復活力》が尽きたこの身には
-ポーンを呼び戻す力すら――","With my Revival Power depleted, 
-I do not even have the strength 
-to summon back my pawn.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","9","","The Rift Stage Examine"
-"0","0","""息絶えた覚者の思念の声が聞こえる""","""A voice of a fallen Arisen echoes here.""","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","10","","The Rift Stage Examine"
-"0","0","救われず、囚われたまま主を求め
-さまよう穢れしポーン達――","The cursed Pawns wander, seeking their master,
-never saved and forever trapped.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","11","","The Rift Stage Examine"
-"0","0","私がここで倒れれば
-私のポーンも、いつかはあのように――","Should I fall here, my Pawn will someday
-meet the same fate...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","12","","The Rift Stage Examine"
-"0","0","""動かなくなった覚者の思念の声が聞こえる""","""The thoughts of an unmoving Arisen echo—""","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","13","","The Rift Stage Examine"
-"0","0","ああ、私のポーンが呪縛に襲われ
-倒れる様を見続けることしかできないとは――","Ah, I can do nothing but witness my pawn
-fall to the curse...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","14","","The Rift Stage Examine"
-"0","0","もう一歩、もう一歩のところで――","Almost there, just one more step...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","15","","The Rift Stage Examine"
-"0","0","あぁ、覚者さま――
-どうしてわたしを――――","Oh, Arisen—
-Why did you...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","16","","The Rift Stage Examine"
-"0","0","覚者――、覚者――と――","Arisen—, 
-Arisen—and—","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","17","","The Rift Stage Examine"
-"0","0","主、わが、主――
-とこしえに、ともに――","Master, my, Master—
-together forever...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","18","","The Rift Stage Examine"
-"0","0","ボク――は、ますたぁのために
-ここで、ずっと――","I'm—I'm here for you, Master,
-Here, forever...","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","19","","The Rift Stage Examine"
-"0","0","――救いがほしい――
-でなければ――殺すまで","—I seek salvation—
-Otherwise—I will slay you.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","20","","The Rift Stage Examine"
-"0","0","我を助けまた命じてほしい――
-でなければ――ここで共に――","Help me and command me again—
-or else—together here—we'll be together again.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","21","","The Rift Stage Examine"
-"0","0","帰還させて――なるものか
-――ここがお前たちの終焉の地である","Send me back—never.
-—This is your place of demise.","ui\00_message\examine_message\stage\stage_examine_st0560.gmd","\stage\st0560\st0560.arc","st0560.arc","22","","The Rift Stage Examine"
-"0","0","深域を訪れし覚者よ――","Those who venture into the depths, Arisen...","ui\00_message\examine_message\stage\stage_examine_st0565.gmd","\stage\st0565\st0565.arc","st0565.arc","0","","The Rift's Inner Depths Stage Examine"
-"0","0","さらなる力を求むるのならば
-力を示し、証を得よ","If you desire more power,
-prove your strength and gain your mark.","ui\00_message\examine_message\stage\stage_examine_st0565.gmd","\stage\st0565\st0565.arc","st0565.arc","1","","The Rift's Inner Depths Stage Examine"
-"0","0","淀み荒ぶる竜力への道は
-我が二手の先に――","The path to the turbulent dragon's power
-lies beyond my two hands.","ui\00_message\examine_message\stage\stage_examine_st0565.gmd","\stage\st0565\st0565.arc","st0565.arc","2","","The Rift's Inner Depths Stage Examine"
-"0","0","""思念体のつぶやきが聞こえる――""","""You can hear the murmurs of the ethereal entity—""","ui\00_message\examine_message\stage\stage_examine_st0571.gmd","\stage\st0571\st0571.arc","st0571.arc","0","","The Third Ark Stage Examine"
-"0","0","美しく、豊かな時代","A time of beauty and abundance","ui\00_message\examine_message\stage\stage_examine_st0571.gmd","\stage\st0571\st0571.arc","st0571.arc","1","","The Third Ark Stage Examine"
-"0","0","命を使う者が現れた――
-最初は野生――
-そして家畜――","Those who take lives have emerged—
-starting with the wild—
-and then with livestock—","ui\00_message\examine_message\stage\stage_examine_st0571.gmd","\stage\st0571\st0571.arc","st0571.arc","2","","The Third Ark Stage Examine"
+﻿"0","MANDRAGORA_SPECIES_INFO_1","《<SPOT 931>》の傍にある、大きな滝に
+面した広場。地名の由来は滝に虹がかかる
+ことからという説の他に、色鮮やかな鳥達が
+辺りを舞うからだという説もある","A plaza facing a large waterfall beside
+<SPOT 931>.
+The origin of the name of the place is said
+to be the rainbow over the waterfall as well
+as the brightly colored birds dancing around
+the area.","ui\00_message\loading\loading_message_014.gmd","\ui\00_message\loading\loading_message_014.arc","loading_message_014.arc","3","","Loading Screen"
+"0","0","フィンダム大陸中部に広がる平原
+起伏が多いフィンダムにおいて、ファーラナ平原は
+なだらかで活用しやすい地形をしている
+また、他の地域と比較すると侵食の度合は
+緩やかなようで侵食魔の数も少ない","The Farana Plains, located in the central
+part of the Phindym continent,
+are characterized by gently rolling terrain,
+making them easy to utilize in the varied
+landscape of Phindym.
+Furthermore, compared to other regions,
+the level of corruption is relatively low,
+resulting in fewer corrupted creatures.","ui\00_message\loading\loading_message_015.gmd","\ui\00_message\loading\loading_message_015.arc","loading_message_015.arc","0","","Loading Screen"
+"0","0","ファーラナ平原に位置する戦士の村
+武勇を最も尊ぶ部族が住まい、住人たちは
+日々鍛錬と戦いに明け暮れている
+力に裏付けされてか、地理的な理由に寄るものか
+比較的侵食の影響を受けずに生活している","A village of warriors located in the
+Farana Plains.
+The inhabitants, who hold valor in the
+highest regard, spend their days immersed in
+training and battles.
+Whether supported by their strength or due to
+geographical reasons, they live relatively
+unaffected by corruption.","ui\00_message\loading\loading_message_015.gmd","\ui\00_message\loading\loading_message_015.arc","loading_message_015.arc","1","","Loading Screen"
+"0","0","かつてはフィンダム中から学者たちが集う学研の場で
+あった小塔。魔物の襲撃を受けて放棄されたのち
+ピクシーの大きな群れが移住した。位の高い
+ピクシーは高所を好むため、小塔の上階には群れ
+の長もしくは準ずる個体が生息していると思われる","A small tower in the midst of Phindym, where
+scholars gathered in the past.
+After being abandoned due to enemy raids,
+a large group of Pixies migrated there.
+Pixies of high rank prefer high places,
+so it is believed that the leader or
+a similar individual of the group resides on
+the upper floor of the tower.","ui\00_message\loading\loading_message_015.gmd","\ui\00_message\loading\loading_message_015.arc","loading_message_015.arc","2","","Loading Screen"
+"0","0","ファーラナ平原の川中に浮かぶ陸地
+周辺は水深が浅く、水没してはいるものの
+歩き回ることが可能。ただし、汚泥が流れ着く
+ことも多いらしく、不浄の魔物がさ迷っている
+こともある","A piece of land floating in the middle of the
+river in the Farana Plains.
+The surrounding waters are shallow,
+allowing for exploration on foot,
+despite periodic submersion.
+However, it appears that mud and debris often
+accumulate here, leading to the presence of
+foul creatures wandering about.","ui\00_message\loading\loading_message_015.gmd","\ui\00_message\loading\loading_message_015.arc","loading_message_015.arc","3","","Loading Screen"
+"0","0","《芯なる樹》の最深部
+侵食による影響が出るまでは、精霊竜との
+謁見などはこの場所で行われていた
+精霊竜の守りとして選ばれた者たちが控えていた
+集いの間と隣接している","The deepest part of the [Core Tree].
+Until the effects of corruption took hold,
+meetings with the Spirit Dragon were held in
+this location.
+Those chosen as guardians of the
+Spirit Dragon awaited in the adjacent
+Gathering Hall.","ui\00_message\loading\loading_message_015.gmd","\ui\00_message\loading\loading_message_015.arc","loading_message_015.arc","4","","Loading Screen"
+"0","0","精霊竜が棲む《始まりの洞》下層に位置する拠点
+精霊竜の守りをする者たちや訪れた人々が
+暫しの休息を得るための場となっている","Base camp located in the lower level of the
+Hollow of Beginnings,
+where the Spirit Dragon resides.
+It serves as a place for the protectors of
+the Spirit Dragon and for those who have
+visited to find temporary rest and respite.","ui\00_message\loading\loading_message_015.gmd","\ui\00_message\loading\loading_message_015.arc","loading_message_015.arc","5","","Loading Screen"
+"0","0","フィンダム随一の森林地帯
+樹木や草花、多様な獣といった森の恩恵を
+受けられるこの地の特性は、反面侵食の影響が
+最も色濃く発現する悲劇を招いた。生命力に
+溢れていた森は今や赤く立ち枯れている箇所が目立つ","The premier woodland region of Phindym,
+where one can enjoy the benefits of the
+forest, including trees, flowers,
+and a variety of animals.
+However, the characteristic of this land also
+brings about the tragic manifestation of the
+most intense corruption and infection.
+The once vibrant forest now stands with
+prominent red decay.","ui\00_message\loading\loading_message_016.gmd","\ui\00_message\loading\loading_message_016.arc","loading_message_016.arc","0","","Loading Screen"
+"0","0","モロー樹林にある、木々に囲まれた村
+代々精霊竜の守りをしてきた一族が住まう
+そのせいか理知的な者が多く、学者を多数
+輩出してきた。威厳ある族長・ガラダに
+よって統治されている","In the Morrow Forest,
+there is a village surrounded by trees,
+where a clan that has been guarding the
+Spirit Dragon for generations resides.
+Perhaps because of this,
+there are many intellectual individuals,
+and they have produced numerous scholars.
+They are ruled by the dignified chieftain,
+Gearóid.","ui\00_message\loading\loading_message_016.gmd","\ui\00_message\loading\loading_message_016.arc","loading_message_016.arc","1","","Loading Screen"
+"0","0","《ノーザナス侵林》入口のある崖の下に
+広がる平地。封鎖されている侵林に
+引き寄せられているのか、侵食が進んだ
+有翼の魔物たちがしきりにこの辺りを
+さまよう姿が確認されている","A flat area of land spreading out under the
+cliff where the entrance to the
+Northerners Infected Woods is located.
+It is confirmed that winged beasts,
+infected by corruption,
+are frequently wandering around this area.","ui\00_message\loading\loading_message_016.gmd","\ui\00_message\loading\loading_message_016.arc","loading_message_016.arc","2","","Loading Screen"
+"0","0","モロー樹林北部、特に侵食が進んだ一帯にある
+封鎖された森林。侵食前より森の強者が棲むとされ、
+人が迷いこむことが無いようにと封鎖されていた場所
+奥を確かめた者はいないが、凶暴な魔物が侵食された
+状態にあることは確実であり、危険度は高い","The sealed forest located in the northern
+part of Morrow Forest,
+where corruption has particularly advanced.
+It is said to be inhabited by powerful beings
+of the forest, and it was sealed off to
+prevent people from getting lost.
+No one has ventured deep inside,
+but it is certain that ferocious monsters
+have been infected.
+The level of danger is high.","ui\00_message\loading\loading_message_016.gmd","\ui\00_message\loading\loading_message_016.arc","loading_message_016.arc","3","","Loading Screen"
+"0","0","細長くうねった川と切り立った崖で構成された峡谷
+古代からの遺跡が多くのこる地域であり、文化的に
+重要な地帯である。この辺りに住む人々も、伝承や
+習慣などを重視した生活を送る傾向にある","An area composed of a narrow, winding river
+and steep cliffs, forming a gorge.
+It is a region with many ancient ruins
+remaining, making it culturally significant.
+The people living in this area tend to
+prioritize traditions and customs in their
+way of life.","ui\00_message\loading\loading_message_017.gmd","\ui\00_message\loading\loading_message_017.arc","loading_message_017.arc","0","","Loading Screen"
+"0","0","キンガル峡谷に位置する村
+近くに多数のこる遺跡や神殿などの古代文明に
+畏怖の念を抱き、古くからの伝統や伝承などを
+現在に伝え継いできた一族が住んでいる
+村の掟として、村人が遺跡に近づくことを禁じている","Village located in Kingal Canyon.
+Nearby are numerous ancient ruins and temples
+that belong to a long-lost civilization.
+The villagers, who have lived here since
+ancient times, hold a deep reverence for
+these sites and their traditions and legends.
+As a village rule, the villagers are
+forbidden from approaching the ruins.","ui\00_message\loading\loading_message_017.gmd","\ui\00_message\loading\loading_message_017.arc","loading_message_017.arc","1","","Loading Screen"
+"0","0","キンガル峡谷に悠然と佇む古代神殿
+数百年前に遺棄されたものの、当時満ち満ちていた
+竜力によって未だ壮麗な姿をそのままにしている
+遺棄された理由は、恐らく精霊竜自身が神殿よりも
+《芯なる樹》の傍にあることを好んだためだろう","Standing gracefully in the Kingal Canyon, the
+ancient temple remains magnificent, even
+after being abandoned hundreds of years ago.
+It still retains its grandeur, thanks to the
+Dragon Force that once thrived here.
+The reason for its abandonment was likely
+because the Spirit Dragon preferred to be
+near the [Core Tree] rather than the temple
+itself.","ui\00_message\loading\loading_message_017.gmd","\ui\00_message\loading\loading_message_017.arc","loading_message_017.arc","2","","Loading Screen"
+"0","0","元々はフィンダムの大地へ、そして竜のために季節
+ごとの舞踊が奉納されていた広場。侵食によって
+フィンダム全域での危険度が増したことでこれらの
+行事は中止され、以来本来の使い方をされることは
+無くなった","A square originally dedicated to seasonal
+dances dedicated to the dragon.
+Due to the increase in danger throughout
+Phindym caused by the Corruption,
+these events were canceled and have since
+ceased to be used for their original purpose.","ui\00_message\loading\loading_message_017.gmd","\ui\00_message\loading\loading_message_017.arc","loading_message_017.arc","3","","Loading Screen"
+"0","0","600年ほど前に建造された砦
+アッカー家が並み居る地方豪族を倒して
+大陸統一を果たした後に、対オーク用に強化されて
+現在に至る。長く役目を果たしていたが""悪しき竜""
+出現直後にオーク軍に占拠された","A fort that was built about 600 years ago.
+After the Acre family defeated the local
+feudal lords, they strengthened it to fend
+off the Orcs and it has remained that way to
+this day.
+It had served its purpose for a long time,
+but was occupied by the Orc army shortly
+after the appearance of the ""Evil Dragon.""","ui\00_message\loading\loading_message_018.gmd","\ui\00_message\loading\loading_message_018.arc","loading_message_018.arc","0","","Loading Screen"
+"0","0","解放軍が拠点として使っている小さな集落
+元はきこりが使っていたらしき空き家を中心に、
+逃げ延びた人たちがテントを張って暮らしているが
+いつオークに攻め込まれるかわからない状況にある","The small settlement used as a base by the
+Liberation Army.
+It originally consisted of vacant houses,
+seemingly once occupied by lumberjacks.
+Now, people who managed to escape have
+pitched tents and are living there,
+constantly facing the uncertainty of when
+they will be attacked by Orcs.","ui\00_message\loading\loading_message_018.gmd","\ui\00_message\loading\loading_message_018.arc","loading_message_018.arc","1","","Loading Screen"
+"0","0","翡翠湖を臨む、長くロスギル家が治める地方の中心地
+魔物が多い地帯ならではの重装家屋が見られる
+王族アッカー家から一帯の守護を任されてきた
+ロスギル家の末裔を長に頂き、忠誠心に篤い人々が
+暮らしている","Overlooking Emerald Lake, in the heart of
+a region long ruled by the Rothgill family.
+One can see the sturdy houses characteristic
+of this land abundant in enemies.
+Tasked with protecting the entire area by the
+noble Acre family, descendants of the
+Rothgill family serve as its leaders, with
+loyal and devoted individuals living here.","ui\00_message\loading\loading_message_018.gmd","\ui\00_message\loading\loading_message_018.arc","loading_message_018.arc","2","","Loading Screen"
+"0","0","かつては蛮族の地と呼ばれた南部地方に睨みを
+きかせる要衝として建造された
+アッカーシェラン大陸ではメガド離宮、王都メガドに
+次いで古い建造物。城主はアッカー家の当主だが
+実質的な管理者である""城番""は兵士が就くことが
+できる最高位とされている","In the southern region, which was once called
+the land of barbarians, a strategic point was
+built to intimidate the surrounding area.
+It is the third oldest structure in the
+Acre Selund continent, following the Megado
+Detached Palace and the Royal Capital Megado.
+While the lord of the Acre family is the
+castle owner, the ""Castle Sentinel"", who is
+the actual administrator, is considered the
+highest position that soldiers can hold.","ui\00_message\loading\loading_message_019.gmd","\ui\00_message\loading\loading_message_019.arc","loading_message_019.arc","0","","Loading Screen"
+"0","0","戦禍を逃れてきた人たちが、森の中で
+息を潜めるように、しかししたたかに支え合って
+暮らしている非常に小さな集落
+避難民の中に統率力に優れる者がいるらしく
+今のところ比較的安定した生活を送っている","A very small settlement where people who have
+escaped from the ravages of war live hidden
+in the forest.
+They support each other cunningly yet
+quietly, living together.
+Among the refugees, there seems to be someone
+with exceptional leadership skills,
+and they are currently leading a relatively
+stable life.","ui\00_message\loading\loading_message_019.gmd","\ui\00_message\loading\loading_message_019.arc","loading_message_019.arc","1","","Loading Screen"
+"0","0","アッカー家が南西方面からの敵を迎え撃つために
+建造した砦。""悪しき竜""が現れてからは魔軍の拠点
+として使われている。オークたちが西方で集めた
+食料や物資の集積場と考えられており、周辺には
+防衛点が点在している","The fortress built by the Acre family to fend
+off enemies from the southwest.
+It is now being used as a stronghold for the
+Demon Army since the appearance of the
+""Evil Dragon.""
+It is believed to be a gathering place for
+food and supplies collected by the Orcs in
+the west, and there are defense points
+scattered around.","ui\00_message\loading\loading_message_019.gmd","\ui\00_message\loading\loading_message_019.arc","loading_message_019.arc","2","","Loading Screen"
+"0","0","メガド周辺を警備する目的で使われる監視塔
+すでに地上階は魔軍により占拠されているが
+魔物たちは地下階の存在には気付かなかったようだ
+地下階には、メガド陥落の折に逃げ延びた兵士たちが
+救援を信じ、息を殺すように潜んでいる","A surveillance tower is used to secure the
+surroundings of Megado.
+The ground floors have already been occupied
+by the demon army, but it seems like they
+were unaware of the existence of the
+underground floors.
+Soldiers who managed to escape during the
+fall of Megado are hiding in the underground
+floors, holding their breath as they believe
+in the possibility of rescue.","ui\00_message\loading\loading_message_020.gmd","\ui\00_message\loading\loading_message_020.arc","loading_message_020.arc","0","","Loading Screen"
+"0","0","城塞都市メガドにて一般市民が住まう居住層
+メガド全体から見ると下層にあたり、大陸の人口の
+過半数が暮らしていた
+長きに渡り繁栄を誇っていたが、魔軍の急襲に
+よって蹂躙され、多くの住民が命を落とした","In the residential layer of
+Fortress City Megado,
+where ordinary citizens reside,
+it is known as the lower level and where over
+half of the continent's population lived.
+It had been prosperous for a long time,
+but it was devastated by a sudden attack from
+the Demon Army,
+and many residents lost their lives.","ui\00_message\loading\loading_message_020.gmd","\ui\00_message\loading\loading_message_020.arc","loading_message_020.arc","1","","Loading Screen"
+"0","0","霧の森の中にある焼け野原
+忌まわしい考えに取り付かれたある女が
+多数の犠牲者を洗脳し、自ら炎の中へと
+飛び込ませたという事件が起こった場所
+事件から何十年と経過しているが、未だに
+土は焼けたままであり草木も回復していない","A burnt field in the Forest of Mist.
+This is where a woman obsessed with
+abominable thoughts brainwashed numerous
+victims and forced them to jump into the
+flames themselves.
+Decades have passed since the incident,
+yet the soil remains burned and the grass and
+trees have not recovered.","ui\00_message\loading\loading_message_020.gmd","\ui\00_message\loading\loading_message_020.arc","loading_message_020.arc","2","","Loading Screen"
+"0","0","アッカーシェラン大陸の南部にアジトを構え
+定住しつつ活動するベルタ盗賊団とは異なり
+通称""北の盗賊""と呼ばれる彼らは、一定期間ごとに
+アジトを変えて活動している。その姿勢からも
+わかる通り、警戒心が強く、自らの存在を徹底的に
+隠す傾向にある","Unlike Bertha's Bandit Group,
+who have a stronghold in the southern part of
+Acre Selund,
+they are known as ""Northern Bandits"" and
+change their hideout at regular intervals.
+They are very cautious and tend to conceal
+their presence thoroughly,
+as can be seen from their attitude.","ui\00_message\loading\loading_message_021.gmd","\ui\00_message\loading\loading_message_021.arc","loading_message_021.arc","0","","Loading Screen"
+"0","0","《聖炎の参竜道》へと続く扉の前に
+急きょ設営された野営地。厳しいウルテカ山岳の
+環境に負けず、宿やよろず屋といった覚者隊のための
+設備を維持すべく、王家に仕える兵のみならず
+盗賊も手を貸している","In front of the door leading to the
+""Sacred Flame Path,"" a temporary camp has
+been hastily set up.
+Despite the harsh environment of the Urteca
+Mountains, the facilities for the
+Arisen Corps, such as inns and general shops,
+are being maintained not only by the soldiers
+serving the royal family,
+but also with the help of bandits.","ui\00_message\loading\loading_message_021.gmd","\ui\00_message\loading\loading_message_021.arc","loading_message_021.arc","1","","Loading Screen"
+"0","0","本来はアッカーシェランを統べる火竜が休息を
+取るための場であり、聖なる場所と目されていたが
+今は悪しき竜が成り変わるかのようにねぐらとして
+いる。火垂れ山の中でも最も多くの竜力が
+集まる場とみなされている","Originally, it was a place for the
+Fire Dragon, who ruled over Acre Selund,
+to rest and was considered a holy place.
+Now it serves as a den for the Evil Dragon,
+transforming it.
+It is considered the place where the most
+Dragon Force gathers within
+Firefall Mountain.","ui\00_message\loading\loading_message_021.gmd","\ui\00_message\loading\loading_message_021.arc","loading_message_021.arc","2","","Loading Screen"
+"0","0","戦徒リュカによって導かれた先の島の入り江
+空には常に暗雲が厚く漂い、島の位置はおろか
+現在の時間すら推し量ることができない
+岩場の険しさや荒れ果てた様子から、生者が
+居ないことだけは確かなようだ","Led by the Myrmidon Luca,
+we arrive at an inlet on the remote island.
+The sky is always filled with thick dark
+clouds, so much so that it is impossible to
+even determine the current time.
+The treacherous cliffs and desolate
+appearance suggest that there are no living
+beings present.","ui\00_message\loading\loading_message_024.gmd","\ui\00_message\loading\loading_message_024.arc","loading_message_024.arc","0","","Loading Screen"
+"0","0","産まれたばかりのマンドラゴラ
+頭部は柔らかく様々な植物の種が付着しており
+吸収する養分によって異なる植物が発芽する
+同様に個体の性格や特性も変化することがあり
+養分と進化の関係は未だ未解明の部分が多い","Newborn Mandragora have soft heads with seeds of
+various plants attached to them.
+Different plants germinate depending on the
+nutrients they absorb.
+Similarly, individual personalities and
+characteristics can change.
+The relationship between nutrients and evolution
+remains largely unresolved.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","0","","Mandragora Info"
+"1","MANDRAGORA_SPECIES_INFO_2","最も基本的な成長を遂げたマンドラゴラ
+古代文献によると祖先は危険性の高い植物
+だったが、古代人が長い年月と多くの犠牲を
+払い改良した結果、狂気の叫喚と引き換えに
+活動的な手足と人懐こさを得たのだという","Mandragora in its most basic growth.
+Ancient literature says that its ancestors were
+highly dangerous plants, but that the ancients
+improved them over time and with much sacrifice,
+and that they gained active limbs and friendliness
+in exchange for their crazy screams!","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","1","","Mandragora Info"
+"2","MANDRAGORA_SPECIES_INFO_3","栄養の偏りにより
+花を咲かせず成長したマンドラゴラ
+この生育状態の個体は丈夫で世話もしやすく
+エランの村では親が子供の遊び相手として
+与えることも多かったという","Mandragoras that have grown without flowering due
+to nutritional imbalances are hardy and easy to
+care for in this state of growth.
+In the village of Elan, parents often gave them
+to their children as playmates.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","2","","Mandragora Info"
+"3","MANDRAGORA_SPECIES_INFO_4","固有種の花を咲かせたマンドラゴラ
+フィンダムの大地を離れた場所で成長すると
+本来の花色である白が強く発色される
+かつてエランにいたマンドラゴラ愛好家たちは
+この状態から様々な花色の栽培を始めていた","Mandragora that bloomed the unique species
+specific to Phindym.
+Blossoms with its true color, white, intensified
+when grown in a place away from the earth of
+Phindym.
+Mandragora enthusiasts who once resided in Elan
+began cultivating various colors starting from
+this state.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","3","","Mandragora Info"
+"4","MANDRAGORA_SPECIES_INFO_5","フィンダム固有種の花を咲かせたマンドラゴラ
+野生のマンドラゴラは、大地に染み込んだ
+""芯なる樹""の樹液により青い花が
+咲きやすいが、原生地以外の土地で
+育った個体に青色の花が咲くことは非常に稀","Mandragora that bloomed the flower unique to
+Phindym.
+The wild Mandragora, soaked in the essence of the
+[Core Tree] embedded in the earth, tends to
+produce blue flowers.
+However, it is extremely rare for individuals
+grown outside of their native land to bloom blue
+flowers.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","4","","Mandragora Info"
+"5","MANDRAGORA_SPECIES_INFO_6","フィンダム固有種の花を咲かせたマンドラゴラ
+マンドラゴラの赤い花は、恋の花として知られ
+フィンダムの若者たちの間で特に人気があった
+赤色の花は自然界にはほぼ存在しないため
+養根家というブリーダーにより栽培されている","Mandragora that bloomed the unique species
+specific to Phindym.
+The red flower of the Mandragora is known as the
+flower of love, and it was particularly popular
+among the young people of Phindym.
+As red-colored flowers are almost non-existent in
+nature, they are cultivated by a breeder called
+the Mandragora Root Master.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","5","","Mandragora Info"
+"6","MANDRAGORA_SPECIES_INFO_7","フィンダム固有種の花を咲かせたマンドラゴラ
+追肥の微かな偏りによって咲くことが多い
+一部の地域では黄色は陽の加護色とされ
+本種を飼ったり黄マンドラフラワーを髪飾りに
+するなどの、お守り植物として愛されていた","The Mandragora, a unique species only found in
+Phindym, often blooms due to subtle variations in
+its fertilization.
+In some regions, yellow is considered a color
+that represents the blessings of the sun.
+People have cherished this species as a
+protective plant, keeping them as pets or adorning
+their hair with Yellow Mandragora Flowers.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","6","","Mandragora Info"
+"7","MANDRAGORA_SPECIES_INFO_8","フィンダム固有種の花を咲かせたマンドラゴラ
+花としては育ちきっているため、この段階から
+花色が変化する可能性は無いとされる
+フィンダムでの価値は低いが、白竜の治める
+レスタニアにおいては最も注目度が高い","Mandragora that bloomed the unique species
+specific to Phindym.
+Since it has fully grown as a flower, there will
+be no chance for the color to change from this
+stage.
+Although its value in Phindym is low, it is
+highly regarded in Lestania, where the White
+Dragon reigns.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","7","","Mandragora Info"
+"8","MANDRAGORA_SPECIES_INFO_9","フィンダム固有種の花が群生したマンドラゴラ
+マンドラゴラの花の青色はフィンドブルーと
+呼ばれ、格別に重宝されていた
+""芯なる樹""の特に濃厚な樹液を吸収した
+個体のみが、青く美しい花を群生させる","Mandragora with clusters of flowers endemic to
+Phindym.
+The blue color of mandragora flowers is called
+Phindymian Blue and is exceptionally valued.
+Only individuals that have absorbed the
+particularly thick sap of the [Core Tree] produce
+beautiful blue flowers in clusters.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","8","","Mandragora Info"
+"9","MANDRAGORA_SPECIES_INFO_10","フィンダム固有種の花が群生したマンドラゴラ
+養分豊富でなければ進化の難しい希少種
+婚前の娘の家でマンドラゴラがこの種に
+進化すると、精霊の祝福を受けたことになり
+一族は末永く幸福を得るという","Mandragora with clusters of flowers endemic to
+Phindym.
+It is a rare species that requires rich nutrients
+in order to evolve.
+If a Mandragora evolves in the house of a
+daughter before marriage, it is said that the
+family will receive the blessings of the spirits
+and will prosper and be happy for generations to
+come.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","9","","Mandragora Info"
+"10","MANDRAGORA_SPECIES_INFO_11","フィンダム固有種の花が群生したマンドラゴラ
+有機成分の多い土で進化することの多い種
+黄花はモスが集まるため、衣類素材には適さず
+粗悪な養根家が誤って進化させた本種を
+エラン水林に大量遺棄する事件もあった","Mandragora with clusters of flowers endemic to
+Phindym.
+Often evolves in soil rich in organic compounds.
+The yellow flowers do not suit clothing materials
+as they attract moths.
+There have been incidents where careless planters
+mistakenly caused the mass abandonment of this
+species, which evolved by accident in the Elan
+Water Grove.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","10","","Mandragora Info"
+"11","MANDRAGORA_SPECIES_INFO_12","フィンダム固有種の花が群生したマンドラゴラ
+マンドラゴラフラワー属の最成長した姿で
+花が枯れると、根部に新たな種が４つ作られる
+古い種の落ちる瞬間を見ると眼病を患うという
+伝承もあるが実際は不気味なだけで無害である","Mandragora with clusters of flowers endemic to
+Phindym.
+Forms a dense cluster of flowers.
+When the flowers wither, four new seeds are
+produced in the roots.
+According to legend, those who witness the moment
+the old seeds fall will suffer from eye disease,
+but in reality, they are just eerie and harmless.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","11","","Mandragora Info"
+"12","MANDRAGORA_SPECIES_INFO_13","胞子が付着し、キノコを成したマンドラゴラ
+マンドラゴラの頭皮はクッション状で厚く
+侵食胞子の根が脳まで届くことはない
+菌を青く発色させるための肥料は希少なため
+同系種の中でも特に価値が高い","Mandragora that became a mushroom by attachment
+of spores.
+The scalp of the Mandragora is thick and
+cushion-like, the corruptive roots of the
+infecting spores will not reach the brain.
+Fertilizers that make the fungus turn blue are
+rare.
+Thus, the species is particularly valuable.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","12","","Mandragora Info"
+"13","MANDRAGORA_SPECIES_INFO_14","胞子が付着し、キノコを成したマンドラゴラ
+キノコ部分は猛毒が含まれているが
+適切に処理することで、精力剤の原料にもなる
+鮮やかな赤い傘は、観賞用として残す愛好家も
+いるが、多くの場合は切り取って処分される","Mandragora that became a mushroom by attachment
+of spores.
+Although the mushroom part contains a deadly
+poison, it can also be used as an ingredient for
+aphrodisiacs if handled properly.
+Vibrant red caps are often kept for ornamental
+purposes by enthusiasts, but in most cases they
+are cut off and disposed of.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","13","","Mandragora Info"
+"14","MANDRAGORA_SPECIES_INFO_15","胞子が付着し、キノコを成したマンドラゴラ
+キノコ部分には、強力な幻覚作用があり
+病気などの鎮痛用ハーブに混ぜて使用される
+比較的容易に育てられるため
+狩りで使用する毒餌に入れることもある","Mandragora that became a mushroom by attachment
+of spores.
+Has a potent hallucinogenic effect.
+It is mixed with herbs used for pain relief in
+diseases and is relatively easy to cultivate.
+It is also sometimes used as a poisonous bait for
+hunting.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","14","","Mandragora Info"
+"15","MANDRAGORA_SPECIES_INFO_16","胞子が付着し、キノコを成したマンドラゴラ
+モスの幼虫にキノコが寄生したものは
+滋養強壮に良いハーブとして重宝されているが
+生きたマンドラゴラに寄生することもある
+与えた肥料の成分はキノコ部分に蓄えられる","Mandragora that became a mushroom by attachment
+of spores.
+One where the mushroom parasitizes the moss larva.
+It is highly valued as a herb for nourishing and
+fortifying the body.
+It can also parasitize a living Mandragora.
+The nutrients from the fertilizer are accumulated
+in the mushroom part.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","15","","Mandragora Info"
+"16","MANDRAGORA_SPECIES_INFO_17","侵食胞子によるキノコが群生したマンドラゴラ
+フィンダーエントの足元で発生することが
+観測されており、成長には樹液が関係している
+凝縮された竜力とエランの天然水成分は
+生物が摂取するには強過ぎるため、毒である","Mandragora with clusters of mushrooms caused by
+invasive spores.
+Have been observed growing at the feet of
+Phindymian Ents.
+The growth is related to the sap.
+The condensed power of dragons and the natural
+water components of Elan, if consumed by living
+beings, are too powerful and thus poisonous.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","16","","Mandragora Info"
+"17","MANDRAGORA_SPECIES_INFO_18","侵食胞子によるキノコが群生したマンドラゴラ
+赤いキノコは""ゲキリンタケ""と呼ばれており
+竜の逆鱗のように触れてはいけないものとされ
+素手で触れば燃えるような痛みに襲われる
+地温の高い、火山地帯に発生しやすいという","Mandragora with clusters of mushrooms caused by
+invasive spores.
+The red mushrooms are known as ""Gekirintake"" and
+are said to be forbidden, like touching a dragon's
+scale.
+If touched barehanded, they cause a burning pain.
+It is said that they are more likely to appear in
+volcanic areas with high ground temperature.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","17","","Mandragora Info"
+"18","MANDRAGORA_SPECIES_INFO_19","侵食胞子によるキノコが群生したマンドラゴラ
+頭部のキノコは、水浴び場や調理場にも発生し
+フィンダムの一般家庭では駆除対象である
+基本的な養分さえあればどこでも育つため
+マンドラゴラ栽培により収穫されることが多い","Mandragora with clusters of mushrooms caused by
+invasive spores.
+These mushrooms can also grow in bathing areas
+and kitchens, making them a target for eradication
+in ordinary households. They can thrive anywhere
+as long as the basic nutrients are available,
+which is why they are often harvested through
+Mandragora cultivation.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","18","","Mandragora Info"
+"19","MANDRAGORA_SPECIES_INFO_20","侵食胞子によるキノコが群生したマンドラゴラ
+マンドラゴラの頭皮は菌の温床にもなりやすく
+その性質を利用したキノコ栽培法も存在する
+マンドラゴラキノコを上手く群生させるには、
+豊富な原菌と十分な湿度が不可欠である","Mandragora with clusters of mushrooms caused by
+invasive spores.
+The scalp of the Mandragora easily becomes a
+breeding ground for fungi, and there are
+cultivation methods that exploit this
+characteristic.
+To successfully cultivate a group of Mandragora
+mushrooms, abundant mycelium and sufficient
+humidity are essential.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","19","","Mandragora Info"
+"20","MANDRAGORA_SPECIES_INFO_21","固有種の花を咲かせたマンドラゴラ
+マンドラフラワーの発色は、肥料から吸収する
+色素の他に土壌の状態にも左右される
+無機・有機成分のバランスを保つことで
+珍しい色の花を発見しやすいという","Mandragora with endemic flowers.
+Absorbs pigment not only from fertilizers but
+also from the condition of the soil.
+By maintaining a balance of inorganic and organic
+components, it becomes easier to discover flowers
+of rare colors.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","20","","Mandragora Info"
+"21","MANDRAGORA_SPECIES_INFO_22","固有種の花を群生させたマンドラゴラ
+マンドラフラワーの色変化は非常に繊細で
+マンドラブーケ種の全ての花を均一な色味に
+育てることは難しく、特に紫など非原色系の
+花は色がぶれやすいため高い技術が必要である","Mandragora with endemic flowers growing in
+clusters.
+The color variation of Mandra Flowers is
+extremely delicate.
+It is difficult to raise all the flowers of the
+Mandra Bouquet species to a uniform color,
+especially non-primary colors like purple, as the
+color easily becomes blurred, requiring high skill
+and expertise.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","21","","Mandragora Info"
+"22","MANDRAGORA_SPECIES_INFO_23","異国の落葉樹が生えたマンドラゴラ
+雑多な種子らの中から芽生えた異国の苗木は
+種子から推定すると花を持つ落葉樹と思われる
+この樹木は豊富な有機肥料と無機肥料そして
+時折の水分補給によって美しく開花するという","Mandragora with an exotic deciduous tree
+sprouting from a miscellany of seeds.
+The exotic sapling appears to be a flowering
+deciduous tree based on the seeds.
+The tree blooms beautifully with abundant organic
+and inorganic fertilizer and occasional hydration.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","22","","Mandragora Info"
+"23","MANDRAGORA_SPECIES_INFO_24","異国の樹花を咲かせたマンドラゴラ
+花芽の生育期には水を豊富に与え、邪魔な枝を
+剪定することで満開の花を咲かせることできる
+この樹花を持つマンドラゴラはその花や香りで
+周囲の生き物の心を和ませ、穏やかにする","Mandragora with exotic tree blossoms.
+The flowering buds can be watered abundantly
+during the growing season and pruned out of the
+way to allow for full bloom.
+Mandragora with these blossoms will soothe and
+calm surrounding creatures with its flowers and
+scent.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","23","","Mandragora Info"
+"24","MANDRAGORA_SPECIES_INFO_25","異国の樹花が満開に咲いたマンドラゴラ
+この樹花の花弁が散る姿は異国情緒があり
+一部の愛好家たちに絶大な支持を得ている
+花を同時に満開にさせるには
+観賞できる期間も短いため非常に価値が高い","Mandragora with exotic tree flowers in full bloom
+The petals of this tree flower falling is exotic.
+It has a huge following among some enthusiasts.
+Is very valuable because of the short time it can
+be viewed with the flowers in full bloom at the
+same time.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","24","","Mandragora Info"
+"25","MANDRAGORA_SPECIES_INFO_26","侵食キノコを成したマンドラゴラ
+怪しく艶やかなその傘は、しばしば暗闇で
+人々を驚かせるため""ゴーストマッシュ""とも
+呼ばれているが、生態には特筆すべき点は無く
+染めたい色の色素を集中して与えればよい","Mandragora forming an invasive mushroom.
+Its suspiciously glossy umbrella often startles
+people in the dark, hence the name ""ghost
+mushroom"", but there is nothing special about its
+ecology.
+Just give it a concentrated amount of dye of the
+color you want to dye it with.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","25","","Mandragora Info"
+"26","MANDRAGORA_SPECIES_INFO_27","侵食キノコを成したマンドラゴラ
+その漆黒の傘は有害物などで出来ており
+衛生的にあまり良いとは言えないものである
+しかし、本人はあまり一般的ではない渋い色に
+誇りをもっているため非常に扱いにくい性格","Mandragora grown from corrupted mushrooms.
+Its pitch-black umbrella is made of hazardous
+material, and it is not hygienically suitable.
+However, the individual takes pride in its
+unconventional, deep color, making it a
+challenging personality to handle.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","26","","Mandragora Info"
+"27","MANDRAGORA_SPECIES_INFO_28","侵食キノコを成したマンドラゴラ
+自然に馴染む茶色い傘は柔らかく水分を含み
+商店などでも野菜として並び始めている
+水分や成長剤などで容易に育ち
+丸焼きやソテーにするとジューシーで美味","Mandragora corrupted by invading mushrooms.
+Its brown umbrella harmonizes with nature, soft
+and moist.
+Now appearing in stores as a vegetable; Easily
+grown with water and growth agents.
+When roasted or sautéed, it becomes juicy and
+delicious.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","27","","Mandragora Info"
+"28","MANDRAGORA_SPECIES_INFO_29","侵食キノコを群生させたマンドラゴラ
+紫色のマンドラマッシュルームの表面には
+ぬめりがあるため、うっかり踏んでしまうと
+床や身体にも付いてしまいなかなか取れない
+家庭で育てるには少々難易度の高い種である","Mandragora infested with invasive mushrooms.
+Has a purple-colored surface that feels slimy to
+the touch.
+If accidentally stepped on, the sliminess sticks
+to the floor and body, making it difficult to
+remove.
+It is a somewhat challenging species to cultivate
+at home.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","28","","Mandragora Info"
+"29","MANDRAGORA_SPECIES_INFO_30","侵食キノコを群生させたマンドラゴラ
+群生体のブラウンマッシュルームは食用として
+味も良く安価なため急速に広まった
+食用キノコの養根家は多頭飼いをするため
+その多くが侵食害に悩まされているという","Mandragora which has been grown with an abundance
+of corrupted mushrooms.
+It is a brown mushroom that is widely consumed
+due to its good taste and low cost.
+The cultivators of edible mushrooms often
+struggle with the corruption damage as they keep
+multiple heads.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","29","","Mandragora Info"
+"30","MANDRAGORA_SPECIES_INFO_31","侵食キノコを群生させたマンドラゴラ
+黒い傘に覆われたキノコ部分は闇に溶けるため
+この種のマンドラゴラは行方不明率が最も高い
+近年野良マンドラゴラ問題が顕在化しているが
+その4割はこの種だという調査結果も出ている","Mandragora with a cluster of invasive mushrooms.
+Mushroom parts covered with black umbrellas
+dissolve in the dark.
+This species has the highest rate of missing
+mandragoras.
+The problem of stray mandragoras has become more
+apparent in recent years; some research shows that
+40% of them are this species.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","30","","Mandragora Info"
+"31","MANDRAGORA_SPECIES_INFO_32","南方の樹木の若木を生やしたマンドラゴラ
+ブリアで時折見つかる南方の樹木の種が
+火山地帯の温暖肥料により成長した
+原生地の特性から、十分な水やりと豊富な日光
+そして毛皮などで防寒対策が必要となる","Mandragora, young southern tree.
+A species occasionally found in Breya.
+Has grown due to the warm volcanic soil, with the
+characteristics of its native habitat.
+Requires sufficient watering, abundant sunlight
+and winter protection such as clothing or fur.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","31","","Mandragora Info"
+"32","MANDRAGORA_SPECIES_INFO_33","南方の樹木を生やしたマンドラゴラ
+マンドラココナッツを生やしたマンドラゴラは
+非常におおらかかつ陽気なためペットに最適
+マンドラココナッツは実を成す種類の植物だが
+有機肥料の配合が非常に難しく、その実は希少","Mandragora that grows mandra coconuts.
+Is very generous and cheerful, making them ideal
+pets.
+Mandra coconuts are a type of plant that produces
+fruit, but they are very difficult to mix with
+organic fertilizer and their fruit is rare.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","32","","Mandragora Info"
+"33","MANDRAGORA_SPECIES_INFO_34","南方の樹木の果実を成したマンドラゴラ
+マンドラココナッツの実は南方で主食としても
+親しまれる栄養価の高い木の実だが非常に硬く
+頭上に実が落下した際に、打ちどころが悪いと
+そのままマンドラゴラが絶命する危険性もある","Mandragora that bears fruit of the trees grown in
+the south.
+The fruit of Mandra Coconut is highly nutritious
+and is also consumed as a staple in the southern
+regions.
+However, it is extremely hard and if the fruit
+falls on one's head, there is a risk that the
+Mandragora could die instantly due to a bad hit.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","33","","Mandragora Info"
+"34","MANDRAGORA_SPECIES_INFO_35","雨季に咲く植物を生やしたマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+魔物由来の安価な液状肥料で容易に色調整が
+できるため多くのアマチュア愛好家がおり
+酸味成分が青色を強めることが知られている","Mandragora with plants that bloom during the
+rainy season.
+This plant constantly changes color depending on
+the soil composition.
+Many amateur enthusiasts are interested in this
+plant because the color can be easily adjusted
+with inexpensive liquid fertilizer derived from
+magickal substances.
+Acidity is known to enhance the blue color.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","34","","Mandragora Info"
+"35","MANDRAGORA_SPECIES_INFO_36","雨季に咲く植物を生やしたマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+魔物由来の安価な液状肥料で容易に色調整が
+できるため多くのアマチュア愛好家がおり
+苦味成分が赤色を強めることが知られている","Mandragora with plants that bloom during the
+rainy season.
+This plant constantly changes color depending on
+soil composition.
+Many amateur enthusiasts are interested in this
+plant because the color can be easily adjusted
+with inexpensive liquid fertilizers derived from
+magickal substances.
+Bittering elements are known to intensify the red
+color.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","35","","Mandragora Info"
+"36","MANDRAGORA_SPECIES_INFO_37","雨季に咲く植物を生やしたマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+魔物由来の安価な液状肥料で容易に色調整が
+できるため多くのアマチュア愛好家がおり
+色変肥料の純度が低い場合紫色に近付くという","Mandragora with a plant that blooms during the
+rainy season.
+This plant constantly changes color depending on
+the soil composition.
+Many amateur enthusiasts are interested in this
+plant because the color can be easily adjusted
+with an inexpensive liquid fertilizer derived
+from magickal substances.
+If the purity of the color changing fertilizer is
+low, the color will be close to purple.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","36","","Mandragora Info"
+"37","MANDRAGORA_SPECIES_INFO_38","美しい一輪花を咲かせたマンドラゴラ
+マンドラローズは湿気を特に嫌う植物で
+さらに肥料も多量に必要な上、茎には棘があり
+手間がかかるため、育成難度はかなり高い
+しかしその分、花は美しく高値で取引される","Mandragora with a beautiful single flower
+Particularly averse to humidity.
+They also require large amounts of fertilizer and
+have thorny stems.
+They are quite difficult to grow because of the
+time and effort required, but because of this, the
+flowers are beautiful and sell for a high price.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","37","","Mandragora Info"
+"38","MANDRAGORA_SPECIES_INFO_39","美しい一輪花を咲かせたマンドラゴラ
+フィンダム原種に咲く植物としては
+青いマンドラローズが最も価値が高い
+鮮やかな色を保つには、人工的な着色が未だに
+必要で、現在も多くの養根家が研究している","Mandragora with a beautiful single flower
+The blue mandragose is the most valuable plant
+that blooms on the Phindym species.
+Artificial coloring is still needed to keep the
+bright color and it is still being studied by many
+root cultivators.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","38","","Mandragora Info"
+"39","MANDRAGORA_SPECIES_INFO_40","美しい一輪花を咲かせたマンドラゴラ
+情熱的な赤いマンドラローズは発見された途端
+瞬く間に大陸中で贈り物の定番となった
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","Mandragora with a beautiful single flower
+The passionate red mandragora rose quickly became
+a gift staple throughout the continent as soon as
+it was discovered.
+Inorganic fertilizer and sufficient moisture are
+important to make the flowers grow bigger and
+stronger.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","39","","Mandragora Info"
+"40","MANDRAGORA_SPECIES_INFO_41","美しい一輪花を咲かせたマンドラゴラ
+黄色のマンドラローズは別れの意味があり
+単に目を楽しませる品種として愛でられている
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","Mandragora with a beautiful single flower.
+The yellow mandragora rose means farewell and is
+loved simply as an eye pleasing variety.
+Inorganic fertilizer and sufficient moisture are
+important to make the flowers bigger and stronger.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","40","","Mandragora Info"
+"41","MANDRAGORA_SPECIES_INFO_42","美しい一輪花を咲かせたマンドラゴラ
+紫色のマンドラローズには気品と威厳があり
+敬意を表すにはもってこいの贈り物である
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","A beautiful single-flowered mandragora
+The purple mandragora rose has class and dignity
+and is a great gift of respect.
+Inorganic fertilizer and sufficient moisture are
+important to make the flowers grow large and
+strong.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","41","","Mandragora Info"
+"42","MANDRAGORA_SPECIES_INFO_43","美しい一輪花を咲かせたマンドラゴラ
+マンドラローズ種は比較的新しい品種のため
+様々な色の発色には色素肥料が使われている
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","Mandragora with a beautiful single flower.
+Because the mandragora rose variety is relatively
+new, pigmented fertilizers are used to produce the
+various colors.
+Inorganic fertilizers and sufficient moisture are
+important to keep the flowers large and strong.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","42","","Mandragora Info"
+"43","MANDRAGORA_SPECIES_INFO_44","美しい一輪花を咲かせたマンドラゴラ
+黒い色は吸い込まれるように禍々しく
+一部のマニアに熱狂的な人気がある
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","Mandragora with a beautiful single flower
+The black color is as disastrous as it is
+absorbing.
+Enthusiastically popular with some enthusiasts.
+Inorganic fertilizer and sufficient moisture are
+important to make the flowers grow bigger and
+stronger.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","43","","Mandragora Info"
+"44","MANDRAGORA_SPECIES_INFO_45","非常に希少な植物の花を咲かせたマンドラゴラ
+青いマンドラフレシアはフィンダム原種にしか
+発生が確認されていない極貴重な品種
+寄生生物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","Mandragora which has bloomed the flowers of an
+extremely rare plant.
+Blue mandraflesia is an extremely rare variety
+that has only been found to occur in Phindym
+species.
+It is a parasitic organism, so the root zone
+wears out rapidly.
+It needs to be energized with meat and liquid
+fertilizer.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","44","","Mandragora Info"
+"45","MANDRAGORA_SPECIES_INFO_46","非常に希少な植物の花を咲かせたマンドラゴラ
+最も見られる可能性の高いポピュラーな色だが
+死肉のような柄に虫がたかることもある
+寄生生物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","Mandragora which has bloomed the flowers of an
+extremely rare plant.
+More likely to be seen, red is a popular color,
+but insects can hang on to the carrion-like
+pattern.
+Parasitic organism, so the root system wears out
+rapidly.
+Needs to be energized with meat or liquid
+fertilizer.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","45","","Mandragora Info"
+"46","MANDRAGORA_SPECIES_INFO_47","非常に希少な植物の花を咲かせたマンドラゴラ
+自ら養分を合成することができないため
+明るい見た目とは裏腹に、太陽光は好まない
+寄生生物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","Newborn Mandragora have soft heads with seeds of
+various plants attached to them.
+Different plants germinate depending on the
+nutrients they absorb.
+Similarly, individual personalities and
+characteristics can change.
+The relationship between nutrients and evolution
+remains largely unresolved.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","46","","Mandragora Info"
+"47","MANDRAGORA_SPECIES_INFO_48","非常に希少な植物の花を咲かせたマンドラゴラ
+感染症に罹った個体から偶然発見される種で
+根部に与えた有機肥料によって色が変わる
+寄生植物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","47","","Mandragora Info"
+"48","MANDRAGORA_SPECIES_INFO_101","チリマンドラゴラ科の幼生体
+マンドラゴラがフィンダム外に持ち出され
+急速に多様なマンドラゴラ系植物が創られた
+マンドラゴラを高温肥料で育てることにより
+捕食者に灼熱感を与える毒を有するようになる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","48","","Mandragora Info"
+"49","MANDRAGORA_SPECIES_INFO_102","チリマンドラゴラ科の成体
+チリマンドラゴラの毒は赤色の元となっており
+冷却により、その毒性が弱まる特性がある
+また、毒液は防虫や食品加工、染色などへの
+有用性が現在期待されている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","49","","Mandragora Info"
+"50","MANDRAGORA_SPECIES_INFO_103","チリマンドラゴラの観葉体
+チリマンドラゴラはフィンダム原生種より
+気性が荒いが、中でも花を咲かせず成長した
+観葉体は特に凶暴であることが分かっている
+子どものいる家庭での育成は推奨できない","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","50","","Mandragora Info"
+"51","MANDRAGORA_SPECIES_INFO_104","固有種の花を咲かせたチリマンドラゴラ
+チリマンドラゴラは恒温であり寒さに強いため
+冬場の栽培植物として注目されている
+特にマンドラフラワーの咲く種は丈夫だが
+冷やし過ぎると花が白くなり枯死してしまう","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","51","","Mandragora Info"
+"52","MANDRAGORA_SPECIES_INFO_105","固有種の花を咲かせたチリマンドラゴラ
+チリマンドラゴラに水分は必須ではないため
+水を与えすぎると変色することがある
+仕組みは明らかとなっていないが
+目の錯覚説と肥料の成分原因説が有力である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","52","","Mandragora Info"
+"53","MANDRAGORA_SPECIES_INFO_106","固有種の花を咲かせたチリマンドラゴラ
+赤い花には根部と同様の熱毒を持っており
+花の色は健康のバロメータにもなっている
+濃く鮮やかな色であるほど健康な状態であり
+花色調整のための冷却は個体に負荷がかかる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","53","","Mandragora Info"
+"54","MANDRAGORA_SPECIES_INFO_107","固有種の花を咲かせたチリマンドラゴラ
+熱を奪う水分を与えられ花色が薄くなった種で
+毒が和らげられた花弁部は生食できるため
+一部の物好きで裕福なレスタニアン達の間では
+高値で取引されている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","54","","Mandragora Info"
+"55","MANDRAGORA_SPECIES_INFO_108","固有種の花を咲かせたチリマンドラゴラ
+冷えて花が白くなったチリマンドラゴラは本来
+すぐに死んでしまうほど弱っている状態だが
+人間用栄養剤を与えることで生存を保っている
+花は特別美しく、50万Gの値がついたことも","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","55","","Mandragora Info"
+"56","MANDRAGORA_SPECIES_INFO_109","固有種の花を群生させたチリマンドラゴラ
+チリマンドラゴラ種は人工配合した種のため
+様々な花色を育てるには熟練度が必要であり
+近年発足したマンドラゴラ・ブリーダー資格の
+テストとして定められている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","56","","Mandragora Info"
+"57","MANDRAGORA_SPECIES_INFO_110","固有種の花を群生させたチリマンドラゴラ
+マンドラゴラという植物は雌雄同体であるため
+基本的には一個体のみで繁殖が可能だが
+チリマンドラゴラは開花しても結実できない
+度重なる人工栽培による弊害と考えられている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","57","","Mandragora Info"
+"58","MANDRAGORA_SPECIES_INFO_111","固有種の花を群生させたチリマンドラゴラ
+花は香辛料のような刺激と豊かな香りを持ち
+滋養強壮に効果があることが分かっている
+雑味のない風味を持つ黄花を育てるためには
+自然由来の水資源で生命力を与えることが重要","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","58","","Mandragora Info"
+"59","MANDRAGORA_SPECIES_INFO_112","固有種の花を群生させたチリマンドラゴラ
+魔力の高い低温肥料によって根温度を極限まで
+下げながら、栄養剤によって基幹増強をすると
+低温でも枯死せずに純白の花が咲くことがある
+高い肥料配合技術が成せる奇跡の品種である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","59","","Mandragora Info"
+"60","MANDRAGORA_SPECIES_INFO_113","胞子によってキノコを成したチリマンドラゴラ
+赤い根部と青く光沢あるキノコの組み合わせは
+観賞用に人気で、剥製化の研究も進んでいる
+キノコ部分は鉱質であり、根部と切り離しても
+500年は傷み始めないことが分かっている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","60","","Mandragora Info"
+"61","MANDRAGORA_SPECIES_INFO_114","胞子によってキノコを成したチリマンドラゴラ
+固有毒にも耐えうるこのキノコの成体は珍しく
+自然下では、地中の鉱石に根を張り成長する
+特に宝石の原石に宿ったものは貴重とされ
+その石の色を映した美しい姿になるという","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","61","","Mandragora Info"
+"62","MANDRAGORA_SPECIES_INFO_115","胞子によってキノコを成したチリマンドラゴラ
+黄石英などに発生したキノコは黄味がかった
+色合いになることが多い
+レスタニアの伝承では、このような茸石は
+特別な魔力を持っていると信じられている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","62","","Mandragora Info"
+"63","MANDRAGORA_SPECIES_INFO_116","胞子によってキノコを成したチリマンドラゴラ
+最も強力な魔石である水晶から出来た茸石は
+ピュアホワイトの美を誇り、高い価値を持つ
+キノコを食すことで水晶の魔力を取り込めると
+謳われているが、科学的には未検証である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","63","","Mandragora Info"
+"64","MANDRAGORA_SPECIES_INFO_117","キノコが群生したチリマンドラゴラ
+自然下では、茸石は湿度と温度の適した
+鍾乳洞などで発生することが確認されている
+チリマンドラゴラの頭部は生育環境として優れ
+湿度を保たせることで突鉱のように群生する","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","64","","Mandragora Info"
+"65","MANDRAGORA_SPECIES_INFO_118","キノコが群生したチリマンドラゴラ
+茸石は、キノコが均等な大きさで群生した頃に
+頭部にはめ込んだ宝石ごと収穫する
+生育湿度が不十分だと菌糸が根部にまで及び
+収穫時に脳を傷つけてしまうことがある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","65","","Mandragora Info"
+"66","MANDRAGORA_SPECIES_INFO_119","キノコが群生したチリマンドラゴラ
+連なる黄金の傘が金貨の山に見えることから
+別名「金茸石」とも呼ばれ、商人に人気がある
+トパーズは直射日光により脱色しやすいため
+布や紙などで覆いを作って育てる必要がある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","66","","Mandragora Info"
+"67","MANDRAGORA_SPECIES_INFO_120","キノコが群生したチリマンドラゴラ
+水晶には自浄作用があるためそのままでは
+キノコが成長しにくい環境になってしまう
+群生させるためには継続的な植菌と培養が必要
+茸石の中では最も価値の高い種とされている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","67","","Mandragora Info"
+"68","MANDRAGORA_SPECIES_INFO_121","異国の落葉樹が生えたチリマンドラゴラ
+チリマンドラゴラに生える樹花は
+マンドラゴラなどに生える樹花と似ているが
+別品種であり、香りと赤みがより強い
+花芽を増やすには有機肥料が必要","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","68","","Mandragora Info"
+"69","MANDRAGORA_SPECIES_INFO_122","異国の樹花を咲かせたチリマンドラゴラ
+チリマンドラゴラ種に生える樹花がつける実は
+非常に香り高く、酒やジャムなどに使用される
+基本的な花蕾育成肥料に加え、即効性のある
+栄養剤を多く与えることで実が増えるという","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","69","","Mandragora Info"
+"70","MANDRAGORA_SPECIES_INFO_123","異国の樹花が満開に咲いたチリマンドラゴラ
+薄紅色の花は強い香りを放ち害虫を遠ざける
+効果がある上に、花持ちも良いため
+ノーマル種の樹花と共に育てる養根家が多い
+しかし、気が荒いため喧嘩には注意が必要","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","70","","Mandragora Info"
+"71","MANDRAGORA_SPECIES_INFO_124","雨季に咲く植物を生やしたチリマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+酸味成分が青色を強めることが知られているが
+チリマンドラゴラは根部が非常に乾燥しやすく
+十分な湿度を保つことが育成に重要となる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","71","","Mandragora Info"
+"72","MANDRAGORA_SPECIES_INFO_125","雨季に咲く植物を生やしたチリマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+苦味成分が赤色を強めることが知られているが
+チリマンドラゴラは根部が非常に乾燥しやすく
+十分な湿度を保つことが育成に重要となる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","72","","Mandragora Info"
+"73","MANDRAGORA_SPECIES_INFO_126","雨季に咲く植物を生やしたチリマンドラゴラ
+この植物は土壌成分によって常時色が変化し
+色変肥料の純度が低い場合紫色に近付くという
+チリマンドラゴラは根部が非常に乾燥しやすく
+十分な湿度を保つことが育成に重要となる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","73","","Mandragora Info"
+"74","MANDRAGORA_SPECIES_INFO_127","美しい一輪花を咲かせたチリマンドラゴラ
+全身に血を浴びたかのように真っ赤な姿だが
+性格は至って温厚で寂しがり屋である
+十分な有機肥料さえあれば、特別な育成が
+無くとも真っ赤に育つため重宝されている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","74","","Mandragora Info"
+"75","MANDRAGORA_SPECIES_INFO_128","美しい一輪花を咲かせたチリマンドラゴラ
+活発で人懐こい性格だが、スキンシップは棘の
+処理を適切に行った後でなければ危険である
+十分な有機肥料さえあれば、特別な育成が
+無くとも真っ赤に育つため重宝されている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","75","","Mandragora Info"
+"76","MANDRAGORA_SPECIES_INFO_129","美しい一輪花を咲かせたチリマンドラゴラ
+真っ赤な根部から生える真っ白な花は
+その白さがより際立ち、格別に愛されている
+チリマンドラゴラ種に純白のマンドラローズを
+咲かせるためは、人工染料が最も手軽とされる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","76","","Mandragora Info"
+"77","MANDRAGORA_SPECIES_INFO_130","非常に希少な花が咲いたチリマンドラゴラ
+謎多きマンドラフレシアだがチリ系は持ち前の
+高体温により咲きやすいといった報告もある
+開花を早めるには、十分な有機肥料の他に
+たっぷりの水分を与えると良いなどの噂もある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","77","","Mandragora Info"
+"78","MANDRAGORA_SPECIES_INFO_131","非常に希少な花が咲いたチリマンドラゴラ
+格別に美しく臭いも強烈な植物だが、触れると
+粘りのある取れにくい花粉が付着するので注意
+やはり色は成長過程で人工着色する必要があり
+萎れた花の汁は染料としても利用ができるほど","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","78","","Mandragora Info"
+"79","MANDRAGORA_SPECIES_INFO_201","産まれたばかりのアルビノマンドラゴラ
+色素異常によって偶然生まれたとされているが
+人の手によって１つの品種として残された
+強い日差しに弱く、日差しを遮りながら育てて
+やると丈夫に育ちやすいことが分かっている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","79","","Mandragora Info"
+"80","MANDRAGORA_SPECIES_INFO_202","基本的な成長を遂げたアルビノマンドラゴラ
+アルビノは植物的身体構造を持ちながら
+太陽光に弱いため、開花時などの養分を多く
+消費する時期には、豊富な養分だけでなく
+布などで覆い、保護する必要がある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","80","","Mandragora Info"
+"81","MANDRAGORA_SPECIES_INFO_203","栄養の偏りにより　　　
+花を咲かせず成長したアルビノマンドラゴラ
+アルビノ種の育成に慣れない駆け出し養根家が
+陥りやすい育成の谷と呼ばれている
+開花養分や遮光素材不足の場合が多い","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","81","","Mandragora Info"
+"82","MANDRAGORA_SPECIES_INFO_204","固有種の花を咲かせたアルビノマンドラゴラ
+肥料を経口摂取するアルビノ種には人間の
+模倣行動がよく見られ、植物でありながら
+肉や草などを好む個体も発見されている
+濃縮された肥料の色素は頭部に強く反映される","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","82","","Mandragora Info"
+"83","MANDRAGORA_SPECIES_INFO_205","固有種の花を咲かせたアルビノマンドラゴラ
+アルビノ種は大食漢であり、手足の根毛から
+だけでなく前部の口のように開閉する穴からも
+直接養分を摂取し、頭部植物へ吸収できる
+そのため味覚に近い感覚器官が発達している","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","83","","Mandragora Info"
+"84","MANDRAGORA_SPECIES_INFO_206","固有種の花を咲かせたアルビノマンドラゴラ
+研究のためアルビノ種に肉のみを与えていた
+ある研究者が突如行方不明となる事件があった
+肉の味を覚えたアルビノマンドラゴラには
+十分な注意が必要である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","84","","Mandragora Info"
+"85","MANDRAGORA_SPECIES_INFO_207","固有種の花を咲かせたアルビノマンドラゴラ
+アルビノ種は養分吸収の多くを口穴から
+摂取するため鉱物などは肥料として適さないが
+一方で、大型魔物の骨などは容易くかみ砕く
+見た目に反して逞しく野生的な面もある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","85","","Mandragora Info"
+"86","MANDRAGORA_SPECIES_INFO_208","固有種の花を咲かせたアルビノマンドラゴラ
+紫のマンドラフラワーは主に染料の素材として
+重宝されているが、特にアルビノ種の染料は
+混じりけがなく高価で取引されている
+その紫は、様々な自然色素の凝縮である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","86","","Mandragora Info"
+"87","MANDRAGORA_SPECIES_INFO_209","固有種の花を咲かせたアルビノマンドラゴラ
+純白の姿は一部に畏怖や憧憬を抱かせるもので
+祝事などの儀式道具に利用される過去もあった
+今では愛護の観点から反対する養根家も多いが
+未だに誤解されることの多い種である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","87","","Mandragora Info"
+"88","MANDRAGORA_SPECIES_INFO_210","固有種の花を群生させたアルビノマンドラゴラ
+アルビノ種は元来持つ色素が少ないため
+肥料から採る色素が非常に重要である
+人の与える様々な有機肥料よりもマンドラゴラ
+由来の肥料の方が、鮮やかな発色になるという","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","88","","Mandragora Info"
+"89","MANDRAGORA_SPECIES_INFO_211","固有種の花を群生させたアルビノマンドラゴラ
+マンドラゴラの葉や花は人間にとって有毒だが
+マンドラゴラの飼育用としては完全肥料である
+アルビノ種に与えれば艶やかに美しく育つが
+共食いの倫理的問題が論争を巻き起こしている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","89","","Mandragora Info"
+"90","MANDRAGORA_SPECIES_INFO_212","固有種の花を群生させたアルビノマンドラゴラ
+マンドラフラワーは人間にとっては有毒だが
+マンドラゴラの飼育用としては完全肥料である
+共食いという過程を経て育成された個体は
+野性の特性が強化されより攻撃的になる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","90","","Mandragora Info"
+"91","MANDRAGORA_SPECIES_INFO_213","固有種の花を群生させたアルビノマンドラゴラ
+紫のマンドラフラワー群生体は非常に希少で
+他種が花を食まないよう隔離され育成される
+原生地でも同様に育てられてきた歴史を持ち
+気位が高く自己中心的な気質が全体に見られる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","91","","Mandragora Info"
+"92","MANDRAGORA_SPECIES_INFO_214","固有種の花を群生させたアルビノマンドラゴラ
+マンドラゴラの複数栽培環境下では
+アルビノ種が他種の頭部植物を食むことがあり
+マンドラゴラ科で初めての共食いが確認された
+命は奪わないよう根部には手を出さないようだ","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","92","","Mandragora Info"
+"93","MANDRAGORA_SPECIES_INFO_215","異国の落葉樹が生えたアルビノマンドラゴラ
+白い樹肌のアルビノ種とこの落葉樹の
+組み合わせは「コマチ」という別名を持つ
+花芽形成の時期に水分を十分に与え、根部にも
+有機肥料を与え肥やしてやることが重要である","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","93","","Mandragora Info"
+"94","MANDRAGORA_SPECIES_INFO_216","異国の樹花を咲かせたアルビノマンドラゴラ
+一般的にマンドラゴラの頭部で育った落葉樹は
+花の寿命が長く、時が止まった様と称される
+しかしこの樹の花や葉は香り高く美味なため
+アルビノ種は自ら毟り食べてしまうこともある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","94","","Mandragora Info"
+"95","MANDRAGORA_SPECIES_INFO_217","異国の樹花が満開のアルビノマンドラゴラ
+アルビノ種で咲かせることが難しいこの樹を
+育て上げるには、非常に高い技術を要する
+アルビノ種は香り高い花芽を食べてしまうため
+マンドラカラーという器具を取り付けることも","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","95","","Mandragora Info"
+"96","MANDRAGORA_SPECIES_INFO_218","侵食キノコを成したアルビノマンドラゴラ
+侵食による食欲増進の弊害によって
+なんでも口に入れ、雑食な動物的側面が強い
+しかしその分、何が進化の決め手となるか
+分かりづらく、数多の養根家を悩ませている","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","96","","Mandragora Info"
+"97","MANDRAGORA_SPECIES_INFO_219","侵食キノコを成したアルビノマンドラゴラ
+鮮やかな赤は気が荒く、血の気の多い魔物を
+好んで捕食した場合に色づくと言われている
+個体自体も気性が激しく、肉をよく好むが
+キノコの成長にはバランスの良い栄養が大切","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","97","","Mandragora Info"
+"98","MANDRAGORA_SPECIES_INFO_220","侵食キノコを成したアルビノマンドラゴラ
+ベルベットのように非常に滑らかで美しく
+またこの紫を発色するための肥料も非常に高価
+古代の貝塚からは大量の巻貝が発掘されるが
+紫色の染料を集め権力者へ捧げたためである","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","98","","Mandragora Info"
+"99","MANDRAGORA_SPECIES_INFO_221","侵食キノコを成したアルビノマンドラゴラ
+侵食により食欲の増したアルビノ種は
+小型の魔物なら角や牙までも丸呑みするため
+角や牙の粉末を絵具の材料とするモローでは
+害獣として駆除されることもあるという","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","99","","Mandragora Info"
+"100","MANDRAGORA_SPECIES_INFO_222","侵食キノコを成したアルビノマンドラゴラ
+アルビノ種に生えるキノコは、色は鮮やかだが
+無機物が多く含まれており食用には向かない
+鮮やかな色及び成分は、アルビノ種が摂取する
+小型の魔物などの角や牙が由来している","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","100","","Mandragora Info"
+"101","MANDRAGORA_SPECIES_INFO_223","侵食キノコを成したアルビノマンドラゴラ
+牙の多い獣系の魔物が多く生息している地域に
+発生しやすいマンドラゴラ
+雑多な魔物の牙の硬質成分を溶かす強酸を持つ
+美味しそうな見た目に反し取り扱いには要注意","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","101","","Mandragora Info"
+"102","MANDRAGORA_SPECIES_INFO_224","侵食キノコを成したアルビノマンドラゴラ
+フィンダムでは、消し炭など食べ物とは
+程遠い物を与えられたマンドラゴラが死ぬと
+黒いキノコが生え、うっかり踏んだ主人を
+死に至らしめるという寓話が存在する","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","102","","Mandragora Info"
+"103","MANDRAGORA_SPECIES_INFO_225","侵食キノコを群生したアルビノマンドラゴラ
+アルビノ種はその見た目からノーマル種より
+弱い個体だと思われがちだが、実際は多様な
+養分によりノーマル種よりも逞しく育ちやすい
+群生したキノコは重さ10kg以上もある","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","103","","Mandragora Info"
+"104","MANDRAGORA_SPECIES_INFO_226","侵食キノコが群生したアルビノマンドラゴラ
+血のように赤い目と傘はフィンダムの子供の
+恐怖の対象となり、躾によく持ち出されている
+しかしレスタニアの覚者によって多くの情報が
+もたらされた近年の子供達には効果が薄い","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","104","","Mandragora Info"
+"105","MANDRAGORA_SPECIES_INFO_227","侵食キノコが群生したアルビノマンドラゴラ
+アルビノ種に生えたマンドラマッシュルームは
+人間の食用にもマンドラゴラの餌にもならず
+捨てるだけだと思われていたが、最新研究では
+その強固さを生かした建材利用が進んでいる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","105","","Mandragora Info"
+"106","MANDRAGORA_SPECIES_INFO_228","侵食キノコを群生したアルビノマンドラゴラ
+磨きのかかった尊大さは他の追随を許さず
+紫キノコの養根家はストレスで体調を崩すため
+年々その数を減らしているという
+キノコの多くは上流層の屋敷の床材となる","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","106","","Mandragora Info"
+"107","MANDRAGORA_SPECIES_INFO_229","侵食キノコを群生したアルビノマンドラゴラ
+アルビノ種のマンドラマッシュルームは
+近年建材としての人気が高まっており
+大理石以上の値段に高騰している
+最も安い白色でも1株5000Gはするという","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","107","","Mandragora Info"
+"108","MANDRAGORA_SPECIES_INFO_230","侵食キノコを群生したアルビノマンドラゴラ
+ノーマル種のマッシュルームと似ているが
+水に浸すと、石灰成分によって白く濁るため
+誤食事例はほとんど見られない
+食した牙の成分により、傘は石のように硬い","","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","108","","Mandragora Info"
