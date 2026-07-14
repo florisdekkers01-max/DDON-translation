@@ -1,1774 +1,1409 @@
-﻿"0","0","敵の攻撃を受けそうになったら<COL ff7575><KCT ROLLING></COL>で避翻斬です！　攻撃を避けながら、魔剣で攻撃できます","When an enemy attack is about to hit, 
-use <COL ff7575><KCT ROLLING></COL> for a Dodge Counter Slash! 
-You can evade the attack and counter with the sword.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","20","Barris","Quest Dialogue"
-"0","0","敵に密着した状態から<COL ff7575><KCT SKILL_NORMAL1></COL>でバック・リープ！　高速で後方に移動します","When the enemy gets too close, 
-press <COL ff7575><KCT SKILL_NORMAL1></COL> for Back Leap,
-a quick backward dash!","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","21","Barris","Quest Dialogue"
-"0","0","ただし、魔力を１ゲージ消費します――魔力の状態は常に把握しておくように","But it consumes 1 gauge of magick―
-always keep an eye on your magick reserves.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","22","Barris","Quest Dialogue"
-"0","0","魔力が１スタック以上溜まってきたら<COL ff7575><KCT OVER_BRADE></COL>でルイン・ブレード！","With at at least 1 stack of magick,
-use <COL ff7575><KCT OVER_BRADE></COL> for Ruin Blade!","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","23","Barris","Quest Dialogue"
-"0","0","バック・リープを発動後に再度<COL ff7575><KCT SKILL_NORMAL1></COL>を押すことで、今度は敵に高速で接近することもできます","After Back Leap, press 
-<COL ff7575><KCT SKILL_NORMAL1></COL> again to dash toward the enemy at high speed.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","24","Barris","Quest Dialogue"
-"0","0","それでは、最後の仕上げとして大型敵を倒してきなさい","Now, go finish up by taking out the large enemy.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","25","Barris","Quest Dialogue"
-"0","0","今教えた通り、敵に魔印を刻み、魔力を吸い取り、その魔力を使って戦うのです","As I just taught you, set the magick sigil into the enemy, 
-siphon their magick, and use that magick to fight.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","26","Barris","Quest Dialogue"
-"0","0","敵に近付くのを恐れてはいけません――吹き飛ばされたら<COL ff7575><KCT JUMP></COL>で受け身を取るといいでしょう","Don't fear closing in― if knocked back,
-press <COL ff7575><KCT JUMP></COL> to recover.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","27","Barris","Quest Dialogue"
-"0","0","基本的な立ち回りは理解できたでしょう
-戦術試練とやらはこれで終了です
-奥にある＜魔剣の証＞を受け取り
-神殿へ戻ってください","You've grasped the basic maneuvers.
-The tactics trial ends here.
-Take the 'High Scepter's Mark' inside
-and return to the temple.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","28","Barris","Quest Dialogue"
-"0","0","魔印を施した敵を攻撃することで、魔印が成長し、敵から得られる魔力が多くなっていきます","Attacking enemies marked with magick seals causes 
-the seals to grow, increasing the amount of 
-magick obtained from enemies.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","29","Barris","Quest Dialogue"
-"0","0","奥の大型敵でそれを試してみてください","Try that with the big enemy in the back.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","30","Barris","Quest Dialogue"
-"0","0","今までに教えたことを試し、魔力を一定値まで溜めてもらいましょうか","Test what you've learned so far
-and accumulate enough magick.","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","31","Barris","Quest Dialogue"
-"0","0","――そういえば、覚者さまは
-ハイセプターとして活躍していらっしゃるとか","Now that I think of it, they say
-you're working as a High Scepter.","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","0","Umit","Quest Dialogue"
-"0","0","ハイセプターの戦闘術といえば、我が国では
-一子相伝の技術――選ばれた者のみが
-ただ一人の王に仕えるために磨くものです","The High Scepter's combat arts are,
-in our kingdom, techniques passed
-to a single heir - refined only by
-the chosen to serve their sole sovereign.","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","1","Umit","Quest Dialogue"
-"0","0","その戦闘術を覚者さまが
-使っていらっしゃるのはとても不思議ですが――","Strange indeed to see the Arisen
-wield these combat arts...","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","2","Umit","Quest Dialogue"
-"0","0","ですが、もしさらに技術を磨きたいと
-思われたなら、クレス女王のハイセプター
-キルスティ師にお会いになってはいかがでしょう","But if you wish to further refine your skills, 
-you should meet with Master Kirsty, 
-the High Scepter of Queen Cress.","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","3","Umit","Quest Dialogue"
-"0","0","もしさらにハイセプターの技術を磨きたいと
-思われたなら、クレス女王のハイセプター
-キルスティ師にお会いになってはいかがでしょう","If you wish to further refine your 
-High Scepter skills, you should meet with 
-Master Kirsty, the High Scepter of Queen Cress.","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","4","Umit","Quest Dialogue"
-"0","0","ん？
-ただ顔を見せに来たわけじゃなさそうだね","Hm?
-You've got a reason for
-coming here, haven't you?","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","5","Kirsty","Quest Dialogue"
-"0","0","ハイセプターとして話を聞きたければ
-《ジョブマスター》の件で、と
-話しかけるべきかな","To talk High Scepter business,
-you might want to start with
-the Job Master subject.","ui\00_message\quest\q60300401.gmd","\quest\q60300401.arc","q60300401.arc","6","Kirsty","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ！
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ！","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ！","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ！","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ！","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくファイターの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Fighter Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","12","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","13","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","14","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","15","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","16","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ！","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","17","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","18","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300402.gmd","\quest\q60300402.arc","q60300402.arc","20","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくプリーストの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Priest Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300403.gmd","\quest\q60300403.arc","q60300403.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくハンターの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Hunter Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300404.gmd","\quest\q60300404.arc","q60300404.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくシールドセージの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Shield Sage Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300405.gmd","\quest\q60300405.arc","q60300405.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくシーカーの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Seeker Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300406.gmd","\quest\q60300406.arc","q60300406.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくソーサラーの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Sorcerer Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300407.gmd","\quest\q60300407.arc","q60300407.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくエレメントアーチャーの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Element Archer Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300408.gmd","\quest\q60300408.arc","q60300408.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくウォリアーの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Warrior Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300409.gmd","\quest\q60300409.arc","q60300409.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくアルケミストの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Alchemist Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300410.gmd","\quest\q60300410.arc","q60300410.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","8","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","9","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくスピリットランサーの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a Spirit Lancer Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300411.gmd","\quest\q60300411.arc","q60300411.arc","21","Gilstan","Quest Dialogue"
-"0","0","ああ――あの石コロが欲しいんだナ？
-なら、取引きといこう
-<STG 550>に<NPC 2004>を
-向かわせるから、そこで聞け","Aah—you want dat shiny rock?
-Then let's make deal!
-I send <NPC 2004> to <STG 550>,
-go ask dere!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","0","Gilstan","Quest Dialogue"
-"0","0","取引きするんじゃないのカ？
-<STG 550>に<NPC 2004>を
-向かわせるから、あっちで聞くんだナ","We do trade, yes?
-Me send <NPC 2004> to <STG 550> -
-you go ask dere, ya?","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","1","Gilstan","Quest Dialogue"
-"0","0","人間――取引すル、人間カ
-エンブレムストーンが欲しけレバ
-この先のオークたち、倒してコイ！
-頼みとエンブレムストーン、交換ダ","Hu-man! Trade-trade?!
-Want glowy Emblem Stone?
-Slay ugly orcs first!
-Then we swap-shiny!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","2","Slab","Quest Dialogue"
-"0","0","カクゴはいいか？
-さっそくタメすかどうかキメロ","You ready, squish-skin?!
-Decide-die or run-cry NOW!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","3","Slab","Quest Dialogue"
-"0","0","いつでもOKだ","It is OK whenever.","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","4","Slab","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","5","Slab","Quest Dialogue"
-"0","0","王のノゾミ、聞くンだナ――ヨシヨシ
-奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Listen-bow to King's wish! GOOD-GOOD!
-Kill-kill ALL enemies in back-cave!
-No slow-slow, no weak-fall! BAD-BAD!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","6","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","7","Slab","Quest Dialogue"
-"0","0","ワカッタ――
-準備できタラ、声かけロ
-チョットくらい、待ってヤル","Know-know!
-Prepare-fast…
-or me leave-sneak!
-Tiny-wait only!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","8","Slab","Quest Dialogue"
-"0","0","奥にいる敵、ミナたおせ！
-途中で倒れタリ、ノロノロするのはダメダ","Kill ALL enemies in back!
-No slow-slow! No fall down mid-way!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","9","Slab","Quest Dialogue"
-"0","0","失敗して出直ス時――
-まァ、声かけるなら、ツキアッテヤル","If you fail-crumble…
-heh, just yelp-help!
-Me maybe share win-magick!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","10","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","11","Slab","Quest Dialogue"
-"0","0","おおっ！　首尾よくハイセプターの
-エンブレムストーンを手に入れてきたみたいだな！
-さっそく確かめてみようぜ","Ho! You've acquired
-a High Scepter Emblem Stone!
-Shall we inspect it?","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","12","Renton","Quest Dialogue"
-"0","0","他のジョブのエンブレムストーンも
-手に入れたら、一度俺に見せてくれよ","Once you get Emblem Stones for other jobs,
-show them to me, will you?","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","13","Renton","Quest Dialogue"
-"0","0","ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ","Be fast, defeat orc in back—
-that king wish.","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","14","Slab","Quest Dialogue"
-"0","0","時間、カカリスギ――イソゲ！！","Time-waste too much—HURRY UP!!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","15","Slab","Quest Dialogue"
-"0","0","オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル","Fail-fail! Mess-mess!
-Beg pretty, maybe
-me help... ONE time!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","16","Slab","Quest Dialogue"
-"0","0","ヤッタ！　――オレのトコロ、モドッテこい！","Yahaha! 
-—You come back to lair, ya!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","17","Slab","Quest Dialogue"
-"0","0","オマエ、やるナ！
-王にホウコクしとく
-オマエも王にアイサツ忘れルナ","You! Good fight!
-Me tells King about you!
-You bow to King too!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","18","Slab","Quest Dialogue"
-"0","0","取引き完了だナ！
-石コロ１つで、邪魔なヤツらを追い払えタ――
-お前はちょっと働いて、あの石コロを手に入れられタ
-お互い、良かったよナ","Deal's done!
-One little rock to chase those pests away—
-You put in work and get your prize.
-Good deal for both of us!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","19","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","20","Gilstan","Quest Dialogue"
-"0","0","石コロ――エンブレムストーンは他にもあるゾ
-別のジョブのが欲しければ、ＬＶ．70になって
-役に立てるようになってから――また来いヨ
-取引きしてヤル","Shiny rock—Emblem Stone, we got more-ya!
-Want different job-stone? Come back at Level 70,
-when you strong-strong—then we trade-ya!
-Promise good deal!","ui\00_message\quest\q60300412.gmd","\quest\q60300412.arc","q60300412.arc","21","Gilstan","Quest Dialogue"
-"0","0","覚者よ――
-道を極めんとする志を持つものよ――","O Arisen―
-thou who seekest to master the path―","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","0","The White Dragon","Quest Dialogue"
-"0","0","エンブレムストーンの力をかすかに感じる
-本来与えられるはずであったかの力
-汝の物とするがよい","A whisper of the Emblem Stone's power I perceive.
-The might that was destined for thee—
-take it unto thyself.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","1","The White Dragon","Quest Dialogue"
-"0","0","エンブレムストーンの力をかすかに感じる
-本来与えられるはずであったかの力
-汝の物とするがよい","A whisper of the Emblem Stone's power I perceive.
-The might that was destined for thee—
-take it unto thyself.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","2","The White Dragon","Quest Dialogue"
-"0","0","エンブレムストーンのことを聞きたいと？
-ずいぶんと懐かしい言葉が出てきたものだ","You want to ask about Emblem Stones?
-That's quite a nostalgic term to hear.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","3","Joseph","Quest Dialogue"
-"0","0","本来、エンブレムストーンは
-白竜より覚者に与えられるはずのものだった
-それは厳しい鍛練を積んだ覚者を
-より強靭にする働きを持つ","Emblem Stones were meant to be
-granted to the Arisen by the
-White Dragon - rewards to
-strengthen proven warriors.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","4","Joseph","Quest Dialogue"
-"0","0","しかし、ある時
-何者かによって神殿から盗まれて以来
-一度も見つかっていないのだ","But ever since someone
-stole them from the temple,
-they've never been seen again.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","5","Joseph","Quest Dialogue"
-"0","0","エンブレムストーンを使うほどの覚者
-あるいは使いたがる覚者が
-そう現れなかったということもあって
-いつしか忘れ去られていたが――","Few Arisen worthy
-of Emblem Stones emerged—
-fewer still sought them.
-Thus, they faded into legend...","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","6","Joseph","Quest Dialogue"
-"0","0","白竜がおまえにエンブレムストーンのことを
-告げたということは、何か動きがあったのだろう
-神殿にも情報が届いてるかもしれん
-<NPC 1029>あたりに話を聞いてみるがいい","If the White Dragon told you
-of Emblem Stones, something stirs.
-The temple may know more—
-seek <NPC 1029> for answers.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","7","Joseph","Quest Dialogue"
-"0","0","本来、エンブレムストーンは
-白竜より覚者に与えられるはずのものだった
-それは厳しい鍛練を積んだ覚者を
-より強靭にする働きを持つ","Emblem Stones were meant to be
-granted to the Arisen by the
-White Dragon - rewards to
-strengthen proven warriors.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","8","Joseph","Quest Dialogue"
-"0","0","白竜がおまえにエンブレムストーンのことを
-告げたということは、何か動きがあったのだろう
-神殿にも情報が届いてるかもしれん
-<NPC 1029>あたりに話を聞いてみるがいい","If the White Dragon told you
-of Emblem Stones, something stirs.
-The temple may know more—
-seek <NPC 1029> for answers.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","9","Joseph","Quest Dialogue"
-"0","0","なになに、エンブレムストーンだって？
-確かジョブごとに力を溜めていけるってやつだよな","Huh? Emblem Stones?
-Those things that store
-job-specific power, right?","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","10","Renton","Quest Dialogue"
-"0","0","それっぽい話だったら
-ゴブリンたちの王　ギルスタンっているだろ
-ほら、ホボリック洞窟でガラクタ集めしてる","If that's what you're after, talk to Gilstan - 
-that goblin 'king' hoarding junk in Hobolic Cave.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","11","Renton","Quest Dialogue"
-"0","0","そのギルスタンが何か見つけたって
-ちょっとだけ騒ぎになってたらしいぜ
-もしかすると、それがエンブレムストーン
-だったのかもしれない","I heard that Gilstan found something
-and it caused a bit of a stir.
-Maybe it was an Emblem Stone.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","12","Renton","Quest Dialogue"
-"0","0","ちょっとホボリック洞窟に行って
-事の真相だけでも確かめてきたらどうだ？","Why don't you head to Hobolic Cave and
-at least check out the truth of this?","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","13","Renton","Quest Dialogue"
-"0","0","ん、どうした？
-ホボリック洞窟に行って、ギルスタンに
-《エンブレムストーン》のことを
-確かめるんじゃないのか？","Huh, what's wrong?
-Weren't you going to Hobolic Cave
-to ask Gilstan about the
-Emblem Stone?","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","14","Renton","Quest Dialogue"
-"0","0","人、何の用ダ――！
-《エンブレムストーン》についてダト？
-ふム――ドコから聞きつけたンダ？","Human, what you want—!
-About Emblem Stones, ya?
-Hmm...
-Where you hear dis, eh?","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","15","Gilstan","Quest Dialogue"
-"0","0","最近――手下どもが
-ボルド鉱山の、土の中に
-埋まってたのを見つけた","Recently, my boys found one
-buried in da dirt at
-Volden Mine, see?","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","16","Gilstan","Quest Dialogue"
-"0","0","価値ある物かと、調べたが――
-フン――どうでもいい！
-覚者にしか価値ないことがワカッタ！
-ココにあっても、タダの石ころ","Checked if it's worth sumthin'...
-Pah! Worthless!
-Only Arisen want dis junk!
-Jus' a stupid rock to us.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","17","Gilstan","Quest Dialogue"
-"0","0","おまえ、取引きするなら
-譲ってやってもいいが――
-あの石ころ欲しいなら、頼みを聞くんだナ","Trade, huh?
-Maybe I let it go...
-But if you want that rock,
-better ask real nice.","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","18","Gilstan","Quest Dialogue"
-"0","0","頼みを聞く","Ask for favor","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","19","Gilstan","Quest Dialogue"
-"0","0","――少し考えさせてほしい","...I want to think a bit","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","20","Gilstan","Quest Dialogue"
-"0","0","ハナシのわかるヤツだ！
-頼みたいこといっぱいある
-何を頼むか、考えトク
-――また来い","You speak my language, humie!
-Lotsa jobs need doin'—
-pick your poison.
-—Come back later!","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","21","Gilstan","Quest Dialogue"
-"0","0","フン――
-あの石コロが欲しいんじゃナイのか？
-気が変わったら――
-またハナシに来い！","Hmph...
-You no want dat rock?
-If you change mind―
-Come back and talk!","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","22","Gilstan","Quest Dialogue"
-"0","0","ココにあっても
-何の価値もナイモノだからナ
-いつでも相談にノルぞ！","Dis worthless rock
-just gathers dust here!
-Come beg for it anytime, humie!","ui\00_message\quest\q60300413.gmd","\quest\q60300413.arc","q60300413.arc","23","Gilstan","Quest Dialogue"
-"0","0","戦技の継承をさらなる高みに
-解放するには――
-この大陸の火竜様の竜力が必要となる","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","0","Endale","Quest Dialogue"
-"0","0","だが、この大陸の竜力を
-お前が受け入れ得るかどうかだが
-それを計るために、試練を受けてもらおう","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","1","Endale","Quest Dialogue"
-"0","0","すでに試練の見届け人となる者に
-話しは通している
-現地に向かい見届け人と合流してくれ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","2","Endale","Quest Dialogue"
-"0","0","それと試練の場所についてだが
-エリアランクなど――
-ちゃんと解放されている場所かどうかは
-確認しておくんだな","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","3","Endale","Quest Dialogue"
-"0","0","すでに試練の見届け人となる者に
-話しは通している
-現地に向かい見届け人と合流してくれ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","4","Endale","Quest Dialogue"
-"0","0","それと試練の場所についてだが
-エリアランクなど――
-ちゃんと解放されている場所かどうかは
-確認しておくんだな","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","5","Endale","Quest Dialogue"
-"0","0","よく来たね
-あなたがこの大陸の火竜様の竜力を
-受けれる器を持ち得るかどうか――
-わたしが見届けてあげる","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","6","Gillian","Quest Dialogue"
-"0","0","じゃ、行こう","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","7","Gillian","Quest Dialogue"
-"0","0","見事だ！
-お前の纏う、その力の波動――
-試練の最中、火竜様の加護を身に帯びたようだな","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","8","Endale","Quest Dialogue"
-"0","0","さあ、我が大陸の竜力の加護を持って
-お前たちの白竜様の元へ向かうと良い――","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","9","Endale","Quest Dialogue"
-"0","0","さあ、我が大陸の竜力の加護を持って
-お前たちの白竜様の元へ向かうと良い――","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","10","Endale","Quest Dialogue"
-"0","0","よくやった――
-我が竜力の新たな高みを解放できたぞ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","11","The White Dragon","Quest Dialogue"
-"0","0","じゃあ始めようか
-あなたの全て、見届けてあげる","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","12","Gillian","Quest Dialogue"
-"0","0","ほら、あそこ！
-最初の試練よ――","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","13","Gillian","Quest Dialogue"
-"0","0","いい？　次の第二の試練の場所へ向かうよ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","14","Gillian","Quest Dialogue"
-"0","0","いた、あそこが第二の試練よ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","15","Gillian","Quest Dialogue"
-"0","0","ふう、次でいよいよ最後の試練だね――","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","16","Gillian","Quest Dialogue"
-"0","0","来た、あそこ――これで最後――","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","17","Gillian","Quest Dialogue"
-"0","0","うん、あなたの戦いぶり、全て見届けた――
-これなら火竜様の加護を継承できると思う","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","18","Gillian","Quest Dialogue"
-"0","0","火竜様の加護の力、見せてあげる","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","19","Gillian","Quest Dialogue"
-"0","0","この力は――火竜様の加護で発揮できている","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","20","Gillian","Quest Dialogue"
-"0","0","この大陸の存亡は――わたしたちの力にかかっている","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","21","Gillian","Quest Dialogue"
-"0","0","わたしは――どんな魔物にも負けはしない","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","22","Gillian","Quest Dialogue"
-"0","0","この大陸の悪は――火竜様の竜力により全て滅する","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","23","Gillian","Quest Dialogue"
-"0","0","攻防一体となる――燃えさかる炎の輝きを見よ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","24","Gillian","Quest Dialogue"
-"0","0","如何なる攻撃も――この炎を断ち切ることはできない","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","25","Gillian","Quest Dialogue"
-"0","0","何度でも不屈の精神で立ち向かえ！","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","26","Gillian","Quest Dialogue"
-"0","0","炎の剣戟の切れ味、見せてあげる！","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","27","Gillian","Quest Dialogue"
-"0","0","滅びよ――火竜様に立てつく魔物め！","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","28","Gillian","Quest Dialogue"
-"0","0","あなたなら、火竜様の加護を継承できると思う
-<NPC 2800>から許可をもらうといいよ","","ui\00_message\quest\q60300500.gmd","\quest\q60300500.arc","q60300500.arc","29","Gillian","Quest Dialogue"
-"0","0","覚者さま――
-戦技の継承をさらなる高みに
-解放するには――
-この大陸の火竜様の竜力が必要となります","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","0","Nazik","Quest Dialogue"
-"0","0","ですが、この大陸の竜力を
-覚者さまが受け入れ得る力をお持ちかどうか
-それを計るための試練を受けて頂きます","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","1","Nazik","Quest Dialogue"
-"0","0","すでに――
-試練の見届け人に相応しい人物に
-話しは通しております
-現地へ向かい見届け人と合流下さいませ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","2","Nazik","Quest Dialogue"
-"0","0","それと試練の場所についてですが
-エリアランクなど――
-既に解放されている場所かどうかの
-ご確認をお願いします","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","3","Nazik","Quest Dialogue"
-"0","0","すでに――
-試練の見届け人に相応しい人物に
-話しは通しております
-現地へ向かい見届け人と合流下さいませ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","4","Nazik","Quest Dialogue"
-"0","0","それと試練の場所についてですが
-エリアランクなど――
-既に解放されている場所かどうかの
-ご確認をお願いします","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","5","Nazik","Quest Dialogue"
-"0","0","おう、遅かったな
-おいおい――なんだ、その不満げなツラはよ？","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","6","Gurdolin","Quest Dialogue"
-"0","0","これから向かう先は、けっこう危ねえ
-ところらしくてよ
-見届けるのに丁度良い手合いがいねえらしい
-んで、俺に声が掛かったてわけだ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","7","Gurdolin","Quest Dialogue"
-"0","0","ま、細けえことは良いじゃねえか
-しっかり見届けてやっからよ
-とっとと始めようぜ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","8","Gurdolin","Quest Dialogue"
-"0","0","とにかく試練はきっちり見届けさせて貰ったぜ
-<NPC 3050>とこへ戻るとするか","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","9","Gurdolin","Quest Dialogue"
-"0","0","お見事です、覚者さま
-覚者さまが身に纏いしその力――
-試練の最中、既に火竜様の加護を身に帯びて
-おられるようです","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","10","Nazik","Quest Dialogue"
-"0","0","さあ、我が大陸の竜力の加護を持って
-白竜様の元へお向かい下さい","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","11","Nazik","Quest Dialogue"
-"0","0","さあ、我が大陸の竜力の加護を持って
-白竜様の元へお向かい下さい","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","12","Nazik","Quest Dialogue"
-"0","0","よくやった――
-我が竜力の新たな高みを解放できたぞ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","13","The White Dragon","Quest Dialogue"
-"0","0","んじゃ、おっぱじめるとするか
-試練だからって、油断すんなよ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","14","Gurdolin","Quest Dialogue"
-"0","0","いたぞ、あれだ、最初の試練ってやつだ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","15","Gurdolin","Quest Dialogue"
-"0","0","いいぞ、次の場所へ向かうぞ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","16","Gurdolin","Quest Dialogue"
-"0","0","ほら、あそこだ、第二の試練だ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","17","Gurdolin","Quest Dialogue"
-"0","0","おし、いよいよ最後だ、気合入れてくぞ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","18","Gurdolin","Quest Dialogue"
-"0","0","いたぞ、あそこだ、これで最後だ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","19","Gurdolin","Quest Dialogue"
-"0","0","ああ、流石だな、これで試練は終わりだぜ
-どうだ、何か変わったか？","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","20","Gurdolin","Quest Dialogue"
-"0","0","とにかく試練はきっちり見届けさせて貰ったぜ
-<NPC 3050>とこへ戻るとするか","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","21","Gurdolin","Quest Dialogue"
-"0","0","俺様の力、あらためて見せてやるぜ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","22","Gurdolin","Quest Dialogue"
-"0","0","ちゃっちゃと終わらせるぞ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","23","Gurdolin","Quest Dialogue"
-"0","0","ちょっとは俺にもまわせよ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","24","Gurdolin","Quest Dialogue"
-"0","0","派手にいこうぜ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","25","Gurdolin","Quest Dialogue"
-"0","0","敵に舐められたら終いだぞ","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","26","Gurdolin","Quest Dialogue"
-"0","0","気合入れろ、気合をよ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","27","Gurdolin","Quest Dialogue"
-"0","0","オラオラオラオラァ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","28","Gurdolin","Quest Dialogue"
-"0","0","そうだ、気を奮い立たせろ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","29","Gurdolin","Quest Dialogue"
-"0","0","渾身の一撃、見せてやる！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","30","Gurdolin","Quest Dialogue"
-"0","0","こいつを喰らいやがれ！","","ui\00_message\quest\q60300520.gmd","\quest\q60300520.arc","q60300520.arc","31","Gurdolin","Quest Dialogue"
-"0","0","やあ、今年もハロウィンの季節がきたんだが――
-実はシェリーちゃんの様子が変なんだ","Well, that time of the year has come 'round again—
-it's Halloween season, but, something's strange
-about little Ms. Shelly this year.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","0","Angelo","Quest Dialogue"
-"0","0","怒ってるわけでも無さそうだし
-喋ると何だか妙に怖いしで
-ああなっている理由がさっぱりわからない
-頼む、君も様子をみてくれないか","It doesn't seem like she's angry,
-but when she speaks, it's awfully strange.
-I have no idea why she's behaving like that.
-Please, could you take a look at her as well?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","1","Angelo","Quest Dialogue"
-"0","0","ヨウヤク、コノキセツガキタワネ
-コトシコソハ――オカシヲ、タクサン――
-フフフフ――フフフフフ――","At last, the time has come.
-This year, many sweets, I shall have—
-Fufufu—fufufufu—","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","2","Shelly","Quest Dialogue"
-"0","0","ワタシガ、ヘン――？
-フフフフフ、オカシナコトヲ――イウノネェ
-ホラ、マチガイナクしぇりーヨ","Me? Strange—?
-Fufufufu, nothing strange here.
-Look, there's no doubt that I'm Shelly.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","3","Shelly","Quest Dialogue"
-"0","0","ソンナコトヨリ
-オカシ、チョウダイ","Nevermind that.
-Sweets, gimme!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","4","Shelly","Quest Dialogue"
-"0","0","ほら！　な！？
-やっぱり様子がおかしいだろう
-頼む、彼女に何がおこったのか調べてくれ！
-このままでは今年のハロウィンは中止だぁ！","Look! You see!? She's acting odd, isn't she? 
-I beg you, find out what's going on with her!
-If she continues to be like this,
-we won't have Halloween this year!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","5","Angelo","Quest Dialogue"
-"0","0","そういえば、ここに来る途中に聞いたんだが
-《ゴーストランタン》というものがあるらしい
-かざすと真実の姿を照らし出すという
-不思議な力をもったランタンだそうだ","Come to think of it, I heard on the way here
-about something called the [Ghost Lantern].
-They say it holds a mysterious power that reveals
-the true forms of things when held aloft.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","6","Angelo","Quest Dialogue"
-"0","0","それを何とかして入手できないだろうか――
-えーっと、いつもの！
-何でも交換してくれる彼！
-彼のところで調べてきてくれ","Can't we somehow obtain it?
-Let's see, the usual one!
-That fellow who trades anything!
-Go see if he knows anything about it.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","7","Angelo","Quest Dialogue"
-"0","0","おやおや、覚者さん
-ずいぶん急いでどうなさいました
-――本日はどのようなご用件で？","Well, well, Arisen.
-What brings you here in such a hurry?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","8","Gregory","Quest Dialogue"
-"0","0","なるほど、《ゴーストランタン》でございますか
-――あることにはありますよ、ええ","I see, the [Ghost Lantern], is it?
-Yes, such a thing does exist—
-Indeed, it does.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","9","Gregory","Quest Dialogue"
-"0","0","こちら少々""いわく付き""の品なので
-あまり表には出していないのですがね――
-へっへへ、他ならぬ覚者さんの頼みですからねぇ
-ええ、交換とさせていただきましょうか","This here is a bit of ""cursed"" item, so I don't 
-put it on display. Heh heh, but since it's 
-your request, Ser, I will allow it. 
-Shall we proceed with a trade?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","10","Gregory","Quest Dialogue"
-"0","0","そりゃ、いくら覚者さんといえど
-タダで差し上げるわけにはいきませんよ
-相応の品をお持ち下されば
-その対価としてお譲りいたしますとも――へへ","Well, even for you, Ser, I can't just give 
-this away for free. Bring me something of 
-equal value, and I shall part with it— 
-heh heh.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","11","Gregory","Quest Dialogue"
-"0","0","持ってきていただく品物は――
-そうですね、今しか手に入らない
-《おばけマシュマロ》でいかがです
-なんでも、魔物を倒すと手に入るそうで","The item you need to bring me is— 
-let's see, how about some 
-[Ghost Marshmallows], which can 
-only be obtained now? I hear they 
-can be found by defeating monsters.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","12","Gregory","Quest Dialogue"
-"0","0","おお、とてもよくお似合いで――
-ただし、以前にも申しました通り
-そのランタンは多少""いわく付き""の品でして
-あやしげなものを照らす際には、ご注意を","Oh, it suits you very well— 
-however, as I mentioned before, 
-that lantern carries a bit of a 
-""reputation."" So do take care when 
-using it to illuminate anything suspicious.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","13","Gregory","Quest Dialogue"
-"0","0","おおお、それがゴーストランタンか！
-早速シェリーちゃんを照らして
-――と思ったのだが、当のシェリーちゃんが
-どこかへ行ってしまったのだ","Ah, so this is the Ghost Lantern! 
-I intended to illuminate Ms. Shelly 
-immediately— but alas, it appears 
-that she has wandered off 
-somewhere. Where could she be now?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","14","Angelo","Quest Dialogue"
-"0","0","追いかけたのだが、フラフラしてる割に
-意外と足が速くて――
-み、見失ってしまって――","I tried to pursue her, but despite 
-being a bit wobbly, she's surprisingly 
-fast— I ended up losing track of 
-her, and now she's nowhere to be found— 
-Where could she possibly be?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","15","Angelo","Quest Dialogue"
-"0","0","方向的にはテル村の方へ
-行ったんじゃないかと思うんだがね
-――頼む、彼女を探してきてくれ！","I think she went
-in the direction of Tel Village.
-—Please, go find her!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","16","Angelo","Quest Dialogue"
-"0","0","ああ、覚者さん
-ついさっき、不思議な恰好の美女が
-ブツブツ独り言を言いながら
-井戸の方に歩いていったのを見たんだよ","Ah, Ser, just a moment ago, I saw a 
-beautiful woman in strange attire muttering 
-to herself as she walked towards the well— 
-It was quite the sight, I assure you— 
-She seemed rather lost in thought.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","17","Norman","Quest Dialogue"
-"0","0","何事かと思って後を追ったんだけど
-いくら覗いても井戸の中には
-誰もいないんだ","Curious about what was happening, 
-I followed her, but no matter how much I peered 
-into the well, there was no one inside— 
-It was as if she had vanished into thin air.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","18","Norman","Quest Dialogue"
-"0","0","真っ暗だし、探すのをやめて出てきたよ
-何か明るく照らすものがないとダメだな","It was so dark that I gave up searching and 
-came out. I need something bright to 
-shine a light on the situation; without 
-it, searching is futile in this darkness.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","19","Norman","Quest Dialogue"
-"0","0","そこの井戸に女性が入っていくのを見たけど
-暗くて何も見えないから、
-何か明るく照らすものをもって行った方がいい","I saw a woman go into that well, but 
-it's too dark to see anything. 
-You'd best take something bright 
-to illuminate the area if you plan 
-to look around there.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","20","Norman","Quest Dialogue"
-"0","0","ナ、ナアニ？　コンナトコロマデ――
-ワタシニ、ナニカヨウ？","Wh-What? You came all the way 
-to a place like this to ask me 
-something? What is it you seek?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","21","Shelly","Quest Dialogue"
-"0","0","ココニハ、アヤシイモノナンテ
-ナニモナイワ
-――シンジテクレルワヨネ？","There's nothing strange here, 
-I promise. You believe me, 
-don't you? I'm telling the truth.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","22","Shelly","Quest Dialogue"
-"0","0","信じない","Don't believe","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","23","Shelly","Quest Dialogue"
-"0","0","信じる","Believe","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","24","Shelly","Quest Dialogue"
-"0","0","アラ、ウフフフ
-オホホ――ァアハハハハハ","Oh my, hehehe! 
-Hoho—ahhahahaha!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","25","Shelly","Quest Dialogue"
-"0","0","バレテイタノネ
-ミノガシテアゲヨウト
-オモッタノニ","So I was found out, huh? 
-I thought I would let you 
-go free, but it seems 
-that's not possible.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","26","Shelly","Quest Dialogue"
-"0","0","ソウヨ、ワタシハしぇりーヨ","Yes, that's me, Shelly.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","27","Shelly","Quest Dialogue"
-"0","0","あら？　私、どうしてこんなところに？
-おかしいわねぇ、アンジェロと一緒に
-今年のハロウィンをお知らせに来たはずなのに","Huh? What am I doing in a place 
-like this? It's odd, I was meant to 
-go with Angelo to share 
-the news of this year's Halloween.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","28","Shelly","Quest Dialogue"
-"0","0","珍しいお菓子を拾おうと思ったら
-急に目の前に――誰かのドレスのすそが見えて――
-その先をよく覚えてないわ","I was going to pick up a rare sweet 
-when suddenly right in front of me, 
-I saw the hem of someone's dress. 
-But I can't quite remember what 
-happened next.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","29","Shelly","Quest Dialogue"
-"0","0","とにかく、早くレスタニアに戻って
-アンジェロとハロウィンの準備をしなきゃね！
-先に戻ってアンジェロにもそう伝えてくれるかしら","In any case, I must hurry back to 
-Lestania to prepare for Halloween with 
-Angelo! Could you please 
-go ahead and let Angelo know that?","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","30","Shelly","Quest Dialogue"
-"0","0","先に戻ってアンジェロに伝えてくれない？
-私もすぐ帰るからって","Would you mind returning to 
-inform Angelo first? I'll be there shortly.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","31","Shelly","Quest Dialogue"
-"0","0","おお！　シェリーちゃんが帰ってきた！
-しかも、様子がおかしかった原因も
-無事に解決したようじゃないか！","Oh! Ms. Shelly has come back! 
-And it seems that the reason for 
-her odd behavior has been 
-safely resolved!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","32","Angelo","Quest Dialogue"
-"0","0","君に頼んで正解だった
-いやー助かった、本当にどうもありがとう
-正直怖くてどうしようかと思ったよ","It was the right choice to ask you. 
-You've really saved me, truly, 
-thank you so much! Honestly, 
-I was so scared and didn't know 
-what to do.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","33","Angelo","Quest Dialogue"
-"0","0","さっ、今年も楽しくおいしい
-ステキなハロウィンを始めようじゃないかッ！","Let's have a fun and delicious
-Halloween again this year!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","34","Angelo","Quest Dialogue"
-"0","0","魔物を倒して、お菓子をたくさん集めたら
-あの鑑定交換のおじさんのところに行くといい","After defeating monsters and 
-collecting lots of treats, 
-it would be best to visit 
-that appraisal exchange fellow.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","35","Angelo","Quest Dialogue"
-"0","0","フフフ、彼には事前に""景品""になるものを
-準備してもらっておいたのだ
-食べてよし、交換してよしのハロウィン
-楽しんでくれたまえ！","Hehe, I arranged for him to prepare 
-some ""gifts"" in advance. 
-You can eat them or trade them for 
-Halloween fun. Enjoy, Ser!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","36","Angelo","Quest Dialogue"
-"0","0","――「いわく付きの物を処分するいい機会」とか
-言っていた気もするが、彼なりのジョークだろう
-い、一応は実際に見て確かめておいた方が
-いいかもしれないがね","I recall him saying it was a 
-great opportunity to dispose of 
-""haunted items,"" which I suppose 
-was his way of joking. Still, 
-it might be wise to check for 
-myself, just to be safe.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","37","Angelo","Quest Dialogue"
-"0","0","アンジェロに心配かけちゃったわ
-彼ったらずいぶんうろたえたみたい","I'm so sorry I worried Angelo.
-He looks so upset.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","38","Shelly","Quest Dialogue"
-"0","0","あ、そうそう
-あの不思議なカボチャの被り物
-私には似合わないからあなたに上げるわ","Ah, right! That strange pumpkin 
-headpiece doesn't suit me, so 
-I'll give it to you instead.","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","39","Shelly","Quest Dialogue"
-"0","0","そうそう、ゴーストランタン以外にも
-いろんな""いわく付き""のものを取り揃えております
-気になるものがあれば、お菓子と交換いたしますよ","Yes, indeed! In addition to the 
-ghost lantern, we have a variety 
-of ""cursed"" items for you to 
-choose from. If something 
-interests you, I can trade it for some treats!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","40","Gregory","Quest Dialogue"
-"0","0","ああシェリーちゃん、一体どうしちゃったんだ","Oh, Shelly, what in the world 
-has happened to you...","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","41","Angelo","Quest Dialogue"
-"0","0","ワスレモシナイ　キョネンノイマゴロ――オマエタチハ
-ワタシノアツメタ、くっきートきゃんでぃーヲ
-ネコソギウバッテイッタノヨ！
-コトシコソ、ウバウガワニ――！","Remember, this time last 
-year— you all snatched the 
-candies I collected! This year, 
-I'll reclaim what's mine—!","ui\00_message\quest\q60301000.gmd","\quest\q60301000.arc","q60301000.arc","42","The White Dragon","Quest Dialogue"
-"0","0","ホッホッホ、一年ぶりだな
-君もレスタニアの民も元気だったかな？
-さぁ、今年もこの季節がやってきたぞ","Ho ho ho, it's been a year, hasn't it? 
-I trust you and the people of Lestania are well. 
-Now, this season has come once more!","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","0","Nicholas","Quest Dialogue"
-"0","0","ただ、今回わしらには""とある探し物""もあってな
-「クリスマスには不思議な流れ星が落ちてくる」
-という伝説があるのを知っているかな？","However, this time we also seek to find
-""a certain something."" Do you happen to know
-of the legend that goes, ""On Christmas,
-a mysterious shooting star will fall?""","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","1","Nicholas","Quest Dialogue"
-"0","0","元々はわしらの暮らす地方に伝わる伝承だが
-なんでもその""不思議な流れ星""が
-こちらの地方に落ちてきたという噂があるのだ","Originally, it was folklore from our region.
-But, there are rumors that the
-""mysterious shooting star""
-has fallen somewhere in this land.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","2","Nicholas","Quest Dialogue"
-"0","0","クリスマスの準備はもちろんだが
-この流れ星の情報収集も手伝ってもらえないかね？","We are, of course, preparing for Christmas, but 
-would you be able to help us gather information 
-about this shooting star?","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","3","Nicholas","Quest Dialogue"
-"0","0","それではまず、やることはわかっているかな？
-そうだ、クリスマスに相応しい恰好から入るのだ","Now, do you know what needs to be done first? 
-That's right, we start by dressing in a way
-befitting the Christmas spirit.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","4","Nicholas","Quest Dialogue"
-"0","0","""昨年と同じクリスマスの装い""
-""キャメロンの店に入荷したクリスマスの武器""
-""好きな装備を赤く染めたもの""
-どれでも一つ、君の好きな物を選んで着てきなさい","""Last year's Christmas attire."" 
-""The Christmas weapons
-now in stock at Cameron's shop."" 
-""Any equipment dyed red, to your liking."" 
-Choose one and wear it here, Ser.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","5","Nicholas","Quest Dialogue"
-"0","0","もちろん、昨年プレゼントした《プレゼントサック》
-《トナカイのコイフ》でもよいぞ","Of course, 
-the ""Present Sack"" I gave you last year, 
-or the ""Reindeer's Coif"" would also be fine, Ser.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","6","Nicholas","Quest Dialogue"
-"0","0","おお、着替えてきたか！
-ふむふむ今年もバッチリのようだ","Ah, you've changed clothes, I see! 
-Hmm, yes, you look absolutely perfect
-this year too, Ser.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","7","Nicholas","Quest Dialogue"
-"0","0","では、本格的にクリスマスの準備開始といこう
-流れ星の行方についても探ってもらいたいが
-なぁに、準備のついででかまわんよ","Now, let us begin the real preparations
-for Christmas; I'd like you to find out
-where the shooting star has fallen.
-Yes, Ser. Find out while you're at it.
-I do not mind.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","8","Nicholas","Quest Dialogue"
-"0","0","今年はどんなクリスマスになるのか
-ワクワクするじゃないか
-ホッホッホ","What kind of Christmas will this year bring? 
-It's truly exciting, isn't it? Ho ho ho!","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","9","Nicholas","Quest Dialogue"
-"0","0","今年もこの季節がやってきましたよ！
-私たちもやってきましたよ！
-さぁさぁ、お揃いの服で決めましょう！","It's that time of year again!
-We're here, too!
-Come on, come on, 
-let's decide on matching outfits!","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","10","Mia","Quest Dialogue"
-"0","0","「何事も、まずは恰好から入るべきである」
-――これが我が主の信念でございます","""One must always begin with their appearance."" 
-This is the creed of my Master.","ui\00_message\quest\q60301002.gmd","\quest\q60301002.arc","q60301002.arc","11","Marco","Quest Dialogue"
-"0","0","さてさて、恰好がきまったところで
-本格的にクリスマスの支度をはじめようではないか","Well, now that we're all dressed, let's start 
-getting ready for Christmas in earnest!","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","0","Nicholas","Quest Dialogue"
-"0","0","昨年の君たちのおかげで
-このレスタニアにも""クリスマス""が
-定着しそうだと聞いてな","Because of your lot's efforts last year,
-I've heard that this ""Christmas"" thing
-has taken root here in Lestania.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","1","Nicholas","Quest Dialogue"
-"0","0","皆のクリスマスの準備を手伝いながら
-""流れ星""の情報を持つ者も同時に探してもらいたい
-この地方に落ちたとなれば目撃者もいるはずだ","While helping everyone with the Christmas 
-preparations, I'd like you to search for anyone 
-who has information about the ""shooting star."" 
-If it fell in this region, there must be witnesses.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","2","Nicholas","Quest Dialogue"
-"0","0","クリスマスの準備と一緒に
-""不思議な流れ星""の情報収集も手伝ってもらいたい
-レスタニアの地に落ちたのが本当であれば
-ここの者たちから何か情報が得られるかもしれん","Along with the Christmas preparations,
-I'd like you to help gather information
-on the ""mysterious shooting star.""
-If it truly fell in Lestania, we might be able
-to learn something from the people here.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","3","Nicholas","Quest Dialogue"
-"0","0","ああ、もちろん
-最優先はクリスマスの準備だがな
-ホッホッホ","Ah, of course. 
-The topmost priority is preparing
-for Christmas, though. Ho ho ho.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","4","Nicholas","Quest Dialogue"
-"0","0","こんにちは、隊長さん
-え？　流れ星？
-――お星さまを探しているの？","Hello, Captain. 
-Huh? A shooting star? 
-
-—So, you're looking for a star?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","5","Mayleaf","Quest Dialogue"
-"0","0","うーん、そういえば少し前に《リンウッド》で
-光る物が落ちてきたって言うお話を聞いたの","Hmm, come to think of it,
-I heard some talk about glowing thing
-that fell in Lynwood a little while ago.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","6","Mayleaf","Quest Dialogue"
-"0","0","でもね、何が落ちたのかを調べようとしても
-そこに迷いエントが出て、邪魔をするんだって
-どうしてそこに急に現れたのかは
-わからないんだけど、どうにかしないと――","But you see, 
-whenever they try to investigate what fell, 
-a Lost Ent shows up and causes trouble. 
-They don't know why it suddenly appeared,
-but something must be done about it.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","7","Mayleaf","Quest Dialogue"
-"0","0","ねえ隊長さん
-その迷いエントを落ち着かせてあげて
-落ちてきた光る物が何か、調べてみませんか？","Hey, Captain. 
-Could you calm that Lost Ent down? 
-Once that's done, why don't you find out
-what that fallen glowing object is?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","8","Mayleaf","Quest Dialogue"
-"0","0","不思議な光がお空から落ちてきたのは
-リンウッド近くの《燐光虫の洞窟の》辺りだって
-迷いエントがいるそうだから、気を付けてね","A strange light fell from the sky. 
-It was near the [Glowworm Cave],
-close by to Lynwood. There are reports
-of a Lost Ent in the area, so be careful, alright?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","9","Mayleaf","Quest Dialogue"
-"0","0","迷いエントを落ち着かせてきてくれたんですね！
-よかった、これでまた洞窟の近くで遊べます","You managed to calm the Lost Ent!
-That's great! 
-Now we can play near the cave again.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","10","Mayleaf","Quest Dialogue"
-"0","0","実は、あの近くで採れるキレイな木の実を
-今年のクリスマスツリーに飾りたくって――","Actually, I want to decorate this year's 
-Christmas tree with the beautiful nuts 
-that grow near that place.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","11","Mayleaf","Quest Dialogue"
-"0","0","あ、でもまた騎士団の人たちに怒られちゃうから
-あの辺りで遊んでるのはナイショ――","Ah, but if I play around there again, 
-the knights will scold me, so it's a secret...","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","12","Mayleaf","Quest Dialogue"
-"0","0","え？　エントがいなくなった跡に光る欠片？
-うーんなんでしょう
-見たことがない、不思議な感じ
-――もしかしたら、これが流れ星なんでしょうか？","Huh? Glowing fragments where the Ent used to be? 
-Hmm, what could it be? 
-I've never seen anything like it, strange...
-—Could this be the falling star, perhaps?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","13","Mayleaf","Quest Dialogue"
-"0","0","もしこれが流れ星じゃなかったとしても
-わたしは隊長さんにお願い事を叶えてもらったから
-これは隊長さんが持っていてください","Even if this isn't the falling star, 
-I've already had my wish granted by the Captain, 
-so you get to keep this.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","14","Mayleaf","Quest Dialogue"
-"0","0","ふふふ、願いを叶える流れ星
-とっても素敵な言い伝えですね","Hehe, a falling star that grants wishes. 
-What a nice tale.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","15","Mayleaf","Quest Dialogue"
-"0","0","なに、さっそく流れ星の情報を！？
-どれどれ――","What, news of the falling star already!? 
-Let me see...","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","16","Nicholas","Quest Dialogue"
-"0","0","うーむ、実はわしらも
-本物の流れ星を見たことは無いのだ
-だから、それが流れ星の欠片なのかはわからん","Hmm, actually, none of us have ever
-seen a real falling star before.
-So, we can't say if this is a piece of one.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","17","Nicholas","Quest Dialogue"
-"0","0","しかし、言い伝えにある通り
-見つめていると不思議と幸せな気持ちが湧いてくる
-もう少し調べれば、これが本物かどうか
-わかるかもしれん","However, as the legend says, if you gaze upon it, 
-a strange sense of joy starts to well up inside. 
-If we investigate this a little more,
-we might be able to tell if it's real or not.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","18","Nicholas","Quest Dialogue"
-"0","0","引き続き、調査の手伝いを頼んだぞ","I trust you'll continue your aid
-with the investigation.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","19","Nicholas","Quest Dialogue"
-"0","0","私たちの暮らす地域では有名な話なんです！
-「流れ星をみたら3回願い事を呟く」って
-そうすると、その願いが叶うっていう――
-ステキな話じゃありませんか？","This is a famous tale in our region! 
-""When you witness a shooting star, 
-make three wishes upon it.""
-They say those wishes will come true― 
-Isn't it just a wonderful story?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","20","Mia","Quest Dialogue"
-"0","0","覚者さまなら、どんなお願い事をしますか？
-使い切れない程のお金？
-どんな魔物も倒せる武器？
-食べきれないほどのご馳走？","Master Arisen, what would your wish be? 
-Uncountable riches? 
-A weapon capable of slaying any beast? 
-A banquet too large to consume?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","21","Mia","Quest Dialogue"
-"0","0","「ポーンは流れ星を見てお願い事をするのか」
-で、ございますか？","""Do Pawns also make wishes
-upon seeing a shooting star?""
-Is that what you're asking?","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","22","Marco","Quest Dialogue"
-"0","0","そうですね
-我らには欲というものはありません
-願うとすれば主の幸せ、ただそれだけです","That is correct. 
-We have no desires of our own. 
-If we were to make a wish, it would only 
-be for our Master's happiness, nothing else.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","23","Marco","Quest Dialogue"
-"0","0","覚者様のポーンもそう思っていることでしょう","I am certain that Ser Arisen's Pawns 
-feels the same.","ui\00_message\quest\q60301003.gmd","\quest\q60301003.arc","q60301003.arc","24","Marco","Quest Dialogue"
-"0","0","聞きましたよ、覚者さま！
-さっそく不思議な流れ星の情報を掴んだそうですね！
-さあさあ！　その調子でどんどんいきましょう
-あ、もちろん最優先はクリスマスの準備ですけどね","I've heard word, Master Arisen!
-You've already gathered info
-on the mysterious shooting star! 
-Come now, let's keep up the jolly good work!
-Of course, Christmas preparations comes first.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","0","Mia","Quest Dialogue"
-"0","0","それじゃあ引き続き、神殿の皆さんをお手伝いしつつ
-流れ星の情報を探しましょう！
-レスタニアの人たちもクリスマスムードで
-だんだん盛り上がってきましたね！","Now, let's keep helping the temple folks
-while investigating the shooting stars!
-The people of Lestania are also getting into the
-Christmas spirit and are getting more excited!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","1","Mia","Quest Dialogue"
-"0","0","神殿の人たちとクリスマスの準備をしながら
-流れ星の情報も集めましょう！","While preparing for Christmas 
-with the temple folks, 
-let's also gather information on the 
-shooting stars!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","2","Mia","Quest Dialogue"
-"0","0","もちろん、あたしも主の手足となって
-""クリスマスの準備""と""流れ星探し""
-どっちも頑張ってるんですよ！","Of course, I am also Master's hands and feet, 
-working hard on both the 
-""Christmas preparations"" 
-and the ""search for shooting stars""!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","3","Mia","Quest Dialogue"
+﻿"0","0","おや！　おやおや！
+それはまたもや
+""流れ星の欠片らしきもの""ではありませんか！","Oh! Oh my! 
+Is that perhaps yet another 
+""fragment of a shooting star""?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","4","Mia","Quest Dialogue"
+"0","0","リサ様もパーティの準備ができて
+とても喜んでいらっしゃるご様子
+流石ですね覚者様！","Lady Lisa is ready for the party 
+and appears to be quite delighted. 
+Truly remarkable, Arisen!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","5","Mia","Quest Dialogue"
+"0","0","リサ様の渾身の飾りですが、
+もし手に入れることが出来たら、
+ぜひ覚者さまもご自室に飾ってみては？","Lady Lisa's decoration is a masterpiece.
+If you're able to get it,
+you should definitely display it in your own room.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","6","Mia","Quest Dialogue"
+"0","0","あら――覚者様
+なにか特別なご用件ですか？","Oh― Ser Arisen.
+Do you have some special request?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","7","Lisa","Quest Dialogue"
+"0","0","流れ星の目撃情報？
+うーん、それらしい話は聞きませんね
+お役に立てず申し訳ないのですが","Sightings of shooting stars? 
+Hmm, I haven't heard any stories like that. 
+I'm sorry I cannot be of more help.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","8","Lisa","Quest Dialogue"
+"0","0","あ、でも「テル村で何か不思議なものを見た」
+という噂があると、この前行商の方から
+聞いたような――
+流れ星かどうかはわかりませんけどね","Ah, but I did hear a rumor from a traveling 
+merchant saying they saw something 
+mysterious in Tel Village. 
+I'm not sure if it was a shooting star, though.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","9","Lisa","Quest Dialogue"
+"0","0","丁度、私もテル村に用があるのです
+もし覚者様が目撃情報を探しに行かれるのなら
+お遣いをお願いしてもいいでしょうか？","Coincidentally, 
+I also have business in Tel Village. 
+If you are going to look for sightings, Arisen, 
+may I ask you to do an errand for me?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","10","Lisa","Quest Dialogue"
+"0","0","クリスマスパーティの準備として
+""特別なごちそう""を調達しようと思いまして！
+テル村のニキさんが売っている
+ハーブサラダが絶品なんです","As part of the Christmas party preparations, 
+I was thinking of getting some ""special dishes""! 
+The herb salad that Nikki from Tel Village sells 
+is absolutely exquisite!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","11","Lisa","Quest Dialogue"
+"0","0","すでに人数分のサラダは注文済みなので
+テル村に行かれたら《黒ブドウ亭》に寄って
+受け取ってきていただきたいのです","I've already ordered enough salads for everyone, 
+so when you go to Tel Village, please stop by 
+the ""Black Grape Inn"" and pick them up for me.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","12","Lisa","Quest Dialogue"
+"0","0","パーティでお出しする予定の
+""ハーブサラダ""を受け取ってきて
+いただきたいのです","I would like you to pick up the ""Herb Salad"" 
+that we plan to serve at the party.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","13","Lisa","Quest Dialogue"
+"0","0","テル村の《黒ブドウ亭》にいるニキさんが作る
+ハーブのサラダ、とても絶品なんですよ
+テルで採れる新鮮なハーブが入っているとかで
+神殿の女性陣はみんな大好きなんです","The herb salad made by 
+Niki at the ""Black Grape Inn"" 
+in Tel Village is absolutely exquisite. 
+It's made with fresh herbs from Tel, and 
+the women of the temple absolutely love it.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","14","Lisa","Quest Dialogue"
+"0","0","はぁーい、なにか御用？
+あら、リサさんのお遣いなんだって？
+ご苦労様","Yes, do you need something? 
+Oh, you're running an errand for Ms. Lisa? 
+You must be working hard.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","15","Nikki","Quest Dialogue"
+"0","0","それじゃあこれ、ご依頼のあった
+""ハーブサラダ""を30人前ね
+腕によりをかけたよ
+新鮮第一だから早めに持って帰ってね","Here you go, 
+the ""herb salad"" requested, 30 servings. 
+I've put my best effort into making it. 
+Since freshness is key, 
+please take it back quickly.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","16","Nikki","Quest Dialogue"
+"0","0","え？　光る物が降ってこなかったかって？
+そんなことあったかしら？","Huh? Did something glowing fall here? 
+I don't recall anything like that happening.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","17","Nikki","Quest Dialogue"
+"0","0","うーん、そこにいるボブが酔っぱらって
+「光る一つ目の魔物が降ってきた！」
+って大騒ぎしたことがあったんだよね――
+もしかしてその話に尾鰭がついたのかしら","Hmm, there was a time when Bob over there got 
+drunk and caused a fuss, saying, ""A glowing 
+one-eyed monster fell!"" 
+Could it be that story got exaggerated a bit?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","18","Nikki","Quest Dialogue"
+"0","0","ありがとうございます！
+覚者様のおかげで、喜ばれること間違いなしの
+メニューを準備できました","Thank you! 
+With Ser Arisen's help, I've prepared a 
+menu that is sure to bring joy to everyone.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","19","Lisa","Quest Dialogue"
+"0","0","えぇっと――ついでと言ってはなんですが
+もう一つ、お遣いをお願いしても
+よろしいでしょうか","Um... This might be a bit much to ask, 
+but could I ask you to do one more task for me?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","20","Lisa","Quest Dialogue"
+"0","0","メインディッシュに""ミートローフ""を
+ご用意しようと思ったんです
+調べてみたら、ローテスは《海竜亭》の
+ミステラさんが作るミートローフが絶品なんだとか","I was planning to prepare meatloaf as the 
+main dish. When I looked it up, I found out 
+that Mystera from the Sea Dragon Inn makes 
+the most exquisite meatloaf in Rotes.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","21","Lisa","Quest Dialogue"
+"0","0","こちらも注文は済んでいますので
+あとは受け取りに行くだけなんです！","The order is already completed, 
+so all that's left 
+is to go and pick it up!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","22","Lisa","Quest Dialogue"
+"0","0","今年のメインディッシュは
+ローテスの《海竜亭》にいるミステラさん特製
+""ミートローフ""にしました","For this year's main dish, I decided on the 
+special ""Meatloaf"" made by 
+Mystera at the Sea Dragon Inn in Rotes.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","23","Lisa","Quest Dialogue"
+"0","0","注文ならもう済んでいますから
+《海竜亭》に行ってミステラさんから
+お料理を受け取ってきていただきたいのです","The order has already been placed, so I would 
+like you to go to the Sea Dragon Inn and pick up 
+the dish from Mystera.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","24","Lisa","Quest Dialogue"
+"0","0","ほら、もしかしたらローテスで
+流れ星の情報が見つかるかもしれないじゃないですか
+――ちょっと無理があるでしょうか？","You might find information about the 
+shooting star in Rotes. 
+—Is that a bit too much to ask?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","25","Lisa","Quest Dialogue"
+"0","0","あら、リサさんのお遣い？
+丁度よかった――
+おいしそうに出来てるわよ、""ミートローフ""
+出来立てでちょっと熱いから気を付けてね","Oh, is this an errand for Ms. Lisa? 
+Perfect timing— 
+The meatloaf turned out delicious. 
+It's freshly made, so be careful, it's a bit hot.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","26","Mystera","Quest Dialogue"
+"0","0","え？　流れ星の噂を聞かなかったかって？
+そうねぇ――特にそれらしい話は聞かないかも","What? Rumors about shooting stars? 
+Hmm... I haven't heard anything that sounds 
+like it, to be honest.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","27","Mystera","Quest Dialogue"
+"0","0","どうもありがとうございます！
+これでメインディッシュの準備もできました","Thank you! 
+With this, the main dish is all set.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","28","Lisa","Quest Dialogue"
+"0","0","でも、そのご様子だと""流れ星の情報集め""は
+思うようにいっていなさそうですね――","But from the looks of it, 
+gathering information on the ""shooting star"" 
+doesn't seem to be going as planned...","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","29","Lisa","Quest Dialogue"
+"0","0","あの、そんな中で大変恐縮なのですが
+最後にもう一つだけ、お願いできませんか？
+ごちそうは揃ったので
+あとは""お部屋の飾り付け""をしたいんです","I hate to ask in such circumstances, but 
+could I request one more thing? The feast is 
+ready, and now I just need to decorate the 
+room.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","30","Lisa","Quest Dialogue"
+"0","0","でも、飾り付けのメインともいえる""ツリー""が
+まだ無くって――
+リンウッドのミランダさんのところで
+ツリー用の木を受け取ってきていただきたいのです","But, the centerpiece of the decorations, 
+the ""tree,"" is still absent. Would you be 
+able to go to Miranda in Lynwood and pick 
+up the tree for the decorations?","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","31","Lisa","Quest Dialogue"
+"0","0","クリスマスのと言えばツリー
+ツリーと言えば木、木と言えばリンウッド
+ミランダさんならいい木を用意してくれるはずです","When it comes to Christmas, it's the tree. 
+And when you think of a tree, you think of 
+wood, and when it comes to wood, it's 
+Lynwood. Miranda should be able to provide 
+a good tree for you.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","32","Lisa","Quest Dialogue"
+"0","0","あと、木の飾り付けに使うリボン用の布とか
+石とか宝石も、ついでにお願いしていて――
+ちょっと重たいかもしれません","I also requested some fabric for ribbons, 
+stones, and jewels for decorating the tree. 
+It might be a bit heavy to carry, though.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","33","Lisa","Quest Dialogue"
+"0","0","ああ、リサさんから注文があったものね
+ちゃんと用意してあるわよ！
+リンウッド産の特別な木材――
+ちょっと重たいから気を付けて","Ah, you're here for Ms. Lisa's order, aren't you?
+Everything's ready! Special wood from Lynwood— 
+It's a bit heavy, so be careful when you carry it.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","34","Miranda","Quest Dialogue"
+"0","0","そうそう、ツリーに飾るための
+リボンとか石とか――
+使えそうなものを色々用意しておいたから
+一緒に持って行ってね","Right, right. I've prepared ribbons, stones, 
+and other things you can use for decorating the 
+tree. Take them along with you, please.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","35","Miranda","Quest Dialogue"
+"0","0","まぁ、ありがとうございます！
+これでツリーもバッチリですね","Ah, thank you! 
+With this, the tree is looking perfect!","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","36","Lisa","Quest Dialogue"
+"0","0","結局、私のお願いは聞いていただいたのに
+肝心の""流れ星""に関する情報はありませんでしたね
+――なんだか申し訳ないです","In the end, you did fulfill my request, 
+but there was no information 
+about the ""shooting stars."" 
+I feel somewhat guilty about that.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","37","Lisa","Quest Dialogue"
+"0","0","あ！　そういえば、受け取った宝石の中に
+見覚えのない石が混ざっていました
+こちらは覚者様にお返しいたしますね
+キラキラしていてとても綺麗ですよ","Ah! Now that I think of it, 
+there was a stone among 
+the jewels I received that I didn't recognize. 
+I'll return it to you, Ser Arisen. 
+It's quite dazzling and very beautiful.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","38","Lisa","Quest Dialogue"
+"0","0","色々とお手伝いいただいて、ありがとうございました
+これで無事にパーティの支度が終わりそうです
+今年はどんなクリスマスになるんでしょう
+とても楽しみですね","Thank you for all your help. 
+With this, it looks like the preparations for 
+the party are nearly done. 
+I wonder what kind of Christmas it will be this 
+year. I'm really looking forward to it.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","39","Lisa","Quest Dialogue"
+"0","0","さて、集めた石をオーナメントに加工しなければ
+ここはクラフトルームのクレイグさんの出番かしら","Now, I need to turn the gathered stones into 
+ornaments. 
+Looks like it's time for Ser Craig in the 
+Crafting Room to lend a hand.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","40","Lisa","Quest Dialogue"
+"0","0","ホッホッホ
+クリスマスの準備は順調のようだな
+準備の段階からワクワクが止まらない――
+それがクリスマスの良いところなのだ","Ho ho ho, it looks like Christmas preparations 
+are going well. The thrill starts from the moment 
+the preparations begin—this is the magick of 
+Christmas.","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","41","Nicholas","Quest Dialogue"
+"0","0","クリスマスパーティには
+""みんなが喜ぶごちそう""と""心躍る飾り付け""
+この二つが何よりも重要だと思われます","For the Christmas party, the two most important 
+things are ""delicious feasts for everyone"" and 
+""exciting decorations that lift the spirits.""","ui\00_message\quest\q60301004.gmd","\quest\q60301004.arc","q60301004.arc","42","Marco","Quest Dialogue"
+"0","0","覚者様、流れ星の調査はいかがでしょうか
+我々も方々探しまわっているのですが
+なかなか有益な情報にはつながらず――","Ser Arisen, how is the investigation into the 
+shooting stars coming along? We've been 
+scouring all over, but it's difficult to find 
+any useful leads...","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","0","Marco","Quest Dialogue"
+"0","0","聞けば、神殿の皆さまをお手伝いする過程で
+""不思議な石の欠片""を入手されたとか","I hear that, while assisting the people of the 
+temple, you obtained a ""fragment of a mysterious 
+stone""...","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","1","Marco","Quest Dialogue"
+"0","0","この調子でよりたくさんの願いを叶えれば
+いつかは流れ星が見つかるかもしれません","If you continue granting more wishes like this, 
+perhaps one day the falling star will be found.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","2","Marco","Quest Dialogue"
+"0","0","丁度そこにいらっしゃる
+シーベル様がなにやらお困りのご様子――","Right over there, 
+Master Seabell appears to be in 
+some sort of trouble.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","3","Marco","Quest Dialogue"
+"0","0","もっと多くの方の願いを叶えれば
+きっと流れ星が見つかるのではないでしょうか","Perhaps, if we fulfill more wishes, we'll be 
+able to find the shooting star.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","4","Marco","Quest Dialogue"
+"0","0","いえ、もしかしたら
+人々のお願いを叶えるからこそ
+その人のもとに流れ星が現れるのかもしれません","No, perhaps it is precisely because we grant 
+the wishes of others that the shooting star 
+appears.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","5","Marco","Quest Dialogue"
+"0","0","ああ～何ということでしょう
+わたしとしたことがまさかのスランプとは！
+新曲のクリスマスソングのイメージが
+全く湧いてこないのです！","Ah, what a disaster! 
+I can't believe I'm in such a slump! 
+I can't get any inspiration for a 
+new Christmas song.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","6","Seabell","Quest Dialogue"
+"0","0","人々を勇気づけ、応援するような歌詞ッ！
+そして幸せなホリデーシーズンにふさわしい旋律ッ！
+ああ～どうしてもイメージが湧いてこない～","Songs that uplift and cheer the people! 
+And a melody worthy of a joyful holiday season! 
+Ah, why can't I get the image to come to me～","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","7","Seabell","Quest Dialogue"
+"0","0","おお～、素晴らしい応援！
+あなたの応援で、私にイメージがッ！
+どんどんイメージが湧いてきます～
+これでクリスマスソングも無事に完成ッ！","Ohh～, such wonderful support! 
+Your encouragement has sparked the image in me! 
+The image keeps coming to me, little by little～
+With this, the Christmas song is finally complete!","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","8","Seabell","Quest Dialogue"
+"0","0","あなたの素晴らしいポージングに感謝して
+お礼にこちらを差し上げましょう――！
+先日、異国の旅人が私の歌のお代にと
+置いていった不思議な石でございます","In gratitude for your wonderful posing, 
+allow me to present you with this—! 
+It is a mysterious stone that an overseas 
+traveler left behind as payment for my song.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","9","Seabell","Quest Dialogue"
+"0","0","私にその価値はわかりませんが
+それをもっていると不思議と
+胸が温かくなってくるのです
+その幸せをあなたにもお裾分けしましょう～","I do not understand its value, 
+but when I hold it, it somehow fills 
+my heart with warmth. I will share 
+this happiness with you as well～","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","10","Seabell","Quest Dialogue"
+"0","0","おお、これはたくさんの欠片！
+しかも今まで入手したものと全て同じ物
+落ちた流れ星が砕けた欠片ではないでしょうか","Oh, there are so many shards! 
+Moreover, they are all identical
+to the ones we have obtained before.
+Could these be fragments of a shooting star?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","11","Marco","Quest Dialogue"
+"0","0","理由はわかりませんが
+皆様の願いを叶える覚者様のもとに
+集まってきたとしか思えません","I can't say why,
+but I feel that you will be the one to cause
+everyone's wishes to come true, Ser Arisen.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","12","Marco","Quest Dialogue"
+"0","0","これらの欠片を我が主に見せてみてください","Please present these fragments to my Master.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","13","Marco","Quest Dialogue"
+"0","0","どれどれ、集めた欠片を見てみようか
+ふむ、これは――","Let's take a look at the shards you've collected. 
+Hmm, this is—","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","14","Nicholas","Quest Dialogue"
+"0","0","実物を見たことはないが
+触れているだけで感じるこの不思議な感覚
+これこそ、願いを叶える流れ星に違いない","I have never seen one in person, but 
+just touching it, I can feel this strange sensation. 
+This must be the falling star that fulfills wishes.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","15","Nicholas","Quest Dialogue"
+"0","0","これは、このレスタニアの民の願いを叶え
+幸せを運んだ君が持つにふさわしい
+バラバラの欠片を一つに戻せるかどうか
+あとで試してみよう","This is something worthy of one who has granted 
+the wishes of the people of Lestania and brought 
+joy. I wonder if you can restore these broken 
+fragments. We'll test it later and see.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","16","Nicholas","Quest Dialogue"
+"0","0","しかしその前に、せっかく準備したパーティだ
+みなで盛大に楽しもうではないか
+メリークリスマス！　ホッホッホ！","However, before we proceed, let us enjoy this 
+grand feast we've prepared. 
+Let us all revel together! 
+Merry Christmas! Ho ho ho!","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","17","Nicholas","Quest Dialogue"
+"0","0","ああ、いいところに来たな
+丁度お前に聞いてもらいたいことがあったんだ","Ah, you've come at just the right time. 
+There is something I'd like you to hear.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","18","Craig","Quest Dialogue"
+"0","0","リンウッドから調達した鉱石を使って
+""クリスマスツリーのオーナメント""とやらに
+加工したいと依頼が来たんだ","I received a request to use the ore 
+procured from Lynwood to craft what 
+they call ""Christmas tree ornaments.""","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","19","Craig","Quest Dialogue"
+"0","0","だが、オーナメントなんて洒落た物
+俺は作ったことがない――
+だから、どんな形がいいのか意見を聞きたい","But I've never made something as elegant as 
+an ornament before—so, I want to hear your 
+thoughts on what shape would be best.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","20","Craig","Quest Dialogue"
+"0","0","""星形""と""丸形""
+お前ならどちらがいい？","""Star-shaped"" or ""Circular."" 
+Which one do you think would be better, Ser?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","21","Craig","Quest Dialogue"
+"0","0","星形の方が可愛い","The star shape is much prettier.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","22","Craig","Quest Dialogue"
+"0","0","丸形の方が加工がしやすい","The round shape is easier to craft.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","23","Craig","Quest Dialogue"
+"0","0","ふむ、なるほどな
+となれば星形のオーナメントを作ろう","Hmmm, I see what you mean.
+Then let's make a star ornament!","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","24","Craig","Quest Dialogue"
+"0","0","その前に、星形をイメージしやすくなるような
+インスピレーションの湧くモノを
+持ってきてくれないか","Before we begin, Ser, could you bring me
+something inspiring to help me visualize
+the star shape more clearly?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","25","Craig","Quest Dialogue"
+"0","0","見本用に一つだけでいいぞ
+――日頃は武器しか作らないからな
+装飾品を作るには、まず
+イメージを膨らませないと","One will be enough as a sample. 
+I typically only craft weapons, so in order 
+to create decorations, I must first 
+expand my imagination.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","26","Craig","Quest Dialogue"
+"0","0","ふむ、なるほどな
+となれば丸形のオーナメントを作ろう","Hmmm, I see what you mean.
+Then let's make a round ornament!","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","27","Craig","Quest Dialogue"
+"0","0","その前に、丸形をイメージしやすくなるような
+インスピレーションの湧くモノを
+持ってきてくれないか","Before we begin, Ser, could you bring me
+something inspiring to help me visualize
+the shape more clearly?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","28","Craig","Quest Dialogue"
+"0","0","見本用に一つだけでいいぞ
+――日頃は武器しか作らないからな
+装飾品を作るには、まず
+イメージを膨らませないと","One will be enough as a sample. 
+I typically only craft weapons, so in order 
+to create decorations, I must first 
+expand my imagination.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","29","Craig","Quest Dialogue"
+"0","0","なるほど、これはいい見本になるな
+よし――この通りに鉱石を加工し
+オーナメントに仕上げよう","I see, this will make a good sample. 
+Alright then—let us process the ore 
+and craft it into an ornament.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","30","Craig","Quest Dialogue"
+"0","0","ああ、その前にきちんと礼をしておこう
+――先日仕入れた石材の中に
+見覚えの無い石ころが紛れ込んでいてな","Ah, before that, let me show proper gratitude. 
+—Among the stones I acquired recently, 
+there was a rock I didn't recognize.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","31","Craig","Quest Dialogue"
+"0","0","武器にするには小さすぎる
+かといって装飾に使うにも加工が難しい
+俺が持っていても仕方がないから
+貰い手を探していたところだ","It's too small to be made into a weapon. 
+Yet, it's also too difficult to use as decoration. 
+There's no point in me keeping it, so 
+I've been looking for someone to take it.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","32","Craig","Quest Dialogue"
+"0","0","まあ、拾い物を礼の品とするのは気が引けるが
+なかなか綺麗な石だ
+売ればそれなりの値にはなるだろう","Now, I feel uneasy about using
+a found object as a gift, 
+but it's really quite a beautiful stone.
+It should bring a fair price if sold.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","33","Craig","Quest Dialogue"
+"0","0","オーナメントなんて洒落たものは
+作ったことがないんでな
+見本さえあれば、それなりには作れるだろう","I've never made something as fancy as an ornament,
+but if I have a sample, I should be able to make 
+something decent.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","34","Craig","Quest Dialogue"
+"0","0","ああ、お前か
+丁度いいところに来てくれたな
+急な話で悪いんだが、お前――酒には詳しいか？","Ah, it's you. 
+You've come at just the right time. 
+Sorry to ask so suddenly, but are you 
+knowledgeable about wine?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","35","Isaac","Quest Dialogue"
+"0","0","神殿のクリスマスパーティとやらで
+皆がそれぞれ準備をしているんだが
+――俺は酒の調達担当にされた","At the temple's Christmas party, 
+everyone is preparing in their own way, 
+but I've been made responsible 
+for acquiring the wine.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","36","Isaac","Quest Dialogue"
+"0","0","ただ――こう見えて酒は飲まない主義でな
+まぁ、酒好きのアランに話を聞いて
+近頃流行りの酒があるってことまではわかった","Though, as you can see, I don't drink. 
+I did, however, hear from Alan, a fan of liquor, 
+that there's a popular drink 
+going around these days.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","37","Isaac","Quest Dialogue"
+"0","0","だが、そこから先が問題だ
+なんせ、パーティに来る人数分の酒だ――
+一人ではなかなか集められん","But the real issue comes after that. 
+The quantity of alcohol needed for the party 
+is more than I can gather alone. 
+It's simply too much for one person.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","38","Isaac","Quest Dialogue"
+"0","0","そこでお前に、調達を少し
+手伝ってもらいたいって話だ
+――よくある話だろ","So, I wanted to ask if you could help me gather 
+some of it. It's a simple request, really. 
+I'm sure it's not unfamiliar to you.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","39","Isaac","Quest Dialogue"
+"0","0","最近流行りの酒があるらしい
+俺はこういう風貌だからか
+どうやら酒好きだと思われたようだ","I've been told there's a popular new drink
+going around lately. Maybe it's how I look that
+I've been mistaken for someone who enjoys alcohol.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","40","Isaac","Quest Dialogue"
+"0","0","実際――あれは――頭がぼんやりするだろう
+だから飲まないことにしてるんだがな","The truth is, that stuff,
+it makes your head feel fuzzy.
+That's why I've decided not to drink it.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","41","Isaac","Quest Dialogue"
+"0","0","あたしたち、クリスマスシーズン以外でも
+いろんな幸せを探したり届けたり
+日々活動してるんですよ！","We search for and bring different kinds of joy, 
+not just in the Christmas season, but every day!","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","42","Mia","Quest Dialogue"
+"0","0","流れ星ってどんな物なんでしょう
+あっ、でも、もしそれが本当にあったとしたら
+人々に幸せを届けるべく活動してるあたしたちも
+お払い箱になるんですかねー？","I wonder what a shooting star is really like. 
+Ah, but if they were real, would we, who work to 
+bring happiness to people, be put out of work?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","43","Mia","Quest Dialogue"
+"0","0","ふう、これで酒が揃ったな
+――お前の仕事の速さはいつものことだが、流石だ","Phew, with this, the alcohol is ready. 
+Your speed at work is nothing new, but still, 
+impressive as always.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","44","Isaac","Quest Dialogue"
+"0","0","これを機に酒について勉強でもするか
+まぁ――知識を集めたところで
+そう飲めはしないんだが――","Perhaps I should use this opportunity
+to learn about alcohol. 
+Well... even if I gather the knowledge, 
+I still wouldn't be able to drink much.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","45","Isaac","Quest Dialogue"
+"0","0","そうだ、お駄賃と言ってはなんだが
+この前ダンジョンの開拓中に見つけた
+変わった石をお前にやろうか
+こういう変わった物、好きだったよな？","I've got something for you, though I hesitate to 
+call it a reward. How about a strange stone I 
+found while exploring a dungeon the other day? 
+You've always liked odd things, right?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","46","Isaac","Quest Dialogue"
+"0","0","ホッホッホ、クリスマスの準備は順調かね？
+皆で助け合いながら楽しく準備をする
+何とも素晴らしいことではないか","Ho ho ho, how are the Christmas preparations 
+coming along? It's truly a wonderful thing, 
+preparing with everyone's help and having fun. 
+Isn't it just splendid?","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","47","Nicholas","Quest Dialogue"
+"0","0","さて、パーティーはどうだったね？
+君のおかげで皆も喜んでいたな","So, how was the party? 
+Thanks to you, everyone 
+was happy and enjoyed themselves.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","48","Nicholas","Quest Dialogue"
+"0","0","おお、そうだそうだ
+先ほどの流れ星の欠片だが
+この通り元の一つの星になったぞ","Ah, yes, indeed. 
+The fragment of the falling star from earlier 
+has been restored to a whole star once more.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","49","Nicholas","Quest Dialogue"
+"0","0","これを持つのは、レスタニアの民の願いを叶え
+幸せを運んだ者こそがふさわしい――
+さぁ、君へのもう一つのクリスマスプレゼントだ
+どうか受け取ってくれ","Only one who has fulfilled the wishes of 
+Lestania's people and brought joy is worthy of 
+holding it. 
+Now, this is another Christmas gift for you. 
+Please, accept it.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","50","Nicholas","Quest Dialogue"
+"0","0","なに、わしらは本物を見られただけで十分だ
+ホッホッホ","What matters is that we were fortunate enough to 
+see the real thing. Ho ho ho.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","51","Nicholas","Quest Dialogue"
+"0","0","――ああ、そうそう
+流れ星の件ですっかり忘れておったが
+君に渡そうと、染料を持ってきていたのだ
+ほら、赤と白のを一つずつ","Ah, yes, yes. 
+I had completely forgotten 
+about the shooting star. 
+I brought some dyes to give to you. 
+Here, one each of red and white.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","52","Nicholas","Quest Dialogue"
+"0","0","とはいえ、君や神殿の者たちはクリスマスに
+相応しい恰好をもう持っているからなぁ――
+ううむ、""ペット""でもいればその子らのために
+使ってやってくれと言えるのだが","That said, you and the people of the temple 
+already have clothes fitting for Christmas... 
+Hmm, if you had ""pets,"" I could tell you to 
+use them for their benefit, but...","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","53","Nicholas","Quest Dialogue"
+"0","0","まぁ、使い道は君に任せるとしよう
+クリスマスプレゼントのおまけとでも
+思ってくれればいい","Well, I'll leave it to you to decide 
+how you want to use it.
+You can think of it as an extra Christmas present.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","54","Nicholas","Quest Dialogue"
+"0","0","本物の流れ星が見られるなんて感激です！
+主もとっても嬉しそう
+これこそ、あたしたちへの
+素敵なクリスマスプレゼントですね！","To think we got to see a real shooting star—how 
+wonderful! Master looks so happy too. This is 
+truly a wonderful Christmas gift for us!","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","55","Mia","Quest Dialogue"
+"0","0","皆様とても楽しんでいらっしゃったご様子
+私達も大変嬉しく思います
+これもすべては覚者様のおかげ
+ありがとうございました","It looks like everyone had a great time. 
+We are truly pleased as well. All of this is 
+thanks to you, Ser Arisen. Our heartfelt thanks.","ui\00_message\quest\q60301005.gmd","\quest\q60301005.arc","q60301005.arc","56","Marco","Quest Dialogue"
+"0","0","ホッホッホ、今年もやってきたぞ","Ho ho ho, it's that time again!","ui\00_message\quest\q60301006.gmd","\quest\q60301006.arc","q60301006.arc","0","Nicholas","Quest Dialogue"
+"0","0","覚者様一年ぶりです！お元気でしたか？","Ser Arisen, it's been a whole year! 
+How are you?","ui\00_message\quest\q60301006.gmd","\quest\q60301006.arc","q60301006.arc","1","Mia","Quest Dialogue"
+"0","0","今年もメリークリスマス、で御座います覚者様","A Merry Christmas once again 
+this year, Ser Arisen!","ui\00_message\quest\q60301006.gmd","\quest\q60301006.arc","q60301006.arc","2","Marco","Quest Dialogue"
+"0","0","さあ！　今年もこの季節がやって来たわよ！
+昨年以上に気合を入れる女子たちも
+ソワソワとワクワクを隠し切れない男子たちも
+むせ返るようなカカオの香りに包まれる一大イベント","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","0","Shelly","Quest Dialogue"
+"0","0","それは！　そう！　バレンタイン！
+やってまいりましたバレンタイン！
+今年もじゃんじゃんチョコレートを作りましょ！","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","1","Shelly","Quest Dialogue"
+"0","0","――って言うと思ったでしょ？
+でも今年はね、量より質でいこうと思うの
+たった一つの特別なプレゼントに
+ありったけの気持ちをこめるのよ","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","2","Shelly","Quest Dialogue"
+"0","0","詳しいことはまた説明するわ
+まずはチョコレートのもとになる物を見つけましょ","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","3","Shelly","Quest Dialogue"
+"0","0","《高級ココアパウダー》
+これを採ってきてね
+この時期になると魔物が落とすはずだから！","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","4","Shelly","Quest Dialogue"
+"0","0","私もシェリーちゃんからのチョコレートを
+とてもとても期待しているんだが、
+今年はどんなチョコレートになるか楽しみだな","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","5","Angelo","Quest Dialogue"
+"0","0","ねぇねぇ、はやく
+《高級ココアパウダー》を採ってきて！
+今年はどんなチョコレートを作ろうか
+考えるだけでワクワクしちゃうわ","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","6","Shelly","Quest Dialogue"
+"0","0","《高級ココアパウダー》は
+この時期になると魔物が落とすはずよ
+頑張って魔物を倒してゲットしてきてね","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","7","Shelly","Quest Dialogue"
+"0","0","《高級ココアパウダー》は
+魔物がカカオを食べることで作られるらしい
+が、どうやって魔物がカカオをココアパウダー
+にするのかは誰も知らないというか考えたら負けだ","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","8","Angelo","Quest Dialogue"
+"0","0","そう！　それよ、それ！
+《高級ココアパウダー》を使って
+今年のチョコレートのレシピを考えてみたの","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","9","Shelly","Quest Dialogue"
+"0","0","その名も《渾身のチョコレートケーキ》
+本命にプレゼントするにはぴったりでしょ
+それでね、レシピは考えたから
+これを量産化する段取りをしたいの","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","10","Shelly","Quest Dialogue"
+"0","0","いつものように、グレゴリーさんに相談して
+なんとかこのレシピを量産できるように
+してきてもらえないかしら？","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","11","Shelly","Quest Dialogue"
+"0","0","私が考案した《渾身のチョコレートケーキ》
+このレシピをグレゴリーさんのところに持っていって
+量産化出来ないか相談してきてほしいの
+よろしくね！","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","12","Shelly","Quest Dialogue"
+"0","0","これはこれは、毎度御贔屓にどうも
+本日はどのようなご用件で？","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","13","Gregory","Quest Dialogue"
+"0","0","ほう、このレシピを元にして
+《渾身のチョコレートケーキ》を量産し
+交換できるようにすればよろしいのですね？","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","14","Gregory","Quest Dialogue"
+"0","0","ふぅむ――まぁ、知り合いの菓子職人に
+恩を売ると思えば――いえ、こちらの話です
+それでは手配しておきますので
+《高級ココアパウダー》をお持ちください","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","15","Gregory","Quest Dialogue"
+"0","0","《高級ココアパウダー》をお持ち下されば
+《渾身のチョコレートケーキ》と交換いたします","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","16","Gregory","Quest Dialogue"
+"0","0","今年はどなたにプレゼントするおつもりで？
+私もたまにはチョコレートをいただきたいものですね","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","17","Gregory","Quest Dialogue"
+"0","0","芳しい華やかな香り！
+黒く輝くオーラ！
+艶やかなフォルム！
+ついにできたのね！　チョコレートケーキが！","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","18","Shelly","Quest Dialogue"
+"0","0","素晴らしいわ、今年のイベントに相応しい
+美味しそうなチョコレートケーキができたわね
+さあ、それじゃあ早速プレゼントタイム！","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","19","Shelly","Quest Dialogue"
+"0","0","の、前に少し準備をしないといけないわ
+――ちょっとだけ待ってて！
+各地から呼んでこなきゃいけない人たちがいるの","","ui\00_message\quest\q60301021.gmd","\quest\q60301021.arc","q60301021.arc","20","Shelly","Quest Dialogue"
+"0","0","渾身のチョコレートケーキは用意できたかね？
+それでは――満を持して――
+今年のハンサムボーイたちを紹介しよう！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","0","Angelo","Quest Dialogue"
+"0","0","各地から呼び寄せた彼らと話をして
+だれにプレゼントするかよーく考えてくれ
+今年は""本命チョコ""だから一度だけしか渡せないぞ
+もちろん一人にだけ、だ！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","1","Angelo","Quest Dialogue"
+"0","0","今年はいろんな所をまわって
+評判のいいハンサムボーイをお呼びしてみました！
+ふふっ、誰に渡すか決められるかしら？","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","2","Shelly","Quest Dialogue"
+"0","0","酒場のテーブルに集まった
+各地のハンサムボーイと話をして
+だれにプレゼントするか決めるのだ！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","3","Angelo","Quest Dialogue"
+"0","0","全員と話をしたら、心に決めた一人に
+《渾身のチョコレートケーキ》を納品するんだ","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","4","Angelo","Quest Dialogue"
+"0","0","重ねて言うが、チョコレートケーキを渡せるのは
+一人にだけ！　そして一度だけ！
+よーく考えて本命男子にプレゼントしてくれ！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","5","Angelo","Quest Dialogue"
+"0","0","誰にプレゼントするか決まったかしら？
+私はもちろん、アンジェロにプレゼントするわ
+渾身の渾身の渾身の――チョコレートケーキを！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","6","Shelly","Quest Dialogue"
+"0","0","無事に相手を決めてプレゼントできたようだな
+うんうん、実に甘酸っぱい！
+この甘酸っぱさがバレンタインの醍醐味だ！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","7","Angelo","Quest Dialogue"
+"0","0","さて、今年はだれが真のハンサムボーイか
+君も気になるところだと思う
+――気にならないわけがないよなッ！？","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","8","Angelo","Quest Dialogue"
+"0","0","だが、それは後でのお楽しみということで
+ワクワクしながら結果をまとうじゃないか","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","9","Angelo","Quest Dialogue"
+"0","0","おっと今年はこれで終わりじゃあないぞ
+お次はプリティーガールたちの登場だ！
+こっちも準備が必要だから
+ちょっと待っててもらおうか","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","10","Angelo","Quest Dialogue"
+"0","0","あらっ！　その顔を見ればわかるわ
+無事にチョコレートケーキを渡したのね！
+今年はだれが真のハンサムボーイになるのか
+私も楽しみだわ","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","11","Shelly","Quest Dialogue"
+"0","0","ふふ、次はね――
+プリティーガールを集めてくる予定なの！
+《渾身のチョコレートケーキ》、準備して
+おいてちょうだいね！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","12","Shelly","Quest Dialogue"
+"0","0","そこに居る目付きのおかしな男に
+懇願されて連れて出されたのだ
+貴様の名を出していたゆえ大人しく付いてきたが
+――何のために呼ばれたのか、わからん","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","13","Adair Donnchadh","Quest Dialogue"
+"0","0","ふん、戦士ならば贈り物の数より
+倒した魔物の数で勝負すべきであろう","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","14","Adair Donnchadh","Quest Dialogue"
+"0","0","だが、どうしてもと言うのならば
+他でもない弟子の頼みだ
+貰ってやらないこともない","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","15","Adair Donnchadh","Quest Dialogue"
+"0","0","誰が一番かなど、興味はない
+だが、貴様の師である以上
+他の面子に負けるつもりもない","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","16","Adair Donnchadh","Quest Dialogue"
+"0","0","一体全体何が始まるって言うんだ？
+いや、待てよ――あの二人がいるということは
+またおかしな祭りだろう
+さっさと済ませてもらいたいな","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","17","Heinz","Quest Dialogue"
+"0","0","バレンタインなんて浮かれたイベント
+騎士団には縁もないと思っていたが
+あんたがせっかく作ったんだったら有難く貰うよ
+――別に、是非くれと言っているわけでは！","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","18","Heinz","Quest Dialogue"
+"0","0","これで他の連中に後れを取ったら
+ゲルト騎士団長に――
+いや、若い者たちに何て言われるか――","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","19","Heinz","Quest Dialogue"
+"0","0","やあ、どうしてもって呼ばれて
+久しぶりに森を出てきたけど
+なんだか落ち着かないね","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","20","Rondejeel","Quest Dialogue"
+"0","0","バレンタイン？
+そんなお祭りがこの地で流行っているのか
+ここもなかなか観察しがいのある場所だ
+常に変化しているというか","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","21","Rondejeel","Quest Dialogue"
+"0","0","チョコレートケーキ――
+とやらにも少し興味があるな
+もし君さえよければ僕にくれないかい？","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","22","Rondejeel","Quest Dialogue"
+"0","0","たまには森から出てみるものだね
+神殿の人たちがどんなことに興味があるのか
+ディナンにいるとなかなか知ることがないから","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","23","Rondejeel","Quest Dialogue"
+"0","0","あの、少しだけと呼ばれて来たものの
+僕はいったい何をすればいいのでしょうか？
+ジョゼフ神官の招待があったと聞きましたが
+何せ知らない場所に知らない人ばかりで――","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","24","Nedo","Quest Dialogue"
+"0","0","バレンタイン？
+意中の男性にチョコレートをプレゼント？
+なるほど、何だか素敵な催し事ですね","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","25","Nedo","Quest Dialogue"
+"0","0","ああ――ジョゼフ神官は、僕に
+異国の文化を学ばせようとされたのでしょうか","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","26","Nedo","Quest Dialogue"
+"0","0","隊長さんは、どなたに贈られるんですか？
+――あの、もし僕にいただけるなら
+大切に大切に食べます","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","27","Nedo","Quest Dialogue"
+"0","0","えっと――なんだか緊張しますね
+バレンタインとはこういうイベントなんですね","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","28","Nedo","Quest Dialogue"
+"0","0","む、オレに何か作れというわけではないのか？
+ここにこうして来るだけでいいとは妙な話だ――","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","29","Craig","Quest Dialogue"
+"0","0","おお、菓子をプレゼントするイベントか
+旅をしている時に見かけたことがある
+そんな時期になったことにも気づかないとは
+クラフトルームにこもりきりは良くないな","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","30","Craig","Quest Dialogue"
+"0","0","誰かの手によって丹精込めて作られたチョコレート
+きっと素晴らしい味に違いない
+こういうのは""技術""じゃなく""気持ち""で
+仕上がりが変わるものだ、覚えておけ","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","31","Craig","Quest Dialogue"
+"0","0","チョコレートケーキも武器も同じ――
+丹精込めて作れば、素晴らしい物ができあがる","","ui\00_message\quest\q60301022.gmd","\quest\q60301022.arc","q60301022.arc","32","Craig","Quest Dialogue"
+"0","0","さあ！　ハンサムボーイに続きまして
+お次はプリティーガールたちのお出ましよ！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","0","Shelly","Quest Dialogue"
+"0","0","心を込めて用意した《渾身のチョコレートケーキ》を
+心に決めた一人だけにプレゼントしましょう
+それじゃあ早速、彼女たちのアピールタイム！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","1","Shelly","Quest Dialogue"
+"0","0","モテモテ君たちはチョコレートの食べ過ぎで
+鼻血を出さないか心配してしまったよ
+いや、軽く鼻血でも出してくれた方が――ワハハ！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","2","Angelo","Quest Dialogue"
+"0","0","誰が真のハンサムボーイか
+結果発表をお楽しみにッ！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","3","Angelo","Quest Dialogue"
+"0","0","彼女たち全員と話をしてから
+誰に《渾身のチョコレートケーキ》を
+プレゼントするか決めてね","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","4","Shelly","Quest Dialogue"
+"0","0","もちろん今回も、誰か一人に一度だけしか
+プレゼントできないから
+よーく考えてから渡して！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","5","Shelly","Quest Dialogue"
+"0","0","近頃は想い人にチョコをプレゼントするだけでなく
+友達や家族にもプレゼントするんだそうだ
+いつどんな時でも、日ごろの感謝や愛の気持ちを
+誰かに伝えるというのは――素晴らしいッ！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","6","Angelo","Quest Dialogue"
+"0","0","しかし、人から気持ちのこもった食べ物を
+プレゼントされると、もったいなくて
+なかなか食べられなくてね
+防腐処理して枕元に飾りたいくらいだ","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","7","Angelo","Quest Dialogue"
+"0","0","どう？　あなたの《渾身のチョコレートケーキ》
+喜んでもらえたかしら？
+ウフフ、私までキュンキュンしてきちゃう！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","8","Shelly","Quest Dialogue"
+"0","0","チョコレートをプレゼントするのって
+バレンタインの基本でもあり、乙女の一大イベントよね
+意中の相手がどれだけチョコレートケーキを貰えたか
+その結果はまた改めて発表するわ","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","9","Shelly","Quest Dialogue"
+"0","0","それまで楽しみに待っててちょうだい！
+そうそう、グレゴリーさんのところで
+バレンタインの時期だけの
+特別な家具を集めるのもいいかもね","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","10","Shelly","Quest Dialogue"
+"0","0","ハンサムボーイもプリティーガールも
+誰が一番チョコレートケーキをプレゼントされたか
+結果が楽しみだな！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","11","Angelo","Quest Dialogue"
+"0","0","まあ、俺はシェリーちゃんからの
+チョコレートケーキがあれば
+他には何もいらないんだがね、フフン――","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","12","Angelo","Quest Dialogue"
+"0","0","また神殿中が浮足立っているな
+――こんな所に呼び出して何の用だ？","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","13","Vanessa","Quest Dialogue"
+"0","0","バレンタイン？　チョコレートケーキ？
+すまないが、わたしは甘いものはそれほど好かない
+食べられないというわけではないが――","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","14","Vanessa","Quest Dialogue"
+"0","0","しかし、嗜好云々の前に
+おまえからの好意とくれば純粋に嬉しく思う
+それくらいの心のゆとりはあるつもりだ","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","15","Vanessa","Quest Dialogue"
+"0","0","最初は何事かと思っていたが
+たまにはこういった催しも悪くはないな
+適度な絆は戦場においても信頼できる要素となる
+――無粋なことを言ってしまったか？","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","16","Vanessa","Quest Dialogue"
+"0","0","やあ、ちょっとした付き添いで
+招かれたんだけど
+ここがあなた達の住むレスタニアなんだよね？","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","17","Gillian","Quest Dialogue"
+"0","0","意中の相手にチョコレートを贈って
+愛の告白をするイベント、ね
+なるほど、それでここに呼ばれたのか","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","18","Gillian","Quest Dialogue"
+"0","0","まあ――正直、よく分からないけど
+誰かに贈り物をしたりされたりするのって久しくないな
+実は""チョコレートケーキ""とやらにも興味があるよ
+よかったら、隊長――私にくれると嬉しい","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","19","Gillian","Quest Dialogue"
+"0","0","誰が一番多くもらったか、までがイベントなの？
+そんなの競ってどうするっていうのさ
+一つ一つに想いがこもってるんだから
+量は関係無くない？","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","20","Gillian","Quest Dialogue"
+"0","0","なになに？　ここに座ってるだけでいいいの？
+そこのお姉さんについてきちゃったけど
+酒場ってことは何か美味しい物が
+食べられるんだよね？","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","21","Carrie","Quest Dialogue"
+"0","0","わぁっ！　チョコレートケーキ！
+すっごくおいしそう！　あなたが作ってくれたの？
+え、違うの？　まあ良いんだけど","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","22","Carrie","Quest Dialogue"
+"0","0","力を付けるためにはお肉料理が一番だけど
+やっぱり甘い甘ーいスイーツも素敵よね！
+これは心のための栄養ってやつだよ
+あーお腹すいてきた、ぜひ食べたいな！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","23","Carrie","Quest Dialogue"
+"0","0","普段は料理をふるまう立場だから
+誰かに作ってもらったものを食べるって
+なかなかないんだ
+こういうお祭りもいいね！","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","24","Carrie","Quest Dialogue"
+"0","0","あの、お召しに応じてまいりましたが
+私は何をすればよろしいのでしょう？","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","25","Luca","Quest Dialogue"
+"0","0","意中の相手にチョコレートケーキを贈る、ですか
+酒場もいつもより活気づいているのは
+この催しのためだったのですね","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","26","Luca","Quest Dialogue"
+"0","0","我々ポーンも、主である覚者様方へ
+なにかの形で日頃のお返しができればよいのですが","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","27","Luca","Quest Dialogue"
+"0","0","この後、誰が一番チョコレートケーキを貰ったか
+集計して発表されるそうです
+私はこの場にお呼びいただけただけで十分です――","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","28","Luca","Quest Dialogue"
+"0","0","""素敵なお祭り""が始まるんですって？
+ふふ、何が始まるのかしら
+楽しませてちょうだい","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","29","Emerada","Quest Dialogue"
+"0","0","想いを込めた贈り物
+念を込めるという意味ではそれもある意味
+魔術と一緒なのかもしれないわね
+相手が大切であればあるほどその力はより強い――","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","30","Emerada","Quest Dialogue"
+"0","0","――あなたが想いを込めた
+その黒く輝く芳醇な香りのデザートは
+あたくしの唇に触れたがってはいないかしら？
+ふふ――誰に贈るにしろ、しっかり考えなさいな","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","31","Emerada","Quest Dialogue"
+"0","0","ふふ、あたくしは順位なんかに興味は無いの
+この刺激的な雰囲気を味わえただけでも
+そこそこ楽しめたから――","","ui\00_message\quest\q60301030.gmd","\quest\q60301030.arc","q60301030.arc","32","Emerada","Quest Dialogue"
+"0","0","やあ、そろそろホワイトデーの季節なんだが――
+ちょっと早く来すぎだろうって？
+そう、シェリーちゃんより少し早く来たのだよ
+他でもない、君に相談があってね！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","0","Angelo","Quest Dialogue"
+"0","0","実はこの前のバレンタインデーで
+シェリーちゃんから《渾身のチョコレートケーキ》を
+貰ったのはいいものの――
+ホワイトデーのお返しが思いつかなくてね","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","1","Angelo","Quest Dialogue"
+"0","0","彼女とここで合流する前に
+何かいい感じのプレゼントを用意したいんだ！
+頼む、協力してくれッ！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","2","Angelo","Quest Dialogue"
+"0","0","そうだな――そこに偶然居合わせたモテ男子君と
+モテ淑女さんから、何かいいアドバイスを
+もらえないだろうか","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","3","Angelo","Quest Dialogue"
+"0","0","ん？　先日のチョコレートケーキのお礼を
+渡しに来たんだが――
+また、あのめんどくさそうな男が来ているじゃないか
+私はもう巻き込まれる気はないぞ","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","4","Vanessa","Quest Dialogue"
+"0","0","先日の菓子には日を置いて返礼するのが礼儀と聞いた
+――長居するつもりは無かったが
+ファイターのジョブマスターがいたのでな
+お互いの得物について意見をかわしていたところだ","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","5","Adair Donnchadh","Quest Dialogue"
+"0","0","うぅ～ん――
+何をすればシェリーちゃんは喜んでくれるのか
+どんなお返しの品を選べばいいのか――
+あぁ、お祭りの伝道師として恥ずかしい！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","6","Angelo","Quest Dialogue"
+"0","0","そこに偶然居合わせたモテ男子君と
+モテ淑女さんから、何かいいアドバイスを
+もらえないだろうか","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","7","Angelo","Quest Dialogue"
+"0","0","ホワイトデーのお返し？
+そんなこと、私に聞かれても困るな
+そうだな――神殿の女性たちは
+よく甘味の話で盛り上がっているように思うぞ","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","8","Vanessa","Quest Dialogue"
+"0","0","あの男が返礼に贈るべき物――だと？
+その手の知識はあまり持っていないが――
+しかし、""贈り物""というからには
+相手の好むものであれば間違いなかろう","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","9","Adair Donnchadh","Quest Dialogue"
+"0","0","なになに、""相手の好物""に""甘いスイーツ""
+な、なるほど！　確かシェリーちゃんは
+このレスタニアで採れる特別な""はちみつ""が
+大好物なのだ！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","10","Angelo","Quest Dialogue"
+"0","0","よしっ、そうと決まれば次にやることは決まったな！
+もちろん《レスタニア産はちみつ》の入手だ！
+どこにあるのかって？　またいつものように
+魔物が持っているんじゃないのか？","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","11","Angelo","Quest Dialogue"
+"0","0","私も探してみるから、とにかく君も頼んだぞ！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","12","Angelo","Quest Dialogue"
+"0","0","《レスタニア産はちみつ》を手に入れるのだ！
+どこにあるかって？　いつものように
+きっと魔物が持っているに違いない！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","13","Angelo","Quest Dialogue"
+"0","0","何てったって、魔物たちも
+あの甘さには目が無いからな！
+俺も探すから、君も頼んだぞ！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","14","Angelo","Quest Dialogue"
+"0","0","おお！　それだそれだ！
+それがこのレスタニアだけで採れる
+黄金に輝く至高の一品と謳われる
+―― 《レスタニア産はちみつ》！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","15","Angelo","Quest Dialogue"
+"0","0","流石だ、ありがとう！
+それでは、早速これを使った
+スペシャルなスイーツを用意せねばッ","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","16","Angelo","Quest Dialogue"
+"0","0","あとはほら、いつものアレだよ
+そう、鑑定交換の彼だよ！
+どうも彼はお菓子に詳しいみたいだからな！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","17","Angelo","Quest Dialogue"
+"0","0","手に入れた《レスタニア産はちみつ》を使った
+スペシャルなスイーツを頼むよ！
+ほら～、いつものアレだよアレ、鑑定交換！
+どうも彼はお菓子に詳しいみたいだからな！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","18","Angelo","Quest Dialogue"
+"0","0","毎度どうも御贔屓に
+本日はどのようなご用件で？","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","19","Gregory","Quest Dialogue"
+"0","0","おや、それは《レスタニア産はちみつ》
+良い品をお持ちではありませんか
+そのまま食べても絶品ですが
+料理人からも引っ張りだこの逸品なのです","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","20","Gregory","Quest Dialogue"
+"0","0","そうそう――とある料理人が
+そのはちみつを使って作った
+《スイートハニーケーキ》という物が
+今だけ特別に入荷しておりますよ","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","21","Gregory","Quest Dialogue"
+"0","0","その《レスタニア産はちみつ》と交換で
+お譲りいたしましょう","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","22","Gregory","Quest Dialogue"
+"0","0","こ、この優しく香るはちみつ！
+儚くふわっふわな手触り！
+これぞまさに《スイートハニーケーキ》！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","23","Angelo","Quest Dialogue"
+"0","0","これならシェリーちゃんも大満足に違いない！
+それに、幸いにもまだ彼女は合流前！
+ほんっとうにありがとう！　君に頼んで大正解だ！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","24","Angelo","Quest Dialogue"
+"0","0","さて、彼女にお返しをするまえに
+もう少しだけ付き合って欲しいことがあってだね――
+詳しくはまた改めてお願いするとしよう！
+まずはこのケーキを保存庫に置いてこなければッ！","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","25","Angelo","Quest Dialogue"
+"0","0","《レスタニア産はちみつ》をお持ちいただければ
+《スイートハニーケーキ》と交換いたしますよ
+私も少し味見しましたがね、しっとりと甘く
+贈り物にはぴったりのケーキでした","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","26","Gregory","Quest Dialogue"
+"0","0","近頃、キラービーの活動が活発だ
+やつらは特定の時期になると
+花の蜜を集めるため集団で現れる","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","27","Vanessa","Quest Dialogue"
+"0","0","お前も、たかが虫だと思って油断するな
+集団になるとブンブンうるさい上に
+なかなか厄介だぞ","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","28","Vanessa","Quest Dialogue"
+"0","0","実は、この神殿で働く者たちからも
+何かと贈られたものでな――
+異国から来たということで気を遣わせたのだろう","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","29","Adair Donnchadh","Quest Dialogue"
+"0","0","返礼の品を用意したいのだが
+ここでは一体何が好まれているのか
+まるでわからん
+――少し辺りを見て回るとするか","","ui\00_message\quest\q60301041.gmd","\quest\q60301041.arc","q60301041.arc","30","Adair Donnchadh","Quest Dialogue"
+"0","0","それでは改めて、次なる相談なんだがねッ！
+いや、無事に《スイートハニーケーキ》を
+手に入れてお返しの準備はできた","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","0","Angelo","Quest Dialogue"
+"0","0","しかし、肝心の勇気というか自信というか
+あの、ほら、なんだ
+つまりそういうのがどうしても足りないのだ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","1","Angelo","Quest Dialogue"
+"0","0","こう、ビシッとキメるには何が足りないか
+そこにいる如何にも強そうな彼！
+彼からアドバイスを貰えないだろうか","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","2","Angelo","Quest Dialogue"
+"0","0","シェリーちゃんにビシッとかっこよく
+男らしくキメたいんだよぉ！
+その為には何が足りないのか
+そこの強そうな彼からアドバイスが欲しいッ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","3","Angelo","Quest Dialogue"
+"0","0","なんだ、俺がここにいたらおかしいか？
+神殿の見回りのついでに寄ったら
+あの妙な格好の男がいたんだが――
+まさか、また変な催しが始まるのか？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","4","Heinz","Quest Dialogue"
+"0","0","そろそろいつぞやの礼をする頃合いかと思ってな
+どうだ、ぴったりじゃないか？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","5","Craig","Quest Dialogue"
+"0","0","あらぁ、御機嫌よう
+先日のバレンタインデーのお返しに
+何かできないかと思って来てみたの","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","6","Emerada","Quest Dialogue"
+"0","0","女性への愛の告白の勇気だと？
+――そんな軟派な相談を俺にされても困る
+いいアドバイスが聞けるとでも思ったのか！？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","7","Heinz","Quest Dialogue"
+"0","0","だがしかし、そうだな
+とりあえず見た目から変えてみれば
+少しは気持ちも変わるんじゃないのか？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","8","Heinz","Quest Dialogue"
+"0","0","これでも俺の髪型は
+美容院のモーリスのところでやってるんだ
+妙なやつだが腕は確かだ
+この手の相談ならば奴が適任じゃないのか","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","9","Heinz","Quest Dialogue"
+"0","0","おや、ボクに何か相談事だって？
+――ああ、あの酒場にたまに来る彼か
+そうだね、確かに少し古風というか
+洗練されていないというか","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","10","Morris","Quest Dialogue"
+"0","0","ともかく、彼に似合う髪型や髭で
+イメージチェンジをして
+自信をつけてあげたいんだね？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","11","Morris","Quest Dialogue"
+"0","0","なら、ウィッグの材料になるものを
+ボクのところに持って来ておくれ
+そうしたらすぐにでも作業に取り掛かるよ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","12","Morris","Quest Dialogue"
+"0","0","ボクが依頼した物は揃ったかな？
+材料があれば、すぐにでも完璧な物を用意するよ
+もちろん、酒場の彼にもっとも似合う
+パーフェクトな髪型と髭だとも！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","13","Morris","Quest Dialogue"
+"0","0","ああ、これだよこれ
+この美しい毛並！
+これがあればボクの創作意欲も100倍さ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","14","Morris","Quest Dialogue"
+"0","0","今すぐに作業に取り掛かるよ
+君が酒場に戻る頃には、もう届いているはずさ
+素敵にイメージチェンジした彼を
+お楽しみに――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","15","Morris","Quest Dialogue"
+"0","0","おお、君か！　見てくれ！
+美容院のモーリスの使いとやらが来て
+これを渡してくれたのだ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","16","Angelo","Quest Dialogue"
+"0","0","俺はこういうのに詳しくないんだが
+「近頃流行りのモードでイケてて
+　皆の注目を浴びる、素敵なスタイル」だそうだ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","17","Angelo","Quest Dialogue"
+"0","0","うんうん、心なしか周囲からの目線を感じるなッ！
+これで少しは自信がついたというものだ
+――しかし、これだけではまだ完ぺきではない","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","18","Angelo","Quest Dialogue"
+"0","0","もっと男気あふれる大人の魅力というか
+力強さを引き出したいものだ――
+そちらにいる、なんだかムチムチしてて
+落ち着いた彼からアドバイスを貰えないだろうか","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","19","Angelo","Quest Dialogue"
+"0","0","モーリスは悪いヤツではないんだが――
+しかし、たまにあの独特の感性が
+謎の方向に飛んで行くこともある","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","20","Heinz","Quest Dialogue"
+"0","0","まぁ、なんだ
+本人がいいならそれでいいんじゃないか
+俺はもう知らん","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","21","Heinz","Quest Dialogue"
+"0","0","男らしくて強そうなオーラ？
+男を上げる方法？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","22","Craig","Quest Dialogue"
+"0","0","よし、男なら己の拳で強さを示せ
+俺が特別に武器を作ってやってもいいぞ
+――それはいらない？　なんだ、残念だ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","23","Craig","Quest Dialogue"
+"0","0","魔物を倒して強さをアピール！？
+な、成程な
+確かにそれなら力強さを
+アピールするには間違いないな","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","24","Angelo","Quest Dialogue"
+"0","0","よ、よし！　ならば魔物を退治に行こう！
+俺が魔物と立派に戦ったという証拠のために
+君がついてきてくれ！
+そして俺の勇姿を見届けてくれ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","25","Angelo","Quest Dialogue"
+"0","0","その前に、すこーしだけ心の準備をするから
+先に《テルの枯れ井戸》で待っててほしい
+準備ができたらすぐに向かうからなッ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","26","Angelo","Quest Dialogue"
+"0","0","魔物を倒して男気を見せる！
+君はその証人として一緒に来てほしい
+《テルの枯れ井戸》で待ち合わせよう
+心の準備が出来たらすぐに向かうからなッ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","27","Angelo","Quest Dialogue"
+"0","0","遅かったじゃないか！
+気合を入れ過ぎて先に到着したぞ
+さて、ここからが問題だ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","28","Angelo","Quest Dialogue"
+"0","0","どうやらこの先にキラービーの大群がいるらしい
+やつらはこの時期になると、冬の間に
+枯渇した蜜を集めるため、集団になって
+あちこちを飛び回るんだ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","29","Angelo","Quest Dialogue"
+"0","0","つまり、お手軽に討伐数が稼げるッ！
+特に気性が荒くなる時期でもあるという説も
+聞いたことがあるが――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","30","Angelo","Quest Dialogue"
+"0","0","とは言え、たかがキラービー！
+蜂ごときに負ける様では男が廃るというもの
+さあバシっと討伐しに行こうではないか！
+百匹くらい討伐して箔を付けたいところだ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","31","Angelo","Quest Dialogue"
+"0","0","ひ、ひいい！　やや、やっぱり無理だ！　任せる！！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","32","Angelo","Quest Dialogue"
+"0","0","――見なかったことにしてくれ
+これでは男気を上げるどころか
+恥をさらしてしまっただけだ、な――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","33","Angelo","Quest Dialogue"
+"0","0","仕方ない、一度酒場に戻って
+もう一度別の作戦を考えよう――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","34","Angelo","Quest Dialogue"
+"0","0","まぁ――人には得意不得意があるからな――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","35","Craig","Quest Dialogue"
+"0","0","さて、キラービーにボコボコに
+されることは避けられたが――
+改めて、男気を上げるための
+次なる方法を考えなければ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","36","Angelo","Quest Dialogue"
+"0","0","そちらにいらっしゃる妖艶な美女なら
+グッとくる男の条件を知っていそうだ！
+と言う訳で、今回もアドバイスを頂きたい！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","37","Angelo","Quest Dialogue"
+"0","0","あたくしに相談――？
+もちろん、よろしくてよ
+何にお困りなのかしら","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","38","Emerada","Quest Dialogue"
+"0","0","いい男になる条件？
+うふふ、本当に素敵な殿方は
+下手な小細工はしないもの","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","39","Emerada","Quest Dialogue"
+"0","0","""甘い愛のささやき""と
+""優雅でさり気ない愛のアピール""
+これさえ極めれば、それで十分――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","40","Emerada","Quest Dialogue"
+"0","0","""甘い愛のささやき""！
+""優雅でさり気ない愛のアピール""！
+す、すごいな！
+何だか大人っぽいぞ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","41","Angelo","Quest Dialogue"
+"0","0","だが、どうやるんだ？
+具体的にどうすればいいか、手本を見せてくれ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","42","Angelo","Quest Dialogue"
+"0","0","ふむ、""投げキス""と""愛のささやき""
+君のお手本のおかげでよく分かった
+練習して習得してみせようじゃないか！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","43","Angelo","Quest Dialogue"
+"0","0","さて、色々と相談に乗ってもらったり
+手伝いをしてもらったおかげで――
+いよいよシェリーちゃんに贈り物と
+愛の告白をする準備が整ったッ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","44","Angelo","Quest Dialogue"
+"0","0","そろそろ彼女もここに到着する時間だ
+――行ってくるとしよう！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","45","Angelo","Quest Dialogue"
+"0","0","人の魅力というのは
+小手先の細工で飾り立てるのではなくてよ
+内側から滲み出るもの
+それをまずは覚えておくことね","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","46","Emerada","Quest Dialogue"
+"0","0","こんにちは～！　ご機嫌はいかが？
+昨年と同じくホワイトデーを
+盛り上げちゃうわよ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","47","Shelly","Quest Dialogue"
+"0","0","と、思ったんだけど
+私が来る前にアンジェロが
+妙なことになっていたの","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","48","Shelly","Quest Dialogue"
+"0","0","髪型と髭はあんなんだし
+まわりの人たちも不思議な表情だし――
+一体全体何があったのかしら","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","49","Shelly","Quest Dialogue"
+"0","0","私の顔を見るなり、変な挙動と
+聞き取りにくい声で何か呟いてて――
+でも、美味しそうなハニーケーキをくれたわ！
+うふふ！　私の好物、覚えててくれたのね","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","50","Shelly","Quest Dialogue"
+"0","0","ねぇ、アンジェロのことだから
+あの状態に辿り着くまでに
+かなりの遠回りをしたんじゃないかしら
+覚者さんにも何か迷惑かけてたり――？","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","51","Shelly","Quest Dialogue"
+"0","0","うふふふ、おかげであのケーキ――
+私には世界でただ一つで
+最高のハニーケーキだったわ！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","52","Shelly","Quest Dialogue"
+"0","0","大作戦の結果は
+シェリーちゃんの反応をみてくれ
+まだちょっと落ち着かなくて――","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","53","Angelo","Quest Dialogue"
+"0","0","いざ彼女を目の前にしたら
+やはり上手くキメられなかった――
+だがしかし、《スイートハニーケーキ》の
+プレゼントはとても喜んでくれたようだ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","54","Angelo","Quest Dialogue"
+"0","0","ケーキをほおばる彼女の輝く笑顔！
+それだけでも十分幸せだッ！！","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","55","Angelo","Quest Dialogue"
+"0","0","男を磨くのは一朝一夕じゃあないというのが
+よーく分かったよ
+これも、色々協力してくれた君のおかげかな","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","56","Angelo","Quest Dialogue"
+"0","0","俺の方が助けられてしまったが
+ホワイトデーはこれからが本番だ！
+君も大いに楽しんでくれたまえ","","ui\00_message\quest\q60301042.gmd","\quest\q60301042.arc","q60301042.arc","57","Angelo","Quest Dialogue"
+"0","0","さあ、水着の準備はOKかい？
+支度ができたら
+ここからビーチへ飛び出すんだ！","","ui\00_message\quest\q60301051.gmd","\quest\q60301051.arc","q60301051.arc","0","Ray","Quest Dialogue"
+"0","0","今年も海開きの季節到来よぉ！
+お気に入りの水着にチェンジしたら
+真夏のアツいブリアビーチへレッツゴー！","","ui\00_message\quest\q60301051.gmd","\quest\q60301051.arc","q60301051.arc","1","Samantha","Quest Dialogue"
+"0","0","やあ、元気にしていたかな？
+今年もご機嫌なハッピーハロウィンがやってきたぞ
+皆で仮装をして、子供たちにお菓子を配って――
+大いに楽しもうじゃないか","Hey, hello, how's it going?
+Happy Halloween! It's time again for everyone to 
+dress up in costumes, 
+hand out candy to the kids—
+and have a lot of fun!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","0","Angelo","Quest Dialogue"
+"0","0","と、思ったんだが
+配るべき範囲に誤算があって――
+お菓子が！　これまた全く足りん！
+このままでは子供たち全員にお菓子を配れないッ！","But I miscalculated the extent to which they 
+would be handed out—
+Sweets!　We're running out of candy! 
+At this rate, we won't be able to distribute 
+candy to all the children!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","1","Angelo","Quest Dialogue"
+"0","0","頼む、子供たちの笑顔のため
+お菓子を見つけてきてくれ！
+子供たちを悲しませるわけにはいかない！
+君もそう思うだろう！？","Please, for the children's smiles, 
+find some sweets for them! 
+We can't let the children be sad! 
+You feel the same, right!?","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","2","Angelo","Quest Dialogue"
+"0","0","――実は、このことが発覚してから
+シェリーちゃんがご機嫌ナナメで
+俺と喋る前、必ず溜息を吐いてくるのだ
+これはとってもマズい兆候だッ！","—In truth, since this came to light, 
+Ms. Shelly's been quite upset. 
+She always sighs before talking to me. 
+This is a terrible omen!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","3","Angelo","Quest Dialogue"
+"0","0","ん、どこで調達するのか、だと？
+我々もレベル1のゴブリンと死闘を繰り広げ
+なんとか倒した末に、魔物たちが持っている
+お菓子を奪取できたのだ","Hmm, where did we get it from, you ask? 
+We fought a fierce battle with a Level 1 Goblin, 
+and after finally defeating it, 
+we managed to seize the 
+sweets from the monster.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","4","Angelo","Quest Dialogue"
+"0","0","しかしほら、我々は戦闘向きではないから
+魔物の寝込みをこっそり襲うだけでは
+とてもたくさんは回収しきれないのだよ
+君ならアレだろ、一瞬でバシー！　ガツー！って","But you see, we're not made for battle, 
+so sneaking up on sleeping monsters 
+only lets us gather a little. 
+But you, you'd be all, bam! Slash! In no time!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","5","Angelo","Quest Dialogue"
+"0","0","君なら強いから、魔物をバシー！　っと一網打尽
+そしてお菓子をガッサー！　と採ってこられるだろう
+うんうん、君にお願いすれば間違いないッ！","You're strong, 
+so you'd wipe out the monsters in one go, 
+then gather up all the sweets in no time. 
+Yes, yes, asking you is the right choice!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","6","Angelo","Quest Dialogue"
+"0","0","まずは一つだけでもいいからお菓子を奪っ――
+いや、用意して、そして俺に見せてくれ
+期待しているぞ！","First, even just one piece of candy will do. 
+Steal it― 
+no, I mean, find it, then show it to me. 
+I'm counting on you!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","7","Angelo","Quest Dialogue"
+"0","0","おお、もう見付けてきたのか
+いやはや流石だな
+よし、ではこれを集めよう
+すべては子供たちとシェリーちゃんの笑顔のため！","Oh, you've found it already? 
+Well done, as expected of you! 
+Alright, let's gather the rest. 
+It's all for Ms. Shelly and the kids' smiles!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","8","Angelo","Quest Dialogue"
+"0","0","あ、もちろん、君にだけ集めさせようだなんて
+都合のいいことは思ってないぞ！
+ちゃんと我々も集めに行くからな
+二手に分かれたほうが早く集まるだろう","Oh, of course, I don't expect you to gather 
+everything by yourself! 
+We'll also be collecting. 
+It should be faster if we split into two groups.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","9","Angelo","Quest Dialogue"
+"0","0","だが、レベル１ゴブリンを倒すのに
+シェリーちゃんと二人で半日がかりだ
+我々のことは期待しないでくれッ！！","But it took Ms. Shelly and me half a day 
+to take down a level 1 goblin. 
+Don't expect too much from us!!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","10","Angelo","Quest Dialogue"
+"0","0","そうそう、我々と同じコスチュームで
+ハロウィン気分を盛り上げれば
+魔物が落とすお菓子をたくさん見つけられるかもな！
+お祭りムードは大切だぞ！","Yes, yes, if you match our costumes and 
+get into the Halloween spirit, 
+you might find more treats dropped by monsters! 
+The festival atmosphere is important!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","11","Angelo","Quest Dialogue"
+"0","0","我々二人も引き続きお菓子を集めるから
+君もこのお菓子をできるだけ
+たくさん持ってきてくれ！
+よろしく頼んだぞッ","We'll keep gathering treats too, 
+so make sure to bring back 
+as many of these candies as you can! 
+I'm relying on you!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","12","Angelo","Quest Dialogue"
+"0","0","そうそう、我々と同じコスチュームで
+ハロウィン気分を盛り上げれば
+魔物が落とすお菓子をたくさん見つけられるかもな！
+「お祭りは気から」だ！","That's right! If we all wear the same 
+costumes and embrace the Halloween spirit, 
+we might find plenty of sweets dropped by 
+the monsters!
+""Festivals are all about spirit!""","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","13","Angelo","Quest Dialogue"
+"0","0","おお！　こんなにたくさん！！
+我々も君の半分――いや、三分の一？
+くらいは集められたぞ！","Oh! So many! 
+We have gathered at least half— 
+no, maybe a third? 
+Just about that much!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","14","Angelo","Quest Dialogue"
+"0","0","さて、これだけ集めてくれたのはありがたいが
+まだまだ足りないんだな～、実は！
+細々と魔物から奪うんじゃなくて
+一気にガサッと集められる場所はないものか――","Well, I'm grateful for how much you've gathered, 
+but it's still not enough! Instead of gathering bit 
+by bit from the monsters, isn't there a place 
+to collect everything at once?","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","15","Angelo","Quest Dialogue"
+"0","0","お菓子をたくさん隠し持っている
+魔物がいる場所があればなぁ――
+誰か、そういう情報を知っていそうな人に
+心当たりはないかね？","If only there were monsters 
+that hoard lots of sweets! 
+Does anyone know someone 
+who might have information 
+about such a place?","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","16","Angelo","Quest Dialogue"
+"0","0","お菓子をたくさん隠し持っている
+魔物がいる場所があればなぁ――
+誰か、そういう情報を知っていそうな人に
+心当たりはないかね？","If only there were monsters 
+that hoard lots of sweets! 
+Does anyone know someone 
+who might have information 
+about such a place?","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","17","Angelo","Quest Dialogue"
+"0","0","よお、俺に相談だって？
+いいぜ、話してみなよ
+たまには有益なアドバイスでもして
+先輩風を吹かせたいと思ってたところだ","Hey, you want to consult me? 
+That's fine, let's hear it out. 
+I was thinking it was time 
+to give some useful advice 
+and show off my experience.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","18","Fabio","Quest Dialogue"
+"0","0","なに？　お菓子を落とす魔物？
+そんなヘンテコな話は流石の俺でも――","What? A monster that drops sweets? 
+Even I can't believe such a weird story—","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","19","Fabio","Quest Dialogue"
+"0","0","――いやいや待てよ、そういえばこの前
+コーネリアと《ハイデル地下霊廟》を探索中に
+ゴーストの集団に襲われたんだ
+何体かは倒したけど、数が多くてな","—Wait a moment, now that I think of it, recently, 
+while exploring the [Hidell Catacombs] 
+with Cornelia, we were beset by a group of ghosts.
+I managed to slay a few, but there 
+were simply too many.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","20","Fabio","Quest Dialogue"
+"0","0","その時、ゴーストが何か小さなものを
+バラバラと落としてたんだ
+特に価値のある素材じゃなさそうだったから
+気に留めなかったんだが――","At that time, the ghosts were dropping 
+something small, scattering it about. 
+Since it didn't seem like anything of 
+particular value, I didn't pay it any 
+mind.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","21","Fabio","Quest Dialogue"
+"0","0","あれがお前のいう""お菓子""じゃないか？
+どうだ、いい情報だったろう
+見直したか？","Is that not the ""candy"" you were talking 
+about? What do you think? Was that 
+useful information? Have I changed 
+your opinion of me?","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","22","Fabio","Quest Dialogue"
+"0","0","実のところ
+コーネリアはゴーストやハーピーなんかへの
+立ち回りがイマイチでな――","To be honest, Cornelia is not so great at 
+dealing with ghosts and harpies, you see—","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","23","Fabio","Quest Dialogue"
+"0","0","あ、これ本人に言ったら戦術育成をと
+うるさくなるから黙っておいてくれよ
+お前はさっさと《ハイデル地下霊廟》
+に行ってこい","Ah, if I tell her this, she'll get all 
+worked up about tactics training, so keep 
+it to yourself, alright? You should hurry 
+on over to the [Hidell Catacombs].","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","24","Fabio","Quest Dialogue"
+"0","0","《ハイデル地下霊廟》にお菓子を落とすお化けが！
+な、なるほど、それは行って確かめねば！
+し、しかし、何というか、""お化け""な――
+お化けには嫌な思い出というか、トラウマというか","A ghost that drops sweets in the 
+[Hidell Catacombs]! I see, 
+I must go and confirm this! But 
+how should I put it? Ghosts... I have a bad 
+memory, or trauma, or something...","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","25","Angelo","Quest Dialogue"
+"0","0","とにかく！　一人ではとても行く気にはなれない！
+もちろん君も一緒に行ってくれるんだろうね！
+何故かって？　単純に怖いからに決まっているッ！","Anyway! I don't really feel like going alone! 
+Naturally you'll go with me! Why? 
+Because I'm scared of course!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","26","Angelo","Quest Dialogue"
+"0","0","――ゴホン
+そう、シェリーちゃんを危ない場所に
+連れて行くわけにはいかないからな
+さあ、準備ができたら話しかけてくれ！","*clears throat* 
+Yes, I cannot take Shelly to such a dangerous 
+place. So, talk to me when you're ready!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","27","Angelo","Quest Dialogue"
+"0","0","準備ができたら話しかけてくれ！
+一人ではとても行く気にはならないからな
+皆で行けば怖くない！","Speak to me when you are 
+ready! I certainly don't feel 
+like going alone. It won't be 
+scary if we go together!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","28","Angelo","Quest Dialogue"
+"0","0","さあ、《ハイデル地下霊廟》に行くとしようかね！","Now, let's go to the Hidell Catacombs!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","29","Angelo","Quest Dialogue"
+"0","0","仕方がないから一緒に行く","I suppose I must go along with you.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","30","Angelo","Quest Dialogue"
+"0","0","行きたくない","I don't want to go.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","31","Angelo","Quest Dialogue"
+"0","0","さて、勇気を出して来てみたはいいが
+そこかしこからゴーストの気配がするな
+あと何かこう――ゴーストとも違う
+もっと嫌な気配がするのだが――","Well, I've mustered the courage to come here but 
+I sense the presence of ghosts lurking all about. 
+There's also this feeling, 
+of something worse than ghosts.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","32","Angelo","Quest Dialogue"
+"0","0","今は深く考えないでおこう
+さ、ゴーストを倒してお菓子を拾ってきてくれ
+え？　お前は行かないのかって？","Let's not dwell on it for now. 
+Go and defeat the ghosts, 
+and bring back the treats. 
+What? You're not going?","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","33","Angelo","Quest Dialogue"
+"0","0","行くわけないだろ！
+俺が何の役に立つっていうんだッ！
+――なんてな、目的を達成したら戻ってきてくれ
+なるべく早く頼むぞ！","There's no way I'm going!
+What use would I be?
+—Just come back when you get what we need.
+As soon as possible, please!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","34","Angelo","Quest Dialogue"
+"0","0","ほら、早くゴーストを倒してきてくれ
+長くとどまっている場所じゃないだろう
+サクッとお化けを倒して
+ドサッとお菓子を手に入れてこよう","Hurry and defeat the ghosts! 
+This isn't a place to remain for long. 
+Defeat those ghosts swiftly and 
+collect a lot of candy!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","35","Angelo","Quest Dialogue"
+"0","0","俺はここで待っているから
+ゴーストを倒してお菓子を手に入れたら
+戻ってきてくれ","I'll be waiting for you here, so come back when 
+you beat the ghosts and get the candy.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","36","Angelo","Quest Dialogue"
+"0","0","おおおッ！
+お菓子をこんなに集めて来てくれたのか
+なに？　もっとヤバいのも居ただと？
+いいや――それ以上は聞かないでおこう
+今夜眠れなくなる！","Oh! You gathered this much candy for me? 
+What? There are worse ones too? 
+No, I won't ask; I'll be up all night!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","37","Angelo","Quest Dialogue"
+"0","0","よし、今すぐ帰ろう！
+こんな所で長居は無用だ！
+早くしないとその""ヤバいモノ""が来る！","We should head back immediately!
+Lingering here serves no purpose!
+If we delay, that ""bad thing"" will arrive!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","38","Angelo","Quest Dialogue"
+"0","0","ふう、やっと帰ってこれた
+お菓子もこれだけあれば十分だろう
+子供たちとシェリーちゃんが喜ぶ顔が
+目に浮かぶな！","We have finally returned.
+This should be enough sweets.
+I can picture the smiles on
+the children and Shelly's face!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","39","Angelo","Quest Dialogue"
+"0","0","改めて、ありがとう！
+君たちのおかげでお化けと対峙しなくて済んだ
+ほら、我々は戦闘要員ではなく
+盛り上げ要員だからな","Once again, thank you! 
+Thanks to you, I didn't have to 
+confront the ghosts. Look, we are 
+not warriors, but cheerleaders!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","40","Angelo","Quest Dialogue"
+"0","0","なに？　まだあの場所に行きたいだと？
+正気かね君は――
+いやいや、もちろんかまわないよ
+俺は二度と行かないがね！","What? You still want to go to that place?
+Are you out of your mind—
+No, no, I don't mind at all,
+but I won't be going back there!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","41","Angelo","Quest Dialogue"
+"0","0","ならば我々の後ろにコッソリと道を開けておこう
+あのお化けからお菓子を取ってくるなら
+この裏道からハイデル地下霊廟へ行くといい
+今の間だけ、特別だからな！","In that case, let's sneakily clear a path 
+behind us. If you're going to grab sweets 
+from those ghosts, you should use this 
+back road to the Hidell Catacombs. 
+It's just for the time being, it's special!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","42","Angelo","Quest Dialogue"
+"0","0","ハッピーハロウィン！
+今年も楽しくハロウィンパーティーしましょ
+お菓子をたくさん集めて仮装して――
+うーん、ワクワクしちゃう！","Happy Halloween! 
+Let's have a fun Halloween party again this year. 
+We'll gather plenty of sweets and dress up— 
+Ah, I'm getting excited!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","43","Shelly","Quest Dialogue"
+"0","0","ところで、今年の私たちの衣装
+どうかしら？　可愛いでしょ！
+実はね、毎回お祭りの衣装は
+アンジェロがナイショで用意してくれてるのよ","Speaking of which, how do you like our 
+costumes this year? They're so cute, right? 
+In fact, every festival costume is 
+prepared secretly by Angelo for us!","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","44","Shelly","Quest Dialogue"
+"0","0","二人でお祭りの度に特別な衣装を着て
+相談しながら髪型やメイクを変えて――
+そうやって仕上げていく時間が
+私はとっても好きなの","Together, we wear special outfits for each 
+festival and change our hairstyles and 
+makeup while consulting with each other— 
+I really enjoy that time we spend finishing 
+everything up.","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","45","Shelly","Quest Dialogue"
+"0","0","――だからこそ、アンジェロが
+お菓子の数を間違ってたのが残念で――
+私は何度も「それじゃ少なすぎる」って言ったのに！","That's why I'm so disappointed that Angelo 
+messed up the amount of candy—I told 
+him over and over, ""That's far too little!""","ui\00_message\quest\q60301052.gmd","\quest\q60301052.arc","q60301052.arc","46","Shelly","Quest Dialogue"
+"0","0","はあい！　ハッピーハロウィン！
+仮装楽しんでる～？
+皆で盛り上がれば楽しさ倍増よ！","Yay! Happy Halloween! 
+Are you having fun with your costumes? 
+When everyone gets hyped together, 
+the joy will double!","ui\00_message\quest\q60301053.gmd","\quest\q60301053.arc","q60301053.arc","0","Shelly","Quest Dialogue"
+"0","0","とは言ったものの、実はね
+私自身がちょっと困ってるのよ
+話を聞いてくれない？","That said, the truth is 
+I'm actually a bit troubled. 
+Will you listen to me?","ui\00_message\quest\q60301053.gmd","\quest\q60301053.arc","q60301053.arc","1","Shelly","Quest Dialogue"
+"0","0","子供たちに配るために
+確保しておいたお菓子が、いつの間にやら
+やけに少なくなっている気がするの","I feel like the sweets I set aside 
+to distribute to the children have 
+somehow become quite scarce.","ui\00_message\quest\q60301053.gmd","\quest\q60301053.arc","q60301053.arc","2","Shelly","Quest Dialogue"
+"0","0","気のせいにするには――流石に多いのよね
+この白竜神殿で盗難だなんて
+ちょっと穏やかじゃないわ！
+もしかしたら盗賊が忍び込んでいるのかも","It's too much to just be my imagination— 
+thefts occurring in the White Dragon 
+Temple are quite unsettling! Perhaps 
+there are thieves sneaking in after all.","ui\00_message\quest\q60301053.gmd","\quest\q60301053.arc","q60301053.arc","3","Shelly","Quest Dialogue"
+"0","0","私がおおっぴらに行動したら
+盗賊に気付かれちゃうかもしれないでしょ
+だから、あなたにコッソリ捜査をお願いしたいの
+ね！　いいでしょ、お願い！","If I were to act openly, the thieves 
+might catch on, so I'd like to ask 
+you to conduct a discreet investigation 
+for me, alright? Please, I'm counting on you!","ui\00_message\quest\q60301053.gmd","\quest\q60301053.arc","q60301053.arc","4","Shelly","Quest Dialogue"
