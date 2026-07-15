@@ -1,4 +1,7 @@
-﻿"0","","敵の攻撃を受けそうになったら<COL ff7575><KCT ROLLING></COL>で避翻斬です！　攻撃を避けながら、魔剣で攻撃できます","敵の攻撃を受けそうになったら<COL ff7575><KCT ROLLING></COL>で避翻斬です！　攻撃を避けながら、魔剣で攻撃できます","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","20","Barris","Quest Dialogue"
+﻿"0","","敵の攻撃を受けそうになったら<COL ff7575><KCT ROLLING></COL>で避翻斬です！　攻撃を避けながら、魔剣で攻撃できます","Of course, I am also Master's hands and feet, 
+working hard on both the 
+""Christmas preparations"" 
+and the ""search for shooting stars""!","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","20","Barris","Quest Dialogue"
 "0","","敵に密着した状態から<COL ff7575><KCT SKILL_NORMAL1></COL>でバック・リープ！　高速で後方に移動します","敵に密着した状態から<COL ff7575><KCT SKILL_NORMAL1></COL>でバック・リープ！　高速で後方に移動します","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","21","Barris","Quest Dialogue"
 "0","","ただし、魔力を１ゲージ消費します――魔力の状態は常に把握しておくように","ただし、魔力を１ゲージ消費します――魔力の状態は常に把握しておくように","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","22","Barris","Quest Dialogue"
 "0","","魔力が１スタック以上溜まってきたら<COL ff7575><KCT OVER_BRADE></COL>でルイン・ブレード！","魔力が１スタック以上溜まってきたら<COL ff7575><KCT OVER_BRADE></COL>でルイン・ブレード！","ui\00_message\quest\q60300400.gmd","\quest\q60300400.arc","q60300400.arc","23","Barris","Quest Dialogue"
