@@ -1,8 +1,10 @@
 ﻿"0","","隊長――いえ！
 何も言いません、言わないでおきます！
-その方が心に響くこともあるんですよね！？","隊長――いえ！
-何も言いません、言わないでおきます！
-その方が心に響くこともあるんですよね！？","ui\00_message\quest\q60340001.gmd","\quest\q60340001.arc","q60340001.arc","25","Elliot","Quest Dialogue"
+その方が心に響くこともあるんですよね！？","At <SPOT 962> in <AREA 14>, 
+there are rumors of a strange-shaped ship. 
+I recommend we observe the cultural 
+differences and take record photos of 
+it along with ourselves.","ui\00_message\quest\q60340001.gmd","\quest\q60340001.arc","q60340001.arc","25","Elliot","Quest Dialogue"
 "0","","あ、やっぱり一言だけ
 俺、待ってます！","あ、やっぱり一言だけ
 俺、待ってます！","ui\00_message\quest\q60340001.gmd","\quest\q60340001.arc","q60340001.arc","26","Elliot","Quest Dialogue"
