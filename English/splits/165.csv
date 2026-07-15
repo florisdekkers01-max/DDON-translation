@@ -1,10 +1,8 @@
 ﻿"0","","あんなお願いしちゃった僕のせいかな――
 す、すみません
 あの、これ、少しですけど
-お詫びとして受け取ってください","あんなお願いしちゃった僕のせいかな――
-す、すみません
-あの、これ、少しですけど
-お詫びとして受け取ってください","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","9","Finbar","Quest Dialogue"
+お詫びとして受け取ってください","There are traces from the wounded monster
+It seems to lead towards its den.","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","9","Finbar","Quest Dialogue"
 "0","","パーティメンバーが死亡状態になりました","パーティメンバーが死亡状態になりました","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","10","The White Dragon","Quest Dialogue"
 "0","","依頼者からの報酬が下がります","依頼者からの報酬が下がります","ui\00_message\quest\q21016001.gmd","\quest\q21016001.arc","q21016001.arc","11","The White Dragon","Quest Dialogue"
 "0","","異国の覚者様――
