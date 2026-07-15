@@ -1,14 +1,10 @@
 ﻿"0","","《<SPOT 931>》の傍にある、大きな滝に
 面した広場。地名の由来は滝に虹がかかる
 ことからという説の他に、色鮮やかな鳥達が
-辺りを舞うからだという説もある","Newborn Mandragora have soft heads with seeds of
-various plants attached to them.
-Different plants germinate depending on the
-nutrients they absorb.
-Similarly, individual personalities and
-characteristics can change.
-The relationship between nutrients and evolution
-remains largely unresolved.","ui\00_message\loading\loading_message_014.gmd","\ui\00_message\loading\loading_message_014.arc","loading_message_014.arc","3","","Loading Screen"
+辺りを舞うからだという説もある","《<SPOT 931>》の傍にある、大きな滝に
+面した広場。地名の由来は滝に虹がかかる
+ことからという説の他に、色鮮やかな鳥達が
+辺りを舞うからだという説もある","ui\00_message\loading\loading_message_014.gmd","\ui\00_message\loading\loading_message_014.arc","loading_message_014.arc","3","","Loading Screen"
 "0","","フィンダム大陸中部に広がる平原
 起伏が多いフィンダムにおいて、ファーラナ平原は
 なだらかで活用しやすい地形をしている
@@ -263,530 +259,416 @@ remains largely unresolved.","ui\00_message\loading\loading_message_014.gmd","\u
 古代文献によると祖先は危険性の高い植物
 だったが、古代人が長い年月と多くの犠牲を
 払い改良した結果、狂気の叫喚と引き換えに
-活動的な手足と人懐こさを得たのだという","Mandragora in its most basic growth.
-Ancient literature says that its ancestors were
-highly dangerous plants, but that the ancients
-improved them over time and with much sacrifice,
-and that they gained active limbs and friendliness
-in exchange for their crazy screams!","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","1","","Mandragora Info"
+活動的な手足と人懐こさを得たのだという","最も基本的な成長を遂げたマンドラゴラ
+古代文献によると祖先は危険性の高い植物
+だったが、古代人が長い年月と多くの犠牲を
+払い改良した結果、狂気の叫喚と引き換えに
+活動的な手足と人懐こさを得たのだという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","1","","Mandragora Info"
 "2","MANDRAGORA_SPECIES_INFO_3","栄養の偏りにより
 花を咲かせず成長したマンドラゴラ
 この生育状態の個体は丈夫で世話もしやすく
 エランの村では親が子供の遊び相手として
-与えることも多かったという","Mandragoras that have grown without flowering due
-to nutritional imbalances are hardy and easy to
-care for in this state of growth.
-In the village of Elan, parents often gave them
-to their children as playmates.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","2","","Mandragora Info"
+与えることも多かったという","栄養の偏りにより
+花を咲かせず成長したマンドラゴラ
+この生育状態の個体は丈夫で世話もしやすく
+エランの村では親が子供の遊び相手として
+与えることも多かったという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","2","","Mandragora Info"
 "3","MANDRAGORA_SPECIES_INFO_4","固有種の花を咲かせたマンドラゴラ
 フィンダムの大地を離れた場所で成長すると
 本来の花色である白が強く発色される
 かつてエランにいたマンドラゴラ愛好家たちは
-この状態から様々な花色の栽培を始めていた","Mandragora that bloomed the unique species
-specific to Phindym.
-Blossoms with its true color, white, intensified
-when grown in a place away from the earth of
-Phindym.
-Mandragora enthusiasts who once resided in Elan
-began cultivating various colors starting from
-this state.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","3","","Mandragora Info"
+この状態から様々な花色の栽培を始めていた","固有種の花を咲かせたマンドラゴラ
+フィンダムの大地を離れた場所で成長すると
+本来の花色である白が強く発色される
+かつてエランにいたマンドラゴラ愛好家たちは
+この状態から様々な花色の栽培を始めていた","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","3","","Mandragora Info"
 "4","MANDRAGORA_SPECIES_INFO_5","フィンダム固有種の花を咲かせたマンドラゴラ
 野生のマンドラゴラは、大地に染み込んだ
 ""芯なる樹""の樹液により青い花が
 咲きやすいが、原生地以外の土地で
-育った個体に青色の花が咲くことは非常に稀","Mandragora that bloomed the flower unique to
-Phindym.
-The wild Mandragora, soaked in the essence of the
-[Core Tree] embedded in the earth, tends to
-produce blue flowers.
-However, it is extremely rare for individuals
-grown outside of their native land to bloom blue
-flowers.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","4","","Mandragora Info"
+育った個体に青色の花が咲くことは非常に稀","フィンダム固有種の花を咲かせたマンドラゴラ
+野生のマンドラゴラは、大地に染み込んだ
+""芯なる樹""の樹液により青い花が
+咲きやすいが、原生地以外の土地で
+育った個体に青色の花が咲くことは非常に稀","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","4","","Mandragora Info"
 "5","MANDRAGORA_SPECIES_INFO_6","フィンダム固有種の花を咲かせたマンドラゴラ
 マンドラゴラの赤い花は、恋の花として知られ
 フィンダムの若者たちの間で特に人気があった
 赤色の花は自然界にはほぼ存在しないため
-養根家というブリーダーにより栽培されている","Mandragora that bloomed the unique species
-specific to Phindym.
-The red flower of the Mandragora is known as the
-flower of love, and it was particularly popular
-among the young people of Phindym.
-As red-colored flowers are almost non-existent in
-nature, they are cultivated by a breeder called
-the Mandragora Root Master.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","5","","Mandragora Info"
+養根家というブリーダーにより栽培されている","フィンダム固有種の花を咲かせたマンドラゴラ
+マンドラゴラの赤い花は、恋の花として知られ
+フィンダムの若者たちの間で特に人気があった
+赤色の花は自然界にはほぼ存在しないため
+養根家というブリーダーにより栽培されている","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","5","","Mandragora Info"
 "6","MANDRAGORA_SPECIES_INFO_7","フィンダム固有種の花を咲かせたマンドラゴラ
 追肥の微かな偏りによって咲くことが多い
 一部の地域では黄色は陽の加護色とされ
 本種を飼ったり黄マンドラフラワーを髪飾りに
-するなどの、お守り植物として愛されていた","The Mandragora, a unique species only found in
-Phindym, often blooms due to subtle variations in
-its fertilization.
-In some regions, yellow is considered a color
-that represents the blessings of the sun.
-People have cherished this species as a
-protective plant, keeping them as pets or adorning
-their hair with Yellow Mandragora Flowers.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","6","","Mandragora Info"
+するなどの、お守り植物として愛されていた","フィンダム固有種の花を咲かせたマンドラゴラ
+追肥の微かな偏りによって咲くことが多い
+一部の地域では黄色は陽の加護色とされ
+本種を飼ったり黄マンドラフラワーを髪飾りに
+するなどの、お守り植物として愛されていた","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","6","","Mandragora Info"
 "7","MANDRAGORA_SPECIES_INFO_8","フィンダム固有種の花を咲かせたマンドラゴラ
 花としては育ちきっているため、この段階から
 花色が変化する可能性は無いとされる
 フィンダムでの価値は低いが、白竜の治める
-レスタニアにおいては最も注目度が高い","Mandragora that bloomed the unique species
-specific to Phindym.
-Since it has fully grown as a flower, there will
-be no chance for the color to change from this
-stage.
-Although its value in Phindym is low, it is
-highly regarded in Lestania, where the White
-Dragon reigns.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","7","","Mandragora Info"
+レスタニアにおいては最も注目度が高い","フィンダム固有種の花を咲かせたマンドラゴラ
+花としては育ちきっているため、この段階から
+花色が変化する可能性は無いとされる
+フィンダムでの価値は低いが、白竜の治める
+レスタニアにおいては最も注目度が高い","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","7","","Mandragora Info"
 "8","MANDRAGORA_SPECIES_INFO_9","フィンダム固有種の花が群生したマンドラゴラ
 マンドラゴラの花の青色はフィンドブルーと
 呼ばれ、格別に重宝されていた
 ""芯なる樹""の特に濃厚な樹液を吸収した
-個体のみが、青く美しい花を群生させる","Mandragora with clusters of flowers endemic to
-Phindym.
-The blue color of mandragora flowers is called
-Phindymian Blue and is exceptionally valued.
-Only individuals that have absorbed the
-particularly thick sap of the [Core Tree] produce
-beautiful blue flowers in clusters.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","8","","Mandragora Info"
+個体のみが、青く美しい花を群生させる","フィンダム固有種の花が群生したマンドラゴラ
+マンドラゴラの花の青色はフィンドブルーと
+呼ばれ、格別に重宝されていた
+""芯なる樹""の特に濃厚な樹液を吸収した
+個体のみが、青く美しい花を群生させる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","8","","Mandragora Info"
 "9","MANDRAGORA_SPECIES_INFO_10","フィンダム固有種の花が群生したマンドラゴラ
 養分豊富でなければ進化の難しい希少種
 婚前の娘の家でマンドラゴラがこの種に
 進化すると、精霊の祝福を受けたことになり
-一族は末永く幸福を得るという","Mandragora with clusters of flowers endemic to
-Phindym.
-It is a rare species that requires rich nutrients
-in order to evolve.
-If a Mandragora evolves in the house of a
-daughter before marriage, it is said that the
-family will receive the blessings of the spirits
-and will prosper and be happy for generations to
-come.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","9","","Mandragora Info"
+一族は末永く幸福を得るという","フィンダム固有種の花が群生したマンドラゴラ
+養分豊富でなければ進化の難しい希少種
+婚前の娘の家でマンドラゴラがこの種に
+進化すると、精霊の祝福を受けたことになり
+一族は末永く幸福を得るという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","9","","Mandragora Info"
 "10","MANDRAGORA_SPECIES_INFO_11","フィンダム固有種の花が群生したマンドラゴラ
 有機成分の多い土で進化することの多い種
 黄花はモスが集まるため、衣類素材には適さず
 粗悪な養根家が誤って進化させた本種を
-エラン水林に大量遺棄する事件もあった","Mandragora with clusters of flowers endemic to
-Phindym.
-Often evolves in soil rich in organic compounds.
-The yellow flowers do not suit clothing materials
-as they attract moths.
-There have been incidents where careless planters
-mistakenly caused the mass abandonment of this
-species, which evolved by accident in the Elan
-Water Grove.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","10","","Mandragora Info"
+エラン水林に大量遺棄する事件もあった","フィンダム固有種の花が群生したマンドラゴラ
+有機成分の多い土で進化することの多い種
+黄花はモスが集まるため、衣類素材には適さず
+粗悪な養根家が誤って進化させた本種を
+エラン水林に大量遺棄する事件もあった","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","10","","Mandragora Info"
 "11","MANDRAGORA_SPECIES_INFO_12","フィンダム固有種の花が群生したマンドラゴラ
 マンドラゴラフラワー属の最成長した姿で
 花が枯れると、根部に新たな種が４つ作られる
 古い種の落ちる瞬間を見ると眼病を患うという
-伝承もあるが実際は不気味なだけで無害である","Mandragora with clusters of flowers endemic to
-Phindym.
-Forms a dense cluster of flowers.
-When the flowers wither, four new seeds are
-produced in the roots.
-According to legend, those who witness the moment
-the old seeds fall will suffer from eye disease,
-but in reality, they are just eerie and harmless.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","11","","Mandragora Info"
+伝承もあるが実際は不気味なだけで無害である","フィンダム固有種の花が群生したマンドラゴラ
+マンドラゴラフラワー属の最成長した姿で
+花が枯れると、根部に新たな種が４つ作られる
+古い種の落ちる瞬間を見ると眼病を患うという
+伝承もあるが実際は不気味なだけで無害である","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","11","","Mandragora Info"
 "12","MANDRAGORA_SPECIES_INFO_13","胞子が付着し、キノコを成したマンドラゴラ
 マンドラゴラの頭皮はクッション状で厚く
 侵食胞子の根が脳まで届くことはない
 菌を青く発色させるための肥料は希少なため
-同系種の中でも特に価値が高い","Mandragora that became a mushroom by attachment
-of spores.
-The scalp of the Mandragora is thick and
-cushion-like, the corruptive roots of the
-infecting spores will not reach the brain.
-Fertilizers that make the fungus turn blue are
-rare.
-Thus, the species is particularly valuable.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","12","","Mandragora Info"
+同系種の中でも特に価値が高い","胞子が付着し、キノコを成したマンドラゴラ
+マンドラゴラの頭皮はクッション状で厚く
+侵食胞子の根が脳まで届くことはない
+菌を青く発色させるための肥料は希少なため
+同系種の中でも特に価値が高い","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","12","","Mandragora Info"
 "13","MANDRAGORA_SPECIES_INFO_14","胞子が付着し、キノコを成したマンドラゴラ
 キノコ部分は猛毒が含まれているが
 適切に処理することで、精力剤の原料にもなる
 鮮やかな赤い傘は、観賞用として残す愛好家も
-いるが、多くの場合は切り取って処分される","Mandragora that became a mushroom by attachment
-of spores.
-Although the mushroom part contains a deadly
-poison, it can also be used as an ingredient for
-aphrodisiacs if handled properly.
-Vibrant red caps are often kept for ornamental
-purposes by enthusiasts, but in most cases they
-are cut off and disposed of.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","13","","Mandragora Info"
+いるが、多くの場合は切り取って処分される","胞子が付着し、キノコを成したマンドラゴラ
+キノコ部分は猛毒が含まれているが
+適切に処理することで、精力剤の原料にもなる
+鮮やかな赤い傘は、観賞用として残す愛好家も
+いるが、多くの場合は切り取って処分される","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","13","","Mandragora Info"
 "14","MANDRAGORA_SPECIES_INFO_15","胞子が付着し、キノコを成したマンドラゴラ
 キノコ部分には、強力な幻覚作用があり
 病気などの鎮痛用ハーブに混ぜて使用される
 比較的容易に育てられるため
-狩りで使用する毒餌に入れることもある","Mandragora that became a mushroom by attachment
-of spores.
-Has a potent hallucinogenic effect.
-It is mixed with herbs used for pain relief in
-diseases and is relatively easy to cultivate.
-It is also sometimes used as a poisonous bait for
-hunting.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","14","","Mandragora Info"
+狩りで使用する毒餌に入れることもある","胞子が付着し、キノコを成したマンドラゴラ
+キノコ部分には、強力な幻覚作用があり
+病気などの鎮痛用ハーブに混ぜて使用される
+比較的容易に育てられるため
+狩りで使用する毒餌に入れることもある","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","14","","Mandragora Info"
 "15","MANDRAGORA_SPECIES_INFO_16","胞子が付着し、キノコを成したマンドラゴラ
 モスの幼虫にキノコが寄生したものは
 滋養強壮に良いハーブとして重宝されているが
 生きたマンドラゴラに寄生することもある
-与えた肥料の成分はキノコ部分に蓄えられる","Mandragora that became a mushroom by attachment
-of spores.
-One where the mushroom parasitizes the moss larva.
-It is highly valued as a herb for nourishing and
-fortifying the body.
-It can also parasitize a living Mandragora.
-The nutrients from the fertilizer are accumulated
-in the mushroom part.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","15","","Mandragora Info"
+与えた肥料の成分はキノコ部分に蓄えられる","胞子が付着し、キノコを成したマンドラゴラ
+モスの幼虫にキノコが寄生したものは
+滋養強壮に良いハーブとして重宝されているが
+生きたマンドラゴラに寄生することもある
+与えた肥料の成分はキノコ部分に蓄えられる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","15","","Mandragora Info"
 "16","MANDRAGORA_SPECIES_INFO_17","侵食胞子によるキノコが群生したマンドラゴラ
 フィンダーエントの足元で発生することが
 観測されており、成長には樹液が関係している
 凝縮された竜力とエランの天然水成分は
-生物が摂取するには強過ぎるため、毒である","Mandragora with clusters of mushrooms caused by
-invasive spores.
-Have been observed growing at the feet of
-Phindymian Ents.
-The growth is related to the sap.
-The condensed power of dragons and the natural
-water components of Elan, if consumed by living
-beings, are too powerful and thus poisonous.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","16","","Mandragora Info"
+生物が摂取するには強過ぎるため、毒である","侵食胞子によるキノコが群生したマンドラゴラ
+フィンダーエントの足元で発生することが
+観測されており、成長には樹液が関係している
+凝縮された竜力とエランの天然水成分は
+生物が摂取するには強過ぎるため、毒である","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","16","","Mandragora Info"
 "17","MANDRAGORA_SPECIES_INFO_18","侵食胞子によるキノコが群生したマンドラゴラ
 赤いキノコは""ゲキリンタケ""と呼ばれており
 竜の逆鱗のように触れてはいけないものとされ
 素手で触れば燃えるような痛みに襲われる
-地温の高い、火山地帯に発生しやすいという","Mandragora with clusters of mushrooms caused by
-invasive spores.
-The red mushrooms are known as ""Gekirintake"" and
-are said to be forbidden, like touching a dragon's
-scale.
-If touched barehanded, they cause a burning pain.
-It is said that they are more likely to appear in
-volcanic areas with high ground temperature.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","17","","Mandragora Info"
+地温の高い、火山地帯に発生しやすいという","侵食胞子によるキノコが群生したマンドラゴラ
+赤いキノコは""ゲキリンタケ""と呼ばれており
+竜の逆鱗のように触れてはいけないものとされ
+素手で触れば燃えるような痛みに襲われる
+地温の高い、火山地帯に発生しやすいという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","17","","Mandragora Info"
 "18","MANDRAGORA_SPECIES_INFO_19","侵食胞子によるキノコが群生したマンドラゴラ
 頭部のキノコは、水浴び場や調理場にも発生し
 フィンダムの一般家庭では駆除対象である
 基本的な養分さえあればどこでも育つため
-マンドラゴラ栽培により収穫されることが多い","Mandragora with clusters of mushrooms caused by
-invasive spores.
-These mushrooms can also grow in bathing areas
-and kitchens, making them a target for eradication
-in ordinary households. They can thrive anywhere
-as long as the basic nutrients are available,
-which is why they are often harvested through
-Mandragora cultivation.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","18","","Mandragora Info"
+マンドラゴラ栽培により収穫されることが多い","侵食胞子によるキノコが群生したマンドラゴラ
+頭部のキノコは、水浴び場や調理場にも発生し
+フィンダムの一般家庭では駆除対象である
+基本的な養分さえあればどこでも育つため
+マンドラゴラ栽培により収穫されることが多い","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","18","","Mandragora Info"
 "19","MANDRAGORA_SPECIES_INFO_20","侵食胞子によるキノコが群生したマンドラゴラ
 マンドラゴラの頭皮は菌の温床にもなりやすく
 その性質を利用したキノコ栽培法も存在する
 マンドラゴラキノコを上手く群生させるには、
-豊富な原菌と十分な湿度が不可欠である","Mandragora with clusters of mushrooms caused by
-invasive spores.
-The scalp of the Mandragora easily becomes a
-breeding ground for fungi, and there are
-cultivation methods that exploit this
-characteristic.
-To successfully cultivate a group of Mandragora
-mushrooms, abundant mycelium and sufficient
-humidity are essential.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","19","","Mandragora Info"
+豊富な原菌と十分な湿度が不可欠である","侵食胞子によるキノコが群生したマンドラゴラ
+マンドラゴラの頭皮は菌の温床にもなりやすく
+その性質を利用したキノコ栽培法も存在する
+マンドラゴラキノコを上手く群生させるには、
+豊富な原菌と十分な湿度が不可欠である","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","19","","Mandragora Info"
 "20","MANDRAGORA_SPECIES_INFO_21","固有種の花を咲かせたマンドラゴラ
 マンドラフラワーの発色は、肥料から吸収する
 色素の他に土壌の状態にも左右される
 無機・有機成分のバランスを保つことで
-珍しい色の花を発見しやすいという","Mandragora with endemic flowers.
-Absorbs pigment not only from fertilizers but
-also from the condition of the soil.
-By maintaining a balance of inorganic and organic
-components, it becomes easier to discover flowers
-of rare colors.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","20","","Mandragora Info"
+珍しい色の花を発見しやすいという","固有種の花を咲かせたマンドラゴラ
+マンドラフラワーの発色は、肥料から吸収する
+色素の他に土壌の状態にも左右される
+無機・有機成分のバランスを保つことで
+珍しい色の花を発見しやすいという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","20","","Mandragora Info"
 "21","MANDRAGORA_SPECIES_INFO_22","固有種の花を群生させたマンドラゴラ
 マンドラフラワーの色変化は非常に繊細で
 マンドラブーケ種の全ての花を均一な色味に
 育てることは難しく、特に紫など非原色系の
-花は色がぶれやすいため高い技術が必要である","Mandragora with endemic flowers growing in
-clusters.
-The color variation of Mandra Flowers is
-extremely delicate.
-It is difficult to raise all the flowers of the
-Mandra Bouquet species to a uniform color,
-especially non-primary colors like purple, as the
-color easily becomes blurred, requiring high skill
-and expertise.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","21","","Mandragora Info"
+花は色がぶれやすいため高い技術が必要である","固有種の花を群生させたマンドラゴラ
+マンドラフラワーの色変化は非常に繊細で
+マンドラブーケ種の全ての花を均一な色味に
+育てることは難しく、特に紫など非原色系の
+花は色がぶれやすいため高い技術が必要である","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","21","","Mandragora Info"
 "22","MANDRAGORA_SPECIES_INFO_23","異国の落葉樹が生えたマンドラゴラ
 雑多な種子らの中から芽生えた異国の苗木は
 種子から推定すると花を持つ落葉樹と思われる
 この樹木は豊富な有機肥料と無機肥料そして
-時折の水分補給によって美しく開花するという","Mandragora with an exotic deciduous tree
-sprouting from a miscellany of seeds.
-The exotic sapling appears to be a flowering
-deciduous tree based on the seeds.
-The tree blooms beautifully with abundant organic
-and inorganic fertilizer and occasional hydration.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","22","","Mandragora Info"
+時折の水分補給によって美しく開花するという","異国の落葉樹が生えたマンドラゴラ
+雑多な種子らの中から芽生えた異国の苗木は
+種子から推定すると花を持つ落葉樹と思われる
+この樹木は豊富な有機肥料と無機肥料そして
+時折の水分補給によって美しく開花するという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","22","","Mandragora Info"
 "23","MANDRAGORA_SPECIES_INFO_24","異国の樹花を咲かせたマンドラゴラ
 花芽の生育期には水を豊富に与え、邪魔な枝を
 剪定することで満開の花を咲かせることできる
 この樹花を持つマンドラゴラはその花や香りで
-周囲の生き物の心を和ませ、穏やかにする","Mandragora with exotic tree blossoms.
-The flowering buds can be watered abundantly
-during the growing season and pruned out of the
-way to allow for full bloom.
-Mandragora with these blossoms will soothe and
-calm surrounding creatures with its flowers and
-scent.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","23","","Mandragora Info"
+周囲の生き物の心を和ませ、穏やかにする","異国の樹花を咲かせたマンドラゴラ
+花芽の生育期には水を豊富に与え、邪魔な枝を
+剪定することで満開の花を咲かせることできる
+この樹花を持つマンドラゴラはその花や香りで
+周囲の生き物の心を和ませ、穏やかにする","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","23","","Mandragora Info"
 "24","MANDRAGORA_SPECIES_INFO_25","異国の樹花が満開に咲いたマンドラゴラ
 この樹花の花弁が散る姿は異国情緒があり
 一部の愛好家たちに絶大な支持を得ている
 花を同時に満開にさせるには
-観賞できる期間も短いため非常に価値が高い","Mandragora with exotic tree flowers in full bloom
-The petals of this tree flower falling is exotic.
-It has a huge following among some enthusiasts.
-Is very valuable because of the short time it can
-be viewed with the flowers in full bloom at the
-same time.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","24","","Mandragora Info"
+観賞できる期間も短いため非常に価値が高い","異国の樹花が満開に咲いたマンドラゴラ
+この樹花の花弁が散る姿は異国情緒があり
+一部の愛好家たちに絶大な支持を得ている
+花を同時に満開にさせるには
+観賞できる期間も短いため非常に価値が高い","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","24","","Mandragora Info"
 "25","MANDRAGORA_SPECIES_INFO_26","侵食キノコを成したマンドラゴラ
 怪しく艶やかなその傘は、しばしば暗闇で
 人々を驚かせるため""ゴーストマッシュ""とも
 呼ばれているが、生態には特筆すべき点は無く
-染めたい色の色素を集中して与えればよい","Mandragora forming an invasive mushroom.
-Its suspiciously glossy umbrella often startles
-people in the dark, hence the name ""ghost
-mushroom"", but there is nothing special about its
-ecology.
-Just give it a concentrated amount of dye of the
-color you want to dye it with.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","25","","Mandragora Info"
+染めたい色の色素を集中して与えればよい","侵食キノコを成したマンドラゴラ
+怪しく艶やかなその傘は、しばしば暗闇で
+人々を驚かせるため""ゴーストマッシュ""とも
+呼ばれているが、生態には特筆すべき点は無く
+染めたい色の色素を集中して与えればよい","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","25","","Mandragora Info"
 "26","MANDRAGORA_SPECIES_INFO_27","侵食キノコを成したマンドラゴラ
 その漆黒の傘は有害物などで出来ており
 衛生的にあまり良いとは言えないものである
 しかし、本人はあまり一般的ではない渋い色に
-誇りをもっているため非常に扱いにくい性格","Mandragora grown from corrupted mushrooms.
-Its pitch-black umbrella is made of hazardous
-material, and it is not hygienically suitable.
-However, the individual takes pride in its
-unconventional, deep color, making it a
-challenging personality to handle.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","26","","Mandragora Info"
+誇りをもっているため非常に扱いにくい性格","侵食キノコを成したマンドラゴラ
+その漆黒の傘は有害物などで出来ており
+衛生的にあまり良いとは言えないものである
+しかし、本人はあまり一般的ではない渋い色に
+誇りをもっているため非常に扱いにくい性格","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","26","","Mandragora Info"
 "27","MANDRAGORA_SPECIES_INFO_28","侵食キノコを成したマンドラゴラ
 自然に馴染む茶色い傘は柔らかく水分を含み
 商店などでも野菜として並び始めている
 水分や成長剤などで容易に育ち
-丸焼きやソテーにするとジューシーで美味","Mandragora corrupted by invading mushrooms.
-Its brown umbrella harmonizes with nature, soft
-and moist.
-Now appearing in stores as a vegetable; Easily
-grown with water and growth agents.
-When roasted or sautéed, it becomes juicy and
-delicious.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","27","","Mandragora Info"
+丸焼きやソテーにするとジューシーで美味","侵食キノコを成したマンドラゴラ
+自然に馴染む茶色い傘は柔らかく水分を含み
+商店などでも野菜として並び始めている
+水分や成長剤などで容易に育ち
+丸焼きやソテーにするとジューシーで美味","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","27","","Mandragora Info"
 "28","MANDRAGORA_SPECIES_INFO_29","侵食キノコを群生させたマンドラゴラ
 紫色のマンドラマッシュルームの表面には
 ぬめりがあるため、うっかり踏んでしまうと
 床や身体にも付いてしまいなかなか取れない
-家庭で育てるには少々難易度の高い種である","Mandragora infested with invasive mushrooms.
-Has a purple-colored surface that feels slimy to
-the touch.
-If accidentally stepped on, the sliminess sticks
-to the floor and body, making it difficult to
-remove.
-It is a somewhat challenging species to cultivate
-at home.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","28","","Mandragora Info"
+家庭で育てるには少々難易度の高い種である","侵食キノコを群生させたマンドラゴラ
+紫色のマンドラマッシュルームの表面には
+ぬめりがあるため、うっかり踏んでしまうと
+床や身体にも付いてしまいなかなか取れない
+家庭で育てるには少々難易度の高い種である","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","28","","Mandragora Info"
 "29","MANDRAGORA_SPECIES_INFO_30","侵食キノコを群生させたマンドラゴラ
 群生体のブラウンマッシュルームは食用として
 味も良く安価なため急速に広まった
 食用キノコの養根家は多頭飼いをするため
-その多くが侵食害に悩まされているという","Mandragora which has been grown with an abundance
-of corrupted mushrooms.
-It is a brown mushroom that is widely consumed
-due to its good taste and low cost.
-The cultivators of edible mushrooms often
-struggle with the corruption damage as they keep
-multiple heads.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","29","","Mandragora Info"
+その多くが侵食害に悩まされているという","侵食キノコを群生させたマンドラゴラ
+群生体のブラウンマッシュルームは食用として
+味も良く安価なため急速に広まった
+食用キノコの養根家は多頭飼いをするため
+その多くが侵食害に悩まされているという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","29","","Mandragora Info"
 "30","MANDRAGORA_SPECIES_INFO_31","侵食キノコを群生させたマンドラゴラ
 黒い傘に覆われたキノコ部分は闇に溶けるため
 この種のマンドラゴラは行方不明率が最も高い
 近年野良マンドラゴラ問題が顕在化しているが
-その4割はこの種だという調査結果も出ている","Mandragora with a cluster of invasive mushrooms.
-Mushroom parts covered with black umbrellas
-dissolve in the dark.
-This species has the highest rate of missing
-mandragoras.
-The problem of stray mandragoras has become more
-apparent in recent years; some research shows that
-40% of them are this species.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","30","","Mandragora Info"
+その4割はこの種だという調査結果も出ている","侵食キノコを群生させたマンドラゴラ
+黒い傘に覆われたキノコ部分は闇に溶けるため
+この種のマンドラゴラは行方不明率が最も高い
+近年野良マンドラゴラ問題が顕在化しているが
+その4割はこの種だという調査結果も出ている","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","30","","Mandragora Info"
 "31","MANDRAGORA_SPECIES_INFO_32","南方の樹木の若木を生やしたマンドラゴラ
 ブリアで時折見つかる南方の樹木の種が
 火山地帯の温暖肥料により成長した
 原生地の特性から、十分な水やりと豊富な日光
-そして毛皮などで防寒対策が必要となる","Mandragora, young southern tree.
-A species occasionally found in Breya.
-Has grown due to the warm volcanic soil, with the
-characteristics of its native habitat.
-Requires sufficient watering, abundant sunlight
-and winter protection such as clothing or fur.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","31","","Mandragora Info"
+そして毛皮などで防寒対策が必要となる","南方の樹木の若木を生やしたマンドラゴラ
+ブリアで時折見つかる南方の樹木の種が
+火山地帯の温暖肥料により成長した
+原生地の特性から、十分な水やりと豊富な日光
+そして毛皮などで防寒対策が必要となる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","31","","Mandragora Info"
 "32","MANDRAGORA_SPECIES_INFO_33","南方の樹木を生やしたマンドラゴラ
 マンドラココナッツを生やしたマンドラゴラは
 非常におおらかかつ陽気なためペットに最適
 マンドラココナッツは実を成す種類の植物だが
-有機肥料の配合が非常に難しく、その実は希少","Mandragora that grows mandra coconuts.
-Is very generous and cheerful, making them ideal
-pets.
-Mandra coconuts are a type of plant that produces
-fruit, but they are very difficult to mix with
-organic fertilizer and their fruit is rare.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","32","","Mandragora Info"
+有機肥料の配合が非常に難しく、その実は希少","南方の樹木を生やしたマンドラゴラ
+マンドラココナッツを生やしたマンドラゴラは
+非常におおらかかつ陽気なためペットに最適
+マンドラココナッツは実を成す種類の植物だが
+有機肥料の配合が非常に難しく、その実は希少","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","32","","Mandragora Info"
 "33","MANDRAGORA_SPECIES_INFO_34","南方の樹木の果実を成したマンドラゴラ
 マンドラココナッツの実は南方で主食としても
 親しまれる栄養価の高い木の実だが非常に硬く
 頭上に実が落下した際に、打ちどころが悪いと
-そのままマンドラゴラが絶命する危険性もある","Mandragora that bears fruit of the trees grown in
-the south.
-The fruit of Mandra Coconut is highly nutritious
-and is also consumed as a staple in the southern
-regions.
-However, it is extremely hard and if the fruit
-falls on one's head, there is a risk that the
-Mandragora could die instantly due to a bad hit.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","33","","Mandragora Info"
+そのままマンドラゴラが絶命する危険性もある","南方の樹木の果実を成したマンドラゴラ
+マンドラココナッツの実は南方で主食としても
+親しまれる栄養価の高い木の実だが非常に硬く
+頭上に実が落下した際に、打ちどころが悪いと
+そのままマンドラゴラが絶命する危険性もある","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","33","","Mandragora Info"
 "34","MANDRAGORA_SPECIES_INFO_35","雨季に咲く植物を生やしたマンドラゴラ
 この植物は土壌成分によって常時色が変化する
 魔物由来の安価な液状肥料で容易に色調整が
 できるため多くのアマチュア愛好家がおり
-酸味成分が青色を強めることが知られている","Mandragora with plants that bloom during the
-rainy season.
-This plant constantly changes color depending on
-the soil composition.
-Many amateur enthusiasts are interested in this
-plant because the color can be easily adjusted
-with inexpensive liquid fertilizer derived from
-magickal substances.
-Acidity is known to enhance the blue color.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","34","","Mandragora Info"
+酸味成分が青色を強めることが知られている","雨季に咲く植物を生やしたマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+魔物由来の安価な液状肥料で容易に色調整が
+できるため多くのアマチュア愛好家がおり
+酸味成分が青色を強めることが知られている","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","34","","Mandragora Info"
 "35","MANDRAGORA_SPECIES_INFO_36","雨季に咲く植物を生やしたマンドラゴラ
 この植物は土壌成分によって常時色が変化する
 魔物由来の安価な液状肥料で容易に色調整が
 できるため多くのアマチュア愛好家がおり
-苦味成分が赤色を強めることが知られている","Mandragora with plants that bloom during the
-rainy season.
-This plant constantly changes color depending on
-soil composition.
-Many amateur enthusiasts are interested in this
-plant because the color can be easily adjusted
-with inexpensive liquid fertilizers derived from
-magickal substances.
-Bittering elements are known to intensify the red
-color.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","35","","Mandragora Info"
+苦味成分が赤色を強めることが知られている","雨季に咲く植物を生やしたマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+魔物由来の安価な液状肥料で容易に色調整が
+できるため多くのアマチュア愛好家がおり
+苦味成分が赤色を強めることが知られている","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","35","","Mandragora Info"
 "36","MANDRAGORA_SPECIES_INFO_37","雨季に咲く植物を生やしたマンドラゴラ
 この植物は土壌成分によって常時色が変化する
 魔物由来の安価な液状肥料で容易に色調整が
 できるため多くのアマチュア愛好家がおり
-色変肥料の純度が低い場合紫色に近付くという","Mandragora with a plant that blooms during the
-rainy season.
-This plant constantly changes color depending on
-the soil composition.
-Many amateur enthusiasts are interested in this
-plant because the color can be easily adjusted
-with an inexpensive liquid fertilizer derived
-from magickal substances.
-If the purity of the color changing fertilizer is
-low, the color will be close to purple.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","36","","Mandragora Info"
+色変肥料の純度が低い場合紫色に近付くという","雨季に咲く植物を生やしたマンドラゴラ
+この植物は土壌成分によって常時色が変化する
+魔物由来の安価な液状肥料で容易に色調整が
+できるため多くのアマチュア愛好家がおり
+色変肥料の純度が低い場合紫色に近付くという","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","36","","Mandragora Info"
 "37","MANDRAGORA_SPECIES_INFO_38","美しい一輪花を咲かせたマンドラゴラ
 マンドラローズは湿気を特に嫌う植物で
 さらに肥料も多量に必要な上、茎には棘があり
 手間がかかるため、育成難度はかなり高い
-しかしその分、花は美しく高値で取引される","Mandragora with a beautiful single flower
-Particularly averse to humidity.
-They also require large amounts of fertilizer and
-have thorny stems.
-They are quite difficult to grow because of the
-time and effort required, but because of this, the
-flowers are beautiful and sell for a high price.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","37","","Mandragora Info"
+しかしその分、花は美しく高値で取引される","美しい一輪花を咲かせたマンドラゴラ
+マンドラローズは湿気を特に嫌う植物で
+さらに肥料も多量に必要な上、茎には棘があり
+手間がかかるため、育成難度はかなり高い
+しかしその分、花は美しく高値で取引される","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","37","","Mandragora Info"
 "38","MANDRAGORA_SPECIES_INFO_39","美しい一輪花を咲かせたマンドラゴラ
 フィンダム原種に咲く植物としては
 青いマンドラローズが最も価値が高い
 鮮やかな色を保つには、人工的な着色が未だに
-必要で、現在も多くの養根家が研究している","Mandragora with a beautiful single flower
-The blue mandragose is the most valuable plant
-that blooms on the Phindym species.
-Artificial coloring is still needed to keep the
-bright color and it is still being studied by many
-root cultivators.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","38","","Mandragora Info"
+必要で、現在も多くの養根家が研究している","美しい一輪花を咲かせたマンドラゴラ
+フィンダム原種に咲く植物としては
+青いマンドラローズが最も価値が高い
+鮮やかな色を保つには、人工的な着色が未だに
+必要で、現在も多くの養根家が研究している","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","38","","Mandragora Info"
 "39","MANDRAGORA_SPECIES_INFO_40","美しい一輪花を咲かせたマンドラゴラ
 情熱的な赤いマンドラローズは発見された途端
 瞬く間に大陸中で贈り物の定番となった
 花を大きく強く咲かせるためには、無機肥料と
-十分な水分を与えることが重要となる","Mandragora with a beautiful single flower
-The passionate red mandragora rose quickly became
-a gift staple throughout the continent as soon as
-it was discovered.
-Inorganic fertilizer and sufficient moisture are
-important to make the flowers grow bigger and
-stronger.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","39","","Mandragora Info"
+十分な水分を与えることが重要となる","美しい一輪花を咲かせたマンドラゴラ
+情熱的な赤いマンドラローズは発見された途端
+瞬く間に大陸中で贈り物の定番となった
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","39","","Mandragora Info"
 "40","MANDRAGORA_SPECIES_INFO_41","美しい一輪花を咲かせたマンドラゴラ
 黄色のマンドラローズは別れの意味があり
 単に目を楽しませる品種として愛でられている
 花を大きく強く咲かせるためには、無機肥料と
-十分な水分を与えることが重要となる","Mandragora with a beautiful single flower.
-The yellow mandragora rose means farewell and is
-loved simply as an eye pleasing variety.
-Inorganic fertilizer and sufficient moisture are
-important to make the flowers bigger and stronger.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","40","","Mandragora Info"
+十分な水分を与えることが重要となる","美しい一輪花を咲かせたマンドラゴラ
+黄色のマンドラローズは別れの意味があり
+単に目を楽しませる品種として愛でられている
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","40","","Mandragora Info"
 "41","MANDRAGORA_SPECIES_INFO_42","美しい一輪花を咲かせたマンドラゴラ
 紫色のマンドラローズには気品と威厳があり
 敬意を表すにはもってこいの贈り物である
 花を大きく強く咲かせるためには、無機肥料と
-十分な水分を与えることが重要となる","A beautiful single-flowered mandragora
-The purple mandragora rose has class and dignity
-and is a great gift of respect.
-Inorganic fertilizer and sufficient moisture are
-important to make the flowers grow large and
-strong.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","41","","Mandragora Info"
+十分な水分を与えることが重要となる","美しい一輪花を咲かせたマンドラゴラ
+紫色のマンドラローズには気品と威厳があり
+敬意を表すにはもってこいの贈り物である
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","41","","Mandragora Info"
 "42","MANDRAGORA_SPECIES_INFO_43","美しい一輪花を咲かせたマンドラゴラ
 マンドラローズ種は比較的新しい品種のため
 様々な色の発色には色素肥料が使われている
 花を大きく強く咲かせるためには、無機肥料と
-十分な水分を与えることが重要となる","Mandragora with a beautiful single flower.
-Because the mandragora rose variety is relatively
-new, pigmented fertilizers are used to produce the
-various colors.
-Inorganic fertilizers and sufficient moisture are
-important to keep the flowers large and strong.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","42","","Mandragora Info"
+十分な水分を与えることが重要となる","美しい一輪花を咲かせたマンドラゴラ
+マンドラローズ種は比較的新しい品種のため
+様々な色の発色には色素肥料が使われている
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","42","","Mandragora Info"
 "43","MANDRAGORA_SPECIES_INFO_44","美しい一輪花を咲かせたマンドラゴラ
 黒い色は吸い込まれるように禍々しく
 一部のマニアに熱狂的な人気がある
 花を大きく強く咲かせるためには、無機肥料と
-十分な水分を与えることが重要となる","Mandragora with a beautiful single flower
-The black color is as disastrous as it is
-absorbing.
-Enthusiastically popular with some enthusiasts.
-Inorganic fertilizer and sufficient moisture are
-important to make the flowers grow bigger and
-stronger.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","43","","Mandragora Info"
+十分な水分を与えることが重要となる","美しい一輪花を咲かせたマンドラゴラ
+黒い色は吸い込まれるように禍々しく
+一部のマニアに熱狂的な人気がある
+花を大きく強く咲かせるためには、無機肥料と
+十分な水分を与えることが重要となる","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","43","","Mandragora Info"
 "44","MANDRAGORA_SPECIES_INFO_45","非常に希少な植物の花を咲かせたマンドラゴラ
 青いマンドラフレシアはフィンダム原種にしか
 発生が確認されていない極貴重な品種
 寄生生物であるため、根部の消耗が激しく
-肉や液体肥料で精を付けてやる必要がある","Mandragora which has bloomed the flowers of an
-extremely rare plant.
-Blue mandraflesia is an extremely rare variety
-that has only been found to occur in Phindym
-species.
-It is a parasitic organism, so the root zone
-wears out rapidly.
-It needs to be energized with meat and liquid
-fertilizer.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","44","","Mandragora Info"
+肉や液体肥料で精を付けてやる必要がある","非常に希少な植物の花を咲かせたマンドラゴラ
+青いマンドラフレシアはフィンダム原種にしか
+発生が確認されていない極貴重な品種
+寄生生物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","44","","Mandragora Info"
 "45","MANDRAGORA_SPECIES_INFO_46","非常に希少な植物の花を咲かせたマンドラゴラ
 最も見られる可能性の高いポピュラーな色だが
 死肉のような柄に虫がたかることもある
 寄生生物であるため、根部の消耗が激しく
-肉や液体肥料で精を付けてやる必要がある","Mandragora which has bloomed the flowers of an
-extremely rare plant.
-More likely to be seen, red is a popular color,
-but insects can hang on to the carrion-like
-pattern.
-Parasitic organism, so the root system wears out
-rapidly.
-Needs to be energized with meat or liquid
-fertilizer.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","45","","Mandragora Info"
+肉や液体肥料で精を付けてやる必要がある","非常に希少な植物の花を咲かせたマンドラゴラ
+最も見られる可能性の高いポピュラーな色だが
+死肉のような柄に虫がたかることもある
+寄生生物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","45","","Mandragora Info"
 "46","MANDRAGORA_SPECIES_INFO_47","非常に希少な植物の花を咲かせたマンドラゴラ
 自ら養分を合成することができないため
 明るい見た目とは裏腹に、太陽光は好まない
 寄生生物であるため、根部の消耗が激しく
-肉や液体肥料で精を付けてやる必要がある","Newborn Mandragora have soft heads with seeds of
-various plants attached to them.
-Different plants germinate depending on the
-nutrients they absorb.
-Similarly, individual personalities and
-characteristics can change.
-The relationship between nutrients and evolution
-remains largely unresolved.","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","46","","Mandragora Info"
+肉や液体肥料で精を付けてやる必要がある","非常に希少な植物の花を咲かせたマンドラゴラ
+自ら養分を合成することができないため
+明るい見た目とは裏腹に、太陽光は好まない
+寄生生物であるため、根部の消耗が激しく
+肉や液体肥料で精を付けてやる必要がある","ui\00_message\mandragora\mandragora_species_info.gmd","\ui\uGUIEncyclopedia.arc","uGUIEncyclopedia.arc","46","","Mandragora Info"
 "47","MANDRAGORA_SPECIES_INFO_48","非常に希少な植物の花を咲かせたマンドラゴラ
 感染症に罹った個体から偶然発見される種で
 根部に与えた有機肥料によって色が変わる
