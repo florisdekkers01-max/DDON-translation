@@ -1,5 +1,5 @@
 files:
   - source: /English/splits/*.csv
-    translation: /English/splits/%original_file_name%.csv
+    translation: /English/splits/%original_file_name%
     multilingual: 1
     scheme: 'identifier,none,source_phrase,translation,context,none,none,none,none,none'
