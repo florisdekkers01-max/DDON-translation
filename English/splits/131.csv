@@ -1,10 +1,9 @@
 ﻿"0","","覚者さま、嬉しいけど――
 これじゃ、<COL b92828><NAME ITEM></COL>足りないよ
 <COL b92828><VAL> 個</COL>貰えるまで
-我慢して待ってますね","覚者さま、嬉しいけど――
-これじゃ、<COL b92828><NAME ITEM></COL>足りないよ
-<COL b92828><VAL> 個</COL>貰えるまで
-我慢して待ってますね","ui\00_message\pawn\talk\stage\feature9001\persona06.gmd","\pw_talk\pt_feature9001_persona06.arc","pt_feature9001_persona06.arc","10","","Arisen's Room Pawn Dialogue (Pure)"
+我慢して待ってますね","
+I'd like to be of more help to you, Arisen.
+I have but one favor to ask...","ui\00_message\pawn\talk\stage\feature9001\persona06.gmd","\pw_talk\pt_feature9001_persona06.arc","pt_feature9001_persona06.arc","10","","Arisen's Room Pawn Dialogue (Pure)"
 "0","","実は、覚者様に見せたいものがあるんです！
 しばらく外を散歩してきてください！","実は、覚者様に見せたいものがあるんです！
 しばらく外を散歩してきてください！","ui\00_message\pawn\talk\stage\feature9001\persona06.gmd","\pw_talk\pt_feature9001_persona06.arc","pt_feature9001_persona06.arc","11","","Arisen's Room Pawn Dialogue (Pure)"
